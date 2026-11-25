@@ -1,0 +1,1265 @@
+cliente_id,nombre,sector,zona,municipio,fecha_alta,contrato_mantenimiento,importe_anual_contrato_eur,comercial
+C0001,Moda Del Mar,Retail,Barcelonès,Badalona,2024-06-25,Sí,24000,Àlex Ferrer
+C0002,Botigues Nord,Retail,Baix Llobregat,Sant Boi,2013-10-23,Sí,9000,Pau Riera
+C0003,Acadèmia Els Til·lers,Educación,Barcelonès,L'Hospitalet,2020-11-28,Sí,17000,Àlex Ferrer
+C0004,Llibreria Central,Retail,Garraf,Sitges,2024-07-02,Sí,15000,Pau Riera
+C0005,Ferreteria Vallès,Retail,Barcelonès,Badalona,2012-07-21,No,0,Àlex Ferrer
+C0006,Hotel Portal,Hotel,Vallès Occidental,Rubí,2021-07-17,Sí,39000,Ingrid Solé
+C0007,Ferreteria Urbana,Retail,Vallès Occidental,Rubí,2023-07-04,Sí,6000,Ingrid Solé
+C0008,Col·legi Sol Ixent,Educación,Baix Llobregat,Cornellà,2022-07-17,Sí,13000,Pau Riera
+C0009,Hotel Nord,Hotel,Vallès Oriental,Mollet,2021-01-06,No,0,Ingrid Solé
+C0010,Esports Família,Retail,Vallès Oriental,Cardedeu,2021-09-17,Sí,14000,Ingrid Solé
+C0011,Esports Clàssica,Retail,Barcelonès,Badalona,2022-12-24,Sí,12000,Àlex Ferrer
+C0012,Hotel Montjuïc,Hotel,Baix Llobregat,Cornellà,2022-04-07,No,0,Pau Riera
+C0013,Fisioteràpia Gràcia,Sanitario,Vallès Occidental,Sant Cugat,2021-07-19,No,0,Ingrid Solé
+C0014,Perfumeria Sant Jordi,Retail,Garraf,Sitges,2022-01-29,No,0,Laura Vidal
+C0015,Ferreteria Del Mar,Retail,Barcelonès,Barcelona,2017-07-23,Sí,7000,Àlex Ferrer
+C0016,Botigues Plus,Retail,Baix Llobregat,Sant Boi,2024-11-17,No,0,Pau Riera
+C0017,Pizzeria La Terrassa,Restauración,Baix Llobregat,Sant Boi,2014-12-10,No,0,Pau Riera
+C0018,Laboratori Sabadell,Sanitario,Barcelonès,Barcelona,2023-05-22,Sí,10000,Marta Camps
+C0019,Restaurant El Racó,Restauración,Vallès Occidental,Rubí,2019-10-13,No,0,Ingrid Solé
+C0020,Hotel Els Pins,Hotel,Barcelonès,Badalona,2019-04-24,No,0,Àlex Ferrer
+C0021,Òptica Nord,Retail,Garraf,Sitges,2023-08-27,Sí,16000,Pau Riera
+C0022,Laboratori Mataró,Sanitario,Vallès Oriental,Granollers,2012-10-06,Sí,11000,Ingrid Solé
+C0023,Pizzeria El Molí,Restauración,Baix Llobregat,Cornellà,2016-03-24,Sí,6000,Pau Riera
+C0024,Ferrer Consultors,Oficinas,Baix Llobregat,Sant Boi,2020-09-29,Sí,25000,Pau Riera
+C0025,Hotel Marina,Hotel,Maresme,Mataró,2017-11-28,Sí,39000,Laura Vidal
+C0026,Ortega Group,Oficinas,Barcelonès,Badalona,2014-09-10,Sí,24000,Àlex Ferrer
+C0027,Escola Collserola,Educación,Maresme,Mataró,2022-03-09,No,0,Laura Vidal
+C0028,Institut Montseny,Educación,Vallès Oriental,Cardedeu,2019-11-23,No,0,Ingrid Solé
+C0029,Calçats Central,Retail,Vallès Oriental,Cardedeu,2018-04-16,No,0,Ingrid Solé
+C0030,Mobles Sant Jordi,Retail,Vallès Oriental,Cardedeu,2014-04-11,No,0,Ingrid Solé
+C0031,Riera Consultors,Oficinas,Garraf,Sitges,2014-05-20,Sí,16000,Laura Vidal
+C0032,Pons Advocats,Oficinas,Barcelonès,L'Hospitalet,2012-04-23,Sí,16000,Àlex Ferrer
+C0033,Grau Enginyeria,Oficinas,Garraf,Sitges,2014-10-04,Sí,25000,Pau Riera
+C0034,Hotel Port,Hotel,Barcelonès,Badalona,2019-02-02,No,0,Àlex Ferrer
+C0035,Centre Òptic Terrassa,Sanitario,Vallès Occidental,Sabadell,2023-03-30,No,0,Ingrid Solé
+C0036,Restaurant Cal Ton,Restauración,Vallès Occidental,Sant Cugat,2021-10-17,No,0,Ingrid Solé
+C0037,Font Arquitectes,Oficinas,Baix Llobregat,Cornellà,2019-02-25,No,0,Pau Riera
+C0038,Hotel Cala,Hotel,Vallès Oriental,Granollers,2019-12-10,No,0,Ingrid Solé
+C0039,Perfumeria Família,Retail,Barcelonès,L'Hospitalet,2020-06-16,Sí,19000,Marta Camps
+C0040,Coll Logística,Oficinas,Baix Llobregat,Cornellà,2020-11-25,No,0,Pau Riera
+C0041,Ortega Arquitectes,Oficinas,Barcelonès,Badalona,2017-12-01,No,0,Marta Camps
+C0042,Mobles Nova,Retail,Garraf,Sitges,2023-07-13,No,0,Pau Riera
+C0043,Clínica Rubí,Sanitario,Vallès Oriental,Mollet,2012-04-03,No,0,Ingrid Solé
+C0044,Pizzeria Cal Ton,Restauración,Vallès Occidental,Terrassa,2020-01-27,No,0,Ingrid Solé
+C0045,Riera Gestió,Oficinas,Vallès Oriental,Granollers,2022-04-20,No,0,Ingrid Solé
+C0046,Centre Mèdic Gràcia,Sanitario,Maresme,Premià,2021-03-17,Sí,6000,Laura Vidal
+C0047,Llar d'Infants Montseny,Educación,Maresme,Arenys,2015-11-14,Sí,17000,Laura Vidal
+C0048,Laboratori Les Corts,Sanitario,Barcelonès,Barcelona,2018-11-17,No,0,Àlex Ferrer
+C0049,Brasseria La Plaça,Restauración,Vallès Occidental,Terrassa,2013-12-01,Sí,18000,Ingrid Solé
+C0050,Soler Partners,Oficinas,Vallès Oriental,Cardedeu,2015-08-21,No,0,Ingrid Solé
+C0051,Hotel Mirador,Hotel,Vallès Oriental,Mollet,2022-10-07,No,0,Ingrid Solé
+C0052,Bar Cal Ton,Restauración,Maresme,Arenys,2023-07-30,Sí,16000,Laura Vidal
+C0053,Escola Pau Casals,Educación,Barcelonès,Badalona,2013-06-05,Sí,12000,Marta Camps
+C0054,Bosch Group,Oficinas,Vallès Oriental,Granollers,2014-05-29,No,0,Ingrid Solé
+C0055,Llibreria Urbana,Retail,Vallès Occidental,Sabadell,2023-03-09,Sí,22000,Ingrid Solé
+C0056,Laboratori Terrassa,Sanitario,Maresme,Premià,2013-11-07,Sí,8000,Laura Vidal
+C0057,Ferrer Gestió,Oficinas,Baix Llobregat,Sant Boi,2021-09-13,Sí,18000,Pau Riera
+C0058,Fisioteràpia Terrassa,Sanitario,Maresme,Premià,2015-12-18,Sí,20000,Laura Vidal
+C0059,Bar Can Pere,Restauración,Maresme,Premià,2021-11-27,No,0,Laura Vidal
+C0060,Hotel Les Arenes,Hotel,Vallès Occidental,Sabadell,2021-12-19,Sí,32000,Ingrid Solé
+C0061,Restaurant La Vinya,Restauración,Barcelonès,Badalona,2018-08-01,No,0,Àlex Ferrer
+C0062,Perfumeria Plus,Retail,Vallès Occidental,Sant Cugat,2014-02-17,No,0,Ingrid Solé
+C0063,Col·legi Turó Blau,Educación,Maresme,Arenys,2016-09-15,Sí,16000,Laura Vidal
+C0064,Clínica Dental Granollers,Sanitario,Garraf,Sitges,2017-08-27,Sí,24000,Pau Riera
+C0065,Acadèmia Montseny,Educación,Maresme,Premià,2012-11-03,No,0,Laura Vidal
+C0066,Restaurant El Port,Restauración,Baix Llobregat,Castelldefels,2022-04-02,Sí,17000,Pau Riera
+C0067,Serra Consultors,Oficinas,Vallès Oriental,Granollers,2019-05-27,No,0,Ingrid Solé
+C0068,Clínica Dental Sant Gervasi,Sanitario,Barcelonès,Badalona,2024-09-23,Sí,22000,Marta Camps
+C0069,Vidal Consultors,Oficinas,Barcelonès,L'Hospitalet,2024-05-04,No,0,Marta Camps
+C0070,Cafeteria Els Amics,Restauración,Garraf,Vilanova,2019-02-16,No,0,Pau Riera
+C0071,Hotel Brisa Alta,Hotel,Vallès Occidental,Sant Cugat,2014-12-27,Sí,40000,Ingrid Solé
+C0072,Clínica Dental Sabadell,Sanitario,Barcelonès,Barcelona,2023-06-28,No,0,Àlex Ferrer
+C0073,Moda Clàssica,Retail,Barcelonès,L'Hospitalet,2023-12-09,No,0,Àlex Ferrer
+C0074,Esports Plus,Retail,Garraf,Vilanova,2019-08-14,Sí,8000,Laura Vidal
+C0075,Restaurant La Terrassa,Restauración,Baix Llobregat,El Prat,2016-10-25,Sí,13000,Pau Riera
+C0076,Col·legi Els Til·lers,Educación,Vallès Occidental,Terrassa,2018-01-26,No,0,Ingrid Solé
+C0077,Clínica Dental Rubí,Sanitario,Barcelonès,L'Hospitalet,2020-10-16,Sí,23000,Marta Camps
+C0078,Òptica Sant Jordi,Retail,Barcelonès,Barcelona,2024-11-06,Sí,7000,Àlex Ferrer
+C0079,Bar La Vinya,Restauración,Baix Llobregat,Sant Boi,2024-02-13,No,0,Pau Riera
+C0080,Vila Group,Oficinas,Vallès Occidental,Rubí,2024-03-31,No,0,Ingrid Solé
+C0081,Hotel Jardí,Hotel,Barcelonès,Badalona,2019-04-12,Sí,31000,Marta Camps
+C0082,Soler Enginyeria,Oficinas,Vallès Occidental,Sant Cugat,2019-05-17,No,0,Ingrid Solé
+C0083,Llar d'Infants Sol Ixent,Educación,Vallès Occidental,Sabadell,2016-06-21,No,0,Ingrid Solé
+C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,L'Hospitalet,2015-07-22,Sí,19000,Àlex Ferrer
+C0085,Hotel Sol de Mar,Hotel,Vallès Occidental,Rubí,2016-05-20,Sí,17000,Ingrid Solé
+C0086,Moda Sant Jordi,Retail,Baix Llobregat,Sant Boi,2016-07-25,No,0,Pau Riera
+C0087,Restaurant Can Jordi,Restauración,Maresme,Premià,2015-04-01,No,0,Laura Vidal
+C0088,Hotel Rambla,Hotel,Barcelonès,L'Hospitalet,2022-12-13,No,0,Marta Camps
+C0089,Mobles Plus,Retail,Baix Llobregat,Cornellà,2017-09-18,No,0,Pau Riera
+C0090,Hotel Plaça,Hotel,Vallès Occidental,Sabadell,2012-10-31,Sí,16000,Ingrid Solé
+C0091,Hotel Sant Pere,Hotel,Vallès Oriental,Granollers,2022-04-01,No,0,Ingrid Solé
+C0092,Serra Arquitectes,Oficinas,Barcelonès,Barcelona,2014-01-22,Sí,16000,Marta Camps
+C0093,Laboratori Granollers,Sanitario,Garraf,Sitges,2014-09-07,No,0,Pau Riera
+C0094,Sala Gestió,Oficinas,Baix Llobregat,El Prat,2022-07-06,No,0,Pau Riera
+C0095,Institut Ítaca,Educación,Barcelonès,L'Hospitalet,2016-02-18,Sí,9000,Àlex Ferrer
+C0096,Esports Del Mar,Retail,Vallès Oriental,Granollers,2020-08-17,No,0,Ingrid Solé
+C0097,Pons Arquitectes,Oficinas,Baix Llobregat,Castelldefels,2012-08-03,Sí,24000,Pau Riera
+C0098,Mas Tech,Oficinas,Garraf,Vilanova,2013-09-14,No,0,Pau Riera
+C0099,Marín Arquitectes,Oficinas,Vallès Occidental,Sabadell,2012-02-17,Sí,9000,Ingrid Solé
+C0100,Riera Advocats,Oficinas,Baix Llobregat,Castelldefels,2017-09-22,Sí,9000,Pau Riera
+C0101,Calçats Urbana,Retail,Baix Llobregat,Cornellà,2013-01-20,Sí,11000,Pau Riera
+C0102,Vidal Group,Oficinas,Barcelonès,Badalona,2017-10-25,Sí,30000,Marta Camps
+C0103,Mobles Família,Retail,Vallès Oriental,Granollers,2022-05-29,Sí,7000,Ingrid Solé
+C0104,Ferreteria Sant Jordi,Retail,Vallès Occidental,Rubí,2015-11-06,Sí,23000,Ingrid Solé
+C0105,Hotel Llevant,Hotel,Vallès Occidental,Sabadell,2014-08-04,Sí,22000,Ingrid Solé
+C0106,Òptica Vallès,Retail,Vallès Oriental,Cardedeu,2023-12-01,Sí,6000,Ingrid Solé
+C0107,Soler Advocats,Oficinas,Garraf,Vilanova,2017-06-10,No,0,Laura Vidal
+C0108,Esports Central,Retail,Vallès Oriental,Cardedeu,2013-07-07,Sí,22000,Ingrid Solé
+C0109,Bar La Lluna,Restauración,Barcelonès,L'Hospitalet,2012-02-11,Sí,9000,Marta Camps
+C0110,Hotel Vela,Hotel,Barcelonès,L'Hospitalet,2021-03-16,Sí,25000,Marta Camps
+C0111,Calçats Vallès,Retail,Barcelonès,Barcelona,2021-01-17,Sí,16000,Marta Camps
+C0112,Vila Gestió,Oficinas,Maresme,Mataró,2024-01-12,Sí,27000,Laura Vidal
+C0113,Forn Plus,Retail,Garraf,Vilanova,2022-02-21,Sí,22000,Pau Riera
+C0114,Forn Sant Jordi,Retail,Barcelonès,Barcelona,2021-08-27,No,0,Marta Camps
+C0115,Hotel Turó,Hotel,Vallès Occidental,Sant Cugat,2017-01-23,No,0,Ingrid Solé
+C0116,Col·legi Pau Casals,Educación,Maresme,Arenys,2019-11-13,No,0,Laura Vidal
+C0117,Ferreteria Plus,Retail,Barcelonès,L'Hospitalet,2017-06-21,No,0,Àlex Ferrer
+C0118,Clínica Les Corts,Sanitario,Vallès Occidental,Sabadell,2016-10-29,Sí,18000,Ingrid Solé
+C0119,Riera Assessors,Oficinas,Garraf,Sitges,2024-03-25,Sí,11000,Laura Vidal
+C0120,Riera Logística,Oficinas,Barcelonès,Badalona,2014-03-17,Sí,18000,Àlex Ferrer
+C0121,Bosch Consultors,Oficinas,Maresme,Mataró,2022-05-03,No,0,Laura Vidal
+C0122,Col·legi Can Mas,Educación,Baix Llobregat,Sant Boi,2019-08-24,No,0,Pau Riera
+C0123,Navarro Advocats,Oficinas,Barcelonès,L'Hospitalet,2024-05-08,No,0,Àlex Ferrer
+C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,Cornellà,2013-05-28,Sí,9000,Pau Riera
+C0125,Centre Òptic Sant Gervasi,Sanitario,Vallès Occidental,Rubí,2017-09-26,No,0,Ingrid Solé
+C0126,Hotel Ronda,Hotel,Vallès Occidental,Sabadell,2017-12-04,Sí,34000,Ingrid Solé
+C0127,Institut Turó Blau,Educación,Barcelonès,Badalona,2021-05-25,Sí,23000,Àlex Ferrer
+C0128,Pons Partners,Oficinas,Vallès Oriental,Cardedeu,2021-11-27,Sí,24000,Ingrid Solé
+C0129,Grau Partners,Oficinas,Garraf,Sitges,2019-07-28,No,0,Laura Vidal
+C0130,Hotel Costa,Hotel,Baix Llobregat,Sant Boi,2013-09-30,Sí,16000,Pau Riera
+C0131,Restaurant El Molí,Restauración,Garraf,Vilanova,2024-01-13,Sí,7000,Pau Riera
+C0132,Escola Ítaca,Educación,Barcelonès,Barcelona,2020-09-14,Sí,20000,Marta Camps
+C0133,Acadèmia Turó Blau,Educación,Baix Llobregat,El Prat,2021-11-23,Sí,7000,Pau Riera
+C0134,Ferrer Tech,Oficinas,Barcelonès,Badalona,2020-11-27,No,0,Marta Camps
+C0135,Esports Sant Jordi,Retail,Vallès Occidental,Rubí,2012-01-07,Sí,9000,Ingrid Solé
+C0136,Llorens Tech,Oficinas,Vallès Occidental,Rubí,2015-05-19,Sí,13000,Ingrid Solé
+C0137,Casas Advocats,Oficinas,Barcelonès,L'Hospitalet,2020-01-23,Sí,10000,Marta Camps
+C0138,Laboratori Sant Gervasi,Sanitario,Vallès Occidental,Sabadell,2017-01-18,Sí,17000,Ingrid Solé
+C0139,Soler Group,Oficinas,Barcelonès,L'Hospitalet,2020-02-22,Sí,13000,Àlex Ferrer
+C0140,Brasseria La Vinya,Restauración,Vallès Occidental,Terrassa,2023-12-26,Sí,23000,Ingrid Solé
+C0141,Ortega Assessors,Oficinas,Maresme,Premià,2018-11-06,Sí,22000,Laura Vidal
+C0142,Pizzeria La Plaça,Restauración,Maresme,Arenys,2022-09-27,Sí,15000,Laura Vidal
+C0143,Clínica Sabadell,Sanitario,Garraf,Sitges,2021-10-03,Sí,12000,Laura Vidal
+C0144,Mas Assessors,Oficinas,Garraf,Vilanova,2019-02-21,Sí,23000,Pau Riera
+C0145,Llibreria Plus,Retail,Baix Llobregat,Cornellà,2016-07-11,Sí,14000,Pau Riera
+C0146,Botigues Família,Retail,Baix Llobregat,Cornellà,2022-06-12,No,0,Pau Riera
+C0147,Serra Partners,Oficinas,Baix Llobregat,Castelldefels,2021-06-24,Sí,14000,Pau Riera
+C0148,Hotel Cala Sitges,Hotel,Garraf,Sitges,2014-11-26,Sí,25000,Pau Riera
+C0149,Pons Group,Oficinas,Garraf,Vilanova,2023-08-12,No,0,Laura Vidal
+C0150,Casas Assessors,Oficinas,Baix Llobregat,Castelldefels,2016-01-09,Sí,10000,Pau Riera
+C0151,Botigues Nova,Retail,Vallès Occidental,Sabadell,2012-12-17,No,0,Ingrid Solé
+C0152,Ferreteria Central,Retail,Barcelonès,Barcelona,2021-12-13,No,0,Marta Camps
+C0153,Calçats Del Mar,Retail,Baix Llobregat,El Prat,2012-11-13,Sí,7000,Pau Riera
+C0154,Esports Urbana,Retail,Barcelonès,Badalona,2023-11-13,No,0,Marta Camps
+C0155,Restaurant La Plaça,Restauración,Maresme,Premià,2018-11-08,Sí,17000,Laura Vidal
+C0156,Llorens Partners,Oficinas,Barcelonès,Barcelona,2012-11-14,Sí,17000,Marta Camps
+C0157,Font Consultors,Oficinas,Vallès Oriental,Granollers,2020-09-30,Sí,22000,Ingrid Solé
+C0158,Llibreria Sant Jordi,Retail,Maresme,Premià,2017-06-28,No,0,Laura Vidal
+C0159,Vidal Logística,Oficinas,Maresme,Premià,2014-02-05,No,0,Laura Vidal
+C0160,Col·legi Mediterrània,Educación,Vallès Occidental,Rubí,2015-10-20,Sí,22000,Ingrid Solé
+C0161,Llar d'Infants Collserola,Educación,Baix Llobregat,Sant Boi,2023-06-27,Sí,17000,Pau Riera
+C0162,Esports Nova,Retail,Barcelonès,L'Hospitalet,2021-01-11,Sí,16000,Àlex Ferrer
+C0163,Pizzeria La Lluna,Restauración,Barcelonès,Barcelona,2017-02-25,No,0,Marta Camps
+C0164,Hotel Els Pins Rubí,Hotel,Vallès Occidental,Rubí,2020-11-17,No,0,Ingrid Solé
+C0165,Escola Mediterrània,Educación,Barcelonès,L'Hospitalet,2014-02-07,Sí,17000,Àlex Ferrer
+C0166,Puig Partners,Oficinas,Barcelonès,Barcelona,2024-03-11,Sí,30000,Àlex Ferrer
+C0167,Hotel Ronda Cardedeu,Hotel,Vallès Oriental,Cardedeu,2018-02-09,Sí,19000,Ingrid Solé
+C0168,Acadèmia Collserola,Educación,Maresme,Mataró,2024-09-22,Sí,22000,Laura Vidal
+C0169,Pizzeria El Port,Restauración,Maresme,Arenys,2022-12-19,No,0,Laura Vidal
+C0170,Riera Enginyeria,Oficinas,Vallès Occidental,Sabadell,2015-11-04,Sí,20000,Ingrid Solé
+C0171,Roca Consultors,Oficinas,Barcelonès,L'Hospitalet,2022-12-29,Sí,28000,Àlex Ferrer
+C0172,Roca Partners,Oficinas,Vallès Occidental,Rubí,2017-02-07,Sí,9000,Ingrid Solé
+C0173,Riera Group,Oficinas,Vallès Occidental,Rubí,2012-03-29,No,0,Ingrid Solé
+C0174,Sala Partners,Oficinas,Barcelonès,Barcelona,2023-05-31,Sí,29000,Marta Camps
+C0175,Escola Montseny,Educación,Vallès Occidental,Rubí,2020-12-31,Sí,15000,Ingrid Solé
+C0176,Sala Group,Oficinas,Maresme,Mataró,2016-01-02,Sí,21000,Laura Vidal
+C0177,Pizzeria Els Amics,Restauración,Maresme,Mataró,2020-09-19,Sí,18000,Laura Vidal
+C0178,Clínica Sitges,Sanitario,Barcelonès,Badalona,2024-08-10,Sí,7000,Marta Camps
+C0179,Vidal Tech,Oficinas,Vallès Oriental,Granollers,2023-12-13,No,0,Ingrid Solé
+C0180,Serra Assessors,Oficinas,Vallès Oriental,Granollers,2012-07-31,No,0,Ingrid Solé
+C0181,Llorens Consultors,Oficinas,Vallès Occidental,Terrassa,2015-10-01,No,0,Ingrid Solé
+C0182,Vila Consultors,Oficinas,Barcelonès,L'Hospitalet,2023-09-10,Sí,13000,Àlex Ferrer
+C0183,Puig Enginyeria,Oficinas,Vallès Occidental,Rubí,2017-12-22,Sí,22000,Ingrid Solé
+C0184,Cafeteria El Port,Restauración,Barcelonès,L'Hospitalet,2015-09-18,No,0,Marta Camps
+C0185,Hotel Jardí Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2021-08-22,No,0,Ingrid Solé
+C0186,Escola La Salle Nord,Educación,Baix Llobregat,Cornellà,2020-05-28,No,0,Pau Riera
+C0187,Llar d'Infants La Salle Nord,Educación,Vallès Occidental,Sabadell,2023-09-11,Sí,15000,Ingrid Solé
+C0188,Roca Gestió,Oficinas,Garraf,Sitges,2021-08-11,Sí,29000,Laura Vidal
+C0189,Col·legi Collserola,Educación,Vallès Oriental,Mollet,2019-06-09,No,0,Ingrid Solé
+C0190,Cafeteria Cal Ton,Restauración,Barcelonès,Badalona,2018-05-29,No,0,Àlex Ferrer
+C0191,Hotel Rambla Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2020-12-12,Sí,26000,Ingrid Solé
+C0192,Ferrer Arquitectes,Oficinas,Baix Llobregat,Castelldefels,2020-08-26,No,0,Pau Riera
+C0193,Moda Urbana,Retail,Baix Llobregat,Sant Boi,2013-10-30,No,0,Pau Riera
+C0194,Calçats Clàssica,Retail,Baix Llobregat,El Prat,2023-08-24,No,0,Pau Riera
+C0195,Marín Advocats,Oficinas,Vallès Oriental,Cardedeu,2017-03-03,No,0,Ingrid Solé
+C0196,Brasseria El Molí,Restauración,Barcelonès,L'Hospitalet,2019-01-16,Sí,13000,Marta Camps
+C0197,Llorens Assessors,Oficinas,Garraf,Sitges,2022-01-05,No,0,Pau Riera
+C0198,Perfumeria Vallès,Retail,Vallès Occidental,Rubí,2013-09-28,Sí,10000,Ingrid Solé
+C0199,Acadèmia Mediterrània,Educación,Barcelonès,Badalona,2019-06-13,No,0,Marta Camps
+C0200,Fisioteràpia Badalona,Sanitario,Maresme,Arenys,2021-12-16,Sí,21000,Laura Vidal
+C0201,Ferreteria Nord,Retail,Vallès Occidental,Sant Cugat,2021-01-11,No,0,Ingrid Solé
+C0202,Hotel Portal Sabadell,Hotel,Vallès Occidental,Sabadell,2020-08-21,No,0,Ingrid Solé
+C0203,Puig Group,Oficinas,Garraf,Sitges,2013-12-29,No,0,Pau Riera
+C0204,Serra Advocats,Oficinas,Barcelonès,L'Hospitalet,2019-04-10,No,0,Àlex Ferrer
+C0205,Hotel Jardí Granollers,Hotel,Vallès Oriental,Granollers,2012-07-13,No,0,Ingrid Solé
+C0206,Hotel Sol de Mar Granollers,Hotel,Vallès Oriental,Granollers,2012-01-04,No,0,Ingrid Solé
+C0207,Perfumeria Central,Retail,Maresme,Mataró,2014-11-07,Sí,20000,Laura Vidal
+C0208,Acadèmia Can Mas,Educación,Barcelonès,L'Hospitalet,2018-01-11,Sí,17000,Marta Camps
+C0209,Cafeteria La Terrassa,Restauración,Vallès Oriental,Mollet,2016-04-07,No,0,Ingrid Solé
+C0210,Restaurant El Celler,Restauración,Vallès Oriental,Cardedeu,2013-01-06,No,0,Ingrid Solé
+C0211,Coll Group,Oficinas,Baix Llobregat,Sant Boi,2016-09-29,Sí,15000,Pau Riera
+C0212,Col·legi Montseny,Educación,Vallès Occidental,Rubí,2019-01-31,Sí,19000,Ingrid Solé
+C0213,Centre Òptic Granollers,Sanitario,Barcelonès,Badalona,2016-11-18,No,0,Àlex Ferrer
+C0214,Soler Logística,Oficinas,Vallès Occidental,Terrassa,2016-02-21,No,0,Ingrid Solé
+C0215,Ortega Partners,Oficinas,Barcelonès,Barcelona,2012-08-05,Sí,26000,Marta Camps
+C0216,Pizzeria La Vinya,Restauración,Vallès Oriental,Granollers,2018-03-25,Sí,21000,Ingrid Solé
+C0217,Hotel Els Pins Vilanova,Hotel,Garraf,Vilanova,2022-03-10,No,0,Laura Vidal
+C0218,Mas Arquitectes,Oficinas,Barcelonès,Barcelona,2019-01-15,No,0,Àlex Ferrer
+C0219,Hotel Rambla Vilanova,Hotel,Garraf,Vilanova,2019-11-05,No,0,Pau Riera
+C0220,Hotel Vela Barcelona,Hotel,Barcelonès,Barcelona,2019-10-01,No,0,Marta Camps
+C0221,Forn Vallès,Retail,Barcelonès,L'Hospitalet,2012-04-28,No,0,Àlex Ferrer
+C0222,Calçats Plus,Retail,Barcelonès,L'Hospitalet,2014-06-26,No,0,Marta Camps
+C0223,Vidal Enginyeria,Oficinas,Barcelonès,L'Hospitalet,2024-11-23,Sí,26000,Marta Camps
+C0224,Cafeteria Can Pere,Restauración,Vallès Occidental,Sant Cugat,2014-12-25,Sí,16000,Ingrid Solé
+C0225,Pizzeria El Racó,Restauración,Vallès Oriental,Mollet,2018-01-29,Sí,12000,Ingrid Solé
+C0226,Casas Logística,Oficinas,Maresme,Mataró,2016-04-25,No,0,Laura Vidal
+C0227,Pizzeria Can Pere,Restauración,Vallès Occidental,Sabadell,2013-09-27,No,0,Ingrid Solé
+C0228,Ferrer Enginyeria,Oficinas,Vallès Occidental,Sant Cugat,2022-09-24,Sí,19000,Ingrid Solé
+C0229,Hotel Port Badalona,Hotel,Barcelonès,Badalona,2021-08-08,Sí,15000,Àlex Ferrer
+C0230,Bar Can Jordi,Restauración,Garraf,Sitges,2014-12-15,Sí,6000,Pau Riera
+C0231,Clínica Dental Mataró,Sanitario,Baix Llobregat,Cornellà,2020-02-29,Sí,8000,Pau Riera
+C0232,Hotel Nord Vilanova,Hotel,Garraf,Vilanova,2019-05-03,Sí,18000,Pau Riera
+C0233,Hotel Jardí Premià,Hotel,Maresme,Premià,2013-04-26,Sí,35000,Laura Vidal
+C0234,Mas Enginyeria,Oficinas,Vallès Occidental,Sabadell,2012-09-24,No,0,Ingrid Solé
+C0235,Hotel Costa L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2024-08-05,Sí,28000,Àlex Ferrer
+C0236,Hotel Cala Cardedeu,Hotel,Vallès Oriental,Cardedeu,2014-04-23,Sí,27000,Ingrid Solé
+C0237,Centre Mèdic Sant Cugat,Sanitario,Garraf,Sitges,2018-02-09,No,0,Laura Vidal
+C0238,Coll Assessors,Oficinas,Vallès Occidental,Terrassa,2023-11-06,No,0,Ingrid Solé
+C0239,Calçats Família,Retail,Vallès Oriental,Granollers,2017-04-30,Sí,17000,Ingrid Solé
+C0240,Llorens Gestió,Oficinas,Vallès Occidental,Rubí,2022-04-11,Sí,14000,Ingrid Solé
+C0241,Hotel Marina Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2015-01-26,No,0,Ingrid Solé
+C0242,Moda Central,Retail,Garraf,Vilanova,2021-12-14,No,0,Laura Vidal
+C0243,Hotel Rambla El Prat,Hotel,Baix Llobregat,El Prat,2024-09-11,Sí,31000,Pau Riera
+C0244,Escola Turó Blau,Educación,Barcelonès,Badalona,2024-05-09,No,0,Marta Camps
+C0245,Hotel Marina L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2013-11-26,No,0,Àlex Ferrer
+C0246,Bosch Enginyeria,Oficinas,Vallès Oriental,Mollet,2019-07-14,Sí,12000,Ingrid Solé
+C0247,Fisioteràpia Granollers,Sanitario,Barcelonès,L'Hospitalet,2022-12-09,No,0,Marta Camps
+C0248,Serra Gestió,Oficinas,Barcelonès,L'Hospitalet,2022-09-18,No,0,Àlex Ferrer
+C0249,Col·legi La Salle Nord,Educación,Baix Llobregat,El Prat,2013-12-26,No,0,Pau Riera
+C0250,Botigues Del Mar,Retail,Vallès Oriental,Cardedeu,2012-12-30,No,0,Ingrid Solé
+C0251,Forn Família,Retail,Vallès Occidental,Sant Cugat,2019-04-24,No,0,Ingrid Solé
+C0252,Bar El Celler,Restauración,Garraf,Sitges,2023-09-17,No,0,Laura Vidal
+C0253,Llar d'Infants Els Til·lers,Educación,Vallès Oriental,Cardedeu,2018-01-22,Sí,23000,Ingrid Solé
+C0254,Serra Enginyeria,Oficinas,Barcelonès,Badalona,2023-06-24,Sí,10000,Marta Camps
+C0255,Institut Can Mas,Educación,Barcelonès,Barcelona,2013-03-26,Sí,22000,Marta Camps
+C0256,Sala Consultors,Oficinas,Barcelonès,Barcelona,2023-03-11,No,0,Marta Camps
+C0257,Bar El Molí,Restauración,Vallès Occidental,Sant Cugat,2015-10-29,No,0,Ingrid Solé
+C0258,Perfumeria Urbana,Retail,Maresme,Arenys,2012-10-16,Sí,18000,Laura Vidal
+C0259,Hotel Marina Barcelona,Hotel,Barcelonès,Barcelona,2013-08-09,No,0,Àlex Ferrer
+C0260,Botigues Central,Retail,Baix Llobregat,El Prat,2013-11-29,Sí,14000,Pau Riera
+C0261,Hotel Marina Terrassa,Hotel,Vallès Occidental,Terrassa,2023-07-22,No,0,Ingrid Solé
+C0262,Vidal Advocats,Oficinas,Vallès Occidental,Sant Cugat,2015-12-02,Sí,12000,Ingrid Solé
+C0263,Calçats Nova,Retail,Barcelonès,L'Hospitalet,2017-09-16,No,0,Àlex Ferrer
+C0264,Llibreria Nord,Retail,Barcelonès,Barcelona,2012-04-13,No,0,Àlex Ferrer
+C0265,Mas Logística,Oficinas,Barcelonès,Barcelona,2017-04-22,No,0,Marta Camps
+C0266,Font Enginyeria,Oficinas,Vallès Occidental,Rubí,2013-07-30,No,0,Ingrid Solé
+C0267,Hotel Sol de Mar L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2016-12-13,Sí,32000,Àlex Ferrer
+C0268,Pons Enginyeria,Oficinas,Vallès Oriental,Mollet,2020-07-09,Sí,15000,Ingrid Solé
+C0269,Puig Assessors,Oficinas,Barcelonès,L'Hospitalet,2014-02-14,Sí,11000,Àlex Ferrer
+C0270,Llar d'Infants Turó Blau,Educación,Barcelonès,Barcelona,2017-05-03,No,0,Àlex Ferrer
+C0271,Casas Enginyeria,Oficinas,Baix Llobregat,El Prat,2024-02-19,No,0,Pau Riera
+C0272,Hotel Ronda Sabadell,Hotel,Vallès Occidental,Sabadell,2016-11-09,Sí,20000,Ingrid Solé
+C0273,Llorens Arquitectes,Oficinas,Barcelonès,Barcelona,2021-05-08,No,0,Marta Camps
+C0274,Centre Òptic Rubí,Sanitario,Barcelonès,Barcelona,2021-04-08,No,0,Marta Camps
+C0275,Forn Nova,Retail,Barcelonès,L'Hospitalet,2023-09-14,Sí,18000,Marta Camps
+C0276,Clínica Dental Sitges,Sanitario,Maresme,Premià,2022-08-27,No,0,Laura Vidal
+C0277,Clínica Diagonal,Sanitario,Vallès Oriental,Granollers,2015-07-28,No,0,Ingrid Solé
+C0278,Clínica Dental Badalona,Sanitario,Garraf,Sitges,2017-08-23,No,0,Laura Vidal
+C0279,Acadèmia Ítaca,Educación,Baix Llobregat,Castelldefels,2014-07-29,Sí,17000,Pau Riera
+C0280,Forn Del Mar,Retail,Barcelonès,Barcelona,2021-09-25,Sí,23000,Àlex Ferrer
+C0281,Hotel Sant Pere Castelldefels,Hotel,Baix Llobregat,Castelldefels,2024-01-04,No,0,Pau Riera
+C0282,Grau Consultors,Oficinas,Barcelonès,Barcelona,2015-03-15,No,0,Marta Camps
+C0283,Ortega Logística,Oficinas,Barcelonès,Badalona,2013-10-20,Sí,23000,Àlex Ferrer
+C0284,Navarro Logística,Oficinas,Barcelonès,L'Hospitalet,2020-02-25,No,0,Àlex Ferrer
+C0285,Fisioteràpia Sant Gervasi,Sanitario,Barcelonès,Badalona,2012-07-17,No,0,Marta Camps
+C0286,Llibreria Clàssica,Retail,Baix Llobregat,Cornellà,2018-07-18,No,0,Pau Riera
+C0287,Puig Gestió,Oficinas,Vallès Occidental,Rubí,2014-11-28,Sí,21000,Ingrid Solé
+C0288,Font Logística,Oficinas,Barcelonès,L'Hospitalet,2017-11-10,Sí,25000,Marta Camps
+C0289,Calçats Sant Jordi,Retail,Barcelonès,Badalona,2022-11-30,No,0,Marta Camps
+C0290,Mobles Nord,Retail,Barcelonès,L'Hospitalet,2022-08-19,Sí,23000,Àlex Ferrer
+C0291,Mas Consultors,Oficinas,Baix Llobregat,Cornellà,2018-01-23,Sí,17000,Pau Riera
+C0292,Moda Plus,Retail,Vallès Oriental,Mollet,2018-02-17,Sí,11000,Ingrid Solé
+C0293,Font Assessors,Oficinas,Vallès Occidental,Sant Cugat,2020-05-29,Sí,14000,Ingrid Solé
+C0294,Cafeteria El Racó,Restauración,Maresme,Arenys,2023-02-23,Sí,8000,Laura Vidal
+C0295,Cafeteria La Plaça,Restauración,Vallès Oriental,Granollers,2022-03-15,Sí,24000,Ingrid Solé
+C0296,Marín Tech,Oficinas,Maresme,Arenys,2017-10-21,Sí,25000,Laura Vidal
+C0297,Soler Arquitectes,Oficinas,Baix Llobregat,Sant Boi,2018-09-27,No,0,Pau Riera
+C0298,Llar d'Infants Mediterrània,Educación,Vallès Oriental,Cardedeu,2019-10-14,No,0,Ingrid Solé
+C0299,Clínica Gràcia,Sanitario,Maresme,Arenys,2021-10-04,Sí,13000,Laura Vidal
+C0300,Botigues Vallès,Retail,Barcelonès,L'Hospitalet,2020-07-04,Sí,11000,Àlex Ferrer
+C0301,Institut Sol Ixent,Educación,Garraf,Sitges,2019-10-31,Sí,23000,Laura Vidal
+C0302,Òptica Del Mar,Retail,Vallès Occidental,Rubí,2023-04-15,Sí,12000,Ingrid Solé
+C0303,Bosch Tech,Oficinas,Vallès Occidental,Sant Cugat,2013-01-12,Sí,12000,Ingrid Solé
+C0304,Esports Nord,Retail,Vallès Oriental,Cardedeu,2022-02-02,Sí,18000,Ingrid Solé
+C0305,Navarro Consultors,Oficinas,Baix Llobregat,El Prat,2013-11-29,Sí,24000,Pau Riera
+C0306,Soler Tech,Oficinas,Maresme,Mataró,2016-04-20,No,0,Laura Vidal
+C0307,Font Gestió,Oficinas,Garraf,Vilanova,2020-08-12,Sí,28000,Laura Vidal
+C0308,Òptica Urbana,Retail,Barcelonès,Badalona,2016-08-03,Sí,16000,Marta Camps
+C0309,Riera Arquitectes,Oficinas,Barcelonès,L'Hospitalet,2014-07-30,Sí,20000,Àlex Ferrer
+C0310,Clínica Dental Terrassa,Sanitario,Barcelonès,Barcelona,2019-08-15,Sí,11000,Àlex Ferrer
+C0311,Llorens Group,Oficinas,Baix Llobregat,Cornellà,2018-05-25,Sí,16000,Pau Riera
+C0312,Centre Mèdic Granollers,Sanitario,Vallès Occidental,Rubí,2014-11-04,No,0,Ingrid Solé
+C0313,Vila Arquitectes,Oficinas,Maresme,Mataró,2012-06-01,Sí,16000,Laura Vidal
+C0314,Brasseria Can Jordi,Restauración,Barcelonès,L'Hospitalet,2020-03-05,Sí,21000,Marta Camps
+C0315,Òptica Plus,Retail,Vallès Oriental,Mollet,2021-06-13,No,0,Ingrid Solé
+C0316,Grau Group,Oficinas,Maresme,Premià,2019-04-16,Sí,11000,Laura Vidal
+C0317,Acadèmia Pau Casals,Educación,Maresme,Premià,2016-07-30,Sí,23000,Laura Vidal
+C0318,Forn Urbana,Retail,Vallès Occidental,Sabadell,2015-10-30,Sí,20000,Ingrid Solé
+C0319,Mas Group,Oficinas,Vallès Occidental,Rubí,2021-09-23,No,0,Ingrid Solé
+C0320,Bar El Racó,Restauración,Vallès Occidental,Sant Cugat,2017-10-24,No,0,Ingrid Solé
+C0321,Puig Arquitectes,Oficinas,Vallès Occidental,Terrassa,2018-02-16,Sí,8000,Ingrid Solé
+C0322,Font Partners,Oficinas,Baix Llobregat,Cornellà,2019-11-25,Sí,24000,Pau Riera
+C0323,Brasseria El Racó,Restauración,Vallès Occidental,Sabadell,2013-08-13,No,0,Ingrid Solé
+C0324,Centre Òptic Diagonal,Sanitario,Baix Llobregat,Sant Boi,2024-07-30,Sí,6000,Pau Riera
+C0325,Sala Advocats,Oficinas,Barcelonès,Badalona,2024-05-29,Sí,26000,Àlex Ferrer
+C0326,Hotel Ronda Vilanova,Hotel,Garraf,Vilanova,2014-10-03,No,0,Laura Vidal
+C0327,Hotel Jardí Sabadell,Hotel,Vallès Occidental,Sabadell,2019-05-27,No,0,Ingrid Solé
+C0328,Roca Logística,Oficinas,Baix Llobregat,Castelldefels,2017-06-16,Sí,9000,Pau Riera
+C0329,Botigues Urbana,Retail,Barcelonès,Barcelona,2014-09-27,No,0,Àlex Ferrer
+C0330,Òptica Família,Retail,Vallès Occidental,Rubí,2021-09-18,Sí,12000,Ingrid Solé
+C0331,Hotel Llevant Sant Boi,Hotel,Baix Llobregat,Sant Boi,2016-04-24,Sí,39000,Pau Riera
+C0332,Brasseria El Port,Restauración,Baix Llobregat,Sant Boi,2015-12-15,Sí,18000,Pau Riera
+C0333,Hotel Marina Vilanova,Hotel,Garraf,Vilanova,2017-04-08,No,0,Pau Riera
+C0334,Hotel Marina Mollet,Hotel,Vallès Oriental,Mollet,2019-12-02,No,0,Ingrid Solé
+C0335,Roca Tech,Oficinas,Maresme,Mataró,2023-02-22,No,0,Laura Vidal
+C0336,Hotel Plaça Granollers,Hotel,Vallès Oriental,Granollers,2012-04-26,Sí,17000,Ingrid Solé
+C0337,Hotel Costa Rubí,Hotel,Vallès Occidental,Rubí,2022-09-25,Sí,37000,Ingrid Solé
+C0338,Clínica Terrassa,Sanitario,Baix Llobregat,El Prat,2015-02-22,No,0,Pau Riera
+C0339,Centre Mèdic Sabadell,Sanitario,Barcelonès,Badalona,2019-05-24,Sí,20000,Àlex Ferrer
+C0340,Bosch Advocats,Oficinas,Barcelonès,Badalona,2015-10-22,No,0,Marta Camps
+C0341,Vila Tech,Oficinas,Baix Llobregat,El Prat,2023-10-19,Sí,22000,Pau Riera
+C0342,Brasseria El Celler,Restauración,Vallès Occidental,Sabadell,2017-02-09,Sí,12000,Ingrid Solé
+C0343,Brasseria La Lluna,Restauración,Barcelonès,Barcelona,2014-03-01,No,0,Àlex Ferrer
+C0344,Laboratori Rubí,Sanitario,Barcelonès,L'Hospitalet,2021-12-11,Sí,17000,Àlex Ferrer
+C0345,Cafeteria El Molí,Restauración,Barcelonès,Badalona,2013-06-06,No,0,Marta Camps
+C0346,Hotel Marina Sitges,Hotel,Garraf,Sitges,2019-04-18,No,0,Laura Vidal
+C0347,Centre Òptic Sabadell,Sanitario,Garraf,Sitges,2016-06-09,Sí,20000,Pau Riera
+C0348,Llorens Logística,Oficinas,Barcelonès,Badalona,2017-04-27,Sí,13000,Marta Camps
+C0349,Òptica Central,Retail,Garraf,Sitges,2017-02-05,Sí,19000,Pau Riera
+C0350,Botigues Clàssica,Retail,Barcelonès,Badalona,2019-06-16,Sí,6000,Àlex Ferrer
+C0351,Cafeteria La Vinya,Restauración,Vallès Oriental,Mollet,2018-06-30,No,0,Ingrid Solé
+C0352,Marín Consultors,Oficinas,Barcelonès,Badalona,2013-01-26,Sí,15000,Àlex Ferrer
+C0353,Clínica Sant Cugat,Sanitario,Baix Llobregat,Sant Boi,2013-10-05,Sí,16000,Pau Riera
+C0354,Òptica Clàssica,Retail,Vallès Occidental,Sant Cugat,2022-08-13,No,0,Ingrid Solé
+C0355,Bar El Port,Restauración,Barcelonès,Badalona,2021-09-15,No,0,Marta Camps
+C0356,Institut Els Til·lers,Educación,Maresme,Premià,2024-06-14,Sí,9000,Laura Vidal
+C0357,Hotel Costa Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2013-03-05,No,0,Ingrid Solé
+C0358,Font Tech,Oficinas,Vallès Occidental,Terrassa,2019-09-10,Sí,19000,Ingrid Solé
+C0359,Perfumeria Nova,Retail,Vallès Occidental,Rubí,2018-12-12,No,0,Ingrid Solé
+C0360,Moda Nova,Retail,Vallès Oriental,Granollers,2021-01-23,Sí,23000,Ingrid Solé
+C0361,Restaurant Can Pere,Restauración,Barcelonès,Badalona,2012-05-26,Sí,15000,Marta Camps
+C0362,Casas Consultors,Oficinas,Vallès Oriental,Mollet,2012-12-29,No,0,Ingrid Solé
+C0363,Hotel Rambla Premià,Hotel,Maresme,Premià,2018-05-28,No,0,Laura Vidal
+C0364,Hotel Sant Pere Badalona,Hotel,Barcelonès,Badalona,2020-06-27,No,0,Àlex Ferrer
+C0365,Serra Logística,Oficinas,Vallès Occidental,Sant Cugat,2016-12-30,Sí,24000,Ingrid Solé
+C0366,Centre Mèdic Mataró,Sanitario,Baix Llobregat,Cornellà,2015-05-14,No,0,Pau Riera
+C0367,Institut Pau Casals,Educación,Baix Llobregat,Castelldefels,2023-10-09,Sí,24000,Pau Riera
+C0368,Marín Logística,Oficinas,Barcelonès,Barcelona,2016-07-10,No,0,Marta Camps
+C0369,Coll Partners,Oficinas,Barcelonès,Barcelona,2012-09-08,No,0,Marta Camps
+C0370,Hotel Turó Barcelona,Hotel,Barcelonès,Barcelona,2014-10-29,Sí,22000,Àlex Ferrer
+C0371,Ortega Consultors,Oficinas,Baix Llobregat,Castelldefels,2016-12-14,Sí,22000,Pau Riera
+C0372,Coll Tech,Oficinas,Vallès Occidental,Sabadell,2019-11-28,No,0,Ingrid Solé
+C0373,Hotel Cala Barcelona,Hotel,Barcelonès,Barcelona,2021-10-09,Sí,33000,Marta Camps
+C0374,Escola Can Mas,Educación,Garraf,Sitges,2018-12-18,No,0,Pau Riera
+C0375,Cafeteria Can Jordi,Restauración,Vallès Oriental,Mollet,2021-06-12,Sí,7000,Ingrid Solé
+C0376,Pizzeria Can Jordi,Restauración,Barcelonès,Barcelona,2021-05-31,Sí,13000,Àlex Ferrer
+C0377,Llar d'Infants Can Mas,Educación,Barcelonès,L'Hospitalet,2018-07-27,Sí,22000,Marta Camps
+C0378,Institut Mediterrània,Educación,Barcelonès,Badalona,2015-09-03,No,0,Marta Camps
+C0379,Roca Group,Oficinas,Barcelonès,L'Hospitalet,2016-04-20,No,0,Marta Camps
+C0380,Vila Partners,Oficinas,Barcelonès,Barcelona,2017-01-09,Sí,16000,Marta Camps
+C0381,Mas Partners,Oficinas,Vallès Occidental,Terrassa,2022-03-23,No,0,Ingrid Solé
+C0382,Hotel Montjuïc Rubí,Hotel,Vallès Occidental,Rubí,2021-12-26,No,0,Ingrid Solé
+C0383,Ferreteria Família,Retail,Barcelonès,L'Hospitalet,2013-12-18,Sí,6000,Àlex Ferrer
+C0384,Hotel Sant Pere Sabadell,Hotel,Vallès Occidental,Sabadell,2017-03-01,Sí,28000,Ingrid Solé
+C0385,Llorens Enginyeria,Oficinas,Barcelonès,L'Hospitalet,2024-05-25,No,0,Marta Camps
+C0386,Moda Vallès,Retail,Vallès Oriental,Granollers,2016-04-17,Sí,15000,Ingrid Solé
+C0387,Hotel Els Pins Badalona,Hotel,Barcelonès,Badalona,2017-08-05,Sí,35000,Àlex Ferrer
+C0388,Brasseria Els Amics,Restauración,Garraf,Vilanova,2012-09-12,No,0,Pau Riera
+C0389,Casas Arquitectes,Oficinas,Vallès Occidental,Terrassa,2023-12-27,Sí,13000,Ingrid Solé
+C0390,Pons Gestió,Oficinas,Garraf,Sitges,2017-02-01,No,0,Laura Vidal
+C0391,Hotel Llevant Badalona,Hotel,Barcelonès,Badalona,2015-02-22,No,0,Àlex Ferrer
+C0392,Ferrer Partners,Oficinas,Barcelonès,Barcelona,2014-11-15,No,0,Àlex Ferrer
+C0393,Coll Enginyeria,Oficinas,Maresme,Arenys,2020-05-05,No,0,Laura Vidal
+C0394,Mobles Clàssica,Retail,Maresme,Mataró,2021-09-18,No,0,Laura Vidal
+C0395,Coll Consultors,Oficinas,Barcelonès,Barcelona,2012-10-16,Sí,19000,Marta Camps
+C0396,Ortega Gestió,Oficinas,Vallès Occidental,Rubí,2021-03-28,Sí,10000,Ingrid Solé
+C0397,Vila Assessors,Oficinas,Barcelonès,Barcelona,2017-01-08,No,0,Àlex Ferrer
+C0398,Roca Assessors,Oficinas,Barcelonès,L'Hospitalet,2019-01-25,No,0,Àlex Ferrer
+C0399,Casas Tech,Oficinas,Vallès Occidental,Rubí,2022-09-25,No,0,Ingrid Solé
+C0400,Sala Arquitectes,Oficinas,Vallès Occidental,Sant Cugat,2016-08-23,Sí,23000,Ingrid Solé
+C0401,Centre Òptic Sant Cugat,Sanitario,Vallès Oriental,Granollers,2018-06-27,Sí,21000,Ingrid Solé
+C0402,Ortega Enginyeria,Oficinas,Barcelonès,Badalona,2019-01-08,Sí,26000,Àlex Ferrer
+C0403,Bosch Gestió,Oficinas,Maresme,Premià,2015-02-07,Sí,10000,Laura Vidal
+C0404,Centre Òptic Gràcia,Sanitario,Maresme,Premià,2021-04-06,Sí,8000,Laura Vidal
+C0405,Acadèmia La Salle Nord,Educación,Barcelonès,L'Hospitalet,2016-12-13,Sí,14000,Marta Camps
+C0406,Hotel Costa Sitges,Hotel,Garraf,Sitges,2021-07-19,No,0,Laura Vidal
+C0407,Hotel Brisa Alta Vilanova,Hotel,Garraf,Vilanova,2021-03-14,No,0,Laura Vidal
+C0408,Fisioteràpia Rubí,Sanitario,Barcelonès,Badalona,2017-06-12,Sí,10000,Àlex Ferrer
+C0409,Laboratori Diagonal,Sanitario,Vallès Occidental,Terrassa,2019-11-02,No,0,Ingrid Solé
+C0410,Ferreteria Nova,Retail,Baix Llobregat,El Prat,2015-08-22,No,0,Pau Riera
+C0411,Centre Mèdic Diagonal,Sanitario,Vallès Occidental,Rubí,2021-04-02,No,0,Ingrid Solé
+C0412,Hotel Els Pins Cardedeu,Hotel,Vallès Oriental,Cardedeu,2020-01-27,Sí,40000,Ingrid Solé
+C0413,Cafeteria La Lluna,Restauración,Barcelonès,L'Hospitalet,2019-02-25,Sí,16000,Àlex Ferrer
+C0414,Brasseria Can Pere,Restauración,Barcelonès,L'Hospitalet,2021-07-21,No,0,Àlex Ferrer
+C0415,Hotel Sant Pere Sitges,Hotel,Garraf,Sitges,2023-01-25,Sí,26000,Pau Riera
+C0416,Hotel Sol de Mar Barcelona,Hotel,Barcelonès,Barcelona,2021-10-04,No,0,Marta Camps
+C0417,Font Group,Oficinas,Maresme,Premià,2012-08-27,Sí,16000,Laura Vidal
+C0418,Esports Vallès,Retail,Baix Llobregat,Castelldefels,2018-05-10,Sí,10000,Pau Riera
+C0419,Llar d'Infants Ítaca,Educación,Vallès Occidental,Sant Cugat,2015-08-14,No,0,Ingrid Solé
+C0420,Centre Mèdic Rubí,Sanitario,Vallès Occidental,Terrassa,2015-09-06,Sí,19000,Ingrid Solé
+C0421,Soler Consultors,Oficinas,Barcelonès,Badalona,2024-08-23,Sí,28000,Àlex Ferrer
+C0422,Hotel Brisa Alta Badalona,Hotel,Barcelonès,Badalona,2012-06-17,No,0,Àlex Ferrer
+C0423,Institut La Salle Nord,Educación,Barcelonès,Barcelona,2012-01-19,Sí,21000,Àlex Ferrer
+C0424,Cafeteria El Celler,Restauración,Barcelonès,Barcelona,2020-08-06,No,0,Àlex Ferrer
+C0425,Llibreria Del Mar,Retail,Baix Llobregat,El Prat,2017-06-15,Sí,21000,Pau Riera
+C0426,Ferrer Logística,Oficinas,Baix Llobregat,Cornellà,2014-07-25,Sí,27000,Pau Riera
+C0427,Ferrer Assessors,Oficinas,Vallès Occidental,Rubí,2017-09-15,Sí,9000,Ingrid Solé
+C0428,Mas Advocats,Oficinas,Maresme,Arenys,2024-04-23,No,0,Laura Vidal
+C0429,Hotel Sol de Mar El Prat,Hotel,Baix Llobregat,El Prat,2019-07-07,Sí,15000,Pau Riera
+C0430,Col·legi Ítaca,Educación,Garraf,Vilanova,2013-06-24,Sí,20000,Pau Riera
+C0431,Hotel Montjuïc Castelldefels,Hotel,Baix Llobregat,Castelldefels,2023-01-08,No,0,Pau Riera
+C0432,Centre Mèdic Sitges,Sanitario,Vallès Occidental,Sabadell,2020-02-17,No,0,Ingrid Solé
+C0433,Perfumeria Nord,Retail,Maresme,Mataró,2024-09-26,Sí,18000,Laura Vidal
+C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,Barcelona,2023-11-17,Sí,25000,Àlex Ferrer
+C0435,Grau Tech,Oficinas,Barcelonès,Barcelona,2021-08-24,No,0,Marta Camps
+C0436,Ferreteria Clàssica,Retail,Baix Llobregat,Sant Boi,2022-12-15,No,0,Pau Riera
+C0437,Hotel Port Vilanova,Hotel,Garraf,Vilanova,2014-09-15,No,0,Pau Riera
+C0438,Hotel Plaça Sabadell,Hotel,Vallès Occidental,Sabadell,2022-10-24,Sí,34000,Ingrid Solé
+C0439,Bar La Plaça,Restauración,Barcelonès,Barcelona,2020-02-05,No,0,Àlex Ferrer
+C0440,Laboratori Gràcia,Sanitario,Vallès Oriental,Mollet,2015-02-24,Sí,17000,Ingrid Solé
+C0441,Hotel Vela Sant Boi,Hotel,Baix Llobregat,Sant Boi,2017-01-09,No,0,Pau Riera
+C0442,Escola Els Til·lers,Educación,Baix Llobregat,El Prat,2024-08-14,Sí,22000,Pau Riera
+C0443,Centre Mèdic Les Corts,Sanitario,Baix Llobregat,Castelldefels,2017-05-17,Sí,10000,Pau Riera
+C0444,Marín Partners,Oficinas,Garraf,Sitges,2016-12-14,Sí,29000,Laura Vidal
+C0445,Perfumeria Del Mar,Retail,Vallès Occidental,Sant Cugat,2020-01-22,Sí,10000,Ingrid Solé
+C0446,Hotel Montjuïc L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2017-04-16,No,0,Àlex Ferrer
+C0447,Centre Òptic Sitges,Sanitario,Baix Llobregat,Castelldefels,2017-07-23,No,0,Pau Riera
+C0448,Hotel Cala Sant Boi,Hotel,Baix Llobregat,Sant Boi,2020-04-21,No,0,Pau Riera
+C0449,Vidal Arquitectes,Oficinas,Barcelonès,L'Hospitalet,2013-06-19,No,0,Àlex Ferrer
+C0450,Brasseria La Terrassa,Restauración,Garraf,Sitges,2016-07-26,No,0,Laura Vidal
+C0451,Clínica Sant Gervasi,Sanitario,Barcelonès,Badalona,2013-08-16,No,0,Marta Camps
+C0452,Riera Partners,Oficinas,Vallès Oriental,Granollers,2022-05-21,No,0,Ingrid Solé
+C0453,Restaurant La Lluna,Restauración,Barcelonès,Barcelona,2020-05-31,Sí,16000,Àlex Ferrer
+C0454,Navarro Group,Oficinas,Vallès Occidental,Sant Cugat,2014-04-04,Sí,23000,Ingrid Solé
+C0455,Llar d'Infants Pau Casals,Educación,Vallès Occidental,Sant Cugat,2016-11-24,Sí,22000,Ingrid Solé
+C0456,Hotel Brisa Alta Mataró,Hotel,Maresme,Mataró,2016-02-26,No,0,Laura Vidal
+C0457,Ortega Tech,Oficinas,Garraf,Vilanova,2018-04-12,Sí,20000,Laura Vidal
+C0458,Hotel Nord Barcelona,Hotel,Barcelonès,Barcelona,2023-06-01,Sí,26000,Marta Camps
+C0459,Grau Logística,Oficinas,Barcelonès,Barcelona,2021-05-29,No,0,Marta Camps
+C0460,Mobles Del Mar,Retail,Barcelonès,Barcelona,2022-01-01,No,0,Àlex Ferrer
+C0461,Llibreria Família,Retail,Vallès Occidental,Sabadell,2016-03-11,Sí,24000,Ingrid Solé
+C0462,Laboratori Sitges,Sanitario,Baix Llobregat,Sant Boi,2015-09-24,Sí,21000,Pau Riera
+C0463,Mobles Vallès,Retail,Barcelonès,L'Hospitalet,2015-03-31,No,0,Marta Camps
+C0464,Ferrer Advocats,Oficinas,Barcelonès,Badalona,2023-01-06,No,0,Marta Camps
+C0465,Vidal Assessors,Oficinas,Baix Llobregat,Sant Boi,2015-02-03,No,0,Pau Riera
+C0466,Moda Nord,Retail,Vallès Occidental,Sabadell,2023-02-04,Sí,21000,Ingrid Solé
+C0467,Pons Assessors,Oficinas,Garraf,Vilanova,2012-07-14,No,0,Pau Riera
+C0468,Soler Gestió,Oficinas,Barcelonès,Badalona,2016-09-13,No,0,Àlex Ferrer
+C0469,Bar La Terrassa,Restauración,Maresme,Arenys,2022-05-03,No,0,Laura Vidal
+C0470,Hotel Costa Barcelona,Hotel,Barcelonès,Barcelona,2012-10-17,No,0,Àlex Ferrer
+C0471,Cafeteria La Terrassa Badalona,Restauración,Barcelonès,Badalona,2017-03-15,Sí,6000,Àlex Ferrer
+C0472,Navarro Gestió,Oficinas,Barcelonès,Barcelona,2023-12-07,Sí,10000,Marta Camps
+C0473,Pizzeria El Celler,Restauración,Barcelonès,L'Hospitalet,2024-02-17,No,0,Marta Camps
+C0474,Grau Advocats,Oficinas,Barcelonès,Barcelona,2022-08-29,No,0,Marta Camps
+C0475,Restaurant Els Amics,Restauración,Barcelonès,Barcelona,2021-10-05,No,0,Marta Camps
+C0476,Grau Assessors,Oficinas,Vallès Oriental,Mollet,2013-06-09,Sí,8000,Ingrid Solé
+C0477,Coll Arquitectes,Oficinas,Garraf,Sitges,2018-02-24,Sí,22000,Pau Riera
+C0478,Centre Mèdic Badalona,Sanitario,Vallès Occidental,Sabadell,2021-09-26,No,0,Ingrid Solé
+C0479,Casas Partners,Oficinas,Vallès Occidental,Sant Cugat,2016-01-02,Sí,26000,Ingrid Solé
+C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,Barcelona,2013-07-27,Sí,9000,Àlex Ferrer
+C0481,Navarro Enginyeria,Oficinas,Barcelonès,L'Hospitalet,2024-06-06,Sí,27000,Marta Camps
+C0482,Fisioteràpia Sabadell,Sanitario,Vallès Occidental,Sant Cugat,2016-04-19,No,0,Ingrid Solé
+C0483,Casas Group,Oficinas,Maresme,Premià,2016-12-31,Sí,12000,Laura Vidal
+C0484,Botigues Sant Jordi,Retail,Maresme,Arenys,2013-06-22,Sí,11000,Laura Vidal
+C0485,Acadèmia Pau Casals Terrassa,Educación,Vallès Occidental,Terrassa,2015-07-08,Sí,21000,Ingrid Solé
+C0486,Hotel Sol de Mar Sabadell,Hotel,Vallès Occidental,Sabadell,2021-04-12,Sí,22000,Ingrid Solé
+C0487,Acadèmia Sol Ixent,Educación,Maresme,Mataró,2016-02-22,No,0,Laura Vidal
+C0488,Llibreria Nova,Retail,Garraf,Sitges,2014-06-03,Sí,11000,Pau Riera
+C0489,Hotel Rambla Cornellà,Hotel,Baix Llobregat,Cornellà,2022-09-29,No,0,Pau Riera
+C0490,Marín Gestió,Oficinas,Barcelonès,Badalona,2014-05-12,Sí,11000,Marta Camps
+C0491,Navarro Assessors,Oficinas,Barcelonès,Badalona,2016-02-14,Sí,21000,Marta Camps
+C0492,Clínica Badalona,Sanitario,Baix Llobregat,Cornellà,2013-05-25,Sí,11000,Pau Riera
+C0493,Institut Collserola,Educación,Vallès Occidental,Terrassa,2021-08-05,Sí,19000,Ingrid Solé
+C0494,Roca Advocats,Oficinas,Barcelonès,L'Hospitalet,2017-06-25,No,0,Marta Camps
+C0495,Puig Tech,Oficinas,Vallès Oriental,Cardedeu,2013-11-18,Sí,16000,Ingrid Solé
+C0496,Brasseria Cal Ton,Restauración,Barcelonès,Barcelona,2015-10-30,Sí,13000,Àlex Ferrer
+C0497,Bosch Logística,Oficinas,Barcelonès,Badalona,2022-07-04,No,0,Àlex Ferrer
+C0498,Moda Família,Retail,Vallès Occidental,Sabadell,2020-07-13,Sí,23000,Ingrid Solé
+C0499,Roca Arquitectes,Oficinas,Vallès Oriental,Mollet,2013-11-23,Sí,14000,Ingrid Solé
+C0500,Institut Montseny Barcelona,Educación,Barcelonès,Barcelona,2019-07-02,No,0,Marta Camps
+C0501,Riera Group Mollet,Oficinas,Vallès Oriental,Mollet,2016-12-26,Sí,20000,Ingrid Solé
+C0502,Bar Els Amics,Restauración,Garraf,Sitges,2018-05-26,Sí,13000,Pau Riera
+C0503,Hotel Jardí Arenys,Hotel,Maresme,Arenys,2019-10-19,No,0,Laura Vidal
+C0504,Òptica Nova,Retail,Maresme,Mataró,2021-06-16,Sí,12000,Laura Vidal
+C0505,Fisioteràpia Sant Cugat,Sanitario,Vallès Occidental,Rubí,2024-05-02,Sí,12000,Ingrid Solé
+C0506,Escola Sol Ixent,Educación,Vallès Occidental,Rubí,2016-07-07,Sí,7000,Ingrid Solé
+C0507,Òptica Vallès Mollet,Retail,Vallès Oriental,Mollet,2014-04-06,No,0,Ingrid Solé
+C0508,Mobles Central,Retail,Vallès Oriental,Granollers,2021-05-22,Sí,21000,Ingrid Solé
+C0509,Col·legi Pau Casals Mataró,Educación,Maresme,Mataró,2013-10-03,Sí,12000,Laura Vidal
+C0510,Clínica Dental Gràcia,Sanitario,Vallès Occidental,Sabadell,2018-03-30,Sí,23000,Ingrid Solé
+C0511,Vidal Gestió,Oficinas,Barcelonès,Barcelona,2023-11-07,Sí,8000,Àlex Ferrer
+C0512,Pizzeria El Celler L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2023-06-12,No,0,Marta Camps
+C0513,Hotel Port Terrassa,Hotel,Vallès Occidental,Terrassa,2022-08-13,No,0,Ingrid Solé
+C0514,Coll Advocats,Oficinas,Maresme,Arenys,2024-07-07,No,0,Laura Vidal
+C0515,Serra Tech,Oficinas,Vallès Occidental,Terrassa,2022-07-25,Sí,15000,Ingrid Solé
+C0516,Puig Consultors,Oficinas,Baix Llobregat,Sant Boi,2022-10-16,Sí,27000,Pau Riera
+C0517,Hotel Ronda Terrassa,Hotel,Vallès Occidental,Terrassa,2012-10-14,No,0,Ingrid Solé
+C0518,Puig Logística,Oficinas,Barcelonès,Barcelona,2015-08-06,No,0,Marta Camps
+C0519,Fisioteràpia Diagonal,Sanitario,Baix Llobregat,Castelldefels,2024-03-29,Sí,23000,Pau Riera
+C0520,Brasseria El Port Mollet,Restauración,Vallès Oriental,Mollet,2018-05-30,Sí,21000,Ingrid Solé
+C0521,Forn Nord,Retail,Baix Llobregat,Castelldefels,2019-03-01,Sí,21000,Pau Riera
+C0522,Forn Central,Retail,Maresme,Arenys,2014-08-24,Sí,10000,Laura Vidal
+C0523,Llar d'Infants La Salle Nord Vilanova,Educación,Garraf,Vilanova,2017-04-24,No,0,Laura Vidal
+C0524,Llorens Advocats,Oficinas,Garraf,Vilanova,2013-09-21,Sí,14000,Pau Riera
+C0525,Clínica Dental Les Corts,Sanitario,Barcelonès,L'Hospitalet,2022-11-11,No,0,Marta Camps
+C0526,Hotel Nord Rubí,Hotel,Vallès Occidental,Rubí,2014-08-19,No,0,Ingrid Solé
+C0527,Hotel Llevant L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2022-01-25,Sí,35000,Marta Camps
+C0528,Hotel Les Arenes Barcelona,Hotel,Barcelonès,Barcelona,2024-08-30,No,0,Àlex Ferrer
+C0529,Esports Família Terrassa,Retail,Vallès Occidental,Terrassa,2022-05-06,Sí,18000,Ingrid Solé
+C0530,Vila Logística,Oficinas,Vallès Occidental,Terrassa,2024-04-16,Sí,12000,Ingrid Solé
+C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,Sant Cugat,2016-08-02,Sí,7000,Ingrid Solé
+C0532,Coll Gestió,Oficinas,Barcelonès,L'Hospitalet,2023-10-02,Sí,28000,Àlex Ferrer
+C0533,Bosch Assessors,Oficinas,Baix Llobregat,Castelldefels,2020-07-17,Sí,19000,Pau Riera
+C0534,Marín Assessors,Oficinas,Barcelonès,Barcelona,2018-11-19,No,0,Àlex Ferrer
+C0535,Roca Enginyeria,Oficinas,Vallès Oriental,Granollers,2019-10-31,No,0,Ingrid Solé
+C0536,Forn Clàssica Badalona,Retail,Barcelonès,Badalona,2023-07-11,No,0,Àlex Ferrer
+C0537,Pons Tech,Oficinas,Barcelonès,Badalona,2022-08-07,Sí,25000,Marta Camps
+C0538,Col·legi Els Til·lers Badalona,Educación,Barcelonès,Badalona,2017-10-01,Sí,15000,Àlex Ferrer
+C0539,Hotel Turó Arenys,Hotel,Maresme,Arenys,2024-08-22,Sí,30000,Laura Vidal
+C0540,Bar La Vinya Barcelona,Restauración,Barcelonès,Barcelona,2014-07-13,No,0,Àlex Ferrer
+C0541,Vila Enginyeria,Oficinas,Garraf,Sitges,2015-07-20,Sí,9000,Pau Riera
+C0542,Hotel Port Cardedeu,Hotel,Vallès Oriental,Cardedeu,2021-10-16,No,0,Ingrid Solé
+C0543,Llar d'Infants La Salle Nord Rubí,Educación,Vallès Occidental,Rubí,2021-01-17,No,0,Ingrid Solé
+C0544,Font Advocats,Oficinas,Barcelonès,L'Hospitalet,2019-04-22,Sí,29000,Àlex Ferrer
+C0545,Sala Logística,Oficinas,Barcelonès,L'Hospitalet,2014-09-11,Sí,19000,Marta Camps
+C0546,Esports Urbana Badalona,Retail,Barcelonès,Badalona,2016-12-01,No,0,Marta Camps
+C0547,Clínica Dental Diagonal,Sanitario,Vallès Occidental,Sant Cugat,2021-07-03,Sí,10000,Ingrid Solé
+C0548,Escola Pau Casals Premià,Educación,Maresme,Premià,2022-02-01,Sí,16000,Laura Vidal
+C0549,Restaurant La Lluna Badalona,Restauración,Barcelonès,Badalona,2020-08-29,No,0,Àlex Ferrer
+C0550,Forn Clàssica,Retail,Barcelonès,Barcelona,2016-12-09,No,0,Àlex Ferrer
+C0551,Brasseria Cal Ton L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2024-03-14,Sí,16000,Marta Camps
+C0552,Clínica Granollers,Sanitario,Garraf,Sitges,2016-08-05,Sí,24000,Pau Riera
+C0553,Marín Group,Oficinas,Barcelonès,L'Hospitalet,2024-01-14,Sí,11000,Àlex Ferrer
+C0554,Vidal Partners,Oficinas,Vallès Occidental,Terrassa,2015-09-01,No,0,Ingrid Solé
+C0555,Grau Arquitectes,Oficinas,Vallès Occidental,Sant Cugat,2020-03-25,Sí,16000,Ingrid Solé
+C0556,Col·legi La Salle Nord Badalona,Educación,Barcelonès,Badalona,2017-07-10,No,0,Marta Camps
+C0557,Hotel Els Pins L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2017-06-22,No,0,Àlex Ferrer
+C0558,Mobles Urbana,Retail,Vallès Occidental,Terrassa,2019-06-22,No,0,Ingrid Solé
+C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,Badalona,2014-04-13,Sí,16000,Marta Camps
+C0560,Bosch Partners,Oficinas,Garraf,Vilanova,2020-04-30,No,0,Pau Riera
+C0561,Serra Group,Oficinas,Vallès Oriental,Cardedeu,2016-07-29,No,0,Ingrid Solé
+C0562,Brasseria La Plaça Rubí,Restauración,Vallès Occidental,Rubí,2018-07-04,Sí,6000,Ingrid Solé
+C0563,Perfumeria Clàssica,Retail,Barcelonès,Barcelona,2021-07-01,No,0,Marta Camps
+C0564,Brasseria La Terrassa Terrassa,Restauración,Vallès Occidental,Terrassa,2023-04-29,Sí,21000,Ingrid Solé
+C0565,Hotel Ronda L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2018-03-18,No,0,Àlex Ferrer
+C0566,Hotel Sol de Mar Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2014-11-15,Sí,27000,Ingrid Solé
+C0567,Moda Del Mar Cardedeu,Retail,Vallès Oriental,Cardedeu,2016-06-06,No,0,Ingrid Solé
+C0568,Pons Consultors,Oficinas,Barcelonès,Badalona,2019-02-15,No,0,Marta Camps
+C0569,Hotel Jardí Sitges,Hotel,Garraf,Sitges,2013-12-28,No,0,Pau Riera
+C0570,Bosch Arquitectes,Oficinas,Barcelonès,L'Hospitalet,2024-04-17,No,0,Àlex Ferrer
+C0571,Navarro Partners,Oficinas,Vallès Occidental,Terrassa,2015-05-05,Sí,11000,Ingrid Solé
+C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,El Prat,2023-02-27,Sí,20000,Pau Riera
+C0573,Grau Gestió,Oficinas,Barcelonès,Badalona,2015-02-16,Sí,27000,Àlex Ferrer
+C0574,Puig Advocats,Oficinas,Barcelonès,Barcelona,2013-05-05,No,0,Marta Camps
+C0575,Botigues Plus El Prat,Retail,Baix Llobregat,El Prat,2020-09-01,Sí,20000,Pau Riera
+C0576,Centre Òptic Les Corts,Sanitario,Garraf,Sitges,2014-07-10,Sí,15000,Laura Vidal
+C0577,Fisioteràpia Mataró,Sanitario,Vallès Occidental,Sabadell,2022-06-15,Sí,14000,Ingrid Solé
+C0578,Hotel Turó Mataró,Hotel,Maresme,Mataró,2013-01-11,Sí,27000,Laura Vidal
+C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,Cornellà,2023-12-21,Sí,11000,Pau Riera
+C0580,Llibreria Vallès,Retail,Maresme,Arenys,2012-10-23,Sí,7000,Laura Vidal
+C0581,Acadèmia Ítaca Sant Boi,Educación,Baix Llobregat,Sant Boi,2012-07-23,Sí,14000,Pau Riera
+C0582,Mas Gestió,Oficinas,Baix Llobregat,Sant Boi,2013-09-17,Sí,23000,Pau Riera
+C0583,Pizzeria La Plaça Cornellà,Restauración,Baix Llobregat,Cornellà,2024-05-13,Sí,20000,Pau Riera
+C0584,Restaurant El Racó Sitges,Restauración,Garraf,Sitges,2020-05-07,No,0,Pau Riera
+C0585,Pons Logística,Oficinas,Baix Llobregat,El Prat,2024-09-18,Sí,8000,Pau Riera
+C0586,Sala Tech,Oficinas,Baix Llobregat,Cornellà,2015-11-09,Sí,29000,Pau Riera
+C0587,Vila Advocats,Oficinas,Vallès Oriental,Granollers,2021-01-17,Sí,17000,Ingrid Solé
+C0588,Hotel Cala L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2015-08-15,No,0,Àlex Ferrer
+C0589,Restaurant La Lluna L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2020-06-26,Sí,14000,Àlex Ferrer
+C0590,Casas Gestió,Oficinas,Vallès Occidental,Sant Cugat,2014-12-14,No,0,Ingrid Solé
+C0591,Marín Enginyeria,Oficinas,Vallès Occidental,Rubí,2019-05-25,No,0,Ingrid Solé
+C0592,Puig Advocats Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2018-03-20,Sí,9000,Pau Riera
+C0593,Ortega Advocats,Oficinas,Vallès Oriental,Cardedeu,2016-03-31,Sí,17000,Ingrid Solé
+C0594,Llar d'Infants Pau Casals Terrassa,Educación,Vallès Occidental,Terrassa,2019-05-16,Sí,6000,Ingrid Solé
+C0595,Restaurant El Molí Vilanova,Restauración,Garraf,Vilanova,2019-10-01,No,0,Pau Riera
+C0596,Sala Assessors Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2015-06-26,No,0,Pau Riera
+C0597,Marín Assessors Barcelona,Oficinas,Barcelonès,Barcelona,2018-05-05,No,0,Marta Camps
+C0598,Centre Òptic Mataró,Sanitario,Vallès Oriental,Cardedeu,2022-01-23,Sí,8000,Ingrid Solé
+C0599,Hotel Cala El Prat,Hotel,Baix Llobregat,El Prat,2018-06-20,No,0,Pau Riera
+C0600,Puig Consultors Rubí,Oficinas,Vallès Occidental,Rubí,2019-09-24,No,0,Ingrid Solé
+C0601,Riera Tech,Oficinas,Vallès Occidental,Sabadell,2013-10-08,Sí,29000,Ingrid Solé
+C0602,Bar Cal Ton Barcelona,Restauración,Barcelonès,Barcelona,2024-11-02,No,0,Àlex Ferrer
+C0603,Sala Enginyeria,Oficinas,Vallès Oriental,Granollers,2014-12-21,Sí,29000,Ingrid Solé
+C0604,Col·legi Pau Casals Badalona,Educación,Barcelonès,Badalona,2018-12-12,Sí,21000,Àlex Ferrer
+C0605,Hotel Brisa Alta L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2017-04-30,No,0,Marta Camps
+C0606,Soler Assessors,Oficinas,Vallès Occidental,Rubí,2021-06-01,Sí,12000,Ingrid Solé
+C0607,Acadèmia Collserola Premià,Educación,Maresme,Premià,2018-03-21,No,0,Laura Vidal
+C0608,Fisioteràpia Les Corts,Sanitario,Vallès Oriental,Mollet,2017-11-14,Sí,20000,Ingrid Solé
+C0609,Calçats Nord,Retail,Barcelonès,Barcelona,2022-11-07,Sí,20000,Marta Camps
+C0610,Hotel Portal Rubí,Hotel,Vallès Occidental,Rubí,2018-03-11,No,0,Ingrid Solé
+C0611,Hotel Turó Vilanova,Hotel,Garraf,Vilanova,2020-08-16,Sí,31000,Pau Riera
+C0612,Puig Logística Cornellà,Oficinas,Baix Llobregat,Cornellà,2015-07-24,No,0,Pau Riera
+C0613,Bar Els Amics Sitges,Restauración,Garraf,Sitges,2019-12-09,Sí,21000,Laura Vidal
+C0614,Ferrer Group,Oficinas,Baix Llobregat,Cornellà,2017-11-17,Sí,11000,Pau Riera
+C0615,Col·legi Pau Casals L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2014-11-07,Sí,10000,Àlex Ferrer
+C0616,Calçats Nova Cornellà,Retail,Baix Llobregat,Cornellà,2021-06-03,Sí,20000,Pau Riera
+C0617,Òptica Plus Sant Boi,Retail,Baix Llobregat,Sant Boi,2024-05-04,No,0,Pau Riera
+C0618,Ferreteria Nova Badalona,Retail,Barcelonès,Badalona,2018-08-31,No,0,Marta Camps
+C0619,Ferreteria Nova El Prat,Retail,Baix Llobregat,El Prat,2015-10-29,Sí,15000,Pau Riera
+C0620,Fisioteràpia Sitges,Sanitario,Barcelonès,Barcelona,2014-12-13,Sí,18000,Àlex Ferrer
+C0621,Pons Enginyeria Mollet,Oficinas,Vallès Oriental,Mollet,2016-03-27,No,0,Ingrid Solé
+C0622,Clínica Sitges Badalona,Sanitario,Barcelonès,Badalona,2020-12-19,No,0,Marta Camps
+C0623,Botigues Plus Castelldefels,Retail,Baix Llobregat,Castelldefels,2015-11-06,Sí,20000,Pau Riera
+C0624,Forn Vallès Badalona,Retail,Barcelonès,Badalona,2023-09-29,Sí,16000,Marta Camps
+C0625,Roca Consultors Castelldefels,Oficinas,Baix Llobregat,Castelldefels,2016-01-14,No,0,Pau Riera
+C0626,Ferreteria Plus L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2018-09-30,Sí,10000,Àlex Ferrer
+C0627,Roca Gestió Terrassa,Oficinas,Vallès Occidental,Terrassa,2016-09-05,No,0,Ingrid Solé
+C0628,Centre Òptic Badalona,Sanitario,Garraf,Vilanova,2018-09-25,No,0,Laura Vidal
+C0629,Hotel Costa Badalona,Hotel,Barcelonès,Badalona,2013-03-14,Sí,40000,Àlex Ferrer
+C0630,Grau Gestió Terrassa,Oficinas,Vallès Occidental,Terrassa,2021-01-10,No,0,Ingrid Solé
+C0631,Calçats Nord Vilanova,Retail,Garraf,Vilanova,2015-06-04,Sí,10000,Laura Vidal
+C0632,Sala Assessors,Oficinas,Baix Llobregat,Castelldefels,2017-07-29,Sí,18000,Pau Riera
+C0633,Hotel Plaça L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2018-06-18,Sí,18000,Marta Camps
+C0634,Llar d'Infants Collserola Rubí,Educación,Vallès Occidental,Rubí,2017-08-25,No,0,Ingrid Solé
+C0635,Hotel Les Arenes Terrassa,Hotel,Vallès Occidental,Terrassa,2016-03-01,No,0,Ingrid Solé
+C0636,Hotel Sol de Mar Mollet,Hotel,Vallès Oriental,Mollet,2024-02-27,No,0,Ingrid Solé
+C0637,Riera Enginyeria Badalona,Oficinas,Barcelonès,Badalona,2022-06-25,No,0,Àlex Ferrer
+C0638,Bar El Celler Vilanova,Restauración,Garraf,Vilanova,2014-11-24,No,0,Laura Vidal
+C0639,Institut Pau Casals Vilanova,Educación,Garraf,Vilanova,2021-09-18,Sí,9000,Laura Vidal
+C0640,Clínica Mataró,Sanitario,Barcelonès,Barcelona,2018-04-07,Sí,20000,Marta Camps
+C0641,Grau Group Cornellà,Oficinas,Baix Llobregat,Cornellà,2024-05-12,Sí,20000,Pau Riera
+C0642,Navarro Tech,Oficinas,Vallès Occidental,Sabadell,2014-09-14,No,0,Ingrid Solé
+C0643,Hotel Costa Cornellà,Hotel,Baix Llobregat,Cornellà,2016-11-01,No,0,Pau Riera
+C0644,Bar Cal Ton Premià,Restauración,Maresme,Premià,2023-01-02,Sí,20000,Laura Vidal
+C0645,Botigues Nord Terrassa,Retail,Vallès Occidental,Terrassa,2018-06-19,No,0,Ingrid Solé
+C0646,Perfumeria Urbana Vilanova,Retail,Garraf,Vilanova,2022-06-03,No,0,Pau Riera
+C0647,Laboratori Sant Cugat,Sanitario,Garraf,Vilanova,2024-07-21,Sí,7000,Pau Riera
+C0648,Mobles Nova Arenys,Retail,Maresme,Arenys,2016-05-29,Sí,23000,Laura Vidal
+C0649,Hotel Portal Mollet,Hotel,Vallès Oriental,Mollet,2022-01-28,Sí,20000,Ingrid Solé
+C0650,Fisioteràpia Mataró Cornellà,Sanitario,Baix Llobregat,Cornellà,2018-09-24,Sí,21000,Pau Riera
+C0651,Hotel Jardí Cardedeu,Hotel,Vallès Oriental,Cardedeu,2014-10-02,No,0,Ingrid Solé
+C0652,Restaurant La Plaça Arenys,Restauración,Maresme,Arenys,2018-07-21,Sí,21000,Laura Vidal
+C0653,Centre Òptic Sitges Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2015-02-07,No,0,Ingrid Solé
+C0654,Llar d'Infants Can Mas Rubí,Educación,Vallès Occidental,Rubí,2022-01-20,No,0,Ingrid Solé
+C0655,Coll Gestió Badalona,Oficinas,Barcelonès,Badalona,2024-10-26,No,0,Àlex Ferrer
+C0656,Llar d'Infants Els Til·lers L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2013-02-14,No,0,Àlex Ferrer
+C0657,Centre Mèdic Sant Gervasi,Sanitario,Vallès Occidental,Sant Cugat,2018-04-05,Sí,15000,Ingrid Solé
+C0658,Casas Partners Mollet,Oficinas,Vallès Oriental,Mollet,2014-10-18,No,0,Ingrid Solé
+C0659,Vila Arquitectes Granollers,Oficinas,Vallès Oriental,Granollers,2012-05-09,Sí,9000,Ingrid Solé
+C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,Rubí,2022-03-28,Sí,7000,Ingrid Solé
+C0661,Fisioteràpia Sitges Cornellà,Sanitario,Baix Llobregat,Cornellà,2014-07-22,Sí,9000,Pau Riera
+C0662,Centre Òptic Mataró Rubí,Sanitario,Vallès Occidental,Rubí,2020-03-18,Sí,22000,Ingrid Solé
+C0663,Hotel Brisa Alta Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2023-10-08,Sí,40000,Ingrid Solé
+C0664,Llar d'Infants Sol Ixent Rubí,Educación,Vallès Occidental,Rubí,2024-01-14,No,0,Ingrid Solé
+C0665,Bar Can Pere Badalona,Restauración,Barcelonès,Badalona,2024-04-24,Sí,20000,Marta Camps
+C0666,Pons Logística Barcelona,Oficinas,Barcelonès,Barcelona,2015-10-12,No,0,Marta Camps
+C0667,Clínica Granollers L'Hospitalet,Sanitario,Barcelonès,L'Hospitalet,2014-12-15,Sí,13000,Marta Camps
+C0668,Hotel Montjuïc Badalona,Hotel,Barcelonès,Badalona,2016-01-27,Sí,20000,Marta Camps
+C0669,Laboratori Badalona,Sanitario,Barcelonès,Badalona,2012-04-04,No,0,Marta Camps
+C0670,Clínica Terrassa Granollers,Sanitario,Vallès Oriental,Granollers,2020-05-29,No,0,Ingrid Solé
+C0671,Moda Família El Prat,Retail,Baix Llobregat,El Prat,2018-04-26,Sí,24000,Pau Riera
+C0672,Calçats Central Barcelona,Retail,Barcelonès,Barcelona,2022-11-21,Sí,22000,Àlex Ferrer
+C0673,Laboratori Rubí Sabadell,Sanitario,Vallès Occidental,Sabadell,2014-07-21,No,0,Ingrid Solé
+C0674,Acadèmia Ítaca Mataró,Educación,Maresme,Mataró,2022-06-06,Sí,15000,Laura Vidal
+C0675,Bar El Molí Mataró,Restauración,Maresme,Mataró,2019-09-25,Sí,24000,Laura Vidal
+C0676,Calçats Nova Premià,Retail,Maresme,Premià,2019-04-29,Sí,15000,Laura Vidal
+C0677,Hotel Costa Castelldefels,Hotel,Baix Llobregat,Castelldefels,2022-07-02,Sí,27000,Pau Riera
+C0678,Moda Plus Cornellà,Retail,Baix Llobregat,Cornellà,2014-10-21,Sí,20000,Pau Riera
+C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,Barcelona,2016-05-23,Sí,17000,Àlex Ferrer
+C0680,Hotel Rambla Barcelona,Hotel,Barcelonès,Barcelona,2016-12-28,Sí,37000,Àlex Ferrer
+C0681,Hotel Portal Vilanova,Hotel,Garraf,Vilanova,2015-08-22,Sí,32000,Pau Riera
+C0682,Llar d'Infants Can Mas L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2015-05-02,No,0,Marta Camps
+C0683,Col·legi Collserola El Prat,Educación,Baix Llobregat,El Prat,2016-11-08,No,0,Pau Riera
+C0684,Mobles Sant Jordi Sant Cugat,Retail,Vallès Occidental,Sant Cugat,2023-07-30,Sí,20000,Ingrid Solé
+C0685,Llibreria Família Sabadell,Retail,Vallès Occidental,Sabadell,2015-01-10,No,0,Ingrid Solé
+C0686,Llar d'Infants Pau Casals Badalona,Educación,Barcelonès,Badalona,2015-01-03,Sí,9000,Àlex Ferrer
+C0687,Hotel Port L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2014-11-13,Sí,18000,Marta Camps
+C0688,Pizzeria Cal Ton Cardedeu,Restauración,Vallès Oriental,Cardedeu,2024-10-07,Sí,8000,Ingrid Solé
+C0689,Moda Central Sitges,Retail,Garraf,Sitges,2021-11-15,Sí,18000,Laura Vidal
+C0690,Perfumeria Nord Rubí,Retail,Vallès Occidental,Rubí,2022-09-09,No,0,Ingrid Solé
+C0691,Moda Del Mar Sabadell,Retail,Vallès Occidental,Sabadell,2023-12-06,Sí,17000,Ingrid Solé
+C0692,Hotel Port El Prat,Hotel,Baix Llobregat,El Prat,2015-11-25,Sí,37000,Pau Riera
+C0693,Clínica Granollers Granollers,Sanitario,Vallès Oriental,Granollers,2018-10-02,Sí,11000,Ingrid Solé
+C0694,Hotel Sol de Mar Vilanova,Hotel,Garraf,Vilanova,2020-10-27,Sí,18000,Pau Riera
+C0695,Coll Tech Sabadell,Oficinas,Vallès Occidental,Sabadell,2013-10-03,No,0,Ingrid Solé
+C0696,Òptica Clàssica Cornellà,Retail,Baix Llobregat,Cornellà,2012-02-25,No,0,Pau Riera
+C0697,Moda Nord L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2016-09-25,Sí,12000,Àlex Ferrer
+C0698,Brasseria Els Amics L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2018-05-26,No,0,Marta Camps
+C0699,Hotel Ronda Badalona,Hotel,Barcelonès,Badalona,2022-07-07,No,0,Marta Camps
+C0700,Acadèmia Montseny L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2021-07-25,Sí,8000,Àlex Ferrer
+C0701,Escola Els Til·lers Vilanova,Educación,Garraf,Vilanova,2015-06-25,No,0,Laura Vidal
+C0702,Llibreria Del Mar Badalona,Retail,Barcelonès,Badalona,2022-06-23,Sí,7000,Marta Camps
+C0703,Hotel Montjuïc Terrassa,Hotel,Vallès Occidental,Terrassa,2017-03-06,Sí,35000,Ingrid Solé
+C0704,Esports Nord Vilanova,Retail,Garraf,Vilanova,2019-08-25,No,0,Pau Riera
+C0705,Coll Arquitectes L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2013-08-19,No,0,Àlex Ferrer
+C0706,Bar El Celler Premià,Restauración,Maresme,Premià,2018-06-23,Sí,9000,Laura Vidal
+C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,Cardedeu,2020-08-31,Sí,22000,Ingrid Solé
+C0708,Pizzeria Can Pere Terrassa,Restauración,Vallès Occidental,Terrassa,2021-07-21,Sí,9000,Ingrid Solé
+C0709,Coll Partners Terrassa,Oficinas,Vallès Occidental,Terrassa,2023-12-05,Sí,16000,Ingrid Solé
+C0710,Coll Consultors Premià,Oficinas,Maresme,Premià,2015-04-02,No,0,Laura Vidal
+C0711,Hotel Brisa Alta Barcelona,Hotel,Barcelonès,Barcelona,2024-04-18,No,0,Àlex Ferrer
+C0712,Coll Consultors L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2014-03-07,No,0,Marta Camps
+C0713,Moda Nova L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2012-03-30,Sí,14000,Marta Camps
+C0714,Ortega Advocats Terrassa,Oficinas,Vallès Occidental,Terrassa,2016-08-20,Sí,16000,Ingrid Solé
+C0715,Restaurant Can Pere L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2013-03-26,No,0,Marta Camps
+C0716,Sala Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2023-12-20,No,0,Àlex Ferrer
+C0717,Fisioteràpia Diagonal Badalona,Sanitario,Barcelonès,Badalona,2016-05-30,No,0,Àlex Ferrer
+C0718,Mas Gestió Vilanova,Oficinas,Garraf,Vilanova,2013-06-23,Sí,23000,Pau Riera
+C0719,Pons Logística Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2021-04-13,No,0,Ingrid Solé
+C0720,Llar d'Infants Turó Blau Barcelona,Educación,Barcelonès,Barcelona,2021-05-10,No,0,Marta Camps
+C0721,Centre Mèdic Badalona Rubí,Sanitario,Vallès Occidental,Rubí,2024-06-29,Sí,10000,Ingrid Solé
+C0722,Bar Els Amics Terrassa,Restauración,Vallès Occidental,Terrassa,2021-04-26,Sí,17000,Ingrid Solé
+C0723,Escola Turó Blau Mollet,Educación,Vallès Oriental,Mollet,2012-08-27,Sí,19000,Ingrid Solé
+C0724,Hotel Montjuïc Barcelona,Hotel,Barcelonès,Barcelona,2024-04-04,No,0,Àlex Ferrer
+C0725,Bar La Terrassa Cornellà,Restauración,Baix Llobregat,Cornellà,2014-05-04,No,0,Pau Riera
+C0726,Ortega Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2016-02-27,Sí,26000,Marta Camps
+C0727,Centre Mèdic Les Corts Barcelona,Sanitario,Barcelonès,Barcelona,2014-03-20,No,0,Àlex Ferrer
+C0728,Forn Clàssica Vilanova,Retail,Garraf,Vilanova,2018-07-15,Sí,6000,Laura Vidal
+C0729,Grau Enginyeria Mollet,Oficinas,Vallès Oriental,Mollet,2017-04-13,Sí,9000,Ingrid Solé
+C0730,Hotel Rambla L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2018-11-13,Sí,32000,Àlex Ferrer
+C0731,Òptica Plus Barcelona,Retail,Barcelonès,Barcelona,2024-07-20,Sí,15000,Àlex Ferrer
+C0732,Pizzeria La Plaça Rubí,Restauración,Vallès Occidental,Rubí,2017-07-30,No,0,Ingrid Solé
+C0733,Llibreria Clàssica Mollet,Retail,Vallès Oriental,Mollet,2019-04-17,Sí,12000,Ingrid Solé
+C0734,Llorens Partners L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2020-11-11,No,0,Àlex Ferrer
+C0735,Hotel Nord Badalona,Hotel,Barcelonès,Badalona,2014-05-06,Sí,39000,Àlex Ferrer
+C0736,Cafeteria El Celler Premià,Restauración,Maresme,Premià,2012-07-20,Sí,21000,Laura Vidal
+C0737,Pizzeria El Port Sitges,Restauración,Garraf,Sitges,2020-02-18,Sí,11000,Pau Riera
+C0738,Navarro Consultors Mollet,Oficinas,Vallès Oriental,Mollet,2022-09-11,Sí,20000,Ingrid Solé
+C0739,Cafeteria Can Jordi Badalona,Restauración,Barcelonès,Badalona,2024-05-24,Sí,12000,Àlex Ferrer
+C0740,Institut Els Til·lers Sant Boi,Educación,Baix Llobregat,Sant Boi,2020-12-23,No,0,Pau Riera
+C0741,Hotel Els Pins Premià,Hotel,Maresme,Premià,2018-11-15,Sí,34000,Laura Vidal
+C0742,Llorens Logística Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2020-06-18,No,0,Pau Riera
+C0743,Sala Arquitectes Mataró,Oficinas,Maresme,Mataró,2024-02-19,Sí,30000,Laura Vidal
+C0744,Hotel Plaça Arenys,Hotel,Maresme,Arenys,2020-01-03,No,0,Laura Vidal
+C0745,Clínica Dental Gràcia Granollers,Sanitario,Vallès Oriental,Granollers,2024-01-16,Sí,17000,Ingrid Solé
+C0746,Escola La Salle Nord Badalona,Educación,Barcelonès,Badalona,2017-03-11,Sí,16000,Àlex Ferrer
+C0747,Pizzeria El Celler Sabadell,Restauración,Vallès Occidental,Sabadell,2016-11-21,Sí,9000,Ingrid Solé
+C0748,Col·legi Sol Ixent Sant Boi,Educación,Baix Llobregat,Sant Boi,2017-05-07,No,0,Pau Riera
+C0749,Calçats Nord Sabadell,Retail,Vallès Occidental,Sabadell,2022-05-14,Sí,24000,Ingrid Solé
+C0750,Coll Consultors Badalona,Oficinas,Barcelonès,Badalona,2020-01-09,Sí,19000,Marta Camps
+C0751,Hotel Turó Badalona,Hotel,Barcelonès,Badalona,2022-05-05,Sí,37000,Àlex Ferrer
+C0752,Soler Consultors Arenys,Oficinas,Maresme,Arenys,2019-10-11,Sí,10000,Laura Vidal
+C0753,Hotel Portal Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2013-06-26,Sí,30000,Ingrid Solé
+C0754,Vila Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2014-02-17,No,0,Àlex Ferrer
+C0755,Navarro Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2015-07-07,No,0,Àlex Ferrer
+C0756,Marín Advocats Arenys,Oficinas,Maresme,Arenys,2021-06-08,No,0,Laura Vidal
+C0757,Institut Turó Blau Sant Boi,Educación,Baix Llobregat,Sant Boi,2015-12-14,Sí,7000,Pau Riera
+C0758,Institut Mediterrània Badalona,Educación,Barcelonès,Badalona,2024-06-28,Sí,24000,Àlex Ferrer
+C0759,Mas Group Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2019-12-14,Sí,20000,Pau Riera
+C0760,Botigues Nord Cornellà,Retail,Baix Llobregat,Cornellà,2015-10-28,Sí,9000,Pau Riera
+C0761,Fisioteràpia Rubí Mollet,Sanitario,Vallès Oriental,Mollet,2020-08-29,No,0,Ingrid Solé
+C0762,Hotel Montjuïc Sant Boi,Hotel,Baix Llobregat,Sant Boi,2024-07-18,Sí,30000,Pau Riera
+C0763,Acadèmia Turó Blau Rubí,Educación,Vallès Occidental,Rubí,2021-09-07,No,0,Ingrid Solé
+C0764,Òptica Vallès Terrassa,Retail,Vallès Occidental,Terrassa,2022-01-28,No,0,Ingrid Solé
+C0765,Hotel Port Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2022-07-13,Sí,22000,Ingrid Solé
+C0766,Marín Arquitectes El Prat,Oficinas,Baix Llobregat,El Prat,2024-06-29,Sí,25000,Pau Riera
+C0767,Llar d'Infants Ítaca Sabadell,Educación,Vallès Occidental,Sabadell,2018-03-27,Sí,12000,Ingrid Solé
+C0768,Cafeteria El Port Mataró,Restauración,Maresme,Mataró,2018-01-18,No,0,Laura Vidal
+C0769,Casas Arquitectes Mollet,Oficinas,Vallès Oriental,Mollet,2012-12-05,No,0,Ingrid Solé
+C0770,Moda Nord Mataró,Retail,Maresme,Mataró,2022-08-21,Sí,24000,Laura Vidal
+C0771,Centre Mèdic Sabadell Terrassa,Sanitario,Vallès Occidental,Terrassa,2023-08-15,Sí,21000,Ingrid Solé
+C0772,Brasseria La Lluna Cornellà,Restauración,Baix Llobregat,Cornellà,2019-09-02,Sí,19000,Pau Riera
+C0773,Hotel Marina Granollers,Hotel,Vallès Oriental,Granollers,2015-02-21,Sí,40000,Ingrid Solé
+C0774,Moda Sant Jordi Barcelona,Retail,Barcelonès,Barcelona,2021-06-25,No,0,Marta Camps
+C0775,Botigues Nord Badalona,Retail,Barcelonès,Badalona,2013-04-03,Sí,11000,Àlex Ferrer
+C0776,Òptica Nova Sant Cugat,Retail,Vallès Occidental,Sant Cugat,2022-03-01,Sí,18000,Ingrid Solé
+C0777,Centre Òptic Diagonal El Prat,Sanitario,Baix Llobregat,El Prat,2022-03-24,No,0,Pau Riera
+C0778,Sala Gestió Mataró,Oficinas,Maresme,Mataró,2014-02-21,Sí,16000,Laura Vidal
+C0779,Calçats Urbana Rubí,Retail,Vallès Occidental,Rubí,2022-05-28,Sí,8000,Ingrid Solé
+C0780,Roca Group Cornellà,Oficinas,Baix Llobregat,Cornellà,2021-02-28,No,0,Pau Riera
+C0781,Centre Mèdic Terrassa Terrassa,Sanitario,Vallès Occidental,Terrassa,2018-11-12,Sí,13000,Ingrid Solé
+C0782,Hotel Vela Vilanova,Hotel,Garraf,Vilanova,2021-11-25,No,0,Laura Vidal
+C0783,Llar d'Infants Montseny L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2022-05-04,Sí,18000,Àlex Ferrer
+C0784,Hotel Portal Castelldefels,Hotel,Baix Llobregat,Castelldefels,2019-08-01,Sí,19000,Pau Riera
+C0785,Hotel Rambla Badalona,Hotel,Barcelonès,Badalona,2024-09-06,Sí,22000,Marta Camps
+C0786,Mas Group Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2016-07-29,Sí,11000,Ingrid Solé
+C0787,Hotel Els Pins Arenys,Hotel,Maresme,Arenys,2019-11-08,No,0,Laura Vidal
+C0788,Hotel Brisa Alta Castelldefels,Hotel,Baix Llobregat,Castelldefels,2022-11-02,Sí,39000,Pau Riera
+C0789,Clínica Diagonal Cornellà,Sanitario,Baix Llobregat,Cornellà,2021-06-24,Sí,19000,Pau Riera
+C0790,Esports Urbana Terrassa,Retail,Vallès Occidental,Terrassa,2022-05-09,No,0,Ingrid Solé
+C0791,Brasseria El Port Barcelona,Restauración,Barcelonès,Barcelona,2012-02-24,No,0,Àlex Ferrer
+C0792,Centre Òptic Mataró Sitges,Sanitario,Garraf,Sitges,2013-04-05,No,0,Laura Vidal
+C0793,Ferreteria Plus Barcelona,Retail,Barcelonès,Barcelona,2016-03-04,No,0,Marta Camps
+C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,Granollers,2014-05-19,Sí,32000,Ingrid Solé
+C0795,Laboratori Gràcia Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2014-11-12,Sí,19000,Ingrid Solé
+C0796,Ortega Consultors Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2015-02-21,Sí,19000,Ingrid Solé
+C0797,Hotel Port Barcelona,Hotel,Barcelonès,Barcelona,2013-12-10,No,0,Àlex Ferrer
+C0798,Cafeteria Can Jordi Sitges,Restauración,Garraf,Sitges,2020-01-16,Sí,20000,Laura Vidal
+C0799,Forn Central Barcelona,Retail,Barcelonès,Barcelona,2020-09-28,Sí,20000,Marta Camps
+C0800,Forn Urbana Terrassa,Retail,Vallès Occidental,Terrassa,2019-01-19,No,0,Ingrid Solé
+C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2014-05-08,Sí,25000,Ingrid Solé
+C0802,Esports Nord Barcelona,Retail,Barcelonès,Barcelona,2022-05-01,No,0,Marta Camps
+C0803,Restaurant Can Pere Granollers,Restauración,Vallès Oriental,Granollers,2024-04-05,No,0,Ingrid Solé
+C0804,Hotel Mirador Badalona,Hotel,Barcelonès,Badalona,2017-12-06,Sí,17000,Àlex Ferrer
+C0805,Casas Consultors Terrassa,Oficinas,Vallès Occidental,Terrassa,2019-12-15,Sí,9000,Ingrid Solé
+C0806,Ortega Arquitectes Barcelona,Oficinas,Barcelonès,Barcelona,2015-08-04,Sí,27000,Marta Camps
+C0807,Col·legi Ítaca Barcelona,Educación,Barcelonès,Barcelona,2023-02-14,Sí,16000,Marta Camps
+C0808,Pons Gestió El Prat,Oficinas,Baix Llobregat,El Prat,2013-12-19,Sí,15000,Pau Riera
+C0809,Hotel Ronda Barcelona,Hotel,Barcelonès,Barcelona,2012-09-29,No,0,Àlex Ferrer
+C0810,Serra Gestió Vilanova,Oficinas,Garraf,Vilanova,2024-02-12,No,0,Laura Vidal
+C0811,Hotel Portal L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2015-03-18,No,0,Àlex Ferrer
+C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,Vilanova,2024-09-29,Sí,18000,Pau Riera
+C0813,Fisioteràpia Granollers Mataró,Sanitario,Maresme,Mataró,2020-02-10,No,0,Laura Vidal
+C0814,Bar La Plaça Mollet,Restauración,Vallès Oriental,Mollet,2022-12-22,Sí,10000,Ingrid Solé
+C0815,Hotel Rambla Sitges,Hotel,Garraf,Sitges,2023-04-21,Sí,28000,Laura Vidal
+C0816,Perfumeria Sant Jordi L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2017-01-29,No,0,Marta Camps
+C0817,Casas Partners Sabadell,Oficinas,Vallès Occidental,Sabadell,2014-12-12,Sí,28000,Ingrid Solé
+C0818,Vila Assessors Granollers,Oficinas,Vallès Oriental,Granollers,2024-11-03,Sí,19000,Ingrid Solé
+C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,Sabadell,2018-10-03,Sí,13000,Ingrid Solé
+C0820,Esports Plus Sant Cugat,Retail,Vallès Occidental,Sant Cugat,2019-07-22,No,0,Ingrid Solé
+C0821,Esports Família Barcelona,Retail,Barcelonès,Barcelona,2016-03-20,Sí,23000,Marta Camps
+C0822,Vidal Group Cornellà,Oficinas,Baix Llobregat,Cornellà,2012-08-09,No,0,Pau Riera
+C0823,Centre Mèdic Terrassa Sabadell,Sanitario,Vallès Occidental,Sabadell,2023-01-17,No,0,Ingrid Solé
+C0824,Font Advocats Premià,Oficinas,Maresme,Premià,2014-04-06,No,0,Laura Vidal
+C0825,Hotel Les Arenes Cornellà,Hotel,Baix Llobregat,Cornellà,2023-11-29,No,0,Pau Riera
+C0826,Vila Enginyeria Badalona,Oficinas,Barcelonès,Badalona,2019-07-10,Sí,10000,Marta Camps
+C0827,Clínica Dental Badalona Sabadell,Sanitario,Vallès Occidental,Sabadell,2019-03-10,Sí,23000,Ingrid Solé
+C0828,Esports Plus L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2022-03-12,No,0,Àlex Ferrer
+C0829,Puig Arquitectes Mollet,Oficinas,Vallès Oriental,Mollet,2012-08-16,Sí,20000,Ingrid Solé
+C0830,Hotel Plaça Castelldefels,Hotel,Baix Llobregat,Castelldefels,2024-09-15,Sí,22000,Pau Riera
+C0831,Institut Montseny Sant Boi,Educación,Baix Llobregat,Sant Boi,2015-02-26,No,0,Pau Riera
+C0832,Hotel Vela L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2016-07-19,Sí,30000,Marta Camps
+C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,Cornellà,2017-11-16,Sí,7000,Pau Riera
+C0834,Hotel Rambla Mollet,Hotel,Vallès Oriental,Mollet,2024-01-24,No,0,Ingrid Solé
+C0835,Cafeteria Cal Ton Badalona,Restauración,Barcelonès,Badalona,2015-09-11,No,0,Marta Camps
+C0836,Puig Enginyeria Premià,Oficinas,Maresme,Premià,2013-10-04,No,0,Laura Vidal
+C0837,Font Group Cornellà,Oficinas,Baix Llobregat,Cornellà,2020-08-25,No,0,Pau Riera
+C0838,Serra Logística Granollers,Oficinas,Vallès Oriental,Granollers,2017-05-09,No,0,Ingrid Solé
+C0839,Calçats Vallès Castelldefels,Retail,Baix Llobregat,Castelldefels,2023-08-14,No,0,Pau Riera
+C0840,Òptica Clàssica Premià,Retail,Maresme,Premià,2020-04-12,Sí,9000,Laura Vidal
+C0841,Casas Consultors Mataró,Oficinas,Maresme,Mataró,2012-06-27,No,0,Laura Vidal
+C0842,Institut Mediterrània Sabadell,Educación,Vallès Occidental,Sabadell,2023-04-10,Sí,15000,Ingrid Solé
+C0843,Clínica Dental Mataró Badalona,Sanitario,Barcelonès,Badalona,2024-03-26,Sí,13000,Marta Camps
+C0844,Col·legi Montseny Vilanova,Educación,Garraf,Vilanova,2014-12-11,No,0,Pau Riera
+C0845,Vidal Tech Badalona,Oficinas,Barcelonès,Badalona,2012-06-30,No,0,Marta Camps
+C0846,Riera Group Badalona,Oficinas,Barcelonès,Badalona,2014-12-29,Sí,29000,Àlex Ferrer
+C0847,Hotel Mirador Rubí,Hotel,Vallès Occidental,Rubí,2015-03-15,No,0,Ingrid Solé
+C0848,Brasseria La Terrassa L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2018-04-17,No,0,Marta Camps
+C0849,Hotel Les Arenes Rubí,Hotel,Vallès Occidental,Rubí,2023-05-17,No,0,Ingrid Solé
+C0850,Fisioteràpia Sant Gervasi Badalona,Sanitario,Barcelonès,Badalona,2018-05-19,No,0,Àlex Ferrer
+C0851,Hotel Sant Pere L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2018-06-03,No,0,Marta Camps
+C0852,Acadèmia Montseny Castelldefels,Educación,Baix Llobregat,Castelldefels,2016-01-25,No,0,Pau Riera
+C0853,Restaurant La Terrassa Cornellà,Restauración,Baix Llobregat,Cornellà,2018-05-20,Sí,20000,Pau Riera
+C0854,Riera Enginyeria Sitges,Oficinas,Garraf,Sitges,2019-01-21,No,0,Laura Vidal
+C0855,Col·legi Sol Ixent Terrassa,Educación,Vallès Occidental,Terrassa,2022-01-13,Sí,23000,Ingrid Solé
+C0856,Mobles Sant Jordi Sabadell,Retail,Vallès Occidental,Sabadell,2021-10-17,Sí,16000,Ingrid Solé
+C0857,Brasseria El Molí Mollet,Restauración,Vallès Oriental,Mollet,2017-08-28,No,0,Ingrid Solé
+C0858,Forn Del Mar Barcelona,Retail,Barcelonès,Barcelona,2015-12-08,No,0,Marta Camps
+C0859,Centre Òptic Diagonal Premià,Sanitario,Maresme,Premià,2020-05-07,No,0,Laura Vidal
+C0860,Hotel Llevant Rubí,Hotel,Vallès Occidental,Rubí,2017-02-07,Sí,28000,Ingrid Solé
+C0861,Hotel Plaça Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2015-12-18,No,0,Ingrid Solé
+C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2022-06-23,Sí,16000,Marta Camps
+C0863,Hotel Turó Granollers,Hotel,Vallès Oriental,Granollers,2019-01-16,No,0,Ingrid Solé
+C0864,Ferrer Gestió Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2024-08-29,Sí,12000,Ingrid Solé
+C0865,Col·legi La Salle Nord Arenys,Educación,Maresme,Arenys,2024-01-10,Sí,19000,Laura Vidal
+C0866,Calçats Nord L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2023-04-09,Sí,13000,Marta Camps
+C0867,Roca Gestió Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2014-12-29,Sí,24000,Pau Riera
+C0868,Hotel Nord Premià,Hotel,Maresme,Premià,2016-01-13,No,0,Laura Vidal
+C0869,Riera Group Mataró,Oficinas,Maresme,Mataró,2013-11-29,Sí,15000,Laura Vidal
+C0870,Acadèmia Els Til·lers Sant Cugat,Educación,Vallès Occidental,Sant Cugat,2019-10-21,Sí,9000,Ingrid Solé
+C0871,Escola La Salle Nord Sabadell,Educación,Vallès Occidental,Sabadell,2017-04-19,Sí,12000,Ingrid Solé
+C0872,Forn Del Mar Sitges,Retail,Garraf,Sitges,2013-01-26,Sí,10000,Pau Riera
+C0873,Centre Òptic Badalona Granollers,Sanitario,Vallès Oriental,Granollers,2019-02-04,No,0,Ingrid Solé
+C0874,Hotel Mirador Mataró,Hotel,Maresme,Mataró,2022-10-02,Sí,40000,Laura Vidal
+C0875,Hotel Turó L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2013-03-24,Sí,39000,Àlex Ferrer
+C0876,Cafeteria La Vinya Cardedeu,Restauración,Vallès Oriental,Cardedeu,2012-11-10,No,0,Ingrid Solé
+C0877,Brasseria Can Pere L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2023-10-17,No,0,Marta Camps
+C0878,Cafeteria El Racó Badalona,Restauración,Barcelonès,Badalona,2015-07-02,Sí,17000,Àlex Ferrer
+C0879,Òptica Clàssica Rubí,Retail,Vallès Occidental,Rubí,2014-02-25,Sí,23000,Ingrid Solé
+C0880,Bar Els Amics Arenys,Restauración,Maresme,Arenys,2013-09-24,Sí,18000,Laura Vidal
+C0881,Soler Logística Badalona,Oficinas,Barcelonès,Badalona,2024-01-16,No,0,Àlex Ferrer
+C0882,Restaurant El Molí Badalona,Restauración,Barcelonès,Badalona,2022-09-14,Sí,14000,Marta Camps
+C0883,Marín Gestió Sitges,Oficinas,Garraf,Sitges,2017-06-19,No,0,Laura Vidal
+C0884,Grau Advocats Mataró,Oficinas,Maresme,Mataró,2020-09-20,Sí,20000,Laura Vidal
+C0885,Fisioteràpia Sabadell El Prat,Sanitario,Baix Llobregat,El Prat,2016-09-23,Sí,14000,Pau Riera
+C0886,Hotel Sol de Mar Cardedeu,Hotel,Vallès Oriental,Cardedeu,2014-06-14,No,0,Ingrid Solé
+C0887,Font Enginyeria Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2018-06-12,Sí,26000,Ingrid Solé
+C0888,Esports Central Barcelona,Retail,Barcelonès,Barcelona,2024-06-01,No,0,Àlex Ferrer
+C0889,Soler Consultors Cornellà,Oficinas,Baix Llobregat,Cornellà,2017-01-04,Sí,14000,Pau Riera
+C0890,Vidal Arquitectes L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2019-07-20,Sí,25000,Marta Camps
+C0891,Serra Arquitectes L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2022-03-01,No,0,Marta Camps
+C0892,Font Tech Arenys,Oficinas,Maresme,Arenys,2012-01-10,Sí,9000,Laura Vidal
+C0893,Laboratori Les Corts Barcelona,Sanitario,Barcelonès,Barcelona,2016-01-06,No,0,Marta Camps
+C0894,Ferreteria Nova Sant Boi,Retail,Baix Llobregat,Sant Boi,2024-03-09,Sí,18000,Pau Riera
+C0895,Ortega Partners Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2019-01-04,Sí,28000,Pau Riera
+C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,Sitges,2015-10-16,Sí,15000,Pau Riera
+C0897,Ferreteria Sant Jordi Badalona,Retail,Barcelonès,Badalona,2022-03-13,No,0,Marta Camps
+C0898,Llorens Consultors L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2015-05-22,No,0,Marta Camps
+C0899,Bar Can Jordi Sabadell,Restauración,Vallès Occidental,Sabadell,2016-12-16,Sí,24000,Ingrid Solé
+C0900,Soler Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2012-04-14,No,0,Àlex Ferrer
+C0901,Hotel Llevant Terrassa,Hotel,Vallès Occidental,Terrassa,2017-09-27,Sí,36000,Ingrid Solé
+C0902,Moda Sant Jordi Rubí,Retail,Vallès Occidental,Rubí,2015-04-01,Sí,18000,Ingrid Solé
+C0903,Centre Òptic Sitges Badalona,Sanitario,Barcelonès,Badalona,2023-06-06,Sí,16000,Marta Camps
+C0904,Puig Tech Premià,Oficinas,Maresme,Premià,2018-03-05,No,0,Laura Vidal
+C0905,Hotel Marina Badalona,Hotel,Barcelonès,Badalona,2014-04-22,No,0,Marta Camps
+C0906,Hotel Vela Cardedeu,Hotel,Vallès Oriental,Cardedeu,2014-04-23,Sí,35000,Ingrid Solé
+C0907,Òptica Del Mar Arenys,Retail,Maresme,Arenys,2024-10-30,No,0,Laura Vidal
+C0908,Centre Òptic Granollers Sitges,Sanitario,Garraf,Sitges,2014-10-23,No,0,Laura Vidal
+C0909,Hotel Les Arenes L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2018-05-15,Sí,33000,Àlex Ferrer
+C0910,Fisioteràpia Gràcia Sabadell,Sanitario,Vallès Occidental,Sabadell,2022-05-09,No,0,Ingrid Solé
+C0911,Marín Gestió Badalona,Oficinas,Barcelonès,Badalona,2012-03-10,No,0,Marta Camps
+C0912,Institut Pau Casals Rubí,Educación,Vallès Occidental,Rubí,2013-12-05,No,0,Ingrid Solé
+C0913,Bar El Racó Mollet,Restauración,Vallès Oriental,Mollet,2020-09-17,Sí,13000,Ingrid Solé
+C0914,Mobles Nova Terrassa,Retail,Vallès Occidental,Terrassa,2017-12-16,No,0,Ingrid Solé
+C0915,Pizzeria La Vinya Badalona,Restauración,Barcelonès,Badalona,2018-12-31,Sí,18000,Marta Camps
+C0916,Calçats Clàssica Sitges,Retail,Garraf,Sitges,2019-06-19,Sí,14000,Laura Vidal
+C0917,Acadèmia Collserola Barcelona,Educación,Barcelonès,Barcelona,2023-05-24,No,0,Àlex Ferrer
+C0918,Vila Tech Barcelona,Oficinas,Barcelonès,Barcelona,2021-06-13,Sí,12000,Àlex Ferrer
+C0919,Centre Òptic Les Corts Castelldefels,Sanitario,Baix Llobregat,Castelldefels,2014-10-04,Sí,6000,Pau Riera
+C0920,Pizzeria La Vinya Granollers,Restauración,Vallès Oriental,Granollers,2013-02-17,Sí,6000,Ingrid Solé
+C0921,Roca Arquitectes Arenys,Oficinas,Maresme,Arenys,2012-06-08,Sí,10000,Laura Vidal
+C0922,Llibreria Vallès L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2024-04-09,Sí,8000,Marta Camps
+C0923,Acadèmia Turó Blau Sabadell,Educación,Vallès Occidental,Sabadell,2016-02-02,No,0,Ingrid Solé
+C0924,Òptica Plus Sabadell,Retail,Vallès Occidental,Sabadell,2019-12-01,No,0,Ingrid Solé
+C0925,Pons Arquitectes L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2023-08-26,Sí,22000,Marta Camps
+C0926,Soler Tech Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2016-08-26,Sí,26000,Ingrid Solé
+C0927,Mas Gestió Badalona,Oficinas,Barcelonès,Badalona,2022-08-13,No,0,Marta Camps
+C0928,Hotel Portal Barcelona,Hotel,Barcelonès,Barcelona,2014-06-04,Sí,26000,Marta Camps
+C0929,Esports Nova Barcelona,Retail,Barcelonès,Barcelona,2015-07-21,No,0,Marta Camps
+C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,Sabadell,2016-12-22,Sí,19000,Ingrid Solé
+C0931,Pons Advocats Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2024-02-28,No,0,Ingrid Solé
+C0932,Vidal Group L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2014-04-04,Sí,21000,Marta Camps
+C0933,Navarro Enginyeria Sabadell,Oficinas,Vallès Occidental,Sabadell,2014-03-07,Sí,26000,Ingrid Solé
+C0934,Hotel Plaça Badalona,Hotel,Barcelonès,Badalona,2020-08-05,Sí,25000,Àlex Ferrer
+C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,Barcelona,2015-07-05,Sí,15000,Àlex Ferrer
+C0936,Restaurant El Port Mollet,Restauración,Vallès Oriental,Mollet,2012-10-26,Sí,18000,Ingrid Solé
+C0937,Bar El Racó L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2024-07-08,No,0,Àlex Ferrer
+C0938,Hotel Brisa Alta Mollet,Hotel,Vallès Oriental,Mollet,2015-06-05,Sí,25000,Ingrid Solé
+C0939,Clínica Mataró Cardedeu,Sanitario,Vallès Oriental,Cardedeu,2014-07-26,No,0,Ingrid Solé
+C0940,Coll Logística Rubí,Oficinas,Vallès Occidental,Rubí,2017-02-10,Sí,13000,Ingrid Solé
+C0941,Clínica Badalona Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2023-03-13,Sí,12000,Ingrid Solé
+C0942,Vidal Consultors Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2020-07-21,Sí,12000,Ingrid Solé
+C0943,Marín Consultors Badalona,Oficinas,Barcelonès,Badalona,2019-10-26,Sí,24000,Àlex Ferrer
+C0944,Clínica Dental Sitges Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2020-10-04,No,0,Ingrid Solé
+C0945,Moda Nord Cardedeu,Retail,Vallès Oriental,Cardedeu,2014-04-19,No,0,Ingrid Solé
+C0946,Serra Tech Barcelona,Oficinas,Barcelonès,Barcelona,2015-12-24,Sí,13000,Àlex Ferrer
+C0947,Vila Logística Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2017-01-22,Sí,11000,Pau Riera
+C0948,Pizzeria El Molí Rubí,Restauración,Vallès Occidental,Rubí,2018-05-26,No,0,Ingrid Solé
+C0949,Vila Tech Cornellà,Oficinas,Baix Llobregat,Cornellà,2013-06-02,Sí,22000,Pau Riera
+C0950,Perfumeria Família Badalona,Retail,Barcelonès,Badalona,2018-02-28,No,0,Marta Camps
+C0951,Llar d'Infants Ítaca Mataró,Educación,Maresme,Mataró,2022-05-26,No,0,Laura Vidal
+C0952,Botigues Plus L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2016-02-19,Sí,19000,Àlex Ferrer
+C0953,Navarro Group Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2019-11-10,No,0,Ingrid Solé
+C0954,Casas Consultors Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2018-11-05,Sí,19000,Pau Riera
+C0955,Hotel Turó Castelldefels,Hotel,Baix Llobregat,Castelldefels,2021-02-11,Sí,18000,Pau Riera
+C0956,Clínica Diagonal Mataró,Sanitario,Maresme,Mataró,2021-04-15,No,0,Laura Vidal
+C0957,Llibreria Nord Rubí,Retail,Vallès Occidental,Rubí,2021-08-08,Sí,21000,Ingrid Solé
+C0958,Esports Del Mar Mataró,Retail,Maresme,Mataró,2019-03-24,Sí,24000,Laura Vidal
+C0959,Ferreteria Vallès L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2018-02-21,Sí,17000,Àlex Ferrer
+C0960,Serra Group Terrassa,Oficinas,Vallès Occidental,Terrassa,2024-05-24,No,0,Ingrid Solé
+C0961,Pons Group Sabadell,Oficinas,Vallès Occidental,Sabadell,2014-08-15,Sí,29000,Ingrid Solé
+C0962,Col·legi La Salle Nord L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2019-01-16,No,0,Marta Camps
+C0963,Llar d'Infants Pau Casals Mataró,Educación,Maresme,Mataró,2021-08-29,No,0,Laura Vidal
+C0964,Centre Mèdic Rubí L'Hospitalet,Sanitario,Barcelonès,L'Hospitalet,2013-07-21,Sí,17000,Marta Camps
+C0965,Mobles Nova Mataró,Retail,Maresme,Mataró,2015-09-24,Sí,20000,Laura Vidal
+C0966,Hotel Sol de Mar Badalona,Hotel,Barcelonès,Badalona,2014-02-22,No,0,Marta Camps
+C0967,Centre Òptic Terrassa Vilanova,Sanitario,Garraf,Vilanova,2012-06-21,Sí,24000,Pau Riera
+C0968,Vila Logística Badalona,Oficinas,Barcelonès,Badalona,2012-02-16,Sí,19000,Marta Camps
+C0969,Brasseria El Celler Cardedeu,Restauración,Vallès Oriental,Cardedeu,2024-11-16,No,0,Ingrid Solé
+C0970,Moda Nord Mollet,Retail,Vallès Oriental,Mollet,2018-10-25,No,0,Ingrid Solé
+C0971,Laboratori Terrassa Sant Boi,Sanitario,Baix Llobregat,Sant Boi,2021-11-22,Sí,11000,Pau Riera
+C0972,Escola Montseny L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2023-06-22,Sí,17000,Àlex Ferrer
+C0973,Hotel Turó Sabadell,Hotel,Vallès Occidental,Sabadell,2023-12-06,No,0,Ingrid Solé
+C0974,Navarro Group Rubí,Oficinas,Vallès Occidental,Rubí,2018-01-03,Sí,8000,Ingrid Solé
+C0975,Hotel Vela Badalona,Hotel,Barcelonès,Badalona,2024-10-26,Sí,16000,Àlex Ferrer
+C0976,Serra Advocats Rubí,Oficinas,Vallès Occidental,Rubí,2020-06-09,Sí,26000,Ingrid Solé
+C0977,Casas Tech Barcelona,Oficinas,Barcelonès,Barcelona,2012-03-25,Sí,24000,Marta Camps
+C0978,Serra Advocats Mollet,Oficinas,Vallès Oriental,Mollet,2015-08-05,Sí,24000,Ingrid Solé
+C0979,Centre Mèdic Sant Cugat Castelldefels,Sanitario,Baix Llobregat,Castelldefels,2014-11-27,No,0,Pau Riera
+C0980,Hotel Jardí Badalona,Hotel,Barcelonès,Badalona,2022-03-09,No,0,Àlex Ferrer
+C0981,Clínica Les Corts Barcelona,Sanitario,Barcelonès,Barcelona,2020-06-15,Sí,17000,Àlex Ferrer
+C0982,Col·legi Sol Ixent L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2020-07-14,Sí,17000,Marta Camps
+C0983,Escola Sol Ixent Sant Boi,Educación,Baix Llobregat,Sant Boi,2017-06-29,Sí,15000,Pau Riera
+C0984,Esports Família Vilanova,Retail,Garraf,Vilanova,2012-08-02,No,0,Laura Vidal
+C0985,Coll Gestió L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2012-06-04,No,0,Àlex Ferrer
+C0986,Moda Del Mar Vilanova,Retail,Garraf,Vilanova,2019-10-17,Sí,7000,Laura Vidal
+C0987,Hotel Vela Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2023-10-17,No,0,Ingrid Solé
+C0988,Pizzeria La Terrassa Rubí,Restauración,Vallès Occidental,Rubí,2015-10-26,No,0,Ingrid Solé
+C0989,Òptica Plus Badalona,Retail,Barcelonès,Badalona,2022-05-13,No,0,Marta Camps
+C0990,Moda Plus Badalona,Retail,Barcelonès,Badalona,2021-03-07,No,0,Àlex Ferrer
+C0991,Pons Advocats Mataró,Oficinas,Maresme,Mataró,2017-05-22,No,0,Laura Vidal
+C0992,Forn Urbana Badalona,Retail,Barcelonès,Badalona,2013-04-04,Sí,24000,Àlex Ferrer
+C0993,Clínica Gràcia Rubí,Sanitario,Vallès Occidental,Rubí,2024-07-01,Sí,9000,Ingrid Solé
+C0994,Grau Logística Barcelona,Oficinas,Barcelonès,Barcelona,2024-01-19,No,0,Àlex Ferrer
+C0995,Mas Assessors Badalona,Oficinas,Barcelonès,Badalona,2018-06-22,No,0,Àlex Ferrer
+C0996,Cafeteria Can Pere Sitges,Restauración,Garraf,Sitges,2018-01-13,No,0,Laura Vidal
+C0997,Font Partners Castelldefels,Oficinas,Baix Llobregat,Castelldefels,2020-11-22,No,0,Pau Riera
+C0998,Escola Ítaca Terrassa,Educación,Vallès Occidental,Terrassa,2019-07-20,Sí,21000,Ingrid Solé
+C0999,Restaurant El Port Barcelona,Restauración,Barcelonès,Barcelona,2019-10-09,Sí,19000,Marta Camps
+C1000,Grau Consultors Arenys,Oficinas,Maresme,Arenys,2020-05-15,No,0,Laura Vidal
+C1001,Escola Can Mas Arenys,Educación,Maresme,Arenys,2012-06-06,Sí,24000,Laura Vidal
+C1002,Acadèmia Turó Blau Granollers,Educación,Vallès Oriental,Granollers,2021-12-23,No,0,Ingrid Solé
+C1003,Acadèmia Can Mas El Prat,Educación,Baix Llobregat,El Prat,2017-12-08,Sí,9000,Pau Riera
+C1004,Grau Logística Vilanova,Oficinas,Garraf,Vilanova,2022-11-14,No,0,Pau Riera
+C1005,Clínica Sant Cugat Barcelona,Sanitario,Barcelonès,Barcelona,2013-10-19,Sí,19000,Marta Camps
+C1006,Clínica Sant Gervasi Granollers,Sanitario,Vallès Oriental,Granollers,2013-02-08,Sí,7000,Ingrid Solé
+C1007,Calçats Sant Jordi Vilanova,Retail,Garraf,Vilanova,2014-05-19,No,0,Pau Riera
+C1008,Hotel Mirador Barcelona,Hotel,Barcelonès,Barcelona,2012-08-31,Sí,26000,Marta Camps
+C1009,Pizzeria Can Jordi Barcelona,Restauración,Barcelonès,Barcelona,2020-03-30,No,0,Marta Camps
+C1010,Bosch Enginyeria Rubí,Oficinas,Vallès Occidental,Rubí,2017-08-06,Sí,26000,Ingrid Solé
+C1011,Acadèmia Els Til·lers Premià,Educación,Maresme,Premià,2013-11-19,Sí,7000,Laura Vidal
+C1012,Navarro Assessors L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2014-06-06,Sí,30000,Àlex Ferrer
+C1013,Escola Pau Casals Badalona,Educación,Barcelonès,Badalona,2015-12-03,Sí,6000,Àlex Ferrer
+C1014,Fisioteràpia Diagonal Granollers,Sanitario,Vallès Oriental,Granollers,2023-03-16,Sí,19000,Ingrid Solé
+C1015,Hotel Montjuïc Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2016-10-16,No,0,Ingrid Solé
+C1016,Cafeteria El Port Cornellà,Restauración,Baix Llobregat,Cornellà,2023-08-15,Sí,10000,Pau Riera
+C1017,Ferrer Enginyeria Vilanova,Oficinas,Garraf,Vilanova,2023-05-10,Sí,8000,Pau Riera
+C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,Granollers,2021-04-20,Sí,21000,Ingrid Solé
+C1019,Laboratori Gràcia Barcelona,Sanitario,Barcelonès,Barcelona,2013-09-11,No,0,Marta Camps
+C1020,Llorens Arquitectes Cornellà,Oficinas,Baix Llobregat,Cornellà,2023-03-17,Sí,21000,Pau Riera
+C1021,Puig Gestió Badalona,Oficinas,Barcelonès,Badalona,2013-01-31,No,0,Marta Camps
+C1022,Centre Òptic Granollers Sant Boi,Sanitario,Baix Llobregat,Sant Boi,2016-09-08,No,0,Pau Riera
+C1023,Clínica Mataró Badalona,Sanitario,Barcelonès,Badalona,2021-05-27,No,0,Àlex Ferrer
+C1024,Ortega Gestió Terrassa,Oficinas,Vallès Occidental,Terrassa,2020-04-19,No,0,Ingrid Solé
+C1025,Bosch Enginyeria L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2020-10-15,No,0,Marta Camps
+C1026,Hotel Mirador L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2014-10-16,Sí,23000,Marta Camps
+C1027,Marín Group Terrassa,Oficinas,Vallès Occidental,Terrassa,2022-03-15,No,0,Ingrid Solé
+C1028,Fisioteràpia Diagonal Cornellà,Sanitario,Baix Llobregat,Cornellà,2014-10-14,No,0,Pau Riera
+C1029,Pizzeria La Vinya Arenys,Restauración,Maresme,Arenys,2019-06-30,No,0,Laura Vidal
+C1030,Clínica Mataró Vilanova,Sanitario,Garraf,Vilanova,2015-01-18,No,0,Laura Vidal
+C1031,Esports Nord Badalona,Retail,Barcelonès,Badalona,2023-04-12,No,0,Marta Camps
+C1032,Ferreteria Nord Cardedeu,Retail,Vallès Oriental,Cardedeu,2023-07-22,Sí,13000,Ingrid Solé
+C1033,Centre Mèdic Terrassa Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2015-09-29,Sí,8000,Ingrid Solé
+C1034,Centre Mèdic Les Corts Arenys,Sanitario,Maresme,Arenys,2020-05-21,Sí,7000,Laura Vidal
+C1035,Riera Logística Cornellà,Oficinas,Baix Llobregat,Cornellà,2022-01-25,Sí,30000,Pau Riera
+C1036,Font Group L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2020-11-30,No,0,Àlex Ferrer
+C1037,Sala Assessors Mollet,Oficinas,Vallès Oriental,Mollet,2023-05-04,Sí,28000,Ingrid Solé
+C1038,Ferrer Assessors Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2015-04-05,No,0,Ingrid Solé
+C1039,Bar La Lluna Sant Cugat,Restauración,Vallès Occidental,Sant Cugat,2012-02-23,Sí,19000,Ingrid Solé
+C1040,Bar La Vinya Mollet,Restauración,Vallès Oriental,Mollet,2024-06-25,Sí,7000,Ingrid Solé
+C1041,Mas Advocats Terrassa,Oficinas,Vallès Occidental,Terrassa,2015-04-01,Sí,23000,Ingrid Solé
+C1042,Ferrer Enginyeria Premià,Oficinas,Maresme,Premià,2014-01-22,No,0,Laura Vidal
+C1043,Col·legi Els Til·lers Cardedeu,Educación,Vallès Oriental,Cardedeu,2017-08-26,Sí,18000,Ingrid Solé
+C1044,Esports Família Rubí,Retail,Vallès Occidental,Rubí,2016-12-31,Sí,24000,Ingrid Solé
+C1045,Casas Enginyeria Badalona,Oficinas,Barcelonès,Badalona,2024-03-11,No,0,Marta Camps
+C1046,Llibreria Nova Sant Boi,Retail,Baix Llobregat,Sant Boi,2023-02-28,Sí,17000,Pau Riera
+C1047,Mobles Nord Mataró,Retail,Maresme,Mataró,2015-01-23,Sí,9000,Laura Vidal
+C1048,Laboratori Terrassa Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2016-12-08,No,0,Ingrid Solé
+C1049,Hotel Mirador El Prat,Hotel,Baix Llobregat,El Prat,2016-05-17,No,0,Pau Riera
+C1050,Fisioteràpia Terrassa Rubí,Sanitario,Vallès Occidental,Rubí,2022-08-31,No,0,Ingrid Solé
+C1051,Ortega Gestió Barcelona,Oficinas,Barcelonès,Barcelona,2022-02-11,Sí,17000,Marta Camps
+C1052,Hotel Brisa Alta Sabadell,Hotel,Vallès Occidental,Sabadell,2024-06-19,No,0,Ingrid Solé
+C1053,Ortega Assessors L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2012-03-03,Sí,12000,Marta Camps
+C1054,Escola La Salle Nord Barcelona,Educación,Barcelonès,Barcelona,2013-05-26,Sí,8000,Àlex Ferrer
+C1055,Llar d'Infants Montseny Castelldefels,Educación,Baix Llobregat,Castelldefels,2023-04-13,No,0,Pau Riera
+C1056,Navarro Gestió Terrassa,Oficinas,Vallès Occidental,Terrassa,2018-12-21,Sí,12000,Ingrid Solé
+C1057,Llar d'Infants Ítaca Sitges,Educación,Garraf,Sitges,2019-06-23,No,0,Laura Vidal
+C1058,Fisioteràpia Sitges Badalona,Sanitario,Barcelonès,Badalona,2012-03-25,Sí,11000,Marta Camps
+C1059,Hotel Costa Cardedeu,Hotel,Vallès Oriental,Cardedeu,2019-07-09,Sí,17000,Ingrid Solé
+C1060,Botigues Plus Rubí,Retail,Vallès Occidental,Rubí,2019-02-24,Sí,22000,Ingrid Solé
+C1061,Perfumeria Família El Prat,Retail,Baix Llobregat,El Prat,2021-02-09,Sí,9000,Pau Riera
+C1062,Bosch Arquitectes Arenys,Oficinas,Maresme,Arenys,2012-02-04,Sí,13000,Laura Vidal
+C1063,Laboratori Rubí Badalona,Sanitario,Barcelonès,Badalona,2013-04-10,Sí,22000,Àlex Ferrer
+C1064,Hotel Vela Sabadell,Hotel,Vallès Occidental,Sabadell,2013-08-03,Sí,26000,Ingrid Solé
+C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,Sant Cugat,2016-06-09,Sí,37000,Ingrid Solé
+C1066,Roca Enginyeria Cornellà,Oficinas,Baix Llobregat,Cornellà,2024-08-20,Sí,29000,Pau Riera
+C1067,Vidal Assessors Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2017-07-14,Sí,8000,Ingrid Solé
+C1068,Escola Can Mas El Prat,Educación,Baix Llobregat,El Prat,2021-08-07,Sí,18000,Pau Riera
+C1069,Marín Partners L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2012-12-24,No,0,Àlex Ferrer
+C1070,Fisioteràpia Granollers Terrassa,Sanitario,Vallès Occidental,Terrassa,2023-12-15,Sí,13000,Ingrid Solé
+C1071,Institut Mediterrània Granollers,Educación,Vallès Oriental,Granollers,2012-12-02,No,0,Ingrid Solé
+C1072,Ortega Enginyeria Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2021-05-02,No,0,Ingrid Solé
+C1073,Pizzeria Cal Ton Mollet,Restauración,Vallès Oriental,Mollet,2013-12-22,No,0,Ingrid Solé
+C1074,Pizzeria La Lluna L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2023-03-12,Sí,7000,Àlex Ferrer
+C1075,Llibreria Sant Jordi L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2022-11-09,Sí,14000,Àlex Ferrer
+C1076,Òptica Sant Jordi Barcelona,Retail,Barcelonès,Barcelona,2017-04-14,Sí,20000,Marta Camps
+C1077,Hotel Sant Pere Barcelona,Hotel,Barcelonès,Barcelona,2012-12-30,No,0,Àlex Ferrer
+C1078,Vidal Enginyeria Cornellà,Oficinas,Baix Llobregat,Cornellà,2017-06-10,No,0,Pau Riera
+C1079,Clínica Dental Mataró Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2017-12-21,Sí,17000,Ingrid Solé
+C1080,Serra Gestió Sitges,Oficinas,Garraf,Sitges,2015-08-21,No,0,Pau Riera
+C1081,Llorens Arquitectes Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2022-03-04,Sí,23000,Ingrid Solé
+C1082,Forn Sant Jordi L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2012-03-15,Sí,11000,Marta Camps
+C1083,Llibreria Del Mar Cardedeu,Retail,Vallès Oriental,Cardedeu,2020-08-14,No,0,Ingrid Solé
+C1084,Ferreteria Plus Sabadell,Retail,Vallès Occidental,Sabadell,2015-12-27,Sí,11000,Ingrid Solé
+C1085,Riera Gestió Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2021-09-09,Sí,30000,Ingrid Solé
+C1086,Clínica Dental Diagonal Sant Cugat,Sanitario,Vallès Occidental,Sant Cugat,2024-04-14,No,0,Ingrid Solé
+C1087,Navarro Enginyeria L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2013-10-31,Sí,27000,Marta Camps
+C1088,Ferreteria Sant Jordi Barcelona,Retail,Barcelonès,Barcelona,2023-10-05,Sí,6000,Àlex Ferrer
+C1089,Hotel Turó Terrassa,Hotel,Vallès Occidental,Terrassa,2015-10-01,No,0,Ingrid Solé
+C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,Terrassa,2021-04-12,Sí,27000,Ingrid Solé
+C1091,Mobles Nord Barcelona,Retail,Barcelonès,Barcelona,2015-12-26,Sí,14000,Àlex Ferrer
+C1092,Vila Consultors Premià,Oficinas,Maresme,Premià,2020-10-23,No,0,Laura Vidal
+C1093,Pons Group Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2018-03-29,No,0,Pau Riera
+C1094,Col·legi Els Til·lers Sabadell,Educación,Vallès Occidental,Sabadell,2023-06-06,No,0,Ingrid Solé
+C1095,Escola Collserola L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2015-05-16,No,0,Marta Camps
+C1096,Grau Assessors Badalona,Oficinas,Barcelonès,Badalona,2016-02-02,Sí,27000,Àlex Ferrer
+C1097,Marín Consultors L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2022-05-10,No,0,Marta Camps
+C1098,Moda Clàssica Cardedeu,Retail,Vallès Oriental,Cardedeu,2014-01-26,Sí,8000,Ingrid Solé
+C1099,Acadèmia Ítaca L'Hospitalet,Educación,Barcelonès,L'Hospitalet,2013-04-30,No,0,Marta Camps
+C1100,Font Assessors Mataró,Oficinas,Maresme,Mataró,2022-05-27,Sí,11000,Laura Vidal
+C1101,Botigues Central Badalona,Retail,Barcelonès,Badalona,2020-08-13,Sí,11000,Àlex Ferrer
+C1102,Hotel Cala Badalona,Hotel,Barcelonès,Badalona,2016-10-25,No,0,Àlex Ferrer
+C1103,Sala Partners Vilanova,Oficinas,Garraf,Vilanova,2021-12-23,Sí,13000,Laura Vidal
+C1104,Casas Group Castelldefels,Oficinas,Baix Llobregat,Castelldefels,2013-10-07,Sí,14000,Pau Riera
+C1105,Pizzeria El Molí Barcelona,Restauración,Barcelonès,Barcelona,2024-10-25,Sí,20000,Àlex Ferrer
+C1106,Llibreria Sant Jordi Sant Cugat,Retail,Vallès Occidental,Sant Cugat,2020-10-18,Sí,16000,Ingrid Solé
+C1107,Grau Tech Barcelona,Oficinas,Barcelonès,Barcelona,2024-01-17,No,0,Marta Camps
+C1108,Ferreteria Plus Mollet,Retail,Vallès Oriental,Mollet,2015-04-10,No,0,Ingrid Solé
+C1109,Centre Mèdic Sabadell Badalona,Sanitario,Barcelonès,Badalona,2015-04-12,Sí,22000,Àlex Ferrer
+C1110,Hotel Sol de Mar Sitges,Hotel,Garraf,Sitges,2019-02-02,No,0,Pau Riera
+C1111,Clínica Diagonal El Prat,Sanitario,Baix Llobregat,El Prat,2019-02-11,No,0,Pau Riera
+C1112,Brasseria La Lluna Sitges,Restauración,Garraf,Sitges,2023-05-15,Sí,12000,Pau Riera
+C1113,Moda Central Terrassa,Retail,Vallès Occidental,Terrassa,2012-07-01,Sí,8000,Ingrid Solé
+C1114,Brasseria El Molí Rubí,Restauración,Vallès Occidental,Rubí,2012-07-29,No,0,Ingrid Solé
+C1115,Esports Plus Cardedeu,Retail,Vallès Oriental,Cardedeu,2020-10-21,No,0,Ingrid Solé
+C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,Cornellà,2015-11-19,Sí,13000,Pau Riera
+C1117,Hotel Montjuïc Sitges,Hotel,Garraf,Sitges,2012-12-31,Sí,23000,Laura Vidal
+C1118,Ortega Advocats Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2023-03-01,Sí,22000,Ingrid Solé
+C1119,Font Gestió L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2023-08-06,Sí,28000,Marta Camps
+C1120,Hotel Costa Granollers,Hotel,Vallès Oriental,Granollers,2018-02-23,No,0,Ingrid Solé
+C1121,Perfumeria Del Mar L'Hospitalet,Retail,Barcelonès,L'Hospitalet,2021-05-06,Sí,19000,Marta Camps
+C1122,Sala Group Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2015-10-07,Sí,13000,Ingrid Solé
+C1123,Laboratori Sabadell Cornellà,Sanitario,Baix Llobregat,Cornellà,2018-01-19,No,0,Pau Riera
+C1124,Vila Consultors Sabadell,Oficinas,Vallès Occidental,Sabadell,2013-07-26,Sí,15000,Ingrid Solé
+C1125,Grau Tech Sant Cugat,Oficinas,Vallès Occidental,Sant Cugat,2020-04-20,No,0,Ingrid Solé
+C1126,Hotel Vela Premià,Hotel,Maresme,Premià,2015-05-21,Sí,16000,Laura Vidal
+C1127,Centre Òptic Gràcia Castelldefels,Sanitario,Baix Llobregat,Castelldefels,2019-06-16,No,0,Pau Riera
+C1128,Llorens Partners Sitges,Oficinas,Garraf,Sitges,2023-03-22,Sí,28000,Laura Vidal
+C1129,Pizzeria Cal Ton L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2019-01-21,No,0,Àlex Ferrer
+C1130,Forn Vallès Castelldefels,Retail,Baix Llobregat,Castelldefels,2021-01-25,Sí,18000,Pau Riera
+C1131,Hotel Sol de Mar Cornellà,Hotel,Baix Llobregat,Cornellà,2025-04-17,Sí,30100,Pau Riera
+C1132,Font Consultors L'Hospitalet,Oficinas,Barcelonès,Barcelona,2025-02-19,No,0,Marta Camps
+C1133,Cafeteria El Racó L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2025-01-11,Sí,8400,Marta Camps
+C1134,Perfumeria Nord Badalona,Retail,Barcelonès,Barcelona,2025-02-23,No,0,Àlex Ferrer
+C1135,Sala Advocats Castelldefels,Oficinas,Baix Llobregat,Cornellà,2025-03-11,Sí,8500,Pau Riera
+C1136,Hotel Mirador Castelldefels,Hotel,Baix Llobregat,Cornellà,2025-03-12,No,0,Pau Riera
+C1137,Hotel Llevant Barcelona,Hotel,Barcelonès,Barcelona,2025-03-29,No,0,Àlex Ferrer
+C1138,Casas Enginyeria Cardedeu,Oficinas,Vallès Oriental,Granollers,2025-03-31,Sí,11300,Ingrid Solé
+C1139,Riera Arquitectes Badalona,Oficinas,Barcelonès,Barcelona,2025-04-30,Sí,24000,Àlex Ferrer
+C1140,Hotel Nord L'Hospitalet,Hotel,Barcelonès,Barcelona,2025-06-29,Sí,36500,Àlex Ferrer
+C1141,Serra Assessors Sabadell,Oficinas,Vallès Occidental,Terrassa,2025-03-26,No,0,Ingrid Solé
+C1142,Cafeteria El Port Sabadell,Restauración,Vallès Occidental,Terrassa,2025-03-01,Sí,7100,Ingrid Solé
+C1143,Bosch Group Badalona,Oficinas,Barcelonès,L'Hospitalet,2025-04-27,No,0,Àlex Ferrer
+C1144,Hotel Els Pins Barcelona,Hotel,Barcelonès,Barcelona,2025-06-16,Sí,18500,Àlex Ferrer
+C1145,Hotel Jardí Mataró,Hotel,Maresme,Premià,2025-07-05,No,0,Laura Vidal
+C1146,Vidal Enginyeria Cardedeu,Oficinas,Vallès Oriental,Cardedeu,2025-05-20,Sí,23700,Ingrid Solé
+C1147,Ferreteria Sant Jordi L'Hospitalet,Retail,Barcelonès,Barcelona,2025-05-20,Sí,16700,Àlex Ferrer
+C1148,Soler Arquitectes L'Hospitalet,Oficinas,Barcelonès,Barcelona,2025-06-08,Sí,11500,Àlex Ferrer
+C1149,Col·legi Collserola Arenys,Educación,Maresme,Mataró,2025-07-09,Sí,10300,Laura Vidal
+C1150,Hotel Plaça Mollet,Hotel,Vallès Oriental,Mollet,2025-07-02,Sí,36700,Ingrid Solé
+C1151,Casas Consultors Barcelona,Oficinas,Barcelonès,Badalona,2025-05-16,Sí,21700,Marta Camps
+C1152,Sala Arquitectes Barcelona,Oficinas,Barcelonès,L'Hospitalet,2025-04-18,No,0,Marta Camps
+C1153,Ferreteria Urbana Sant Cugat,Retail,Vallès Occidental,Rubí,2025-06-15,Sí,35600,Ingrid Solé
+C1154,Centre Òptic Sant Gervasi Sitges,Sanitario,Garraf,Vilanova,2025-06-03,No,0,Pau Riera
+C1155,Riera Group Arenys,Oficinas,Maresme,Arenys,2025-06-20,No,0,Laura Vidal
+C1156,Ortega Assessors Barcelona,Oficinas,Barcelonès,L'Hospitalet,2025-06-24,No,0,Marta Camps
+C1157,Ferrer Logística Cornellà,Oficinas,Baix Llobregat,Castelldefels,2025-05-17,Sí,22400,Pau Riera
+C1158,Soler Assessors Castelldefels,Oficinas,Baix Llobregat,Cornellà,2025-06-29,No,0,Pau Riera
+C1159,Llibreria Del Mar Terrassa,Retail,Vallès Occidental,Terrassa,2025-06-10,No,0,Ingrid Solé
+C1160,Sala Partners Cardedeu,Oficinas,Vallès Oriental,Mollet,2025-06-25,No,0,Ingrid Solé
+C1161,Vidal Assessors Terrassa,Oficinas,Vallès Occidental,Sant Cugat,2025-08-01,Sí,16900,Ingrid Solé
+C1162,Cafeteria Can Jordi Barcelona,Restauración,Barcelonès,Badalona,2025-07-09,No,0,Marta Camps
+C1163,Restaurant Cal Ton Badalona,Restauración,Barcelonès,Barcelona,2025-07-04,No,0,Àlex Ferrer
+C1164,Restaurant Can Jordi L'Hospitalet,Restauración,Barcelonès,L'Hospitalet,2025-06-14,Sí,8700,Àlex Ferrer
+C1165,Mas Arquitectes Sabadell,Oficinas,Vallès Occidental,Rubí,2025-07-20,No,0,Ingrid Solé
+C1166,Pizzeria La Terrassa Premià,Restauración,Maresme,Premià,2025-07-30,Sí,7800,Laura Vidal
+C1167,Hotel Nord Arenys,Hotel,Maresme,Mataró,2025-09-29,No,0,Laura Vidal
+C1168,Moda Urbana L'Hospitalet,Retail,Barcelonès,Badalona,2025-08-04,No,0,Àlex Ferrer
+C1169,Òptica Vallès Sabadell,Retail,Vallès Occidental,Terrassa,2025-08-30,No,0,Ingrid Solé
+C1170,Bosch Arquitectes Mollet,Oficinas,Vallès Oriental,Cardedeu,2025-07-07,Sí,20800,Ingrid Solé
+C1171,Fisioteràpia Rubí El Prat,Sanitario,Baix Llobregat,El Prat,2025-09-10,Sí,16300,Pau Riera
+C1172,Pizzeria El Racó Barcelona,Restauración,Barcelonès,L'Hospitalet,2025-08-01,No,0,Àlex Ferrer
+C1173,Casas Arquitectes Premià,Oficinas,Maresme,Mataró,2025-08-30,No,0,Laura Vidal
+C1174,Bar Cal Ton Sant Boi,Restauración,Baix Llobregat,Sant Boi,2025-07-30,No,0,Pau Riera
+C1175,Ferreteria Família L'Hospitalet,Retail,Barcelonès,Badalona,2025-08-22,No,0,Marta Camps
+C1176,Fisioteràpia Mataró El Prat,Sanitario,Baix Llobregat,Sant Boi,2025-09-03,Sí,11100,Pau Riera
+C1177,Col·legi Pau Casals Barcelona,Educación,Barcelonès,Barcelona,2025-12-09,No,0,Àlex Ferrer
+C1178,Institut Pau Casals Sant Boi,Educación,Baix Llobregat,Sant Boi,2025-11-14,Sí,19000,Pau Riera
+C1179,Mas Advocats Barcelona,Oficinas,Barcelonès,Barcelona,2025-11-07,No,0,Àlex Ferrer
+C1180,Hotel Sant Pere Terrassa,Hotel,Vallès Occidental,Terrassa,2025-12-30,No,0,Ingrid Solé
+C1181,Ferreteria Urbana Rubí,Retail,Vallès Occidental,Rubí,2025-09-04,No,0,Ingrid Solé
+C1182,Escola Pau Casals Cornellà,Educación,Baix Llobregat,Cornellà,2025-11-07,Sí,18500,Pau Riera
+C1183,Hotel Costa Nou Badalona,Hotel,Barcelonès,L'Hospitalet,2026-01-11,No,0,Àlex Ferrer
+C1184,Navarro Arquitectes Sant Boi,Oficinas,Baix Llobregat,El Prat,2025-11-17,Sí,29500,Pau Riera
+C1185,Brasseria Cal Ton Badalona,Restauración,Barcelonès,L'Hospitalet,2025-10-25,Sí,13200,Àlex Ferrer
+C1186,Llar d'Infants Turó Blau Vilanova,Educación,Garraf,Vilanova,2025-12-13,Sí,13600,Pau Riera
+C1187,Brasseria La Terrassa Barcelona,Restauración,Barcelonès,L'Hospitalet,2025-10-06,Sí,10600,Marta Camps
+C1188,Ferrer Logística Granollers,Oficinas,Vallès Oriental,Mollet,2025-10-24,Sí,9000,Ingrid Solé
+C1189,Esports Clàssica Barcelona,Retail,Barcelonès,Badalona,2025-10-08,Sí,13200,Àlex Ferrer
+C1190,Calçats Urbana Badalona,Retail,Barcelonès,Barcelona,2025-10-28,Sí,27300,Marta Camps
+C1191,Botigues Nova Cardedeu,Retail,Vallès Oriental,Cardedeu,2025-12-15,Sí,27000,Ingrid Solé
+C1192,Vidal Tech Sitges,Oficinas,Garraf,Sitges,2025-12-06,No,0,Pau Riera
+C1193,Calçats Clàssica Badalona,Retail,Barcelonès,L'Hospitalet,2025-11-17,No,0,Marta Camps
+C1194,Mobles Plus Badalona,Retail,Barcelonès,L'Hospitalet,2025-12-05,Sí,32200,Àlex Ferrer
+C1195,Bar El Port Terrassa,Restauración,Vallès Occidental,Sabadell,2025-11-13,No,0,Ingrid Solé
+C1196,Pizzeria Can Pere Mataró,Restauración,Maresme,Arenys,2025-12-04,No,0,Laura Vidal
+C1197,Esports Sant Jordi Sant Cugat,Retail,Vallès Occidental,Sant Cugat,2025-11-23,No,0,Ingrid Solé
+C1198,Serra Enginyeria Barcelona,Oficinas,Barcelonès,Badalona,2025-12-28,Sí,29300,Marta Camps
+C1199,Hotel Els Pins Castelldefels,Hotel,Baix Llobregat,Cornellà,2026-01-09,No,0,Pau Riera
+C1200,Laboratori Sant Cugat Sitges,Sanitario,Garraf,Sitges,2026-02-07,Sí,22000,Pau Riera
+C1201,Vila Tech Sitges,Oficinas,Garraf,Sitges,2026-01-09,No,0,Laura Vidal
+C1202,Casas Group Sant Boi,Oficinas,Baix Llobregat,Sant Boi,2026-02-17,Sí,18400,Pau Riera
+C1203,Òptica Central Rubí,Retail,Vallès Occidental,Rubí,2026-01-27,No,0,Ingrid Solé
+C1204,Hotel Jardí Cornellà,Hotel,Baix Llobregat,Sant Boi,2026-04-21,No,0,Pau Riera
+C1205,Col·legi Mediterrània Mollet,Educación,Vallès Oriental,Mollet,2026-02-09,Sí,8800,Ingrid Solé
+C1206,Riera Gestió Cardedeu,Oficinas,Vallès Oriental,Granollers,2026-01-30,No,0,Ingrid Solé
+C1207,Ferreteria Nord Mataró,Retail,Maresme,Mataró,2026-01-30,No,0,Laura Vidal
+C1208,Acadèmia Turó Blau Barcelona,Educación,Barcelonès,Badalona,2026-03-18,No,0,Marta Camps
+C1209,Hotel Mirador Sant Boi,Hotel,Baix Llobregat,Sant Boi,2026-05-03,No,0,Pau Riera
+C1210,Cafeteria El Celler Cornellà,Restauración,Baix Llobregat,Sant Boi,2025-12-22,No,0,Pau Riera
+C1211,Font Group El Prat,Oficinas,Baix Llobregat,El Prat,2026-01-30,No,0,Pau Riera
+C1212,Serra Arquitectes Mataró,Oficinas,Maresme,Mataró,2026-03-20,No,0,Laura Vidal
+C1213,Hotel Rambla Cardedeu,Hotel,Vallès Oriental,Granollers,2026-05-10,No,0,Ingrid Solé
+C1214,Hotel Cala Baix Barcelona,Hotel,Barcelonès,L'Hospitalet,2026-06-12,No,0,Marta Camps
+C1215,Bosch Partners Castelldefels,Oficinas,Baix Llobregat,Sant Boi,2026-04-03,No,0,Pau Riera
+C1216,Botigues Nord El Prat,Retail,Baix Llobregat,Sant Boi,2026-03-01,No,0,Pau Riera
+C1217,Institut Collserola Badalona,Educación,Barcelonès,Badalona,2026-03-30,No,0,Àlex Ferrer
+C1218,Forn Sant Jordi Castelldefels,Retail,Baix Llobregat,Castelldefels,2026-02-16,Sí,16300,Pau Riera
+C1219,Escola Sol Ixent Rubí,Educación,Vallès Occidental,Terrassa,2026-06-04,No,0,Ingrid Solé
+C1220,Hotel Vela Plaça Badalona,Hotel,Barcelonès,Barcelona,2026-04-26,No,0,Àlex Ferrer
+C1221,Òptica Central L'Hospitalet,Retail,Barcelonès,Barcelona,2026-04-15,Sí,12900,Àlex Ferrer
+C1222,Forn Vallès Terrassa,Retail,Vallès Occidental,Sant Cugat,2026-03-27,Sí,24800,Ingrid Solé
+C1223,Institut Turó Blau Badalona,Educación,Barcelonès,L'Hospitalet,2026-04-07,No,0,Marta Camps
+C1224,Botigues Central Premià,Retail,Maresme,Premià,2026-02-27,Sí,32800,Laura Vidal
+C1225,Escola Pau Casals Sabadell,Educación,Vallès Occidental,Sant Cugat,2026-06-13,No,0,Ingrid Solé
+C1226,Serra Consultors Barcelona,Oficinas,Barcelonès,Barcelona,2026-04-19,No,0,Àlex Ferrer
+C1227,Cafeteria La Terrassa Vilanova,Restauración,Garraf,Sitges,2026-04-07,Sí,13000,Laura Vidal
+C1228,Vila Gestió Castelldefels,Oficinas,Baix Llobregat,Cornellà,2026-04-26,No,0,Pau Riera
+C1229,Brasseria El Molí Mataró,Restauración,Maresme,Premià,2026-05-13,Sí,13700,Laura Vidal
+C1230,Hotel Sant Pere El Prat,Hotel,Baix Llobregat,El Prat,2026-08-01,No,0,Pau Riera
+C1231,Clínica Sant Gervasi Premià,Sanitario,Maresme,Premià,2026-07-05,Sí,25100,Laura Vidal
+C1232,Hotel Marina Plaça L'Hospitalet,Hotel,Barcelonès,Barcelona,2026-08-07,No,0,Marta Camps
+C1233,Puig Group L'Hospitalet,Oficinas,Barcelonès,Barcelona,2026-06-01,Sí,28700,Àlex Ferrer
+C1234,Hotel Costa El Prat,Hotel,Baix Llobregat,El Prat,2026-07-11,No,0,Pau Riera
+C1235,Hotel Les Arenes Sabadell,Hotel,Vallès Occidental,Sant Cugat,2026-08-31,No,0,Ingrid Solé
+C1236,Mas Tech Premià,Oficinas,Maresme,Arenys,2026-06-24,No,0,Laura Vidal
+C1237,Pons Arquitectes Barcelona,Oficinas,Barcelonès,Barcelona,2026-08-19,No,0,Àlex Ferrer
+C1238,Mas Gestió L'Hospitalet,Oficinas,Barcelonès,L'Hospitalet,2026-07-26,No,0,Marta Camps
+C1239,Hotel Sol de Mar Plaça L'Hospitalet,Hotel,Barcelonès,L'Hospitalet,2026-09-06,No,0,Marta Camps
+C1240,Clínica Dental Les Corts Vilanova,Sanitario,Garraf,Sitges,2026-06-25,No,0,Pau Riera
+C1241,Mobles Urbana Barcelona,Retail,Barcelonès,Barcelona,2026-07-04,No,0,Marta Camps
+C1242,Centre Òptic Diagonal Badalona,Sanitario,Barcelonès,Barcelona,2026-06-13,No,0,Àlex Ferrer
+C1243,Centre Mèdic Granollers Badalona,Sanitario,Barcelonès,Badalona,2026-07-08,Sí,25600,Àlex Ferrer
+C1244,Forn Del Mar Vilanova,Retail,Garraf,Vilanova,2026-09-02,Sí,13000,Laura Vidal
+C1245,Clínica Badalona Rubí,Sanitario,Vallès Occidental,Terrassa,2026-07-16,Sí,9300,Ingrid Solé
+C1246,Moda Nord Sant Cugat,Retail,Vallès Occidental,Sabadell,2026-09-09,Sí,20100,Ingrid Solé
+C1247,Laboratori Les Corts Sitges,Sanitario,Garraf,Sitges,2026-10-06,Sí,17600,Pau Riera
+C1248,Hotel Plaça Sud L'Hospitalet,Hotel,Barcelonès,Barcelona,2026-09-21,Sí,33700,Marta Camps
+C1249,Hotel Nord Mar Barcelona,Hotel,Barcelonès,L'Hospitalet,2026-10-22,Sí,20500,Àlex Ferrer
+C1250,Grau Gestió Badalona,Oficinas,Barcelonès,Barcelona,2026-08-13,No,0,Àlex Ferrer
+C1251,Òptica Nova Badalona,Retail,Barcelonès,Barcelona,2026-09-07,No,0,Marta Camps
+C1252,Clínica Dental Granollers Mataró,Sanitario,Maresme,Premià,2026-11-04,No,0,Laura Vidal
+C1253,Acadèmia Collserola Cornellà,Educación,Baix Llobregat,El Prat,2026-11-21,Sí,8500,Pau Riera
+C1254,Clínica Rubí Barcelona,Sanitario,Barcelonès,L'Hospitalet,2026-10-14,No,0,Marta Camps
+C1255,Hotel Port Park L'Hospitalet,Hotel,Barcelonès,Barcelona,2026-11-16,No,0,Marta Camps
+C1256,Moda Central L'Hospitalet,Retail,Barcelonès,Badalona,2026-09-20,No,0,Àlex Ferrer
+C1257,Brasseria El Molí Sant Cugat,Restauración,Vallès Occidental,Sabadell,2026-10-24,No,0,Ingrid Solé
+C1258,Calçats Clàssica Cornellà,Retail,Baix Llobregat,Sant Boi,2026-11-11,Sí,32100,Pau Riera
+C1259,Clínica Dental Badalona El Prat,Sanitario,Baix Llobregat,El Prat,2026-10-16,No,0,Pau Riera
+C1260,Cafeteria Cal Ton Barcelona,Restauración,Barcelonès,Badalona,2026-10-29,No,0,Àlex Ferrer
+C1261,Marín Partners Barcelona,Oficinas,Barcelonès,L'Hospitalet,2026-11-19,No,0,Àlex Ferrer
+C1262,Calçats Urbana Premià,Retail,Maresme,Premià,2026-11-05,Sí,11700,Laura Vidal
+C1263,Moda Clàssica Sitges,Retail,Garraf,Vilanova,2026-11-22,No,0,Pau Riera
+C1264,Òptica Família Badalona,Retail,Barcelonès,Badalona,2026-11-03,Sí,11700,Marta Camps
