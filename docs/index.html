@@ -1,3 +1,4 @@
+<!doctype html><html><head><meta charset=utf8><meta name=viewport content="width=device-width,initial-scale=1,viewport-fit=cover"><style>:root{color-scheme:light;box-sizing:border-box;padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}html{scroll-padding-top:env(safe-area-inset-top,0px)}body{margin:0;padding:0;font:14px -apple-system,BlinkMacSystemFont,sans-serif;background:#fff;color:#000}img{max-width:100%}[hidden]:not([hidden=until-found i]){display:none!important}</style></head><body>
 <title>Foxter LAB #2</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -164,6 +165,73 @@ ul,ol{padding:0;list-style:none}
 .piece__ico svg{width:22px;height:22px}
 .piece__where{margin-top:auto;font-family:var(--font-m);font-size:12.5px;color:var(--fg);background:var(--code-bg);padding:6px 9px;border-radius:6px;align-self:flex-start;word-break:break-word}
 
+/* Flujo de ejemplo */
+.flow{display:grid;grid-template-columns:minmax(0,.95fr) 36px minmax(0,2.1fr) 36px minmax(0,.95fr) 40px minmax(0,.95fr);align-items:center;padding:clamp(18px,2.4vw,32px)}
+.flow > *{position:relative}
+.fnode{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-md);padding:14px 16px;box-shadow:var(--shadow);display:flex;flex-direction:column;gap:6px;min-width:0}
+.fnode p{font-size:14px;color:var(--fg2);line-height:1.45}
+.fnode__t{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:15px;line-height:1.2;color:var(--fg)}
+.fpiece{display:inline-flex;align-items:center;gap:6px;align-self:flex-start;padding:3px 9px 3px 7px;border-radius:999px;background:var(--purple-soft);color:var(--purple-text);font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase}
+.fpiece svg{width:14px;height:14px;flex:none}
+.fpiece--out{background:var(--max-soft);color:var(--gold-text)}
+.fagent{border:1.5px solid var(--purple);box-shadow:0 7px 24px rgba(104,1,254,.14);gap:10px}
+.fsubs{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:8px;margin-top:4px}
+.fsub{border:1px dashed var(--line2);border-radius:var(--r-sm);padding:9px 10px;display:flex;flex-direction:column;gap:5px;min-width:0}
+.fsub b{font-size:13px;font-weight:600}
+.fsub span{font-size:12.5px;color:var(--fg2);line-height:1.4}
+.fsub .fpiece{font-size:10px;letter-spacing:.03em;padding:2px 7px 2px 5px;max-width:100%}
+.fsub .fpiece svg{width:12px;height:12px}
+.fdots{display:flex;flex-direction:column;gap:4px;margin-top:2px}
+.fdots i{font-style:normal;font-size:12.5px;color:var(--fg);font-weight:400;background:var(--code-bg);padding:3px 7px;border-radius:5px;overflow-wrap:anywhere}
+.farrow{display:grid;place-items:center;color:var(--fg3)}
+.farrow svg{width:30px;height:30px}
+.fbranch{align-self:stretch;color:var(--fg3)}
+.fbranch svg{width:100%;height:100%;display:block}
+.fouts{display:grid;grid-template-rows:1fr 1fr;gap:12px;align-self:stretch}
+.fouts .fnode{justify-content:center}
+.fyes{color:#1E9E55;font-weight:600}
+.fno{color:var(--diana-text);font-weight:600}
+.flegend{display:flex;flex-wrap:wrap;gap:8px 18px;margin-top:16px;font-size:14px;color:var(--fg2)}
+@media (max-width:1000px){
+  .flow{grid-template-columns:minmax(0,1fr)}
+  .farrow svg{transform:rotate(90deg)}
+  .farrow{padding:4px 0}
+  .fbranch{display:none}
+  .fouts{grid-template-rows:none;grid-template-columns:repeat(2,minmax(0,1fr))}
+}
+@media (max-width:720px){
+  .fsubs{grid-template-columns:minmax(0,1fr)}
+}
+
+/* Estructura en carpetas */
+.tree{display:grid;grid-template-columns:minmax(0,1fr);gap:7px;padding:clamp(16px,2vw,26px)}
+.tree__root{font-family:var(--font-m);font-size:15px;font-weight:600;display:flex;align-items:center;gap:8px;margin-bottom:4px}
+.trow{display:grid;grid-template-columns:minmax(0,360px) 40px minmax(0,1fr);align-items:center;gap:0}
+.tpath{position:relative;align-self:stretch;display:flex;align-items:center;gap:8px;font-family:var(--font-m);font-size:14px;padding:6px 12px 6px 30px;min-width:0}
+.tpath::before{content:"";position:absolute;left:10px;top:-9px;bottom:50%;border-left:2px solid var(--line2);border-bottom:2px solid var(--line2);width:14px;border-bottom-left-radius:6px}
+.trow:not(:last-child) .tpath::after{content:"";position:absolute;left:10px;top:50%;bottom:-9px;border-left:2px solid var(--line2)}
+.tpath b{font-weight:600;color:var(--fg)}
+.tpath small{color:var(--fg3);font-size:12.5px}
+.tpath svg{width:18px;height:18px;flex:none}
+.tico--dir{color:var(--gold)}
+.tico--file{color:var(--fg3)}
+.tdots{border-top:2px dotted var(--line2);height:0}
+.tcard{display:flex;align-items:center;gap:12px;flex-wrap:wrap;padding:8px 14px;border-radius:var(--r-md);background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--pc);min-width:0}
+.tcard p{font-size:14.5px;color:var(--fg2);flex:1;min-width:200px}
+.tcard p b{color:var(--fg);font-weight:500}
+.tchip{display:inline-flex;align-items:center;gap:6px;padding:3px 10px 3px 8px;border-radius:999px;font-size:11px;font-weight:600;letter-spacing:.06em;text-transform:uppercase;background:color-mix(in srgb,var(--pc) 14%,transparent);color:var(--pc-text,var(--pc));white-space:nowrap}
+.tchip svg{width:14px;height:14px}
+.pc-role{--pc:#6801FE;--pc-text:var(--purple-text)}
+.pc-proc{--pc:#1F9D6B;--pc-text:var(--mara-text)}
+.pc-know{--pc:#E1AC23;--pc-text:var(--gold-text)}
+.pc-trig{--pc:#E2665A;--pc-text:var(--diana-text)}
+.pc-out{--pc:#8A8A8D;--pc-text:var(--fg2)}
+@media (max-width:900px){
+  .trow{grid-template-columns:minmax(0,1fr)}
+  .tdots{display:none}
+  .tcard{margin:0 0 8px 30px}
+}
+
 /* Agents */
 .agents{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
 .agent{border-radius:var(--r-lg);border:1px solid var(--line);background:var(--surface);overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column;min-width:0}
@@ -304,7 +372,6 @@ ul,ol{padding:0;list-style:none}
         <svg viewBox="0 0 446 60" aria-hidden="true"><g fill="currentColor"><path d="M14.9874 13.4124V23.6643H56.6009V36.335H14.9874V59.1614H0V0.824219H61.5967V13.4124H14.9874Z"/><path d="M65.5491 29.9175C65.5491 10.5818 76.5289 0 102.167 0C127.805 0 138.784 10.6642 138.784 29.9175C138.784 49.1709 127.708 60 102.167 60C76.625 60 65.5491 49.3358 65.5491 29.9175ZM123.811 29.9175C123.811 18.0852 117.813 12.5882 102.167 12.5882C86.5205 12.5882 80.5228 18.0027 80.5228 29.9175C80.5228 41.8323 86.6029 47.4118 102.167 47.4118C117.731 47.4118 123.811 41.8323 123.811 29.9175Z"/><path d="M168.554 29.9997L135.752 0.824219H156.394L178.696 20.8196L200.917 0.824219H221.641L188.853 29.9997L221.641 59.1751H200.917L178.696 39.1797L156.394 59.1751H135.752L168.54 29.9997H168.554Z"/><path d="M298.02 13.4124H269.719V59.1614H254.732V13.4124H226.432V0.824219H298.006V13.4124H298.02Z"/><path d="M433.36 41.832L444.092 59.1614H426.442L417.041 43.5773H392.899V59.1614H377.911V0.824219H423.697C436.928 0.824219 446 9.24841 446 22.2489C446 31.745 441.169 38.7537 433.346 41.832H433.36ZM392.913 31.0029H419.552C424.054 31.0029 431.04 31.0029 431.04 22.2489C431.04 13.4949 424.054 13.4124 419.552 13.4124H392.913V31.0029Z"/><path d="M370.816 23.665H304.649V36.3357H370.816V23.665Z"/><path d="M370.816 0.824219H304.649V13.4949H370.816V0.824219Z"/><path d="M370.816 46.4912H304.649V59.1618H370.816V46.4912Z"/></g></svg>
         <span>LAB #2</span>
       </a>
-      <span class="draft">Borrador</span>
       <span class="spacer"></span>
       <div class="filter" role="group" aria-label="Mostrar los prompts de">
         <span class="filter__lbl">Mi agente</span>
@@ -467,7 +534,6 @@ add("portada","Bienvenida","Portada",
     "<h1>Crea tu primer <span class='em'>agente</span> de IA</h1>"+
     "<p class='lead'>Dos horas para pasar de pedirle cosas a la IA a tener un agente que trabaja solo.</p>"+
     "<div class='cover__facts'><span>Jueves 26 de noviembre</span><span>18:30 – 21:00</span><span>Barcelona</span></div>"+
-    team()+
   "</div></div>");
 
 add("agenda","Bienvenida","Agenda",
@@ -477,7 +543,7 @@ add("agenda","Bienvenida","Agenda",
     ["18:40","Level Up","¿Hasta dónde llega tu IA?",""],
     ["18:55","Qué es un agente","Las cinco piezas",""],
     ["19:00","Paso 1 · Prepara el entorno","Clona el repositorio y ábrelo en Claude Code o Codex","hands"],
-    ["19:10","Paso 2 · Tu agente","Mara, Max, Clara, Otto o Diana","hands"],
+    ["19:10","Paso 2 · Presenta a tu agente","Mara, Max, Clara, Otto o Diana","hands"],
     ["19:15","Paso 3 · Constrúyelo","Crea su skill, pruébalo y mejóralo","hands"],
     ["19:50","Paso 4 · Dale autonomía","Que trabaje solo con una tarea programada","hands"],
     ["20:10","Cinco agentes, una empresa","Lo que han descubierto juntos",""],
@@ -515,7 +581,49 @@ add("piezas","Qué es un agente","Las cinco piezas",
   ].map(function(p){return "<div class='card piece'><span class='piece__ico'>"+ICO[p[0]]+"</span><h3>"+p[1]+"</h3><p>"+p[2]+"</p></div>";}).join("")+"</div>"+
   "<p class='note'><b>La diferencia con un chat:</b> en un chat tú preguntas y la IA responde. Un agente tiene un trabajo, sabe cómo hacerlo y lo hace cuando toca.</p>");
 
-add("brisa","Paso 1 · Prepara el entorno","Hoy trabajas en Brisa Clima",
+function fp(ico, txt, out){ return "<span class='fpiece"+(out?" fpiece--out":"")+"'>"+(ico?ICO[ico]:"")+txt+"</span>"; }
+function trow(path, sub, kind, pc, ico, chip, text){
+  var icon = kind==="dir" ? "<svg class='tico--dir' viewBox='0 0 24 24' fill='currentColor' aria-hidden='true'><path d='M3 6a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z'/></svg>"
+    : "<svg class='tico--file' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8' aria-hidden='true'><path d='M7 3h7l5 5v13H7z'/><path d='M14 3v5h5'/></svg>";
+  return "<div class='trow "+pc+"'><div class='tpath'>"+icon+"<span><b>"+path+"</b>"+(sub?"<br><small>"+sub+"</small>":"")+"</span></div><div class='tdots' aria-hidden='true'></div>"+
+    "<div class='tcard'><span class='tchip'>"+(ico?ICO[ico]:"")+chip+"</span><p>"+text+"</p></div></div>";
+}
+add("carpetas","Qué es un agente","Un agente, en carpetas",
+  head({title:"Un agente, en <span class='em'>carpetas</span>", lead:"No hace falta programar: un agente es una carpeta bien ordenada. Cada pieza vive en su sitio, y Claude Code o Codex la leen cada vez que trabajan. Así es el repositorio de hoy:"})+
+  "<div class='card tree'>"+
+    "<div class='tree__root'><svg class='tico--dir' viewBox='0 0 24 24' width='20' height='20' fill='currentColor' aria-hidden='true'><path d='M3 6a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v9a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z'/></svg>foxter-lab-agentes/</div>"+
+    trow("CLAUDE.md · AGENTS.md","Reglas comunes","file","pc-role","role","Rol","<b>El manual de la casa.</b> Las reglas que cumplen todos los agentes. Claude Code lee CLAUDE.md y Codex, AGENTS.md.")+
+    trow("agentes/","marketing/FICHA.md, ventas/FICHA.md…","dir","pc-role","role","Rol","<b>El encargo.</b> Qué hace cada agente, para quién y qué entrega.")+
+    trow(".claude/skills/ · .agents/skills/","&lt;skill&gt;/SKILL.md","dir","pc-proc","proc","Procedimiento","<b>Su manual de trabajo.</b> Cómo hace la tarea, paso a paso. Lo creas tú en el paso 3.")+
+    trow("datos/","CSV + DICCIONARIO.md","dir","pc-know","know","Conocimiento","<b>Lo que sabe.</b> Los datos de la empresa y qué significa cada columna.")+
+    trow("tareas/","&lt;skill&gt;.md","dir","pc-trig","trig","Disparador","<b>Cuándo actúa solo.</b> La instrucción y la frecuencia de su tarea programada.")+
+    trow("salidas/","dashboards e informes","dir","pc-out","","Resultado","<b>Lo que entrega.</b> Cada agente deja aquí su trabajo, con la fecha en el nombre.")+
+    trow("soluciones/","&lt;skill&gt;/SKILL.md","dir","pc-out","","Por si acaso","<b>La chuleta.</b> Una skill terminada de cada agente, por si te atascas.")+
+  "</div>"+
+  "<p class='note'><b>¿Y las herramientas?</b> Las pone Claude Code o Codex: leer archivos, calcular con tu ordenador y escribir resultados. La carpeta define el resto.</p>");
+
+add("piezas-flujo","Qué es un agente","Las piezas en un flujo real",
+  head({chip:"Ejemplo · n8n", title:"Las piezas, en un <span class='em'>flujo</span> real", lead:"Un agente con herramientas y un enrutador. Llega una petición, el agente decide qué hacer, actúa en Notion o GitLab, y la respuesta sale por un camino u otro."})+
+  "<div class='card card--halo flow'>"+
+    "<div class='fnode'>"+fp("trig","Disparador")+"<b class='fnode__t'>Webhook</b><p>Llega una petición desde otra app, un formulario o un chat.</p></div>"+
+    "<div class='farrow'>"+ICO.arrow+"</div>"+
+    "<div class='fnode fagent'>"+fp("role","Rol + procedimiento")+"<b class='fnode__t'>Agente de IA</b><p>Su prompt dice quién es y cómo trabaja. Con eso decide qué herramienta usar.</p>"+
+      "<div class='fsubs'>"+
+        "<div class='fsub'><b>Modelo</b><span>El cerebro que razona. Aquí, un modelo de OpenAI.</span></div>"+
+        "<div class='fsub'>"+fp("know","Conocimiento")+"<b>Memoria</b><span>Recuerda la conversación entre mensajes.</span></div>"+
+        "<div class='fsub'>"+fp("tools","Herramientas")+"<b>Acciones</b><div class='fdots'><i>Notion · crea página</i><i>GitLab · crea issue</i></div></div>"+
+      "</div></div>"+
+    "<div class='farrow'>"+ICO.arrow+"</div>"+
+    "<div class='fnode'>"+fp("proc","Procedimiento")+"<b class='fnode__t'>Enrutador</b><p>Comprueba el resultado y elige el camino: ¿ha ido bien?</p></div>"+
+    "<div class='fbranch' aria-hidden='true'><svg viewBox='0 0 40 100' preserveAspectRatio='none' fill='none' stroke='currentColor' stroke-width='2'><path d='M0 50C20 50 20 25 40 25' vector-effect='non-scaling-stroke'/><path d='M0 50C20 50 20 75 40 75' vector-effect='non-scaling-stroke'/></svg></div>"+
+    "<div class='fouts'>"+
+      "<div class='fnode'>"+fp("","Salida",true)+"<b class='fnode__t'>Respuesta A</b><p><span class='fyes'>Sí:</span> confirma lo que ha hecho.</p></div>"+
+      "<div class='fnode'>"+fp("","Salida",true)+"<b class='fnode__t'>Respuesta B</b><p><span class='fno'>No:</span> avisa de qué falta o qué ha fallado.</p></div>"+
+    "</div>"+
+  "</div>"+
+  "<p class='note'><b>Mismas piezas:</b> Hoy las montarás en Claude Code o Codex: la skill es el rol y el procedimiento, los CSV son el conocimiento y la tarea programada es el disparador.</p>");
+
+add("brisa","Antes de empezar","Hoy trabajas en Brisa Clima",
   "<div class='split'><div>"+head({title:"Hoy trabajas en <span class='em'>Brisa Clima</span>", lead:"Una empresa ficticia de climatización con dos años de datos: clientes, ventas, campañas, equipos, incidencias, encuestas y facturas. Miles de filas, todas inventadas, para que tu agente trabaje con algo parecido a la realidad."})+"</div>"+
   "<div class='card card--halo'><h3>Brisa Clima</h3><dl class='kv' style='margin-top:14px'>"+
     "<dt>Qué es</dt><dd>Instala y mantiene climatización para oficinas, hoteles, comercios y clínicas.</dd>"+
@@ -523,6 +631,12 @@ add("brisa","Paso 1 · Prepara el entorno","Hoy trabajas en Brisa Clima",
     "<dt>Tú</dt><dd>Formas parte de su equipo, en el área de tu agente.</dd>"+
     "<dt>Datos</dt><dd>24 meses y más de 60.000 filas en 9 archivos.</dd>"+
   "</dl></div></div>");
+
+add("agentes","Antes de empezar","Conoce a los cinco agentes",
+  head({title:"Conoce a tu <span class='em'>agente</span>", lead:"Los cinco trabajan para Brisa Clima, cada uno en un área. Selecciona el tuyo arriba, en «Mi agente», y la guía te mostrará solo sus instrucciones."})+
+  "<div class='agents'>"+KEYS.map(function(k){var a=AG[k];
+    return "<article class='agent a-"+k+"' data-f='"+k+"' role='button' tabindex='0'><div class='agent__top'>"+avatar(k)+"<div><div class='agent__name'>"+a.name+"</div><div class='agent__role'>"+a.role+"</div></div></div>"+
+    "<dl class='agent__body kv'><dt>Para</dt><dd>"+a.forwho+"</dd><dt>Hace</dt><dd>"+a.does+"</dd><dt>Usa</dt><dd>"+a.data+"</dd><dt>Entrega</dt><dd>"+a.gives+"</dd></dl></article>";}).join("")+"</div>");
 
 add("paso-1","Paso 1 · Prepara el entorno","Prepara el entorno",
   head({chip:"Paso 1", time:"10 min", title:"Prepara tu <span class='em'>entorno</span>"})+
@@ -535,13 +649,7 @@ add("paso-1","Paso 1 · Prepara el entorno","Prepara el entorno",
   "<div style='margin-top:14px'>"+prompt("Lee el README de este repositorio y dime en tres líneas qué contiene y qué agentes puedo crear.", true)+"</div>"+
   "<div style='margin-top:14px'>"+check("Te dice qué contiene el repositorio y qué cinco agentes puedes crear.")+"</div></div></div>");
 
-add("agentes","Paso 2 · Tu agente","Conoce a los cinco agentes",
-  head({title:"Conoce a tu <span class='em'>agente</span>", lead:"Los cinco trabajan para Brisa Clima, cada uno en un área. Selecciona el tuyo arriba, en «Mi agente», y la guía te mostrará solo sus instrucciones."})+
-  "<div class='agents'>"+KEYS.map(function(k){var a=AG[k];
-    return "<article class='agent a-"+k+"' data-f='"+k+"' role='button' tabindex='0'><div class='agent__top'>"+avatar(k)+"<div><div class='agent__name'>"+a.name+"</div><div class='agent__role'>"+a.role+"</div></div></div>"+
-    "<dl class='agent__body kv'><dt>Para</dt><dd>"+a.forwho+"</dd><dt>Hace</dt><dd>"+a.does+"</dd><dt>Usa</dt><dd>"+a.data+"</dd><dt>Entrega</dt><dd>"+a.gives+"</dd></dl></article>";}).join("")+"</div>");
-
-add("paso-2","Paso 2 · Tu agente","Presenta a tu agente",
+add("paso-2","Paso 2 · Presenta a tu agente","Presenta a tu agente",
   head({chip:"Paso 2", time:"5 min", title:"Presenta a tu <span class='em'>agente</span>", lead:"Copia el prompt. Tu herramienta leerá la ficha del agente y te explicará qué va a hacer."})+
   step(function(a){ return tools({both: prompt("Quiero crear a "+a.name+", el agente de "+a.role.toLowerCase()+". Lee su ficha en agentes/"+a.slug+"/FICHA.md y explícame en cinco líneas qué hará, qué datos usará y qué me entregará.")+check("Te explica qué datos usará "+a.name+" y qué te entregará.")}); }));
 
@@ -606,7 +714,7 @@ add("juntos","Cinco agentes, una empresa","Lo que han descubierto",
   "<p class='note'><b>Pista:</b> la facturación de Brisa Clima crece, pero su margen cae. ¿Qué pieza de esa historia ha encontrado tu agente?</p>");
 
 add("demo","Demo de Foxter","Demo de Foxter",
-  "<div class='tbd'>TBD</div>");
+  head({chip:"Demo en directo", title:"Ahora, una demo de <span class='em'>FOXTER</span>", lead:"Te enseñamos cómo llevamos estos agentes a empresas reales, conectados a sus herramientas."}));
 
 add("preguntas","Cierre","Preguntas abiertas",
   head({chip:"Q&A", title:"¿Qué <span class='em'>preguntas</span> tienes?", lead:"Sesión abierta para resolver dudas sobre tu agente o sobre cómo llevarlo a tu día a día."})+
@@ -713,3 +821,5 @@ document.addEventListener("click", function(e){
 });
 })();
 </script>
+
+</body></html>
