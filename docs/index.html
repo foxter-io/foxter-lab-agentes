@@ -320,6 +320,9 @@ ul,ol{padding:0;list-style:none}
 .slide:not([hidden]){display:flex;flex-direction:column}
 .slide > .wrap{margin-block:auto}
 
+.qrbox--mia{max-width:320px;align-items:center;text-align:center;padding:24px;box-shadow:var(--shadow)}
+.qrbox--mia img{width:240px;height:240px;display:block;image-rendering:pixelated}
+
 /* Lists */
 .ticks{display:flex;flex-direction:column;gap:12px}
 .ticks li{display:grid;grid-template-columns:26px minmax(0,1fr);gap:10px;font-size:clamp(15px,1.15vw,17px)}
@@ -637,6 +640,10 @@ add("agentes","Antes de empezar","Conoce a los cinco agentes",
   "<div class='agents'>"+KEYS.map(function(k){var a=AG[k];
     return "<article class='agent a-"+k+"' data-f='"+k+"' role='button' tabindex='0'><div class='agent__top'>"+avatar(k)+"<div><div class='agent__name'>"+a.name+"</div><div class='agent__role'>"+a.role+"</div></div></div>"+
     "<dl class='agent__body kv'><dt>Para</dt><dd>"+a.forwho+"</dd><dt>Hace</dt><dd>"+a.does+"</dd><dt>Usa</dt><dd>"+a.data+"</dd><dt>Entrega</dt><dd>"+a.gives+"</dd></dl></article>";}).join("")+"</div>");
+
+add("ayuda","Antes de empezar","Si necesitas ayuda",
+  "<div class='split split--mid'><div>"+head({chip:"Ayuda", title:"Si necesitas ayuda, habla con <span class='em'>Mia</span>", lead:"Mia es el agente de FOXTER que te acompaña durante el LAB. Escanea el código y pregúntale lo que necesites: cómo seguir un paso, qué hacer si algo falla o qué significa un mensaje."})+"</div>"+
+  "<div class='qrbox qrbox--mia'><img src='qr-mia.png' alt='Código QR para hablar con Mia' width='240' height='240'><b>Habla con Mia</b><small>Escanéalo con la cámara del móvil</small></div></div>");
 
 add("paso-1","Paso 1 · Prepara el entorno","Prepara el entorno",
   head({chip:"Paso 1", time:"10 min", title:"Prepara tu <span class='em'>entorno</span>"})+
