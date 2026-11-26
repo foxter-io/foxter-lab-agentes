@@ -1,0 +1,1448 @@
+respuesta_id,fecha,cliente_id,cliente,sector,zona,puntuacion,comentario
+NPS00001,2024-12-17,C1053,Ortega Assessors L'Hospitalet,Oficinas,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00002,2024-12-09,C0878,Cafeteria El Racó Badalona,Restauración,Barcelonès,1,
+NPS00003,2024-12-30,C0548,Escola Pau Casals Premià,Educación,Maresme,8,Sin incidencias destacables.
+NPS00004,2024-12-01,C0015,Ferreteria Del Mar,Retail,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00005,2024-12-09,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,10,"Servicio puntual, como siempre."
+NPS00006,2024-12-06,C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00007,2024-12-23,C0626,Ferreteria Plus L'Hospitalet,Retail,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00008,2024-12-12,C0957,Llibreria Nord Rubí,Retail,Vallès Occidental,9,
+NPS00009,2024-12-14,C0843,Clínica Dental Mataró Badalona,Sanitario,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00010,2024-12-28,C0943,Marín Consultors Badalona,Oficinas,Barcelonès,4,Tardaron más de dos días en venir.
+NPS00011,2024-12-01,C0303,Bosch Tech,Oficinas,Vallès Occidental,5,
+NPS00012,2024-12-01,C0336,Hotel Plaça Granollers,Hotel,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00013,2024-12-10,C0739,Cafeteria Can Jordi Badalona,Restauración,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00014,2024-12-23,C0165,Escola Mediterrània,Educación,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00015,2024-12-10,C0913,Bar El Racó Mollet,Restauración,Vallès Oriental,10,Muy contentos con el mantenimiento.
+NPS00016,2024-12-08,C0156,Llorens Partners,Oficinas,Barcelonès,8,
+NPS00017,2024-12-06,C0649,Hotel Portal Mollet,Hotel,Vallès Oriental,8,Sin incidencias destacables.
+NPS00018,2024-12-20,C0865,Col·legi La Salle Nord Arenys,Educación,Maresme,5,
+NPS00019,2024-12-30,C1088,Ferreteria Sant Jordi Barcelona,Retail,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00020,2024-12-01,C0880,Bar Els Amics Arenys,Restauración,Maresme,8,Sin incidencias destacables.
+NPS00021,2024-12-28,C0246,Bosch Enginyeria,Oficinas,Vallès Oriental,7,
+NPS00022,2024-12-26,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,7,Sin incidencias destacables.
+NPS00023,2024-12-04,C0624,Forn Vallès Badalona,Retail,Barcelonès,1,Nos cobraron una visita que creíamos incluida.
+NPS00024,2024-12-22,C0137,Casas Advocats,Oficinas,Barcelonès,10,
+NPS00025,2024-12-16,C0022,Laboratori Mataró,Sanitario,Vallès Oriental,8,Sin incidencias destacables.
+NPS00026,2024-12-11,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS00027,2024-12-31,C0443,Centre Mèdic Les Corts,Sanitario,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00028,2024-12-05,C0444,Marín Partners,Oficinas,Garraf,10,
+NPS00029,2024-12-22,C1084,Ferreteria Plus Sabadell,Retail,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS00030,2024-12-09,C0958,Esports Del Mar Mataró,Retail,Maresme,9,Muy contentos con el mantenimiento.
+NPS00031,2024-12-29,C0548,Escola Pau Casals Premià,Educación,Maresme,9,Muy contentos con el mantenimiento.
+NPS00032,2024-12-10,C0826,Vila Enginyeria Badalona,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00033,2024-12-25,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,3,No nos avisaron del cambio de técnico.
+NPS00034,2024-12-21,C0765,Hotel Port Sant Cugat,Hotel,Vallès Occidental,3,No nos avisaron del cambio de técnico.
+NPS00035,2024-12-07,C0294,Cafeteria El Racó,Restauración,Maresme,7,"Correcto, aunque la cita tardó un poco."
+NPS00036,2024-12-23,C0488,Llibreria Nova,Retail,Garraf,9,Muy contentos con el mantenimiento.
+NPS00037,2024-12-04,C0943,Marín Consultors Badalona,Oficinas,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00038,2024-12-18,C1060,Botigues Plus Rubí,Retail,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00039,2024-12-19,C0001,Moda Del Mar,Retail,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00040,2024-12-30,C0262,Vidal Advocats,Oficinas,Vallès Occidental,8,Sin incidencias destacables.
+NPS00041,2024-12-05,C0504,Òptica Nova,Retail,Maresme,9,Muy contentos con el mantenimiento.
+NPS00042,2024-12-05,C0314,Brasseria Can Jordi,Restauración,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00043,2024-12-22,C0166,Puig Partners,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00044,2024-12-10,C0609,Calçats Nord,Retail,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS00045,2024-12-13,C0260,Botigues Central,Retail,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS00046,2024-12-07,C0889,Soler Consultors Cornellà,Oficinas,Baix Llobregat,8,
+NPS00047,2024-12-01,C0102,Vidal Group,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00048,2024-12-08,C0078,Òptica Sant Jordi,Retail,Barcelonès,9,
+NPS00049,2024-12-04,C0681,Hotel Portal Vilanova,Hotel,Garraf,3,Tardaron más de dos días en venir.
+NPS00050,2024-12-02,C0113,Forn Plus,Retail,Garraf,9,Buen seguimiento del técnico de referencia.
+NPS00051,2024-12-18,C1063,Laboratori Rubí Badalona,Sanitario,Barcelonès,4,Nos cobraron una visita que creíamos incluida.
+NPS00052,2024-12-11,C0275,Forn Nova,Retail,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS00053,2024-12-24,C0968,Vila Logística Badalona,Oficinas,Barcelonès,7,
+NPS00054,2025-01-18,C0135,Esports Sant Jordi,Retail,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00055,2025-01-08,C0224,Cafeteria Can Pere,Restauración,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00056,2025-01-06,C0292,Moda Plus,Retail,Vallès Oriental,6,Nos cobraron una visita que creíamos incluida.
+NPS00057,2025-01-05,C0024,Ferrer Consultors,Oficinas,Baix Llobregat,5,Tardaron más de dos días en venir.
+NPS00058,2025-01-14,C0746,Escola La Salle Nord Badalona,Educación,Barcelonès,8,El precio ha subido este año.
+NPS00059,2025-01-25,C0606,Soler Assessors,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00060,2025-01-03,C0330,Òptica Família,Retail,Vallès Occidental,7,El precio ha subido este año.
+NPS00061,2025-01-15,C0971,Laboratori Terrassa Sant Boi,Sanitario,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00062,2025-01-01,C0183,Puig Enginyeria,Oficinas,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00063,2025-01-05,C0608,Fisioteràpia Les Corts,Sanitario,Vallès Oriental,9,
+NPS00064,2025-01-03,C0974,Navarro Group Rubí,Oficinas,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00065,2025-01-22,C0952,Botigues Plus L'Hospitalet,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS00066,2025-01-18,C0974,Navarro Group Rubí,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00067,2025-01-19,C1128,Llorens Partners Sitges,Oficinas,Garraf,9,
+NPS00068,2025-01-18,C0105,Hotel Llevant,Hotel,Vallès Occidental,3,Nos cobraron una visita que creíamos incluida.
+NPS00069,2025-01-23,C0024,Ferrer Consultors,Oficinas,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS00070,2025-01-06,C0401,Centre Òptic Sant Cugat,Sanitario,Vallès Oriental,10,
+NPS00071,2025-01-26,C0961,Pons Group Sabadell,Oficinas,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00072,2025-01-06,C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,6,Tardaron más de dos días en venir.
+NPS00073,2025-01-30,C0119,Riera Assessors,Oficinas,Garraf,7,"Bien, pero las facturas llegan tarde."
+NPS00074,2025-01-08,C0592,Puig Advocats Sant Boi,Oficinas,Baix Llobregat,8,Sin incidencias destacables.
+NPS00075,2025-01-11,C0697,Moda Nord L'Hospitalet,Retail,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00076,2025-01-13,C0066,Restaurant El Port,Restauración,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00077,2025-01-17,C0619,Ferreteria Nova El Prat,Retail,Baix Llobregat,8,El precio ha subido este año.
+NPS00078,2025-01-23,C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS00079,2025-01-06,C0723,Escola Turó Blau Mollet,Educación,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS00080,2025-01-11,C0438,Hotel Plaça Sabadell,Hotel,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00081,2025-01-23,C0120,Riera Logística,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00082,2025-01-09,C0095,Institut Ítaca,Educación,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00083,2025-01-22,C1109,Centre Mèdic Sabadell Badalona,Sanitario,Barcelonès,10,
+NPS00084,2025-01-31,C0783,Llar d'Infants Montseny L'Hospitalet,Educación,Barcelonès,7,El precio ha subido este año.
+NPS00085,2025-01-28,C0488,Llibreria Nova,Retail,Garraf,10,Muy contentos con el mantenimiento.
+NPS00086,2025-01-28,C0176,Sala Group,Oficinas,Maresme,9,"Servicio puntual, como siempre."
+NPS00087,2025-01-23,C0521,Forn Nord,Retail,Baix Llobregat,8,
+NPS00088,2025-01-27,C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,5,
+NPS00089,2025-01-28,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,2,Tardaron más de dos días en venir.
+NPS00090,2025-01-01,C0726,Ortega Consultors Barcelona,Oficinas,Barcelonès,2,Tardaron más de dos días en venir.
+NPS00091,2025-01-13,C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00092,2025-01-14,C1104,Casas Group Castelldefels,Oficinas,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00093,2025-01-26,C0502,Bar Els Amics,Restauración,Garraf,10,
+NPS00094,2025-01-04,C0781,Centre Mèdic Terrassa Terrassa,Sanitario,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00095,2025-01-28,C0899,Bar Can Jordi Sabadell,Restauración,Vallès Occidental,0,Hace mucho ruido y ya ha fallado dos veces.
+NPS00096,2025-01-04,C0415,Hotel Sant Pere Sitges,Hotel,Garraf,3,Nos cobraron una visita que creíamos incluida.
+NPS00097,2025-01-11,C0212,Col·legi Montseny,Educación,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00098,2025-01-06,C0737,Pizzeria El Port Sitges,Restauración,Garraf,9,Respondieron en menos de 24 horas.
+NPS00099,2025-01-10,C0171,Roca Consultors,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00100,2025-01-19,C0752,Soler Consultors Arenys,Oficinas,Maresme,8,Sin incidencias destacables.
+NPS00101,2025-01-29,C1039,Bar La Lluna Sant Cugat,Restauración,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00102,2025-01-19,C1081,Llorens Arquitectes Sant Cugat,Oficinas,Vallès Occidental,10,
+NPS00103,2025-01-06,C0140,Brasseria La Vinya,Restauración,Vallès Occidental,1,Tardaron más de dos días en venir.
+NPS00104,2025-01-11,C0647,Laboratori Sant Cugat,Sanitario,Garraf,2,
+NPS00105,2025-01-16,C0024,Ferrer Consultors,Oficinas,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00106,2025-01-22,C0889,Soler Consultors Cornellà,Oficinas,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00107,2025-01-18,C0728,Forn Clàssica Vilanova,Retail,Garraf,10,"Servicio puntual, como siempre."
+NPS00108,2025-01-27,C0361,Restaurant Can Pere,Restauración,Barcelonès,7,El precio ha subido este año.
+NPS00109,2025-02-03,C0706,Bar El Celler Premià,Restauración,Maresme,6,Tardaron más de dos días en venir.
+NPS00110,2025-02-08,C0113,Forn Plus,Retail,Garraf,10,
+NPS00111,2025-02-26,C0926,Soler Tech Sant Cugat,Oficinas,Vallès Occidental,8,
+NPS00112,2025-02-22,C0182,Vila Consultors,Oficinas,Barcelonès,7,El precio ha subido este año.
+NPS00113,2025-02-06,C0396,Ortega Gestió,Oficinas,Vallès Occidental,7,
+NPS00114,2025-02-01,C0922,Llibreria Vallès L'Hospitalet,Retail,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00115,2025-02-28,C0455,Llar d'Infants Pau Casals,Educación,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00116,2025-02-19,C0894,Ferreteria Nova Sant Boi,Retail,Baix Llobregat,10,
+NPS00117,2025-02-04,C0631,Calçats Nord Vilanova,Retail,Garraf,10,
+NPS00118,2025-02-10,C0629,Hotel Costa Badalona,Hotel,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00119,2025-02-15,C0601,Riera Tech,Oficinas,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00120,2025-02-14,C0161,Llar d'Infants Collserola,Educación,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00121,2025-02-04,C0466,Moda Nord,Retail,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00122,2025-02-13,C0481,Navarro Enginyeria,Oficinas,Barcelonès,8,El precio ha subido este año.
+NPS00123,2025-02-25,C0003,Acadèmia Els Til·lers,Educación,Barcelonès,5,No nos avisaron del cambio de técnico.
+NPS00124,2025-02-11,C0895,Ortega Partners Sant Boi,Oficinas,Baix Llobregat,6,No nos avisaron del cambio de técnico.
+NPS00125,2025-02-03,C0384,Hotel Sant Pere Sabadell,Hotel,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00126,2025-02-23,C0235,Hotel Costa L'Hospitalet,Hotel,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00127,2025-02-11,C0339,Centre Mèdic Sabadell,Sanitario,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00128,2025-02-21,C0375,Cafeteria Can Jordi,Restauración,Vallès Oriental,9,
+NPS00129,2025-02-24,C0671,Moda Família El Prat,Retail,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00130,2025-02-25,C0830,Hotel Plaça Castelldefels,Hotel,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00131,2025-02-11,C0869,Riera Group Mataró,Oficinas,Maresme,10,Muy contentos con el mantenimiento.
+NPS00132,2025-02-17,C0229,Hotel Port Badalona,Hotel,Barcelonès,8,El precio ha subido este año.
+NPS00133,2025-02-05,C0539,Hotel Turó Arenys,Hotel,Maresme,10,
+NPS00134,2025-02-10,C0916,Calçats Clàssica Sitges,Retail,Garraf,10,El técnico fue muy amable y resolvió rápido.
+NPS00135,2025-02-10,C0708,Pizzeria Can Pere Terrassa,Restauración,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00136,2025-02-11,C0118,Clínica Les Corts,Sanitario,Vallès Occidental,3,Tardaron más de dos días en venir.
+NPS00137,2025-02-10,C0157,Font Consultors,Oficinas,Vallès Oriental,4,No nos avisaron del cambio de técnico.
+NPS00138,2025-02-20,C0982,Col·legi Sol Ixent L'Hospitalet,Educación,Barcelonès,7,
+NPS00139,2025-02-20,C0773,Hotel Marina Granollers,Hotel,Vallès Oriental,8,Sin incidencias destacables.
+NPS00140,2025-02-22,C0246,Bosch Enginyeria,Oficinas,Vallès Oriental,7,Sin incidencias destacables.
+NPS00141,2025-02-01,C0843,Clínica Dental Mataró Badalona,Sanitario,Barcelonès,8,
+NPS00142,2025-02-06,C0821,Esports Família Barcelona,Retail,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00143,2025-02-08,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,9,
+NPS00144,2025-02-14,C0175,Escola Montseny,Educación,Vallès Occidental,3,
+NPS00145,2025-02-07,C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,9,"Servicio puntual, como siempre."
+NPS00146,2025-02-27,C0875,Hotel Turó L'Hospitalet,Hotel,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00147,2025-02-01,C0784,Hotel Portal Castelldefels,Hotel,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS00148,2025-02-02,C0530,Vila Logística,Oficinas,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00149,2025-02-07,C0477,Coll Arquitectes,Oficinas,Garraf,0,
+NPS00150,2025-02-27,C0921,Roca Arquitectes Arenys,Oficinas,Maresme,7,
+NPS00151,2025-02-07,C0571,Navarro Partners,Oficinas,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00152,2025-02-01,C0887,Font Enginyeria Cardedeu,Oficinas,Vallès Oriental,6,
+NPS00153,2025-02-19,C0461,Llibreria Família,Retail,Vallès Occidental,8,
+NPS00154,2025-02-10,C0606,Soler Assessors,Oficinas,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00155,2025-02-02,C0738,Navarro Consultors Mollet,Oficinas,Vallès Oriental,4,Tardaron más de dos días en venir.
+NPS00156,2025-02-18,C0444,Marín Partners,Oficinas,Garraf,10,
+NPS00157,2025-02-17,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,7,El precio ha subido este año.
+NPS00158,2025-02-21,C1112,Brasseria La Lluna Sitges,Restauración,Garraf,9,
+NPS00159,2025-02-04,C1081,Llorens Arquitectes Sant Cugat,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00160,2025-02-20,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00161,2025-02-05,C0694,Hotel Sol de Mar Vilanova,Hotel,Garraf,9,Respondieron en menos de 24 horas.
+NPS00162,2025-02-27,C1043,Col·legi Els Til·lers Cardedeu,Educación,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00163,2025-02-25,C0650,Fisioteràpia Mataró Cornellà,Sanitario,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00164,2025-02-15,C0678,Moda Plus Cornellà,Retail,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00165,2025-02-12,C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00166,2025-02-08,C0921,Roca Arquitectes Arenys,Oficinas,Maresme,10,
+NPS00167,2025-02-25,C0639,Institut Pau Casals Vilanova,Educación,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00168,2025-02-19,C0684,Mobles Sant Jordi Sant Cugat,Retail,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00169,2025-02-22,C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00170,2025-03-25,C0586,Sala Tech,Oficinas,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00171,2025-03-30,C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS00172,2025-03-22,C0675,Bar El Molí Mataró,Restauración,Maresme,4,No nos avisaron del cambio de técnico.
+NPS00173,2025-03-16,C0331,Hotel Llevant Sant Boi,Hotel,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS00174,2025-03-07,C1068,Escola Can Mas El Prat,Educación,Baix Llobregat,7,El precio ha subido este año.
+NPS00175,2025-03-16,C0576,Centre Òptic Les Corts,Sanitario,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00176,2025-03-28,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,0,Tardaron más de dos días en venir.
+NPS00177,2025-03-31,C0113,Forn Plus,Retail,Garraf,8,Sin incidencias destacables.
+NPS00178,2025-03-27,C0697,Moda Nord L'Hospitalet,Retail,Barcelonès,10,
+NPS00179,2025-03-04,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,7,
+NPS00180,2025-03-18,C0692,Hotel Port El Prat,Hotel,Baix Llobregat,8,
+NPS00181,2025-03-09,C0771,Centre Mèdic Sabadell Terrassa,Sanitario,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS00182,2025-03-25,C0788,Hotel Brisa Alta Castelldefels,Hotel,Baix Llobregat,10,
+NPS00183,2025-03-31,C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00184,2025-03-21,C0519,Fisioteràpia Diagonal,Sanitario,Baix Llobregat,5,
+NPS00185,2025-03-18,C1098,Moda Clàssica Cardedeu,Retail,Vallès Oriental,5,Nos cobraron una visita que creíamos incluida.
+NPS00186,2025-03-12,C0959,Ferreteria Vallès L'Hospitalet,Retail,Barcelonès,10,
+NPS00187,2025-03-25,C0672,Calçats Central Barcelona,Retail,Barcelonès,7,Sin incidencias destacables.
+NPS00188,2025-03-18,C0821,Esports Família Barcelona,Retail,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00189,2025-03-08,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,8,"Bien, pero las facturas llegan tarde."
+NPS00190,2025-03-23,C0246,Bosch Enginyeria,Oficinas,Vallès Oriental,10,"Servicio puntual, como siempre."
+NPS00191,2025-03-08,C0770,Moda Nord Mataró,Retail,Maresme,6,Nos cobraron una visita que creíamos incluida.
+NPS00192,2025-03-30,C0961,Pons Group Sabadell,Oficinas,Vallès Occidental,2,Nos cobraron una visita que creíamos incluida.
+NPS00193,2025-03-31,C0846,Riera Group Badalona,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00194,2025-03-05,C0442,Escola Els Til·lers,Educación,Baix Llobregat,3,No nos avisaron del cambio de técnico.
+NPS00195,2025-03-20,C0652,Restaurant La Plaça Arenys,Restauración,Maresme,10,Buen seguimiento del técnico de referencia.
+NPS00196,2025-03-17,C0799,Forn Central Barcelona,Retail,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00197,2025-03-30,C0510,Clínica Dental Gràcia,Sanitario,Vallès Occidental,8,
+NPS00198,2025-03-03,C0421,Soler Consultors,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00199,2025-03-18,C0986,Moda Del Mar Vilanova,Retail,Garraf,9,Buen seguimiento del técnico de referencia.
+NPS00200,2025-03-26,C0508,Mobles Central,Retail,Vallès Oriental,1,Tardaron más de dos días en venir.
+NPS00201,2025-03-11,C0064,Clínica Dental Granollers,Sanitario,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00202,2025-03-23,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS00203,2025-03-12,C0143,Clínica Sabadell,Sanitario,Garraf,5,Tardaron más de dos días en venir.
+NPS00204,2025-03-16,C0106,Òptica Vallès,Retail,Vallès Oriental,8,Sin incidencias destacables.
+NPS00205,2025-03-14,C1043,Col·legi Els Til·lers Cardedeu,Educación,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00206,2025-03-20,C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS00207,2025-03-28,C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,7,Sin incidencias destacables.
+NPS00208,2025-03-25,C0878,Cafeteria El Racó Badalona,Restauración,Barcelonès,8,
+NPS00209,2025-03-01,C1020,Llorens Arquitectes Cornellà,Oficinas,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00210,2025-03-29,C0648,Mobles Nova Arenys,Retail,Maresme,9,
+NPS00211,2025-03-08,C0865,Col·legi La Salle Nord Arenys,Educación,Maresme,5,No nos avisaron del cambio de técnico.
+NPS00212,2025-03-15,C0925,Pons Arquitectes L'Hospitalet,Oficinas,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00213,2025-03-12,C0308,Òptica Urbana,Retail,Barcelonès,10,
+NPS00214,2025-03-05,C0401,Centre Òptic Sant Cugat,Sanitario,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS00215,2025-03-16,C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00216,2025-03-11,C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00217,2025-03-29,C0778,Sala Gestió Mataró,Oficinas,Maresme,9,
+NPS00218,2025-03-10,C0100,Riera Advocats,Oficinas,Baix Llobregat,9,
+NPS00219,2025-03-01,C0144,Mas Assessors,Oficinas,Garraf,8,El precio ha subido este año.
+NPS00220,2025-03-31,C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,4,
+NPS00221,2025-03-05,C0934,Hotel Plaça Badalona,Hotel,Barcelonès,9,
+NPS00222,2025-03-04,C0593,Ortega Advocats,Oficinas,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS00223,2025-03-31,C1101,Botigues Central Badalona,Retail,Barcelonès,8,
+NPS00224,2025-03-28,C0275,Forn Nova,Retail,Barcelonès,9,
+NPS00225,2025-03-17,C0403,Bosch Gestió,Oficinas,Maresme,6,Nos cobraron una visita que creíamos incluida.
+NPS00226,2025-03-28,C0667,Clínica Granollers L'Hospitalet,Sanitario,Barcelonès,9,
+NPS00227,2025-03-26,C0267,Hotel Sol de Mar L'Hospitalet,Hotel,Barcelonès,8,
+NPS00228,2025-03-09,C0318,Forn Urbana,Retail,Vallès Occidental,7,El precio ha subido este año.
+NPS00229,2025-03-29,C1011,Acadèmia Els Til·lers Premià,Educación,Maresme,7,El precio ha subido este año.
+NPS00230,2025-03-27,C0295,Cafeteria La Plaça,Restauración,Vallès Oriental,10,
+NPS00231,2025-03-15,C0583,Pizzeria La Plaça Cornellà,Restauración,Baix Llobregat,10,Muy contentos con el mantenimiento.
+NPS00232,2025-03-13,C0112,Vila Gestió,Oficinas,Maresme,9,El técnico fue muy amable y resolvió rápido.
+NPS00233,2025-04-05,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS00234,2025-04-27,C0395,Coll Consultors,Oficinas,Barcelonès,8,El precio ha subido este año.
+NPS00235,2025-04-11,C0462,Laboratori Sitges,Sanitario,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00236,2025-04-17,C0575,Botigues Plus El Prat,Retail,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS00237,2025-04-14,C1012,Navarro Assessors L'Hospitalet,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00238,2025-04-04,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,3,No nos avisaron del cambio de técnico.
+NPS00239,2025-04-07,C0058,Fisioteràpia Terrassa,Sanitario,Maresme,2,Tardaron más de dos días en venir.
+NPS00240,2025-04-03,C1084,Ferreteria Plus Sabadell,Retail,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00241,2025-04-11,C0641,Grau Group Cornellà,Oficinas,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00242,2025-04-08,C0052,Bar Cal Ton,Restauración,Maresme,10,Buen seguimiento del técnico de referencia.
+NPS00243,2025-04-28,C1017,Ferrer Enginyeria Vilanova,Oficinas,Garraf,8,
+NPS00244,2025-04-19,C0855,Col·legi Sol Ixent Terrassa,Educación,Vallès Occidental,0,Nos cobraron una visita que creíamos incluida.
+NPS00245,2025-04-06,C0109,Bar La Lluna,Restauración,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00246,2025-04-08,C0626,Ferreteria Plus L'Hospitalet,Retail,Barcelonès,7,Sin incidencias destacables.
+NPS00247,2025-04-01,C0321,Puig Arquitectes,Oficinas,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00248,2025-04-11,C0389,Casas Arquitectes,Oficinas,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS00249,2025-04-09,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,5,Tardaron más de dos días en venir.
+NPS00250,2025-04-19,C1046,Llibreria Nova Sant Boi,Retail,Baix Llobregat,5,Nos cobraron una visita que creíamos incluida.
+NPS00251,2025-04-04,C0553,Marín Group,Oficinas,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00252,2025-04-04,C0986,Moda Del Mar Vilanova,Retail,Garraf,7,Sin incidencias destacables.
+NPS00253,2025-04-17,C0328,Roca Logística,Oficinas,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00254,2025-04-22,C0292,Moda Plus,Retail,Vallès Oriental,5,
+NPS00255,2025-04-01,C0212,Col·legi Montseny,Educación,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00256,2025-04-13,C1067,Vidal Assessors Sant Cugat,Oficinas,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00257,2025-04-20,C0078,Òptica Sant Jordi,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS00258,2025-04-26,C0155,Restaurant La Plaça,Restauración,Maresme,9,"Servicio puntual, como siempre."
+NPS00259,2025-04-27,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,10,El técnico fue muy amable y resolvió rápido.
+NPS00260,2025-04-24,C0476,Grau Assessors,Oficinas,Vallès Oriental,8,Sin incidencias destacables.
+NPS00261,2025-04-03,C1001,Escola Can Mas Arenys,Educación,Maresme,1,No nos avisaron del cambio de técnico.
+NPS00262,2025-04-10,C0993,Clínica Gràcia Rubí,Sanitario,Vallès Occidental,8,
+NPS00263,2025-04-12,C0171,Roca Consultors,Oficinas,Barcelonès,4,No nos avisaron del cambio de técnico.
+NPS00264,2025-04-11,C0230,Bar Can Jordi,Restauración,Garraf,9,Muy contentos con el mantenimiento.
+NPS00265,2025-04-20,C0377,Llar d'Infants Can Mas,Educación,Barcelonès,9,
+NPS00266,2025-04-17,C0681,Hotel Portal Vilanova,Hotel,Garraf,3,
+NPS00267,2025-04-22,C0657,Centre Mèdic Sant Gervasi,Sanitario,Vallès Occidental,5,No nos avisaron del cambio de técnico.
+NPS00268,2025-04-04,C0576,Centre Òptic Les Corts,Sanitario,Garraf,4,Nos cobraron una visita que creíamos incluida.
+NPS00269,2025-04-03,C0453,Restaurant La Lluna,Restauración,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00270,2025-04-29,C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,5,No nos avisaron del cambio de técnico.
+NPS00271,2025-04-12,C0521,Forn Nord,Retail,Baix Llobregat,5,Tardaron más de dos días en venir.
+NPS00272,2025-04-08,C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS00273,2025-04-23,C0510,Clínica Dental Gràcia,Sanitario,Vallès Occidental,5,
+NPS00274,2025-04-26,C0143,Clínica Sabadell,Sanitario,Garraf,10,
+NPS00275,2025-04-10,C0999,Restaurant El Port Barcelona,Restauración,Barcelonès,7,Sin incidencias destacables.
+NPS00276,2025-04-09,C0031,Riera Consultors,Oficinas,Garraf,9,Muy contentos con el mantenimiento.
+NPS00277,2025-04-17,C0544,Font Advocats,Oficinas,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00278,2025-04-25,C0796,Ortega Consultors Cardedeu,Oficinas,Vallès Oriental,9,
+NPS00279,2025-04-22,C0288,Font Logística,Oficinas,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS00280,2025-04-07,C0003,Acadèmia Els Til·lers,Educación,Barcelonès,8,
+NPS00281,2025-04-25,C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,6,Tardaron más de dos días en venir.
+NPS00282,2025-04-06,C0739,Cafeteria Can Jordi Badalona,Restauración,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00283,2025-04-03,C0672,Calçats Central Barcelona,Retail,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00284,2025-04-11,C0853,Restaurant La Terrassa Cornellà,Restauración,Baix Llobregat,4,Tardaron más de dos días en venir.
+NPS00285,2025-04-01,C0932,Vidal Group L'Hospitalet,Oficinas,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00286,2025-04-02,C0806,Ortega Arquitectes Barcelona,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00287,2025-04-19,C0993,Clínica Gràcia Rubí,Sanitario,Vallès Occidental,8,Sin incidencias destacables.
+NPS00288,2025-04-21,C0485,Acadèmia Pau Casals Terrassa,Educación,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00289,2025-05-03,C0307,Font Gestió,Oficinas,Garraf,10,Buen seguimiento del técnico de referencia.
+NPS00290,2025-05-15,C0537,Pons Tech,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00291,2025-05-06,C0126,Hotel Ronda,Hotel,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00292,2025-05-26,C0879,Òptica Clàssica Rubí,Retail,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS00293,2025-05-25,C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,8,
+NPS00294,2025-05-31,C1010,Bosch Enginyeria Rubí,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00295,2025-05-27,C0799,Forn Central Barcelona,Retail,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00296,2025-05-21,C0454,Navarro Group,Oficinas,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00297,2025-05-10,C0171,Roca Consultors,Oficinas,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00298,2025-05-23,C0709,Coll Partners Terrassa,Oficinas,Vallès Occidental,7,Sin incidencias destacables.
+NPS00299,2025-05-14,C1103,Sala Partners Vilanova,Oficinas,Garraf,8,Sin incidencias destacables.
+NPS00300,2025-05-26,C0168,Acadèmia Collserola,Educación,Maresme,10,Buen seguimiento del técnico de referencia.
+NPS00301,2025-05-06,C1046,Llibreria Nova Sant Boi,Retail,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS00302,2025-05-13,C0784,Hotel Portal Castelldefels,Hotel,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00303,2025-05-05,C0663,Hotel Brisa Alta Sant Cugat,Hotel,Vallès Occidental,8,Sin incidencias destacables.
+NPS00304,2025-05-12,C0170,Riera Enginyeria,Oficinas,Vallès Occidental,8,
+NPS00305,2025-05-16,C0196,Brasseria El Molí,Restauración,Barcelonès,8,Sin incidencias destacables.
+NPS00306,2025-05-14,C0232,Hotel Nord Vilanova,Hotel,Garraf,9,
+NPS00307,2025-05-27,C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,8,
+NPS00308,2025-05-18,C0288,Font Logística,Oficinas,Barcelonès,1,
+NPS00309,2025-05-14,C0074,Esports Plus,Retail,Garraf,5,Tardaron más de dos días en venir.
+NPS00310,2025-05-19,C0706,Bar El Celler Premià,Restauración,Maresme,9,Respondieron en menos de 24 horas.
+NPS00311,2025-05-08,C0530,Vila Logística,Oficinas,Vallès Occidental,8,
+NPS00312,2025-05-25,C0196,Brasseria El Molí,Restauración,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00313,2025-05-13,C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,9,
+NPS00314,2025-05-21,C0946,Serra Tech Barcelona,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00315,2025-05-07,C1124,Vila Consultors Sabadell,Oficinas,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS00316,2025-05-04,C0490,Marín Gestió,Oficinas,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00317,2025-05-08,C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00318,2025-05-23,C1010,Bosch Enginyeria Rubí,Oficinas,Vallès Occidental,7,Sin incidencias destacables.
+NPS00319,2025-05-30,C0358,Font Tech,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00320,2025-05-29,C1098,Moda Clàssica Cardedeu,Retail,Vallès Oriental,3,No nos avisaron del cambio de técnico.
+NPS00321,2025-05-30,C0090,Hotel Plaça,Hotel,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00322,2025-05-23,C1100,Font Assessors Mataró,Oficinas,Maresme,8,
+NPS00323,2025-05-19,C0887,Font Enginyeria Cardedeu,Oficinas,Vallès Oriental,5,
+NPS00324,2025-05-21,C0049,Brasseria La Plaça,Restauración,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00325,2025-05-31,C0018,Laboratori Sabadell,Sanitario,Barcelonès,7,
+NPS00326,2025-05-31,C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00327,2025-05-18,C1088,Ferreteria Sant Jordi Barcelona,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS00328,2025-05-12,C0772,Brasseria La Lluna Cornellà,Restauración,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00329,2025-05-13,C0157,Font Consultors,Oficinas,Vallès Oriental,7,El precio ha subido este año.
+NPS00330,2025-05-23,C1081,Llorens Arquitectes Sant Cugat,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00331,2025-05-01,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,10,
+NPS00332,2025-05-25,C0511,Vidal Gestió,Oficinas,Barcelonès,1,No nos avisaron del cambio de técnico.
+NPS00333,2025-05-31,C0807,Col·legi Ítaca Barcelona,Educación,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00334,2025-05-24,C0177,Pizzeria Els Amics,Restauración,Maresme,9,"Servicio puntual, como siempre."
+NPS00335,2025-05-09,C0325,Sala Advocats,Oficinas,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS00336,2025-05-23,C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,7,El precio ha subido este año.
+NPS00337,2025-05-10,C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00338,2025-05-03,C0172,Roca Partners,Oficinas,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS00339,2025-05-05,C0127,Institut Turó Blau,Educación,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00340,2025-05-23,C0145,Llibreria Plus,Retail,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00341,2025-05-03,C0060,Hotel Les Arenes,Hotel,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00342,2025-06-06,C0490,Marín Gestió,Oficinas,Barcelonès,10,
+NPS00343,2025-06-30,C0138,Laboratori Sant Gervasi,Sanitario,Vallès Occidental,7,
+NPS00344,2025-06-25,C0722,Bar Els Amics Terrassa,Restauración,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00345,2025-06-08,C0302,Òptica Del Mar,Retail,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00346,2025-06-01,C0418,Esports Vallès,Retail,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00347,2025-06-19,C0772,Brasseria La Lluna Cornellà,Restauración,Baix Llobregat,6,No nos avisaron del cambio de técnico.
+NPS00348,2025-06-13,C0686,Llar d'Infants Pau Casals Badalona,Educación,Barcelonès,7,El precio ha subido este año.
+NPS00349,2025-06-02,C0110,Hotel Vela,Hotel,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00350,2025-06-22,C0730,Hotel Rambla L'Hospitalet,Hotel,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00351,2025-06-14,C0731,Òptica Plus Barcelona,Retail,Barcelonès,1,Nos cobraron una visita que creíamos incluida.
+NPS00352,2025-06-20,C1098,Moda Clàssica Cardedeu,Retail,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00353,2025-06-13,C0903,Centre Òptic Sitges Badalona,Sanitario,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS00354,2025-06-23,C0677,Hotel Costa Castelldefels,Hotel,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00355,2025-06-03,C0155,Restaurant La Plaça,Restauración,Maresme,10,"Servicio puntual, como siempre."
+NPS00356,2025-06-17,C0301,Institut Sol Ixent,Educación,Garraf,10,Respondieron en menos de 24 horas.
+NPS00357,2025-06-24,C0975,Hotel Vela Badalona,Hotel,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00358,2025-06-19,C0299,Clínica Gràcia,Sanitario,Maresme,3,No nos avisaron del cambio de técnico.
+NPS00359,2025-06-24,C1056,Navarro Gestió Terrassa,Oficinas,Vallès Occidental,8,
+NPS00360,2025-06-19,C0564,Brasseria La Terrassa Terrassa,Restauración,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00361,2025-06-07,C1113,Moda Central Terrassa,Retail,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00362,2025-06-18,C0925,Pons Arquitectes L'Hospitalet,Oficinas,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00363,2025-06-10,C0940,Coll Logística Rubí,Oficinas,Vallès Occidental,2,El equipo nuevo se ha estropeado varias veces.
+NPS00364,2025-06-16,C0010,Esports Família,Retail,Vallès Oriental,9,Muy contentos con el mantenimiento.
+NPS00365,2025-06-11,C1103,Sala Partners Vilanova,Oficinas,Garraf,10,Buen seguimiento del técnico de referencia.
+NPS00366,2025-06-18,C0955,Hotel Turó Castelldefels,Hotel,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS00367,2025-06-28,C0216,Pizzeria La Vinya,Restauración,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00368,2025-06-23,C0657,Centre Mèdic Sant Gervasi,Sanitario,Vallès Occidental,10,
+NPS00369,2025-06-10,C0672,Calçats Central Barcelona,Retail,Barcelonès,7,El precio ha subido este año.
+NPS00370,2025-06-26,C0235,Hotel Costa L'Hospitalet,Hotel,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00371,2025-06-28,C0552,Clínica Granollers,Sanitario,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00372,2025-06-28,C1082,Forn Sant Jordi L'Hospitalet,Retail,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00373,2025-06-07,C0233,Hotel Jardí Premià,Hotel,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS00374,2025-06-17,C0933,Navarro Enginyeria Sabadell,Oficinas,Vallès Occidental,8,Sin incidencias destacables.
+NPS00375,2025-06-19,C0260,Botigues Central,Retail,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS00376,2025-06-02,C0976,Serra Advocats Rubí,Oficinas,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00377,2025-06-09,C0901,Hotel Llevant Terrassa,Hotel,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00378,2025-06-19,C0349,Òptica Central,Retail,Garraf,8,Sin incidencias destacables.
+NPS00379,2025-06-22,C0681,Hotel Portal Vilanova,Hotel,Garraf,6,Tardaron más de dos días en venir.
+NPS00380,2025-06-28,C1056,Navarro Gestió Terrassa,Oficinas,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS00381,2025-06-11,C0675,Bar El Molí Mataró,Restauración,Maresme,9,
+NPS00382,2025-06-07,C0733,Llibreria Clàssica Mollet,Retail,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS00383,2025-06-29,C0798,Cafeteria Can Jordi Sitges,Restauración,Garraf,9,Muy contentos con el mantenimiento.
+NPS00384,2025-06-20,C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00385,2025-06-30,C0386,Moda Vallès,Retail,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00386,2025-06-19,C0999,Restaurant El Port Barcelona,Restauración,Barcelonès,7,El precio ha subido este año.
+NPS00387,2025-06-10,C0367,Institut Pau Casals,Educación,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00388,2025-06-13,C0902,Moda Sant Jordi Rubí,Retail,Vallès Occidental,8,
+NPS00389,2025-06-23,C0613,Bar Els Amics Sitges,Restauración,Garraf,9,Respondieron en menos de 24 horas.
+NPS00390,2025-06-12,C0730,Hotel Rambla L'Hospitalet,Hotel,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00391,2025-06-28,C0573,Grau Gestió,Oficinas,Barcelonès,8,
+NPS00392,2025-06-28,C0376,Pizzeria Can Jordi,Restauración,Barcelonès,0,Hace mucho ruido y ya ha fallado dos veces.
+NPS00393,2025-06-05,C0007,Ferreteria Urbana,Retail,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00394,2025-06-11,C0196,Brasseria El Molí,Restauración,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00395,2025-06-28,C0616,Calçats Nova Cornellà,Retail,Baix Llobregat,10,Muy contentos con el mantenimiento.
+NPS00396,2025-06-15,C1063,Laboratori Rubí Badalona,Sanitario,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00397,2025-06-09,C1070,Fisioteràpia Granollers Terrassa,Sanitario,Vallès Occidental,8,Sin incidencias destacables.
+NPS00398,2025-06-19,C0853,Restaurant La Terrassa Cornellà,Restauración,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS00399,2025-06-15,C0741,Hotel Els Pins Premià,Hotel,Maresme,10,
+NPS00400,2025-06-26,C0330,Òptica Família,Retail,Vallès Occidental,7,
+NPS00401,2025-06-29,C0977,Casas Tech Barcelona,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00402,2025-06-27,C0609,Calçats Nord,Retail,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00403,2025-06-21,C0829,Puig Arquitectes Mollet,Oficinas,Vallès Oriental,9,
+NPS00404,2025-07-25,C0708,Pizzeria Can Pere Terrassa,Restauración,Vallès Occidental,3,Tardaron más de dos días en venir.
+NPS00405,2025-07-13,C0110,Hotel Vela,Hotel,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00406,2025-07-15,C0433,Perfumeria Nord,Retail,Maresme,9,El técnico fue muy amable y resolvió rápido.
+NPS00407,2025-07-27,C0140,Brasseria La Vinya,Restauración,Vallès Occidental,8,Sin incidencias destacables.
+NPS00408,2025-07-23,C0262,Vidal Advocats,Oficinas,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00409,2025-07-15,C0429,Hotel Sol de Mar El Prat,Hotel,Baix Llobregat,10,
+NPS00410,2025-07-17,C0943,Marín Consultors Badalona,Oficinas,Barcelonès,9,
+NPS00411,2025-07-25,C0539,Hotel Turó Arenys,Hotel,Maresme,9,"Servicio puntual, como siempre."
+NPS00412,2025-07-27,C1130,Forn Vallès Castelldefels,Retail,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00413,2025-07-16,C0676,Calçats Nova Premià,Retail,Maresme,9,Respondieron en menos de 24 horas.
+NPS00414,2025-07-04,C0773,Hotel Marina Granollers,Hotel,Vallès Oriental,9,
+NPS00415,2025-07-13,C0294,Cafeteria El Racó,Restauración,Maresme,8,
+NPS00416,2025-07-08,C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00417,2025-07-17,C0728,Forn Clàssica Vilanova,Retail,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS00418,2025-07-16,C0832,Hotel Vela L'Hospitalet,Hotel,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00419,2025-07-26,C1076,Òptica Sant Jordi Barcelona,Retail,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS00420,2025-07-03,C0200,Fisioteràpia Badalona,Sanitario,Maresme,6,
+NPS00421,2025-07-08,C0211,Coll Group,Oficinas,Baix Llobregat,8,El precio ha subido este año.
+NPS00422,2025-07-03,C0961,Pons Group Sabadell,Oficinas,Vallès Occidental,7,
+NPS00423,2025-07-20,C0002,Botigues Nord,Retail,Baix Llobregat,6,
+NPS00424,2025-07-24,C0310,Clínica Dental Terrassa,Sanitario,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00425,2025-07-01,C0765,Hotel Port Sant Cugat,Hotel,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00426,2025-07-09,C0913,Bar El Racó Mollet,Restauración,Vallès Oriental,7,
+NPS00427,2025-07-27,C0520,Brasseria El Port Mollet,Restauración,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00428,2025-07-28,C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,2,No nos avisaron del cambio de técnico.
+NPS00429,2025-07-30,C0342,Brasseria El Celler,Restauración,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00430,2025-07-07,C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,10,
+NPS00431,2025-07-10,C0603,Sala Enginyeria,Oficinas,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS00432,2025-07-29,C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,5,Tardaron más de dos días en venir.
+NPS00433,2025-07-13,C0909,Hotel Les Arenes L'Hospitalet,Hotel,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00434,2025-07-26,C0137,Casas Advocats,Oficinas,Barcelonès,8,
+NPS00435,2025-07-16,C0142,Pizzeria La Plaça,Restauración,Maresme,6,Tardaron más de dos días en venir.
+NPS00436,2025-07-13,C0586,Sala Tech,Oficinas,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00437,2025-07-27,C0672,Calçats Central Barcelona,Retail,Barcelonès,10,
+NPS00438,2025-07-04,C0216,Pizzeria La Vinya,Restauración,Vallès Oriental,8,El precio ha subido este año.
+NPS00439,2025-07-06,C0865,Col·legi La Salle Nord Arenys,Educación,Maresme,9,"Servicio puntual, como siempre."
+NPS00440,2025-07-14,C1157,Ferrer Logística Cornellà,Oficinas,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00441,2025-07-19,C0541,Vila Enginyeria,Oficinas,Garraf,9,Respondieron en menos de 24 horas.
+NPS00442,2025-07-24,C1139,Riera Arquitectes Badalona,Oficinas,Barcelonès,10,
+NPS00443,2025-07-28,C0100,Riera Advocats,Oficinas,Baix Llobregat,3,No nos avisaron del cambio de técnico.
+NPS00444,2025-07-08,C0493,Institut Collserola,Educación,Vallès Occidental,5,
+NPS00445,2025-07-22,C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,8,El precio ha subido este año.
+NPS00446,2025-07-27,C0601,Riera Tech,Oficinas,Vallès Occidental,7,El precio ha subido este año.
+NPS00447,2025-07-09,C0906,Hotel Vela Cardedeu,Hotel,Vallès Oriental,7,Sin incidencias destacables.
+NPS00448,2025-07-11,C0510,Clínica Dental Gràcia,Sanitario,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00449,2025-07-14,C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,4,Nos cobraron una visita que creíamos incluida.
+NPS00450,2025-07-11,C0200,Fisioteràpia Badalona,Sanitario,Maresme,9,Muy contentos con el mantenimiento.
+NPS00451,2025-07-24,C0521,Forn Nord,Retail,Baix Llobregat,6,Tardaron más de dos días en venir.
+NPS00452,2025-07-27,C0895,Ortega Partners Sant Boi,Oficinas,Baix Llobregat,8,
+NPS00453,2025-07-21,C0952,Botigues Plus L'Hospitalet,Retail,Barcelonès,3,
+NPS00454,2025-07-14,C0520,Brasseria El Port Mollet,Restauración,Vallès Oriental,6,
+NPS00455,2025-07-07,C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,3,No nos avisaron del cambio de técnico.
+NPS00456,2025-07-28,C0505,Fisioteràpia Sant Cugat,Sanitario,Vallès Occidental,5,No nos avisaron del cambio de técnico.
+NPS00457,2025-07-27,C1142,Cafeteria El Port Sabadell,Restauración,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00458,2025-07-03,C0105,Hotel Llevant,Hotel,Vallès Occidental,5,
+NPS00459,2025-07-18,C0476,Grau Assessors,Oficinas,Vallès Oriental,10,El técnico fue muy amable y resolvió rápido.
+NPS00460,2025-08-27,C0283,Ortega Logística,Oficinas,Barcelonès,4,No nos avisaron del cambio de técnico.
+NPS00461,2025-08-21,C0624,Forn Vallès Badalona,Retail,Barcelonès,10,
+NPS00462,2025-08-21,C0788,Hotel Brisa Alta Castelldefels,Hotel,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00463,2025-08-31,C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,0,
+NPS00464,2025-08-09,C0007,Ferreteria Urbana,Retail,Vallès Occidental,6,No nos avisaron del cambio de técnico.
+NPS00465,2025-08-11,C0946,Serra Tech Barcelona,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00466,2025-08-01,C0537,Pons Tech,Oficinas,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00467,2025-08-24,C0215,Ortega Partners,Oficinas,Barcelonès,9,
+NPS00468,2025-08-26,C1142,Cafeteria El Port Sabadell,Restauración,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00469,2025-08-06,C0332,Brasseria El Port,Restauración,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00470,2025-08-23,C0024,Ferrer Consultors,Oficinas,Baix Llobregat,4,No nos avisaron del cambio de técnico.
+NPS00471,2025-08-30,C0058,Fisioteràpia Terrassa,Sanitario,Maresme,5,No nos avisaron del cambio de técnico.
+NPS00472,2025-08-15,C0620,Fisioteràpia Sitges,Sanitario,Barcelonès,3,Tardaron más de dos días en venir.
+NPS00473,2025-08-28,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,5,Tardaron más de dos días en venir.
+NPS00474,2025-08-09,C0817,Casas Partners Sabadell,Oficinas,Vallès Occidental,6,Tardaron más de dos días en venir.
+NPS00475,2025-08-28,C0626,Ferreteria Plus L'Hospitalet,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS00476,2025-08-14,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,9,
+NPS00477,2025-08-26,C0624,Forn Vallès Badalona,Retail,Barcelonès,3,Tardaron más de dos días en venir.
+NPS00478,2025-08-28,C0007,Ferreteria Urbana,Retail,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00479,2025-08-29,C0090,Hotel Plaça,Hotel,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00480,2025-08-09,C1060,Botigues Plus Rubí,Retail,Vallès Occidental,8,Sin incidencias destacables.
+NPS00481,2025-08-23,C1051,Ortega Gestió Barcelona,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00482,2025-08-14,C0243,Hotel Rambla El Prat,Hotel,Baix Llobregat,8,El precio ha subido este año.
+NPS00483,2025-08-13,C0492,Clínica Badalona,Sanitario,Baix Llobregat,9,
+NPS00484,2025-08-02,C0170,Riera Enginyeria,Oficinas,Vallès Occidental,8,
+NPS00485,2025-08-30,C0135,Esports Sant Jordi,Retail,Vallès Occidental,8,El precio ha subido este año.
+NPS00486,2025-08-17,C0992,Forn Urbana Badalona,Retail,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00487,2025-08-09,C0689,Moda Central Sitges,Retail,Garraf,10,Buen seguimiento del técnico de referencia.
+NPS00488,2025-08-05,C0353,Clínica Sant Cugat,Sanitario,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00489,2025-08-27,C0485,Acadèmia Pau Casals Terrassa,Educación,Vallès Occidental,5,
+NPS00490,2025-08-19,C0099,Marín Arquitectes,Oficinas,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00491,2025-08-07,C0097,Pons Arquitectes,Oficinas,Baix Llobregat,5,No nos avisaron del cambio de técnico.
+NPS00492,2025-08-12,C0515,Serra Tech,Oficinas,Vallès Occidental,6,
+NPS00493,2025-08-31,C0614,Ferrer Group,Oficinas,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS00494,2025-08-08,C1017,Ferrer Enginyeria Vilanova,Oficinas,Garraf,9,Buen seguimiento del técnico de referencia.
+NPS00495,2025-08-17,C0544,Font Advocats,Oficinas,Barcelonès,8,
+NPS00496,2025-08-27,C1070,Fisioteràpia Granollers Terrassa,Sanitario,Vallès Occidental,8,Sin incidencias destacables.
+NPS00497,2025-08-21,C0884,Grau Advocats Mataró,Oficinas,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS00498,2025-08-17,C0104,Ferreteria Sant Jordi,Retail,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00499,2025-08-26,C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,8,Sin incidencias destacables.
+NPS00500,2025-08-20,C0957,Llibreria Nord Rubí,Retail,Vallès Occidental,8,Sin incidencias destacables.
+NPS00501,2025-08-10,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00502,2025-08-08,C1017,Ferrer Enginyeria Vilanova,Oficinas,Garraf,9,
+NPS00503,2025-08-28,C0443,Centre Mèdic Les Corts,Sanitario,Baix Llobregat,8,
+NPS00504,2025-08-15,C0601,Riera Tech,Oficinas,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS00505,2025-08-03,C0188,Roca Gestió,Oficinas,Garraf,5,No nos avisaron del cambio de técnico.
+NPS00506,2025-08-23,C0305,Navarro Consultors,Oficinas,Baix Llobregat,4,No nos avisaron del cambio de técnico.
+NPS00507,2025-08-06,C0427,Ferrer Assessors,Oficinas,Vallès Occidental,8,El precio ha subido este año.
+NPS00508,2025-08-14,C0331,Hotel Llevant Sant Boi,Hotel,Baix Llobregat,5,Tardaron más de dos días en venir.
+NPS00509,2025-08-03,C0771,Centre Mèdic Sabadell Terrassa,Sanitario,Vallès Occidental,2,No nos avisaron del cambio de técnico.
+NPS00510,2025-08-01,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00511,2025-08-16,C0511,Vidal Gestió,Oficinas,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00512,2025-08-12,C0762,Hotel Montjuïc Sant Boi,Hotel,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS00513,2025-08-08,C0668,Hotel Montjuïc Badalona,Hotel,Barcelonès,9,
+NPS00514,2025-08-04,C0936,Restaurant El Port Mollet,Restauración,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS00515,2025-08-11,C0066,Restaurant El Port,Restauración,Baix Llobregat,7,El precio ha subido este año.
+NPS00516,2025-08-30,C0344,Laboratori Rubí,Sanitario,Barcelonès,3,Tardaron más de dos días en venir.
+NPS00517,2025-09-18,C0573,Grau Gestió,Oficinas,Barcelonès,5,
+NPS00518,2025-09-28,C0739,Cafeteria Can Jordi Badalona,Restauración,Barcelonès,7,Sin incidencias destacables.
+NPS00519,2025-09-16,C0760,Botigues Nord Cornellà,Retail,Baix Llobregat,6,
+NPS00520,2025-09-01,C0978,Serra Advocats Mollet,Oficinas,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00521,2025-09-04,C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,7,"Bien, pero las facturas llegan tarde."
+NPS00522,2025-09-01,C1147,Ferreteria Sant Jordi L'Hospitalet,Retail,Barcelonès,7,El precio ha subido este año.
+NPS00523,2025-09-03,C0052,Bar Cal Ton,Restauración,Maresme,8,El precio ha subido este año.
+NPS00524,2025-09-19,C0401,Centre Òptic Sant Cugat,Sanitario,Vallès Oriental,5,Tardaron más de dos días en venir.
+NPS00525,2025-09-05,C0455,Llar d'Infants Pau Casals,Educación,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00526,2025-09-11,C0039,Perfumeria Família,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS00527,2025-09-05,C0946,Serra Tech Barcelona,Oficinas,Barcelonès,7,El precio ha subido este año.
+NPS00528,2025-09-10,C0347,Centre Òptic Sabadell,Sanitario,Garraf,7,"Correcto, aunque la cita tardó un poco."
+NPS00529,2025-09-22,C0310,Clínica Dental Terrassa,Sanitario,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00530,2025-09-04,C0004,Llibreria Central,Retail,Garraf,10,Buen seguimiento del técnico de referencia.
+NPS00531,2025-09-13,C0207,Perfumeria Central,Retail,Maresme,6,Nos cobraron una visita que creíamos incluida.
+NPS00532,2025-09-26,C0405,Acadèmia La Salle Nord,Educación,Barcelonès,8,
+NPS00533,2025-09-10,C1105,Pizzeria El Molí Barcelona,Restauración,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00534,2025-09-17,C0880,Bar Els Amics Arenys,Restauración,Maresme,8,Sin incidencias destacables.
+NPS00535,2025-09-17,C0402,Ortega Enginyeria,Oficinas,Barcelonès,10,
+NPS00536,2025-09-12,C0196,Brasseria El Molí,Restauración,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS00537,2025-09-03,C0913,Bar El Racó Mollet,Restauración,Vallès Oriental,3,Nos cobraron una visita que creíamos incluida.
+NPS00538,2025-09-20,C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00539,2025-09-21,C1033,Centre Mèdic Terrassa Sant Cugat,Sanitario,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00540,2025-09-11,C1035,Riera Logística Cornellà,Oficinas,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS00541,2025-09-24,C0869,Riera Group Mataró,Oficinas,Maresme,1,Tardaron más de dos días en venir.
+NPS00542,2025-09-21,C0376,Pizzeria Can Jordi,Restauración,Barcelonès,3,Hace mucho ruido y ya ha fallado dos veces.
+NPS00543,2025-09-22,C0188,Roca Gestió,Oficinas,Garraf,9,
+NPS00544,2025-09-20,C0882,Restaurant El Molí Badalona,Restauración,Barcelonès,3,Tardaron más de dos días en venir.
+NPS00545,2025-09-09,C0890,Vidal Arquitectes L'Hospitalet,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00546,2025-09-09,C0135,Esports Sant Jordi,Retail,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS00547,2025-09-21,C0314,Brasseria Can Jordi,Restauración,Barcelonès,4,El equipo nuevo se ha estropeado varias veces.
+NPS00548,2025-09-08,C0723,Escola Turó Blau Mollet,Educación,Vallès Oriental,6,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS00549,2025-09-10,C1087,Navarro Enginyeria L'Hospitalet,Oficinas,Barcelonès,9,
+NPS00550,2025-09-25,C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS00551,2025-09-05,C0292,Moda Plus,Retail,Vallès Oriental,7,"Correcto, aunque la cita tardó un poco."
+NPS00552,2025-09-18,C1149,Col·legi Collserola Arenys,Educación,Maresme,3,Tardaron más de dos días en venir.
+NPS00553,2025-09-21,C0667,Clínica Granollers L'Hospitalet,Sanitario,Barcelonès,5,
+NPS00554,2025-09-01,C0060,Hotel Les Arenes,Hotel,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS00555,2025-09-26,C0958,Esports Del Mar Mataró,Retail,Maresme,9,Muy contentos con el mantenimiento.
+NPS00556,2025-09-29,C1096,Grau Assessors Badalona,Oficinas,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00557,2025-09-10,C0010,Esports Família,Retail,Vallès Oriental,10,Muy contentos con el mantenimiento.
+NPS00558,2025-09-09,C1061,Perfumeria Família El Prat,Retail,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00559,2025-09-17,C0807,Col·legi Ítaca Barcelona,Educación,Barcelonès,8,
+NPS00560,2025-09-24,C1014,Fisioteràpia Diagonal Granollers,Sanitario,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00561,2025-09-23,C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,5,No nos avisaron del cambio de técnico.
+NPS00562,2025-09-12,C0008,Col·legi Sol Ixent,Educación,Baix Llobregat,4,No nos avisaron del cambio de técnico.
+NPS00563,2025-09-18,C0176,Sala Group,Oficinas,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS00564,2025-09-23,C0860,Hotel Llevant Rubí,Hotel,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00565,2025-09-12,C1106,Llibreria Sant Jordi Sant Cugat,Retail,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00566,2025-09-14,C0982,Col·legi Sol Ixent L'Hospitalet,Educación,Barcelonès,5,
+NPS00567,2025-09-06,C0112,Vila Gestió,Oficinas,Maresme,7,"Bien, pero las facturas llegan tarde."
+NPS00568,2025-09-16,C0745,Clínica Dental Gràcia Granollers,Sanitario,Vallès Oriental,9,
+NPS00569,2025-09-23,C0056,Laboratori Terrassa,Sanitario,Maresme,7,
+NPS00570,2025-09-13,C0111,Calçats Vallès,Retail,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00571,2025-09-09,C0290,Mobles Nord,Retail,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00572,2025-09-30,C0829,Puig Arquitectes Mollet,Oficinas,Vallès Oriental,5,Nos cobraron una visita que creíamos incluida.
+NPS00573,2025-09-09,C0307,Font Gestió,Oficinas,Garraf,8,El precio ha subido este año.
+NPS00574,2025-09-10,C0532,Coll Gestió,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00575,2025-10-09,C0344,Laboratori Rubí,Sanitario,Barcelonès,9,
+NPS00576,2025-10-01,C0775,Botigues Nord Badalona,Retail,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00577,2025-10-26,C0127,Institut Turó Blau,Educación,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00578,2025-10-26,C0842,Institut Mediterrània Sabadell,Educación,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00579,2025-10-11,C0676,Calçats Nova Premià,Retail,Maresme,7,Sin incidencias destacables.
+NPS00580,2025-10-10,C0541,Vila Enginyeria,Oficinas,Garraf,8,Sin incidencias destacables.
+NPS00581,2025-10-26,C0955,Hotel Turó Castelldefels,Hotel,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00582,2025-10-09,C0594,Llar d'Infants Pau Casals Terrassa,Educación,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS00583,2025-10-08,C0047,Llar d'Infants Montseny,Educación,Maresme,4,Tardaron más de dos días en venir.
+NPS00584,2025-10-20,C0077,Clínica Dental Rubí,Sanitario,Barcelonès,10,
+NPS00585,2025-10-24,C1035,Riera Logística Cornellà,Oficinas,Baix Llobregat,7,
+NPS00586,2025-10-05,C0581,Acadèmia Ítaca Sant Boi,Educación,Baix Llobregat,6,
+NPS00587,2025-10-07,C0544,Font Advocats,Oficinas,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00588,2025-10-10,C1034,Centre Mèdic Les Corts Arenys,Sanitario,Maresme,9,Muy contentos con el mantenimiento.
+NPS00589,2025-10-13,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,5,Tardaron más de dos días en venir.
+NPS00590,2025-10-27,C0255,Institut Can Mas,Educación,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00591,2025-10-02,C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,7,
+NPS00592,2025-10-16,C0527,Hotel Llevant L'Hospitalet,Hotel,Barcelonès,8,
+NPS00593,2025-10-28,C0485,Acadèmia Pau Casals Terrassa,Educación,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00594,2025-10-31,C0821,Esports Família Barcelona,Retail,Barcelonès,10,
+NPS00595,2025-10-06,C0168,Acadèmia Collserola,Educación,Maresme,4,Nos cobraron una visita que creíamos incluida.
+NPS00596,2025-10-21,C1128,Llorens Partners Sitges,Oficinas,Garraf,3,
+NPS00597,2025-10-25,C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00598,2025-10-14,C0387,Hotel Els Pins Badalona,Hotel,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00599,2025-10-18,C0676,Calçats Nova Premià,Retail,Maresme,8,El precio ha subido este año.
+NPS00600,2025-10-27,C0539,Hotel Turó Arenys,Hotel,Maresme,3,Hace mucho ruido y ya ha fallado dos veces.
+NPS00601,2025-10-13,C1082,Forn Sant Jordi L'Hospitalet,Retail,Barcelonès,9,
+NPS00602,2025-10-18,C0753,Hotel Portal Sant Cugat,Hotel,Vallès Occidental,2,No nos avisaron del cambio de técnico.
+NPS00603,2025-10-14,C0443,Centre Mèdic Les Corts,Sanitario,Baix Llobregat,7,El precio ha subido este año.
+NPS00604,2025-10-17,C0052,Bar Cal Ton,Restauración,Maresme,10,El técnico fue muy amable y resolvió rápido.
+NPS00605,2025-10-15,C0132,Escola Ítaca,Educación,Barcelonès,8,El precio ha subido este año.
+NPS00606,2025-10-09,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00607,2025-10-13,C0299,Clínica Gràcia,Sanitario,Maresme,6,
+NPS00608,2025-10-26,C0872,Forn Del Mar Sitges,Retail,Garraf,1,
+NPS00609,2025-10-12,C0007,Ferreteria Urbana,Retail,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00610,2025-10-23,C0318,Forn Urbana,Retail,Vallès Occidental,9,
+NPS00611,2025-10-24,C0358,Font Tech,Oficinas,Vallès Occidental,6,El equipo nuevo se ha estropeado varias veces.
+NPS00612,2025-10-07,C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,10,Muy contentos con el mantenimiento.
+NPS00613,2025-10-07,C1033,Centre Mèdic Terrassa Sant Cugat,Sanitario,Vallès Occidental,8,El precio ha subido este año.
+NPS00614,2025-10-15,C1103,Sala Partners Vilanova,Oficinas,Garraf,10,Respondieron en menos de 24 horas.
+NPS00615,2025-10-28,C0108,Esports Central,Retail,Vallès Oriental,10,El técnico fue muy amable y resolvió rápido.
+NPS00616,2025-10-29,C1109,Centre Mèdic Sabadell Badalona,Sanitario,Barcelonès,9,
+NPS00617,2025-10-12,C0313,Vila Arquitectes,Oficinas,Maresme,5,No nos avisaron del cambio de técnico.
+NPS00618,2025-10-26,C0421,Soler Consultors,Oficinas,Barcelonès,7,El precio ha subido este año.
+NPS00619,2025-10-01,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00620,2025-10-05,C0999,Restaurant El Port Barcelona,Restauración,Barcelonès,8,El precio ha subido este año.
+NPS00621,2025-10-04,C0254,Serra Enginyeria,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00622,2025-10-14,C1103,Sala Partners Vilanova,Oficinas,Garraf,10,
+NPS00623,2025-10-21,C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00624,2025-10-17,C0547,Clínica Dental Diagonal,Sanitario,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00625,2025-10-25,C0383,Ferreteria Família,Retail,Barcelonès,8,
+NPS00626,2025-10-22,C0615,Col·legi Pau Casals L'Hospitalet,Educación,Barcelonès,7,Sin incidencias destacables.
+NPS00627,2025-10-06,C1131,Hotel Sol de Mar Cornellà,Hotel,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS00628,2025-10-07,C0889,Soler Consultors Cornellà,Oficinas,Baix Llobregat,10,
+NPS00629,2025-10-25,C0870,Acadèmia Els Til·lers Sant Cugat,Educación,Vallès Occidental,5,
+NPS00630,2025-10-04,C0757,Institut Turó Blau Sant Boi,Educación,Baix Llobregat,8,Sin incidencias destacables.
+NPS00631,2025-10-21,C0770,Moda Nord Mataró,Retail,Maresme,5,
+NPS00632,2025-10-25,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,4,Nos cobraron una visita que creíamos incluida.
+NPS00633,2025-10-28,C0243,Hotel Rambla El Prat,Hotel,Baix Llobregat,9,
+NPS00634,2025-11-25,C0573,Grau Gestió,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00635,2025-11-20,C1189,Esports Clàssica Barcelona,Retail,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00636,2025-11-20,C1091,Mobles Nord Barcelona,Retail,Barcelonès,7,Sin incidencias destacables.
+NPS00637,2025-11-30,C0537,Pons Tech,Oficinas,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00638,2025-11-05,C1150,Hotel Plaça Mollet,Hotel,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS00639,2025-11-25,C0007,Ferreteria Urbana,Retail,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS00640,2025-11-02,C0601,Riera Tech,Oficinas,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00641,2025-11-19,C0691,Moda Del Mar Sabadell,Retail,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00642,2025-11-07,C0733,Llibreria Clàssica Mollet,Retail,Vallès Oriental,5,Nos cobraron una visita que creíamos incluida.
+NPS00643,2025-11-05,C0880,Bar Els Amics Arenys,Restauración,Maresme,8,El precio ha subido este año.
+NPS00644,2025-11-05,C0830,Hotel Plaça Castelldefels,Hotel,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00645,2025-11-19,C0171,Roca Consultors,Oficinas,Barcelonès,8,El precio ha subido este año.
+NPS00646,2025-11-10,C0275,Forn Nova,Retail,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00647,2025-11-14,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,3,Tardaron más de dos días en venir.
+NPS00648,2025-11-28,C1153,Ferreteria Urbana Sant Cugat,Retail,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00649,2025-11-29,C0814,Bar La Plaça Mollet,Restauración,Vallès Oriental,3,Nos cobraron una visita que creíamos incluida.
+NPS00650,2025-11-07,C0894,Ferreteria Nova Sant Boi,Retail,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00651,2025-11-19,C1112,Brasseria La Lluna Sitges,Restauración,Garraf,9,Muy contentos con el mantenimiento.
+NPS00652,2025-11-15,C1008,Hotel Mirador Barcelona,Hotel,Barcelonès,6,
+NPS00653,2025-11-28,C0330,Òptica Família,Retail,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00654,2025-11-27,C0694,Hotel Sol de Mar Vilanova,Hotel,Garraf,7,"Correcto, aunque la cita tardó un poco."
+NPS00655,2025-11-16,C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS00656,2025-11-24,C0240,Llorens Gestió,Oficinas,Vallès Occidental,8,El precio ha subido este año.
+NPS00657,2025-11-01,C0223,Vidal Enginyeria,Oficinas,Barcelonès,5,No nos avisaron del cambio de técnico.
+NPS00658,2025-11-08,C0160,Col·legi Mediterrània,Educación,Vallès Occidental,7,El precio ha subido este año.
+NPS00659,2025-11-03,C0964,Centre Mèdic Rubí L'Hospitalet,Sanitario,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00660,2025-11-16,C0135,Esports Sant Jordi,Retail,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS00661,2025-11-26,C0454,Navarro Group,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00662,2025-11-22,C0200,Fisioteràpia Badalona,Sanitario,Maresme,9,Muy contentos con el mantenimiento.
+NPS00663,2025-11-04,C0057,Ferrer Gestió,Oficinas,Baix Llobregat,6,Tardaron más de dos días en venir.
+NPS00664,2025-11-02,C0919,Centre Òptic Les Corts Castelldefels,Sanitario,Baix Llobregat,0,
+NPS00665,2025-11-07,C0232,Hotel Nord Vilanova,Hotel,Garraf,2,
+NPS00666,2025-11-11,C0308,Òptica Urbana,Retail,Barcelonès,8,El precio ha subido este año.
+NPS00667,2025-11-17,C0108,Esports Central,Retail,Vallès Oriental,7,
+NPS00668,2025-11-20,C0187,Llar d'Infants La Salle Nord,Educación,Vallès Occidental,8,El precio ha subido este año.
+NPS00669,2025-11-09,C0805,Casas Consultors Terrassa,Oficinas,Vallès Occidental,4,Nos cobraron una visita que creíamos incluida.
+NPS00670,2025-11-19,C0161,Llar d'Infants Collserola,Educación,Baix Llobregat,6,
+NPS00671,2025-11-07,C0818,Vila Assessors Granollers,Oficinas,Vallès Oriental,10,Muy contentos con el mantenimiento.
+NPS00672,2025-11-16,C0140,Brasseria La Vinya,Restauración,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS00673,2025-11-17,C1062,Bosch Arquitectes Arenys,Oficinas,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS00674,2025-11-21,C1085,Riera Gestió Sant Cugat,Oficinas,Vallès Occidental,8,Sin incidencias destacables.
+NPS00675,2025-11-05,C0520,Brasseria El Port Mollet,Restauración,Vallès Oriental,9,
+NPS00676,2025-11-05,C0137,Casas Advocats,Oficinas,Barcelonès,10,
+NPS00677,2025-11-24,C0182,Vila Consultors,Oficinas,Barcelonès,7,Sin incidencias destacables.
+NPS00678,2025-11-08,C0240,Llorens Gestió,Oficinas,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00679,2025-11-24,C0011,Esports Clàssica,Retail,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS00680,2025-11-19,C0538,Col·legi Els Til·lers Badalona,Educación,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00681,2025-11-22,C0172,Roca Partners,Oficinas,Vallès Occidental,5,
+NPS00682,2025-11-10,C0455,Llar d'Infants Pau Casals,Educación,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS00683,2025-11-04,C0404,Centre Òptic Gràcia,Sanitario,Maresme,4,
+NPS00684,2025-11-10,C0294,Cafeteria El Racó,Restauración,Maresme,10,Muy contentos con el mantenimiento.
+NPS00685,2025-11-24,C0684,Mobles Sant Jordi Sant Cugat,Retail,Vallès Occidental,8,
+NPS00686,2025-11-20,C0049,Brasseria La Plaça,Restauración,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS00687,2025-11-19,C0616,Calçats Nova Cornellà,Retail,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS00688,2025-11-27,C0396,Ortega Gestió,Oficinas,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00689,2025-11-09,C0676,Calçats Nova Premià,Retail,Maresme,1,No nos avisaron del cambio de técnico.
+NPS00690,2025-11-12,C0488,Llibreria Nova,Retail,Garraf,9,Buen seguimiento del técnico de referencia.
+NPS00691,2025-11-04,C0339,Centre Mèdic Sabadell,Sanitario,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00692,2025-11-05,C0311,Llorens Group,Oficinas,Baix Llobregat,8,Sin incidencias destacables.
+NPS00693,2025-11-25,C1130,Forn Vallès Castelldefels,Retail,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS00694,2025-11-08,C0007,Ferreteria Urbana,Retail,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS00695,2025-12-17,C0120,Riera Logística,Oficinas,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00696,2025-12-13,C0156,Llorens Partners,Oficinas,Barcelonès,8,
+NPS00697,2025-12-12,C1044,Esports Família Rubí,Retail,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00698,2025-12-12,C0880,Bar Els Amics Arenys,Restauración,Maresme,8,Sin incidencias destacables.
+NPS00699,2025-12-22,C1037,Sala Assessors Mollet,Oficinas,Vallès Oriental,8,El precio ha subido este año.
+NPS00700,2025-12-29,C0484,Botigues Sant Jordi,Retail,Maresme,10,Respondieron en menos de 24 horas.
+NPS00701,2025-12-19,C0739,Cafeteria Can Jordi Badalona,Restauración,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00702,2025-12-18,C0022,Laboratori Mataró,Sanitario,Vallès Oriental,9,
+NPS00703,2025-12-30,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,3,
+NPS00704,2025-12-30,C0198,Perfumeria Vallès,Retail,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00705,2025-12-07,C0150,Casas Assessors,Oficinas,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS00706,2025-12-13,C0735,Hotel Nord Badalona,Hotel,Barcelonès,8,
+NPS00707,2025-12-28,C0395,Coll Consultors,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00708,2025-12-17,C0729,Grau Enginyeria Mollet,Oficinas,Vallès Oriental,4,Hace mucho ruido y ya ha fallado dos veces.
+NPS00709,2025-12-09,C0322,Font Partners,Oficinas,Baix Llobregat,10,
+NPS00710,2025-12-07,C1133,Cafeteria El Racó L'Hospitalet,Restauración,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00711,2025-12-06,C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS00712,2025-12-06,C0119,Riera Assessors,Oficinas,Garraf,0,
+NPS00713,2025-12-07,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,7,El precio ha subido este año.
+NPS00714,2025-12-02,C0337,Hotel Costa Rubí,Hotel,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00715,2025-12-19,C0644,Bar Cal Ton Premià,Restauración,Maresme,8,El precio ha subido este año.
+NPS00716,2025-12-29,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,3,Nos cobraron una visita que creíamos incluida.
+NPS00717,2025-12-07,C0309,Riera Arquitectes,Oficinas,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS00718,2025-12-12,C1070,Fisioteràpia Granollers Terrassa,Sanitario,Vallès Occidental,6,El equipo nuevo se ha estropeado varias veces.
+NPS00719,2025-12-23,C0805,Casas Consultors Terrassa,Oficinas,Vallès Occidental,9,
+NPS00720,2025-12-23,C0529,Esports Família Terrassa,Retail,Vallès Occidental,7,
+NPS00721,2025-12-13,C0519,Fisioteràpia Diagonal,Sanitario,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS00722,2025-12-16,C0860,Hotel Llevant Rubí,Hotel,Vallès Occidental,9,
+NPS00723,2025-12-02,C0008,Col·legi Sol Ixent,Educación,Baix Llobregat,6,Es un equipo casi nuevo y no para de dar problemas.
+NPS00724,2025-12-20,C0118,Clínica Les Corts,Sanitario,Vallès Occidental,9,
+NPS00725,2025-12-18,C0975,Hotel Vela Badalona,Hotel,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00726,2025-12-17,C0136,Llorens Tech,Oficinas,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00727,2025-12-18,C0111,Calçats Vallès,Retail,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00728,2025-12-28,C0370,Hotel Turó Barcelona,Hotel,Barcelonès,7,El precio ha subido este año.
+NPS00729,2025-12-23,C0148,Hotel Cala Sitges,Hotel,Garraf,9,
+NPS00730,2025-12-21,C0723,Escola Turó Blau Mollet,Educación,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS00731,2025-12-06,C0024,Ferrer Consultors,Oficinas,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS00732,2025-12-10,C1013,Escola Pau Casals Badalona,Educación,Barcelonès,10,
+NPS00733,2025-12-05,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,7,Sin incidencias destacables.
+NPS00734,2025-12-21,C0691,Moda Del Mar Sabadell,Retail,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00735,2025-12-04,C0300,Botigues Vallès,Retail,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00736,2025-12-02,C0301,Institut Sol Ixent,Educación,Garraf,9,Respondieron en menos de 24 horas.
+NPS00737,2025-12-27,C0752,Soler Consultors Arenys,Oficinas,Maresme,8,Sin incidencias destacables.
+NPS00738,2025-12-13,C0433,Perfumeria Nord,Retail,Maresme,10,
+NPS00739,2025-12-17,C1087,Navarro Enginyeria L'Hospitalet,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00740,2025-12-24,C0191,Hotel Rambla Sant Cugat,Hotel,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00741,2025-12-24,C0919,Centre Òptic Les Corts Castelldefels,Sanitario,Baix Llobregat,7,El precio ha subido este año.
+NPS00742,2025-12-31,C0795,Laboratori Gràcia Sant Cugat,Sanitario,Vallès Occidental,10,
+NPS00743,2025-12-30,C0952,Botigues Plus L'Hospitalet,Retail,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00744,2025-12-27,C0879,Òptica Clàssica Rubí,Retail,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS00745,2025-12-08,C0686,Llar d'Infants Pau Casals Badalona,Educación,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00746,2025-12-17,C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,8,
+NPS00747,2025-12-13,C0112,Vila Gestió,Oficinas,Maresme,7,"Correcto, aunque la cita tardó un poco."
+NPS00748,2025-12-10,C0778,Sala Gestió Mataró,Oficinas,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS00749,2025-12-15,C0676,Calçats Nova Premià,Retail,Maresme,7,
+NPS00750,2025-12-11,C0807,Col·legi Ítaca Barcelona,Educación,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00751,2025-12-03,C0964,Centre Mèdic Rubí L'Hospitalet,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00752,2025-12-01,C1148,Soler Arquitectes L'Hospitalet,Oficinas,Barcelonès,7,Sin incidencias destacables.
+NPS00753,2025-12-06,C0537,Pons Tech,Oficinas,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00754,2025-12-28,C0920,Pizzeria La Vinya Granollers,Restauración,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS00755,2025-12-21,C0141,Ortega Assessors,Oficinas,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS00756,2025-12-16,C0566,Hotel Sol de Mar Sant Cugat,Hotel,Vallès Occidental,8,
+NPS00757,2026-01-19,C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS00758,2026-01-02,C0680,Hotel Rambla Barcelona,Hotel,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00759,2026-01-24,C0829,Puig Arquitectes Mollet,Oficinas,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS00760,2026-01-13,C0058,Fisioteràpia Terrassa,Sanitario,Maresme,7,"Bien, pero las facturas llegan tarde."
+NPS00761,2026-01-09,C0341,Vila Tech,Oficinas,Baix Llobregat,5,No nos avisaron del cambio de técnico.
+NPS00762,2026-01-01,C0101,Calçats Urbana,Retail,Baix Llobregat,7,Sin incidencias destacables.
+NPS00763,2026-01-29,C0314,Brasseria Can Jordi,Restauración,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00764,2026-01-16,C0272,Hotel Ronda Sabadell,Hotel,Vallès Occidental,2,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS00765,2026-01-29,C0767,Llar d'Infants Ítaca Sabadell,Educación,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS00766,2026-01-08,C0522,Forn Central,Retail,Maresme,7,"Bien, pero las facturas llegan tarde."
+NPS00767,2026-01-16,C0078,Òptica Sant Jordi,Retail,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00768,2026-01-15,C0593,Ortega Advocats,Oficinas,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS00769,2026-01-07,C0692,Hotel Port El Prat,Hotel,Baix Llobregat,8,Sin incidencias destacables.
+NPS00770,2026-01-06,C0509,Col·legi Pau Casals Mataró,Educación,Maresme,9,Buen seguimiento del técnico de referencia.
+NPS00771,2026-01-08,C0336,Hotel Plaça Granollers,Hotel,Vallès Oriental,10,Respondieron en menos de 24 horas.
+NPS00772,2026-01-20,C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,7,
+NPS00773,2026-01-22,C0287,Puig Gestió,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00774,2026-01-25,C1026,Hotel Mirador L'Hospitalet,Hotel,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00775,2026-01-03,C0288,Font Logística,Oficinas,Barcelonès,9,
+NPS00776,2026-01-28,C0493,Institut Collserola,Educación,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00777,2026-01-20,C0977,Casas Tech Barcelona,Oficinas,Barcelonès,5,Tardaron más de dos días en venir.
+NPS00778,2026-01-01,C1166,Pizzeria La Terrassa Premià,Restauración,Maresme,5,Tardaron más de dos días en venir.
+NPS00779,2026-01-08,C0150,Casas Assessors,Oficinas,Baix Llobregat,1,
+NPS00780,2026-01-08,C0775,Botigues Nord Badalona,Retail,Barcelonès,10,
+NPS00781,2026-01-25,C0530,Vila Logística,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00782,2026-01-19,C1017,Ferrer Enginyeria Vilanova,Oficinas,Garraf,2,
+NPS00783,2026-01-27,C0127,Institut Turó Blau,Educación,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00784,2026-01-05,C0490,Marín Gestió,Oficinas,Barcelonès,9,
+NPS00785,2026-01-08,C1119,Font Gestió L'Hospitalet,Oficinas,Barcelonès,4,Es un equipo casi nuevo y no para de dar problemas.
+NPS00786,2026-01-29,C0580,Llibreria Vallès,Retail,Maresme,10,
+NPS00787,2026-01-20,C1090,Hotel Mirador Terrassa,Hotel,Vallès Occidental,9,
+NPS00788,2026-01-03,C0676,Calçats Nova Premià,Retail,Maresme,9,"Servicio puntual, como siempre."
+NPS00789,2026-01-14,C1100,Font Assessors Mataró,Oficinas,Maresme,10,Buen seguimiento del técnico de referencia.
+NPS00790,2026-01-05,C0440,Laboratori Gràcia,Sanitario,Vallès Oriental,0,
+NPS00791,2026-01-23,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00792,2026-01-26,C0056,Laboratori Terrassa,Sanitario,Maresme,10,
+NPS00793,2026-01-04,C0515,Serra Tech,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00794,2026-01-22,C0492,Clínica Badalona,Sanitario,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS00795,2026-01-20,C0239,Calçats Família,Retail,Vallès Oriental,4,
+NPS00796,2026-01-05,C0490,Marín Gestió,Oficinas,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00797,2026-01-25,C0624,Forn Vallès Badalona,Retail,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00798,2026-01-22,C0272,Hotel Ronda Sabadell,Hotel,Vallès Occidental,3,
+NPS00799,2026-01-10,C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,8,
+NPS00800,2026-01-05,C0365,Serra Logística,Oficinas,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS00801,2026-01-21,C0353,Clínica Sant Cugat,Sanitario,Baix Llobregat,10,
+NPS00802,2026-01-29,C0942,Vidal Consultors Sant Cugat,Oficinas,Vallès Occidental,10,
+NPS00803,2026-01-24,C1001,Escola Can Mas Arenys,Educación,Maresme,1,Nos cobraron una visita que creíamos incluida.
+NPS00804,2026-01-16,C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS00805,2026-01-04,C0795,Laboratori Gràcia Sant Cugat,Sanitario,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00806,2026-01-27,C0978,Serra Advocats Mollet,Oficinas,Vallès Oriental,6,Nos cobraron una visita que creíamos incluida.
+NPS00807,2026-01-01,C1191,Botigues Nova Cardedeu,Retail,Vallès Oriental,4,Nos cobraron una visita que creíamos incluida.
+NPS00808,2026-01-26,C0853,Restaurant La Terrassa Cornellà,Restauración,Baix Llobregat,2,
+NPS00809,2026-01-08,C1079,Clínica Dental Mataró Sant Cugat,Sanitario,Vallès Occidental,9,
+NPS00810,2026-01-12,C0472,Navarro Gestió,Oficinas,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00811,2026-01-26,C0672,Calçats Central Barcelona,Retail,Barcelonès,10,
+NPS00812,2026-01-23,C0104,Ferreteria Sant Jordi,Retail,Vallès Occidental,0,No nos avisaron del cambio de técnico.
+NPS00813,2026-01-15,C0444,Marín Partners,Oficinas,Garraf,9,Muy contentos con el mantenimiento.
+NPS00814,2026-01-10,C0178,Clínica Sitges,Sanitario,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00815,2026-01-19,C0344,Laboratori Rubí,Sanitario,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00816,2026-01-28,C0260,Botigues Central,Retail,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS00817,2026-01-31,C0360,Moda Nova,Retail,Vallès Oriental,8,
+NPS00818,2026-01-10,C0566,Hotel Sol de Mar Sant Cugat,Hotel,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00819,2026-01-25,C0909,Hotel Les Arenes L'Hospitalet,Hotel,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00820,2026-02-23,C0846,Riera Group Badalona,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00821,2026-02-14,C0522,Forn Central,Retail,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS00822,2026-02-04,C0090,Hotel Plaça,Hotel,Vallès Occidental,7,El precio ha subido este año.
+NPS00823,2026-02-11,C0262,Vidal Advocats,Oficinas,Vallès Occidental,8,
+NPS00824,2026-02-24,C0058,Fisioteràpia Terrassa,Sanitario,Maresme,7,
+NPS00825,2026-02-04,C0940,Coll Logística Rubí,Oficinas,Vallès Occidental,7,
+NPS00826,2026-02-01,C0577,Fisioteràpia Mataró,Sanitario,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00827,2026-02-25,C0890,Vidal Arquitectes L'Hospitalet,Oficinas,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00828,2026-02-28,C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,3,Tardaron más de dos días en venir.
+NPS00829,2026-02-09,C0361,Restaurant Can Pere,Restauración,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00830,2026-02-13,C0418,Esports Vallès,Retail,Baix Llobregat,6,
+NPS00831,2026-02-28,C0674,Acadèmia Ítaca Mataró,Educación,Maresme,7,"Bien, pero las facturas llegan tarde."
+NPS00832,2026-02-08,C0071,Hotel Brisa Alta,Hotel,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00833,2026-02-25,C0957,Llibreria Nord Rubí,Retail,Vallès Occidental,8,
+NPS00834,2026-02-10,C0747,Pizzeria El Celler Sabadell,Restauración,Vallès Occidental,10,
+NPS00835,2026-02-06,C0758,Institut Mediterrània Badalona,Educación,Barcelonès,9,
+NPS00836,2026-02-21,C0384,Hotel Sant Pere Sabadell,Hotel,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00837,2026-02-15,C0280,Forn Del Mar,Retail,Barcelonès,3,Tardaron más de dos días en venir.
+NPS00838,2026-02-07,C0735,Hotel Nord Badalona,Hotel,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00839,2026-02-24,C1053,Ortega Assessors L'Hospitalet,Oficinas,Barcelonès,6,Tardaron más de dos días en venir.
+NPS00840,2026-02-28,C0196,Brasseria El Molí,Restauración,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00841,2026-02-07,C0678,Moda Plus Cornellà,Retail,Baix Llobregat,6,
+NPS00842,2026-02-14,C0344,Laboratori Rubí,Sanitario,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00843,2026-02-24,C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,9,
+NPS00844,2026-02-27,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,1,El equipo nuevo se ha estropeado varias veces.
+NPS00845,2026-02-28,C0032,Pons Advocats,Oficinas,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00846,2026-02-11,C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,3,Tardaron más de dos días en venir.
+NPS00847,2026-02-23,C0932,Vidal Group L'Hospitalet,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00848,2026-02-17,C0730,Hotel Rambla L'Hospitalet,Hotel,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00849,2026-02-28,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS00850,2026-02-21,C1147,Ferreteria Sant Jordi L'Hospitalet,Retail,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00851,2026-02-06,C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,6,
+NPS00852,2026-02-26,C1149,Col·legi Collserola Arenys,Educación,Maresme,0,Es un equipo casi nuevo y no para de dar problemas.
+NPS00853,2026-02-02,C0533,Bosch Assessors,Oficinas,Baix Llobregat,8,
+NPS00854,2026-02-11,C0135,Esports Sant Jordi,Retail,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00855,2026-02-10,C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,7,
+NPS00856,2026-02-11,C0144,Mas Assessors,Oficinas,Garraf,10,Respondieron en menos de 24 horas.
+NPS00857,2026-02-17,C0481,Navarro Enginyeria,Oficinas,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00858,2026-02-18,C0853,Restaurant La Terrassa Cornellà,Restauración,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS00859,2026-02-17,C0530,Vila Logística,Oficinas,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS00860,2026-02-25,C1189,Esports Clàssica Barcelona,Retail,Barcelonès,8,
+NPS00861,2026-02-04,C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,1,Tardaron más de dos días en venir.
+NPS00862,2026-02-21,C1012,Navarro Assessors L'Hospitalet,Oficinas,Barcelonès,3,El equipo nuevo se ha estropeado varias veces.
+NPS00863,2026-02-27,C1128,Llorens Partners Sitges,Oficinas,Garraf,4,
+NPS00864,2026-02-17,C0938,Hotel Brisa Alta Mollet,Hotel,Vallès Oriental,7,"Bien, pero las facturas llegan tarde."
+NPS00865,2026-02-17,C0492,Clínica Badalona,Sanitario,Baix Llobregat,8,Sin incidencias destacables.
+NPS00866,2026-02-20,C0339,Centre Mèdic Sabadell,Sanitario,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS00867,2026-02-22,C0126,Hotel Ronda,Hotel,Vallès Occidental,2,Hace mucho ruido y ya ha fallado dos veces.
+NPS00868,2026-02-06,C0842,Institut Mediterrània Sabadell,Educación,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS00869,2026-02-28,C0230,Bar Can Jordi,Restauración,Garraf,8,
+NPS00870,2026-02-05,C0509,Col·legi Pau Casals Mataró,Educación,Maresme,9,El técnico fue muy amable y resolvió rápido.
+NPS00871,2026-02-03,C1128,Llorens Partners Sitges,Oficinas,Garraf,10,
+NPS00872,2026-02-16,C0650,Fisioteràpia Mataró Cornellà,Sanitario,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS00873,2026-02-19,C0620,Fisioteràpia Sitges,Sanitario,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS00874,2026-02-23,C0453,Restaurant La Lluna,Restauración,Barcelonès,7,El precio ha subido este año.
+NPS00875,2026-02-17,C0771,Centre Mèdic Sabadell Terrassa,Sanitario,Vallès Occidental,10,
+NPS00876,2026-03-11,C0461,Llibreria Família,Retail,Vallès Occidental,2,Nos cobraron una visita que creíamos incluida.
+NPS00877,2026-03-02,C0046,Centre Mèdic Gràcia,Sanitario,Maresme,9,Respondieron en menos de 24 horas.
+NPS00878,2026-03-05,C0308,Òptica Urbana,Retail,Barcelonès,10,
+NPS00879,2026-03-19,C0902,Moda Sant Jordi Rubí,Retail,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00880,2026-03-13,C0915,Pizzeria La Vinya Badalona,Restauración,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS00881,2026-03-10,C0058,Fisioteràpia Terrassa,Sanitario,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS00882,2026-03-24,C0592,Puig Advocats Sant Boi,Oficinas,Baix Llobregat,8,El precio ha subido este año.
+NPS00883,2026-03-22,C1191,Botigues Nova Cardedeu,Retail,Vallès Oriental,2,No nos avisaron del cambio de técnico.
+NPS00884,2026-03-14,C0940,Coll Logística Rubí,Oficinas,Vallès Occidental,9,
+NPS00885,2026-03-25,C1153,Ferreteria Urbana Sant Cugat,Retail,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS00886,2026-03-30,C1164,Restaurant Can Jordi L'Hospitalet,Restauración,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS00887,2026-03-25,C0031,Riera Consultors,Oficinas,Garraf,8,
+NPS00888,2026-03-01,C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,8,El precio ha subido este año.
+NPS00889,2026-03-30,C0228,Ferrer Enginyeria,Oficinas,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00890,2026-03-13,C1059,Hotel Costa Cardedeu,Hotel,Vallès Oriental,3,
+NPS00891,2026-03-23,C0776,Òptica Nova Sant Cugat,Retail,Vallès Occidental,0,No nos avisaron del cambio de técnico.
+NPS00892,2026-03-01,C0614,Ferrer Group,Oficinas,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00893,2026-03-19,C0254,Serra Enginyeria,Oficinas,Barcelonès,7,
+NPS00894,2026-03-12,C0004,Llibreria Central,Retail,Garraf,7,Sin incidencias destacables.
+NPS00895,2026-03-05,C1087,Navarro Enginyeria L'Hospitalet,Oficinas,Barcelonès,8,
+NPS00896,2026-03-08,C0420,Centre Mèdic Rubí,Sanitario,Vallès Occidental,10,
+NPS00897,2026-03-14,C0095,Institut Ítaca,Educación,Barcelonès,5,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS00898,2026-03-07,C0758,Institut Mediterrània Badalona,Educación,Barcelonès,7,Sin incidencias destacables.
+NPS00899,2026-03-11,C0476,Grau Assessors,Oficinas,Vallès Oriental,9,Muy contentos con el mantenimiento.
+NPS00900,2026-03-01,C1075,Llibreria Sant Jordi L'Hospitalet,Retail,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00901,2026-03-11,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00902,2026-03-17,C0786,Mas Group Sant Cugat,Oficinas,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00903,2026-03-07,C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00904,2026-03-04,C0047,Llar d'Infants Montseny,Educación,Maresme,7,El precio ha subido este año.
+NPS00905,2026-03-13,C1176,Fisioteràpia Mataró El Prat,Sanitario,Baix Llobregat,9,
+NPS00906,2026-03-09,C0515,Serra Tech,Oficinas,Vallès Occidental,8,"Correcto, aunque la cita tardó un poco."
+NPS00907,2026-03-11,C0722,Bar Els Amics Terrassa,Restauración,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS00908,2026-03-22,C0737,Pizzeria El Port Sitges,Restauración,Garraf,8,
+NPS00909,2026-03-01,C0509,Col·legi Pau Casals Mataró,Educación,Maresme,9,Muy contentos con el mantenimiento.
+NPS00910,2026-03-18,C1034,Centre Mèdic Les Corts Arenys,Sanitario,Maresme,10,"Servicio puntual, como siempre."
+NPS00911,2026-03-02,C0818,Vila Assessors Granollers,Oficinas,Vallès Oriental,9,Respondieron en menos de 24 horas.
+NPS00912,2026-03-17,C0812,Fisioteràpia Badalona Vilanova,Sanitario,Garraf,6,No nos avisaron del cambio de técnico.
+NPS00913,2026-03-31,C0940,Coll Logística Rubí,Oficinas,Vallès Occidental,4,No nos avisaron del cambio de técnico.
+NPS00914,2026-03-16,C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS00915,2026-03-07,C0170,Riera Enginyeria,Oficinas,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00916,2026-03-08,C0977,Casas Tech Barcelona,Oficinas,Barcelonès,9,
+NPS00917,2026-03-02,C1198,Serra Enginyeria Barcelona,Oficinas,Barcelonès,9,
+NPS00918,2026-03-11,C0708,Pizzeria Can Pere Terrassa,Restauración,Vallès Occidental,10,
+NPS00919,2026-03-12,C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS00920,2026-03-31,C0815,Hotel Rambla Sitges,Hotel,Garraf,4,Nos cobraron una visita que creíamos incluida.
+NPS00921,2026-03-06,C0846,Riera Group Badalona,Oficinas,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS00922,2026-03-21,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00923,2026-03-03,C1171,Fisioteràpia Rubí El Prat,Sanitario,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00924,2026-03-26,C0632,Sala Assessors,Oficinas,Baix Llobregat,8,
+NPS00925,2026-03-10,C0751,Hotel Turó Badalona,Hotel,Barcelonès,1,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS00926,2026-03-19,C1046,Llibreria Nova Sant Boi,Retail,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS00927,2026-03-15,C0429,Hotel Sol de Mar El Prat,Hotel,Baix Llobregat,10,Muy contentos con el mantenimiento.
+NPS00928,2026-03-05,C0321,Puig Arquitectes,Oficinas,Vallès Occidental,6,
+NPS00929,2026-03-13,C0616,Calçats Nova Cornellà,Retail,Baix Llobregat,8,
+NPS00930,2026-03-03,C1063,Laboratori Rubí Badalona,Sanitario,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00931,2026-03-28,C1084,Ferreteria Plus Sabadell,Retail,Vallès Occidental,5,Nos cobraron una visita que creíamos incluida.
+NPS00932,2026-03-11,C0309,Riera Arquitectes,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS00933,2026-03-17,C0516,Puig Consultors,Oficinas,Baix Llobregat,4,No nos avisaron del cambio de técnico.
+NPS00934,2026-03-17,C0375,Cafeteria Can Jordi,Restauración,Vallès Oriental,10,Muy contentos con el mantenimiento.
+NPS00935,2026-03-24,C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,1,
+NPS00936,2026-03-12,C0001,Moda Del Mar,Retail,Barcelonès,3,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS00937,2026-03-01,C0303,Bosch Tech,Oficinas,Vallès Occidental,9,Muy contentos con el mantenimiento.
+NPS00938,2026-03-10,C0633,Hotel Plaça L'Hospitalet,Hotel,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00939,2026-03-31,C0874,Hotel Mirador Mataró,Hotel,Maresme,1,El equipo nuevo se ha estropeado varias veces.
+NPS00940,2026-03-19,C1043,Col·legi Els Til·lers Cardedeu,Educación,Vallès Oriental,8,
+NPS00941,2026-04-30,C0423,Institut La Salle Nord,Educación,Barcelonès,8,
+NPS00942,2026-04-12,C1148,Soler Arquitectes L'Hospitalet,Oficinas,Barcelonès,8,Sin incidencias destacables.
+NPS00943,2026-04-26,C1101,Botigues Central Badalona,Retail,Barcelonès,9,"Servicio puntual, como siempre."
+NPS00944,2026-04-28,C0817,Casas Partners Sabadell,Oficinas,Vallès Occidental,7,El precio ha subido este año.
+NPS00945,2026-04-01,C0153,Calçats Del Mar,Retail,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS00946,2026-04-16,C0177,Pizzeria Els Amics,Restauración,Maresme,10,El técnico fue muy amable y resolvió rápido.
+NPS00947,2026-04-15,C1013,Escola Pau Casals Badalona,Educación,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00948,2026-04-18,C0018,Laboratori Sabadell,Sanitario,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS00949,2026-04-03,C0623,Botigues Plus Castelldefels,Retail,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS00950,2026-04-09,C0064,Clínica Dental Granollers,Sanitario,Garraf,6,
+NPS00951,2026-04-24,C0157,Font Consultors,Oficinas,Vallès Oriental,1,
+NPS00952,2026-04-20,C0142,Pizzeria La Plaça,Restauración,Maresme,10,Muy contentos con el mantenimiento.
+NPS00953,2026-04-06,C0224,Cafeteria Can Pere,Restauración,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS00954,2026-04-17,C0678,Moda Plus Cornellà,Retail,Baix Llobregat,0,No nos avisaron del cambio de técnico.
+NPS00955,2026-04-06,C0165,Escola Mediterrània,Educación,Barcelonès,4,
+NPS00956,2026-04-15,C0981,Clínica Les Corts Barcelona,Sanitario,Barcelonès,10,
+NPS00957,2026-04-26,C0215,Ortega Partners,Oficinas,Barcelonès,8,
+NPS00958,2026-04-22,C1151,Casas Consultors Barcelona,Oficinas,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS00959,2026-04-01,C0767,Llar d'Infants Ítaca Sabadell,Educación,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00960,2026-04-22,C0293,Font Assessors,Oficinas,Vallès Occidental,6,
+NPS00961,2026-04-04,C0196,Brasseria El Molí,Restauración,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS00962,2026-04-26,C0676,Calçats Nova Premià,Retail,Maresme,9,Buen seguimiento del técnico de referencia.
+NPS00963,2026-04-20,C0671,Moda Família El Prat,Retail,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS00964,2026-04-12,C1157,Ferrer Logística Cornellà,Oficinas,Baix Llobregat,7,El precio ha subido este año.
+NPS00965,2026-04-15,C0674,Acadèmia Ítaca Mataró,Educación,Maresme,7,Sin incidencias destacables.
+NPS00966,2026-04-24,C0294,Cafeteria El Racó,Restauración,Maresme,9,Respondieron en menos de 24 horas.
+NPS00967,2026-04-01,C0099,Marín Arquitectes,Oficinas,Vallès Occidental,8,
+NPS00968,2026-04-24,C1164,Restaurant Can Jordi L'Hospitalet,Restauración,Barcelonès,10,"Servicio puntual, como siempre."
+NPS00969,2026-04-11,C0052,Bar Cal Ton,Restauración,Maresme,7,
+NPS00970,2026-04-19,C0566,Hotel Sol de Mar Sant Cugat,Hotel,Vallès Occidental,1,El equipo nuevo se ha estropeado varias veces.
+NPS00971,2026-04-27,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,10,
+NPS00972,2026-04-02,C1138,Casas Enginyeria Cardedeu,Oficinas,Vallès Oriental,10,El técnico fue muy amable y resolvió rápido.
+NPS00973,2026-04-06,C0521,Forn Nord,Retail,Baix Llobregat,9,
+NPS00974,2026-04-04,C0415,Hotel Sant Pere Sitges,Hotel,Garraf,9,El técnico fue muy amable y resolvió rápido.
+NPS00975,2026-04-15,C0313,Vila Arquitectes,Oficinas,Maresme,9,Respondieron en menos de 24 horas.
+NPS00976,2026-04-18,C0993,Clínica Gràcia Rubí,Sanitario,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS00977,2026-04-26,C1151,Casas Consultors Barcelona,Oficinas,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS00978,2026-04-22,C0108,Esports Central,Retail,Vallès Oriental,8,El precio ha subido este año.
+NPS00979,2026-04-04,C0454,Navarro Group,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS00980,2026-04-23,C0348,Llorens Logística,Oficinas,Barcelonès,5,Nos cobraron una visita que creíamos incluida.
+NPS00981,2026-04-12,C0371,Ortega Consultors,Oficinas,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS00982,2026-04-25,C0099,Marín Arquitectes,Oficinas,Vallès Occidental,9,
+NPS00983,2026-04-12,C0418,Esports Vallès,Retail,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS00984,2026-04-04,C0168,Acadèmia Collserola,Educación,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS00985,2026-04-30,C0874,Hotel Mirador Mataró,Hotel,Maresme,7,El precio ha subido este año.
+NPS00986,2026-04-15,C0305,Navarro Consultors,Oficinas,Baix Llobregat,10,Respondieron en menos de 24 horas.
+NPS00987,2026-04-03,C0341,Vila Tech,Oficinas,Baix Llobregat,7,
+NPS00988,2026-04-29,C0130,Hotel Costa,Hotel,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS00989,2026-04-18,C0321,Puig Arquitectes,Oficinas,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS00990,2026-04-23,C0499,Roca Arquitectes,Oficinas,Vallès Oriental,0,
+NPS00991,2026-04-19,C0188,Roca Gestió,Oficinas,Garraf,10,
+NPS00992,2026-04-14,C0383,Ferreteria Família,Retail,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00993,2026-04-06,C0352,Marín Consultors,Oficinas,Barcelonès,9,
+NPS00994,2026-04-07,C0865,Col·legi La Salle Nord Arenys,Educación,Maresme,7,El precio ha subido este año.
+NPS00995,2026-04-28,C0676,Calçats Nova Premià,Retail,Maresme,9,Muy contentos con el mantenimiento.
+NPS00996,2026-04-26,C0903,Centre Òptic Sitges Badalona,Sanitario,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS00997,2026-04-26,C1109,Centre Mèdic Sabadell Badalona,Sanitario,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS00998,2026-04-12,C0723,Escola Turó Blau Mollet,Educación,Vallès Oriental,10,"Servicio puntual, como siempre."
+NPS00999,2026-04-23,C1005,Clínica Sant Cugat Barcelona,Sanitario,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS01000,2026-04-19,C0322,Font Partners,Oficinas,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01001,2026-05-04,C1109,Centre Mèdic Sabadell Badalona,Sanitario,Barcelonès,5,Tardaron más de dos días en venir.
+NPS01002,2026-05-03,C1146,Vidal Enginyeria Cardedeu,Oficinas,Vallès Oriental,9,
+NPS01003,2026-05-20,C0212,Col·legi Montseny,Educación,Vallès Occidental,8,El precio ha subido este año.
+NPS01004,2026-05-08,C0729,Grau Enginyeria Mollet,Oficinas,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS01005,2026-05-02,C1147,Ferreteria Sant Jordi L'Hospitalet,Retail,Barcelonès,10,
+NPS01006,2026-05-22,C0167,Hotel Ronda Cardedeu,Hotel,Vallès Oriental,7,Sin incidencias destacables.
+NPS01007,2026-05-28,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,8,"Correcto, aunque la cita tardó un poco."
+NPS01008,2026-05-30,C1189,Esports Clàssica Barcelona,Retail,Barcelonès,7,El precio ha subido este año.
+NPS01009,2026-05-22,C0145,Llibreria Plus,Retail,Baix Llobregat,8,Sin incidencias destacables.
+NPS01010,2026-05-03,C1014,Fisioteràpia Diagonal Granollers,Sanitario,Vallès Oriental,10,
+NPS01011,2026-05-03,C1112,Brasseria La Lluna Sitges,Restauración,Garraf,10,Respondieron en menos de 24 horas.
+NPS01012,2026-05-09,C0443,Centre Mèdic Les Corts,Sanitario,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01013,2026-05-28,C0499,Roca Arquitectes,Oficinas,Vallès Oriental,8,"Bien, pero las facturas llegan tarde."
+NPS01014,2026-05-02,C0992,Forn Urbana Badalona,Retail,Barcelonès,10,"Servicio puntual, como siempre."
+NPS01015,2026-05-26,C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS01016,2026-05-05,C0280,Forn Del Mar,Retail,Barcelonès,10,
+NPS01017,2026-05-19,C1130,Forn Vallès Castelldefels,Retail,Baix Llobregat,8,Sin incidencias destacables.
+NPS01018,2026-05-30,C0501,Riera Group Mollet,Oficinas,Vallès Oriental,10,Respondieron en menos de 24 horas.
+NPS01019,2026-05-06,C0223,Vidal Enginyeria,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01020,2026-05-19,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,9,
+NPS01021,2026-05-02,C1119,Font Gestió L'Hospitalet,Oficinas,Barcelonès,4,Es un equipo casi nuevo y no para de dar problemas.
+NPS01022,2026-05-09,C0827,Clínica Dental Badalona Sabadell,Sanitario,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS01023,2026-05-25,C0965,Mobles Nova Mataró,Retail,Maresme,9,Buen seguimiento del técnico de referencia.
+NPS01024,2026-05-25,C0530,Vila Logística,Oficinas,Vallès Occidental,7,Sin incidencias destacables.
+NPS01025,2026-05-08,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,3,
+NPS01026,2026-05-14,C1054,Escola La Salle Nord Barcelona,Educación,Barcelonès,10,"Servicio puntual, como siempre."
+NPS01027,2026-05-08,C0999,Restaurant El Port Barcelona,Restauración,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01028,2026-05-21,C0262,Vidal Advocats,Oficinas,Vallès Occidental,8,
+NPS01029,2026-05-22,C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01030,2026-05-22,C1202,Casas Group Sant Boi,Oficinas,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS01031,2026-05-31,C0938,Hotel Brisa Alta Mollet,Hotel,Vallès Oriental,8,
+NPS01032,2026-05-05,C0703,Hotel Montjuïc Terrassa,Hotel,Vallès Occidental,9,
+NPS01033,2026-05-24,C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,6,No nos avisaron del cambio de técnico.
+NPS01034,2026-05-01,C0174,Sala Partners,Oficinas,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01035,2026-05-21,C0798,Cafeteria Can Jordi Sitges,Restauración,Garraf,9,Respondieron en menos de 24 horas.
+NPS01036,2026-05-22,C0427,Ferrer Assessors,Oficinas,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS01037,2026-05-22,C0796,Ortega Consultors Cardedeu,Oficinas,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS01038,2026-05-18,C0551,Brasseria Cal Ton L'Hospitalet,Restauración,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01039,2026-05-02,C0196,Brasseria El Molí,Restauración,Barcelonès,8,
+NPS01040,2026-05-20,C0308,Òptica Urbana,Retail,Barcelonès,6,
+NPS01041,2026-05-06,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,5,Tardaron más de dos días en venir.
+NPS01042,2026-05-11,C0074,Esports Plus,Retail,Garraf,9,Respondieron en menos de 24 horas.
+NPS01043,2026-05-17,C0580,Llibreria Vallès,Retail,Maresme,10,Muy contentos con el mantenimiento.
+NPS01044,2026-05-18,C1222,Forn Vallès Terrassa,Retail,Vallès Occidental,2,Tardaron más de dos días en venir.
+NPS01045,2026-05-10,C0126,Hotel Ronda,Hotel,Vallès Occidental,7,El precio ha subido este año.
+NPS01046,2026-05-17,C0978,Serra Advocats Mollet,Oficinas,Vallès Oriental,6,Nos cobraron una visita que creíamos incluida.
+NPS01047,2026-05-25,C0191,Hotel Rambla Sant Cugat,Hotel,Vallès Occidental,10,
+NPS01048,2026-05-13,C0842,Institut Mediterrània Sabadell,Educación,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS01049,2026-05-27,C0860,Hotel Llevant Rubí,Hotel,Vallès Occidental,5,Tardaron más de dos días en venir.
+NPS01050,2026-05-24,C0522,Forn Central,Retail,Maresme,9,"Servicio puntual, como siempre."
+NPS01051,2026-05-03,C0429,Hotel Sol de Mar El Prat,Hotel,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01052,2026-05-09,C1041,Mas Advocats Terrassa,Oficinas,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS01053,2026-05-09,C0843,Clínica Dental Mataró Badalona,Sanitario,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01054,2026-05-17,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01055,2026-05-21,C0772,Brasseria La Lluna Cornellà,Restauración,Baix Llobregat,8,Sin incidencias destacables.
+NPS01056,2026-05-31,C0233,Hotel Jardí Premià,Hotel,Maresme,6,
+NPS01057,2026-05-20,C1039,Bar La Lluna Sant Cugat,Restauración,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS01058,2026-05-03,C0747,Pizzeria El Celler Sabadell,Restauración,Vallès Occidental,10,
+NPS01059,2026-06-21,C0405,Acadèmia La Salle Nord,Educación,Barcelonès,6,No nos avisaron del cambio de técnico.
+NPS01060,2026-06-27,C0874,Hotel Mirador Mataró,Hotel,Maresme,0,Es un equipo casi nuevo y no para de dar problemas.
+NPS01061,2026-06-24,C0509,Col·legi Pau Casals Mataró,Educación,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS01062,2026-06-21,C0488,Llibreria Nova,Retail,Garraf,10,"Servicio puntual, como siempre."
+NPS01063,2026-06-24,C0515,Serra Tech,Oficinas,Vallès Occidental,4,Tardaron más de dos días en venir.
+NPS01064,2026-06-06,C0903,Centre Òptic Sitges Badalona,Sanitario,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01065,2026-06-27,C0843,Clínica Dental Mataró Badalona,Sanitario,Barcelonès,8,El precio ha subido este año.
+NPS01066,2026-06-05,C1202,Casas Group Sant Boi,Oficinas,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS01067,2026-06-30,C0279,Acadèmia Ítaca,Educación,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS01068,2026-06-23,C0707,Brasseria El Molí Cardedeu,Restauración,Vallès Oriental,2,Tardaron más de dos días en venir.
+NPS01069,2026-06-02,C1082,Forn Sant Jordi L'Hospitalet,Retail,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS01070,2026-06-30,C1161,Vidal Assessors Terrassa,Oficinas,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS01071,2026-06-29,C0387,Hotel Els Pins Badalona,Hotel,Barcelonès,7,Sin incidencias destacables.
+NPS01072,2026-06-29,C0639,Institut Pau Casals Vilanova,Educación,Garraf,10,El técnico fue muy amable y resolvió rápido.
+NPS01073,2026-06-09,C0949,Vila Tech Cornellà,Oficinas,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS01074,2026-06-03,C0771,Centre Mèdic Sabadell Terrassa,Sanitario,Vallès Occidental,4,No nos avisaron del cambio de técnico.
+NPS01075,2026-06-03,C0279,Acadèmia Ítaca,Educación,Baix Llobregat,8,
+NPS01076,2026-06-30,C0444,Marín Partners,Oficinas,Garraf,7,
+NPS01077,2026-06-16,C0805,Casas Consultors Terrassa,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS01078,2026-06-08,C0773,Hotel Marina Granollers,Hotel,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS01079,2026-06-02,C0348,Llorens Logística,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01080,2026-06-27,C0380,Vila Partners,Oficinas,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS01081,2026-06-19,C0620,Fisioteràpia Sitges,Sanitario,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS01082,2026-06-10,C0571,Navarro Partners,Oficinas,Vallès Occidental,8,
+NPS01083,2026-06-30,C0177,Pizzeria Els Amics,Restauración,Maresme,8,
+NPS01084,2026-06-19,C0659,Vila Arquitectes Granollers,Oficinas,Vallès Oriental,5,Tardaron más de dos días en venir.
+NPS01085,2026-06-25,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,10,
+NPS01086,2026-06-09,C1139,Riera Arquitectes Badalona,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS01087,2026-06-22,C0254,Serra Enginyeria,Oficinas,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01088,2026-06-20,C0142,Pizzeria La Plaça,Restauración,Maresme,8,El precio ha subido este año.
+NPS01089,2026-06-26,C0140,Brasseria La Vinya,Restauración,Vallès Occidental,6,No nos avisaron del cambio de técnico.
+NPS01090,2026-06-30,C1200,Laboratori Sant Cugat Sitges,Sanitario,Garraf,8,Sin incidencias destacables.
+NPS01091,2026-06-23,C0128,Pons Partners,Oficinas,Vallès Oriental,7,El precio ha subido este año.
+NPS01092,2026-06-11,C0577,Fisioteràpia Mataró,Sanitario,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS01093,2026-06-01,C0304,Esports Nord,Retail,Vallès Oriental,7,El precio ha subido este año.
+NPS01094,2026-06-22,C0124,Navarro Arquitectes,Oficinas,Baix Llobregat,10,
+NPS01095,2026-06-12,C0532,Coll Gestió,Oficinas,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS01096,2026-06-19,C1151,Casas Consultors Barcelona,Oficinas,Barcelonès,8,
+NPS01097,2026-06-13,C0862,Òptica Urbana L'Hospitalet,Retail,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01098,2026-06-25,C0986,Moda Del Mar Vilanova,Retail,Garraf,6,Tardaron más de dos días en venir.
+NPS01099,2026-06-20,C0344,Laboratori Rubí,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01100,2026-06-14,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,10,El técnico fue muy amable y resolvió rápido.
+NPS01101,2026-06-24,C0539,Hotel Turó Arenys,Hotel,Maresme,3,Hace mucho ruido y ya ha fallado dos veces.
+NPS01102,2026-06-18,C1170,Bosch Arquitectes Mollet,Oficinas,Vallès Oriental,9,
+NPS01103,2026-06-05,C0075,Restaurant La Terrassa,Restauración,Baix Llobregat,9,
+NPS01104,2026-06-18,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,8,Sin incidencias destacables.
+NPS01105,2026-06-20,C0415,Hotel Sant Pere Sitges,Hotel,Garraf,2,Tardaron más de dos días en venir.
+NPS01106,2026-06-08,C0916,Calçats Clàssica Sitges,Retail,Garraf,8,El precio ha subido este año.
+NPS01107,2026-06-17,C0081,Hotel Jardí,Hotel,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS01108,2026-06-11,C0371,Ortega Consultors,Oficinas,Baix Llobregat,10,Respondieron en menos de 24 horas.
+NPS01109,2026-06-21,C0267,Hotel Sol de Mar L'Hospitalet,Hotel,Barcelonès,10,
+NPS01110,2026-06-25,C1191,Botigues Nova Cardedeu,Retail,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS01111,2026-06-29,C0243,Hotel Rambla El Prat,Hotel,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS01112,2026-06-05,C1020,Llorens Arquitectes Cornellà,Oficinas,Baix Llobregat,2,El equipo nuevo se ha estropeado varias veces.
+NPS01113,2026-06-23,C0506,Escola Sol Ixent,Educación,Vallès Occidental,7,El precio ha subido este año.
+NPS01114,2026-06-04,C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS01115,2026-06-08,C0571,Navarro Partners,Oficinas,Vallès Occidental,7,"Correcto, aunque la cita tardó un poco."
+NPS01116,2026-06-24,C0026,Ortega Group,Oficinas,Barcelonès,9,
+NPS01117,2026-06-26,C1144,Hotel Els Pins Barcelona,Hotel,Barcelonès,6,Es un equipo casi nuevo y no para de dar problemas.
+NPS01118,2026-06-01,C0676,Calçats Nova Premià,Retail,Maresme,5,No nos avisaron del cambio de técnico.
+NPS01119,2026-06-08,C0135,Esports Sant Jordi,Retail,Vallès Occidental,0,Nos cobraron una visita que creíamos incluida.
+NPS01120,2026-06-29,C0789,Clínica Diagonal Cornellà,Sanitario,Baix Llobregat,10,
+NPS01121,2026-06-22,C0976,Serra Advocats Rubí,Oficinas,Vallès Occidental,0,Nos cobraron una visita que creíamos incluida.
+NPS01122,2026-06-18,C0112,Vila Gestió,Oficinas,Maresme,5,
+NPS01123,2026-06-28,C1018,Coll Assessors Granollers,Oficinas,Vallès Oriental,10,
+NPS01124,2026-07-04,C0155,Restaurant La Plaça,Restauración,Maresme,9,Muy contentos con el mantenimiento.
+NPS01125,2026-07-06,C0833,Escola Els Til·lers Cornellà,Educación,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01126,2026-07-22,C0162,Esports Nova,Retail,Barcelonès,8,
+NPS01127,2026-07-03,C0741,Hotel Els Pins Premià,Hotel,Maresme,9,Respondieron en menos de 24 horas.
+NPS01128,2026-07-25,C0515,Serra Tech,Oficinas,Vallès Occidental,7,
+NPS01129,2026-07-13,C1058,Fisioteràpia Sitges Badalona,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01130,2026-07-01,C0583,Pizzeria La Plaça Cornellà,Restauración,Baix Llobregat,10,Respondieron en menos de 24 horas.
+NPS01131,2026-07-28,C1184,Navarro Arquitectes Sant Boi,Oficinas,Baix Llobregat,3,Nos cobraron una visita que creíamos incluida.
+NPS01132,2026-07-14,C0063,Col·legi Turó Blau,Educación,Maresme,9,Buen seguimiento del técnico de referencia.
+NPS01133,2026-07-19,C0913,Bar El Racó Mollet,Restauración,Vallès Oriental,7,Sin incidencias destacables.
+NPS01134,2026-07-02,C0778,Sala Gestió Mataró,Oficinas,Maresme,6,Tardaron más de dos días en venir.
+NPS01135,2026-07-20,C0015,Ferreteria Del Mar,Retail,Barcelonès,7,Sin incidencias destacables.
+NPS01136,2026-07-09,C0589,Restaurant La Lluna L'Hospitalet,Restauración,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01137,2026-07-17,C0182,Vila Consultors,Oficinas,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01138,2026-07-22,C0341,Vila Tech,Oficinas,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS01139,2026-07-19,C0404,Centre Òptic Gràcia,Sanitario,Maresme,7,
+NPS01140,2026-07-29,C0629,Hotel Costa Badalona,Hotel,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01141,2026-07-11,C0501,Riera Group Mollet,Oficinas,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS01142,2026-07-06,C0353,Clínica Sant Cugat,Sanitario,Baix Llobregat,3,Tardaron más de dos días en venir.
+NPS01143,2026-07-30,C0480,Clínica Dental Sant Cugat,Sanitario,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01144,2026-07-28,C0788,Hotel Brisa Alta Castelldefels,Hotel,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS01145,2026-07-24,C0752,Soler Consultors Arenys,Oficinas,Maresme,10,"Servicio puntual, como siempre."
+NPS01146,2026-07-19,C0954,Casas Consultors Sant Boi,Oficinas,Baix Llobregat,3,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS01147,2026-07-16,C0347,Centre Òptic Sabadell,Sanitario,Garraf,8,"Bien, pero las facturas llegan tarde."
+NPS01148,2026-07-27,C1098,Moda Clàssica Cardedeu,Retail,Vallès Oriental,6,
+NPS01149,2026-07-16,C1001,Escola Can Mas Arenys,Educación,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS01150,2026-07-08,C1003,Acadèmia Can Mas El Prat,Educación,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS01151,2026-07-09,C1043,Col·legi Els Til·lers Cardedeu,Educación,Vallès Oriental,9,El técnico fue muy amable y resolvió rápido.
+NPS01152,2026-07-06,C0112,Vila Gestió,Oficinas,Maresme,7,El precio ha subido este año.
+NPS01153,2026-07-02,C0896,Fisioteràpia Mataró Sitges,Sanitario,Garraf,6,No nos avisaron del cambio de técnico.
+NPS01154,2026-07-30,C0815,Hotel Rambla Sitges,Hotel,Garraf,8,"Bien, pero las facturas llegan tarde."
+NPS01155,2026-07-30,C0587,Vila Advocats,Oficinas,Vallès Oriental,8,"Bien, pero las facturas llegan tarde."
+NPS01156,2026-07-07,C0455,Llar d'Infants Pau Casals,Educación,Vallès Occidental,8,
+NPS01157,2026-07-24,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,10,Buen seguimiento del técnico de referencia.
+NPS01158,2026-07-30,C0143,Clínica Sabadell,Sanitario,Garraf,5,
+NPS01159,2026-07-01,C0729,Grau Enginyeria Mollet,Oficinas,Vallès Oriental,8,"Bien, pero las facturas llegan tarde."
+NPS01160,2026-07-08,C0692,Hotel Port El Prat,Hotel,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS01161,2026-07-31,C0402,Ortega Enginyeria,Oficinas,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01162,2026-07-29,C0585,Pons Logística,Oficinas,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS01163,2026-07-13,C0142,Pizzeria La Plaça,Restauración,Maresme,10,"Servicio puntual, como siempre."
+NPS01164,2026-07-18,C1112,Brasseria La Lluna Sitges,Restauración,Garraf,9,Respondieron en menos de 24 horas.
+NPS01165,2026-07-03,C1118,Ortega Advocats Cardedeu,Oficinas,Vallès Oriental,7,"Correcto, aunque la cita tardó un poco."
+NPS01166,2026-07-21,C0081,Hotel Jardí,Hotel,Barcelonès,7,El precio ha subido este año.
+NPS01167,2026-07-11,C0434,Hotel Plaça Barcelona,Hotel,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01168,2026-07-09,C0801,Coll Logística Sant Cugat,Oficinas,Vallès Occidental,7,
+NPS01169,2026-07-05,C1178,Institut Pau Casals Sant Boi,Educación,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS01170,2026-07-23,C0650,Fisioteràpia Mataró Cornellà,Sanitario,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS01171,2026-07-27,C0260,Botigues Central,Retail,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01172,2026-07-09,C0294,Cafeteria El Racó,Restauración,Maresme,9,El técnico fue muy amable y resolvió rápido.
+NPS01173,2026-07-14,C0559,Llar d'Infants Can Mas Badalona,Educación,Barcelonès,1,No nos avisaron del cambio de técnico.
+NPS01174,2026-07-02,C0077,Clínica Dental Rubí,Sanitario,Barcelonès,5,Tardaron más de dos días en venir.
+NPS01175,2026-07-11,C0007,Ferreteria Urbana,Retail,Vallès Occidental,8,El precio ha subido este año.
+NPS01176,2026-07-24,C0726,Ortega Consultors Barcelona,Oficinas,Barcelonès,4,Es un equipo casi nuevo y no para de dar problemas.
+NPS01177,2026-07-31,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,8,
+NPS01178,2026-07-31,C0007,Ferreteria Urbana,Retail,Vallès Occidental,6,Tardaron más de dos días en venir.
+NPS01179,2026-07-13,C1003,Acadèmia Can Mas El Prat,Educación,Baix Llobregat,10,"Servicio puntual, como siempre."
+NPS01180,2026-07-30,C0930,Escola Can Mas Sabadell,Educación,Vallès Occidental,5,Nos cobraron una visita que creíamos incluida.
+NPS01181,2026-07-23,C0579,Llibreria Central Cornellà,Retail,Baix Llobregat,6,No nos avisaron del cambio de técnico.
+NPS01182,2026-07-13,C0566,Hotel Sol de Mar Sant Cugat,Hotel,Vallès Occidental,4,
+NPS01183,2026-07-08,C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,8,Sin incidencias destacables.
+NPS01184,2026-07-20,C0867,Roca Gestió Sant Boi,Oficinas,Baix Llobregat,8,Sin incidencias destacables.
+NPS01185,2026-07-22,C0057,Ferrer Gestió,Oficinas,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01186,2026-07-17,C0412,Hotel Els Pins Cardedeu,Hotel,Vallès Oriental,0,Es un equipo casi nuevo y no para de dar problemas.
+NPS01187,2026-07-18,C0935,Brasseria La Vinya Barcelona,Restauración,Barcelonès,1,
+NPS01188,2026-07-21,C1079,Clínica Dental Mataró Sant Cugat,Sanitario,Vallès Occidental,9,
+NPS01189,2026-07-28,C0128,Pons Partners,Oficinas,Vallès Oriental,3,No nos avisaron del cambio de técnico.
+NPS01190,2026-08-18,C0887,Font Enginyeria Cardedeu,Oficinas,Vallès Oriental,9,Respondieron en menos de 24 horas.
+NPS01191,2026-08-29,C0421,Soler Consultors,Oficinas,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01192,2026-08-16,C0290,Mobles Nord,Retail,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS01193,2026-08-27,C0365,Serra Logística,Oficinas,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS01194,2026-08-18,C0946,Serra Tech Barcelona,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01195,2026-08-24,C0309,Riera Arquitectes,Oficinas,Barcelonès,4,
+NPS01196,2026-08-24,C0968,Vila Logística Badalona,Oficinas,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01197,2026-08-25,C0887,Font Enginyeria Cardedeu,Oficinas,Vallès Oriental,10,Respondieron en menos de 24 horas.
+NPS01198,2026-08-10,C0311,Llorens Group,Oficinas,Baix Llobregat,10,
+NPS01199,2026-08-11,C0693,Clínica Granollers Granollers,Sanitario,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS01200,2026-08-29,C0762,Hotel Montjuïc Sant Boi,Hotel,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01201,2026-08-16,C1149,Col·legi Collserola Arenys,Educación,Maresme,8,
+NPS01202,2026-08-09,C0499,Roca Arquitectes,Oficinas,Vallès Oriental,10,Muy contentos con el mantenimiento.
+NPS01203,2026-08-20,C1151,Casas Consultors Barcelona,Oficinas,Barcelonès,9,"Servicio puntual, como siempre."
+NPS01204,2026-08-18,C0692,Hotel Port El Prat,Hotel,Baix Llobregat,2,Nos cobraron una visita que creíamos incluida.
+NPS01205,2026-08-05,C0662,Centre Òptic Mataró Rubí,Sanitario,Vallès Occidental,8,Sin incidencias destacables.
+NPS01206,2026-08-10,C0660,Clínica Rubí Rubí,Sanitario,Vallès Occidental,7,El precio ha subido este año.
+NPS01207,2026-08-09,C0972,Escola Montseny L'Hospitalet,Educación,Barcelonès,7,Sin incidencias destacables.
+NPS01208,2026-08-15,C1144,Hotel Els Pins Barcelona,Hotel,Barcelonès,9,
+NPS01209,2026-08-18,C0360,Moda Nova,Retail,Vallès Oriental,10,Buen seguimiento del técnico de referencia.
+NPS01210,2026-08-04,C0827,Clínica Dental Badalona Sabadell,Sanitario,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS01211,2026-08-08,C0311,Llorens Group,Oficinas,Baix Llobregat,6,Tardaron más de dos días en venir.
+NPS01212,2026-08-24,C1139,Riera Arquitectes Badalona,Oficinas,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS01213,2026-08-11,C0603,Sala Enginyeria,Oficinas,Vallès Oriental,10,Respondieron en menos de 24 horas.
+NPS01214,2026-08-02,C0882,Restaurant El Molí Badalona,Restauración,Barcelonès,7,El precio ha subido este año.
+NPS01215,2026-08-12,C1128,Llorens Partners Sitges,Oficinas,Garraf,8,"Bien, pero las facturas llegan tarde."
+NPS01216,2026-08-18,C0661,Fisioteràpia Sitges Cornellà,Sanitario,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01217,2026-08-08,C0003,Acadèmia Els Til·lers,Educación,Barcelonès,10,
+NPS01218,2026-08-03,C0291,Mas Consultors,Oficinas,Baix Llobregat,9,
+NPS01219,2026-08-17,C0572,Hotel Les Arenes El Prat,Hotel,Baix Llobregat,2,
+NPS01220,2026-08-09,C0215,Ortega Partners,Oficinas,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01221,2026-08-30,C0713,Moda Nova L'Hospitalet,Retail,Barcelonès,6,
+NPS01222,2026-08-13,C0586,Sala Tech,Oficinas,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01223,2026-08-12,C0722,Bar Els Amics Terrassa,Restauración,Vallès Occidental,10,
+NPS01224,2026-08-08,C0640,Clínica Mataró,Sanitario,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01225,2026-08-11,C0229,Hotel Port Badalona,Hotel,Barcelonès,7,
+NPS01226,2026-08-06,C0616,Calçats Nova Cornellà,Retail,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01227,2026-08-28,C0714,Ortega Advocats Terrassa,Oficinas,Vallès Occidental,10,"Servicio puntual, como siempre."
+NPS01228,2026-08-17,C0099,Marín Arquitectes,Oficinas,Vallès Occidental,5,No nos avisaron del cambio de técnico.
+NPS01229,2026-08-14,C0680,Hotel Rambla Barcelona,Hotel,Barcelonès,10,
+NPS01230,2026-08-26,C0952,Botigues Plus L'Hospitalet,Retail,Barcelonès,8,
+NPS01231,2026-08-03,C0310,Clínica Dental Terrassa,Sanitario,Barcelonès,8,
+NPS01232,2026-08-28,C0541,Vila Enginyeria,Oficinas,Garraf,7,"Correcto, aunque la cita tardó un poco."
+NPS01233,2026-08-30,C0516,Puig Consultors,Oficinas,Baix Llobregat,7,El precio ha subido este año.
+NPS01234,2026-08-31,C1037,Sala Assessors Mollet,Oficinas,Vallès Oriental,5,Tardaron más de dos días en venir.
+NPS01235,2026-08-19,C0280,Forn Del Mar,Retail,Barcelonès,9,"Servicio puntual, como siempre."
+NPS01236,2026-08-14,C0967,Centre Òptic Terrassa Vilanova,Sanitario,Garraf,8,El precio ha subido este año.
+NPS01237,2026-08-15,C0258,Perfumeria Urbana,Retail,Maresme,10,El técnico fue muy amable y resolvió rápido.
+NPS01238,2026-08-12,C0300,Botigues Vallès,Retail,Barcelonès,10,
+NPS01239,2026-08-26,C0302,Òptica Del Mar,Retail,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS01240,2026-08-01,C0187,Llar d'Infants La Salle Nord,Educación,Vallès Occidental,10,Respondieron en menos de 24 horas.
+NPS01241,2026-08-19,C0498,Moda Família,Retail,Vallès Occidental,10,El técnico fue muy amable y resolvió rápido.
+NPS01242,2026-08-07,C0750,Coll Consultors Badalona,Oficinas,Barcelonès,7,El precio ha subido este año.
+NPS01243,2026-08-03,C0796,Ortega Consultors Cardedeu,Oficinas,Vallès Oriental,9,Muy contentos con el mantenimiento.
+NPS01244,2026-08-29,C1100,Font Assessors Mataró,Oficinas,Maresme,9,Muy contentos con el mantenimiento.
+NPS01245,2026-08-27,C0356,Institut Els Til·lers,Educación,Maresme,10,Respondieron en menos de 24 horas.
+NPS01246,2026-08-28,C0718,Mas Gestió Vilanova,Oficinas,Garraf,9,El técnico fue muy amable y resolvió rápido.
+NPS01247,2026-08-21,C0583,Pizzeria La Plaça Cornellà,Restauración,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS01248,2026-08-22,C0166,Puig Partners,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01249,2026-08-04,C0132,Escola Ítaca,Educación,Barcelonès,4,Tardaron más de dos días en venir.
+NPS01250,2026-09-15,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS01251,2026-09-08,C0377,Llar d'Infants Can Mas,Educación,Barcelonès,8,Sin incidencias destacables.
+NPS01252,2026-09-26,C0068,Clínica Dental Sant Gervasi,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01253,2026-09-24,C1248,Hotel Plaça Sud L'Hospitalet,Hotel,Barcelonès,8,El precio ha subido este año.
+NPS01254,2026-09-15,C0010,Esports Família,Retail,Vallès Oriental,3,Nos cobraron una visita que creíamos incluida.
+NPS01255,2026-09-29,C0943,Marín Consultors Badalona,Oficinas,Barcelonès,0,
+NPS01256,2026-09-05,C0032,Pons Advocats,Oficinas,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01257,2026-09-03,C0751,Hotel Turó Badalona,Hotel,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01258,2026-09-02,C0965,Mobles Nova Mataró,Retail,Maresme,8,"Bien, pero las facturas llegan tarde."
+NPS01259,2026-09-27,C0867,Roca Gestió Sant Boi,Oficinas,Baix Llobregat,8,"Bien, pero las facturas llegan tarde."
+NPS01260,2026-09-07,C0906,Hotel Vela Cardedeu,Hotel,Vallès Oriental,10,"Servicio puntual, como siempre."
+NPS01261,2026-09-03,C1124,Vila Consultors Sabadell,Oficinas,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS01262,2026-09-04,C0486,Hotel Sol de Mar Sabadell,Hotel,Vallès Occidental,6,No nos avisaron del cambio de técnico.
+NPS01263,2026-09-27,C1119,Font Gestió L'Hospitalet,Oficinas,Barcelonès,7,
+NPS01264,2026-09-21,C1198,Serra Enginyeria Barcelona,Oficinas,Barcelonès,4,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS01265,2026-09-08,C0867,Roca Gestió Sant Boi,Oficinas,Baix Llobregat,4,No nos avisaron del cambio de técnico.
+NPS01266,2026-09-05,C1112,Brasseria La Lluna Sitges,Restauración,Garraf,9,"Servicio puntual, como siempre."
+NPS01267,2026-09-24,C0235,Hotel Costa L'Hospitalet,Hotel,Barcelonès,7,Sin incidencias destacables.
+NPS01268,2026-09-27,C0562,Brasseria La Plaça Rubí,Restauración,Vallès Occidental,8,
+NPS01269,2026-09-03,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,8,
+NPS01270,2026-09-07,C1178,Institut Pau Casals Sant Boi,Educación,Baix Llobregat,10,
+NPS01271,2026-09-29,C0143,Clínica Sabadell,Sanitario,Garraf,4,Tardaron más de dos días en venir.
+NPS01272,2026-09-26,C0759,Mas Group Sant Boi,Oficinas,Baix Llobregat,10,Respondieron en menos de 24 horas.
+NPS01273,2026-09-08,C0818,Vila Assessors Granollers,Oficinas,Vallès Oriental,5,No nos avisaron del cambio de técnico.
+NPS01274,2026-09-01,C0817,Casas Partners Sabadell,Oficinas,Vallès Occidental,6,Tardaron más de dos días en venir.
+NPS01275,2026-09-28,C0156,Llorens Partners,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01276,2026-09-16,C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS01277,2026-09-12,C0870,Acadèmia Els Til·lers Sant Cugat,Educación,Vallès Occidental,9,Respondieron en menos de 24 horas.
+NPS01278,2026-09-26,C0681,Hotel Portal Vilanova,Hotel,Garraf,8,"Bien, pero las facturas llegan tarde."
+NPS01279,2026-09-14,C0624,Forn Vallès Badalona,Retail,Barcelonès,5,No nos avisaron del cambio de técnico.
+NPS01280,2026-09-08,C0796,Ortega Consultors Cardedeu,Oficinas,Vallès Oriental,1,Tardaron más de dos días en venir.
+NPS01281,2026-09-15,C0629,Hotel Costa Badalona,Hotel,Barcelonès,7,"Correcto, aunque la cita tardó un poco."
+NPS01282,2026-09-19,C0240,Llorens Gestió,Oficinas,Vallès Occidental,9,
+NPS01283,2026-09-16,C0506,Escola Sol Ixent,Educación,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS01284,2026-09-01,C1113,Moda Central Terrassa,Retail,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS01285,2026-09-27,C0153,Calçats Del Mar,Retail,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01286,2026-09-16,C0890,Vidal Arquitectes L'Hospitalet,Oficinas,Barcelonès,10,
+NPS01287,2026-09-02,C0631,Calçats Nord Vilanova,Retail,Garraf,6,
+NPS01288,2026-09-11,C0530,Vila Logística,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS01289,2026-09-16,C0427,Ferrer Assessors,Oficinas,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS01290,2026-09-22,C0737,Pizzeria El Port Sitges,Restauración,Garraf,9,Muy contentos con el mantenimiento.
+NPS01291,2026-09-18,C0679,Centre Òptic Terrassa Barcelona,Sanitario,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01292,2026-09-28,C1170,Bosch Arquitectes Mollet,Oficinas,Vallès Oriental,2,Tardaron más de dos días en venir.
+NPS01293,2026-09-28,C0092,Serra Arquitectes,Oficinas,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01294,2026-09-12,C0413,Cafeteria La Lluna,Restauración,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01295,2026-09-15,C0003,Acadèmia Els Til·lers,Educación,Barcelonès,9,"Servicio puntual, como siempre."
+NPS01296,2026-09-12,C0162,Esports Nova,Retail,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01297,2026-09-03,C0231,Clínica Dental Mataró,Sanitario,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01298,2026-09-15,C1033,Centre Mèdic Terrassa Sant Cugat,Sanitario,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS01299,2026-09-11,C0150,Casas Assessors,Oficinas,Baix Llobregat,7,El precio ha subido este año.
+NPS01300,2026-09-08,C0383,Ferreteria Família,Retail,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01301,2026-09-24,C0675,Bar El Molí Mataró,Restauración,Maresme,9,"Servicio puntual, como siempre."
+NPS01302,2026-09-24,C0408,Fisioteràpia Rubí,Sanitario,Barcelonès,6,
+NPS01303,2026-09-01,C0268,Pons Enginyeria,Oficinas,Vallès Oriental,8,"Correcto, aunque la cita tardó un poco."
+NPS01304,2026-09-21,C0198,Perfumeria Vallès,Retail,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS01305,2026-09-29,C0691,Moda Del Mar Sabadell,Retail,Vallès Occidental,5,
+NPS01306,2026-09-14,C0084,Centre Mèdic Terrassa,Sanitario,Barcelonès,9,
+NPS01307,2026-09-29,C0208,Acadèmia Can Mas,Educación,Barcelonès,9,Muy contentos con el mantenimiento.
+NPS01308,2026-09-10,C1119,Font Gestió L'Hospitalet,Oficinas,Barcelonès,4,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS01309,2026-09-12,C0462,Laboratori Sitges,Sanitario,Baix Llobregat,8,
+NPS01310,2026-09-14,C0092,Serra Arquitectes,Oficinas,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01311,2026-09-05,C0589,Restaurant La Lluna L'Hospitalet,Restauración,Barcelonès,10,
+NPS01312,2026-09-10,C0667,Clínica Granollers L'Hospitalet,Sanitario,Barcelonès,2,Tardaron más de dos días en venir.
+NPS01313,2026-09-01,C0869,Riera Group Mataró,Oficinas,Maresme,9,"Servicio puntual, como siempre."
+NPS01314,2026-09-01,C0063,Col·legi Turó Blau,Educación,Maresme,7,
+NPS01315,2026-09-27,C0071,Hotel Brisa Alta,Hotel,Vallès Occidental,10,Muy contentos con el mantenimiento.
+NPS01316,2026-10-04,C0131,Restaurant El Molí,Restauración,Garraf,5,Nos cobraron una visita que creíamos incluida.
+NPS01317,2026-10-27,C0440,Laboratori Gràcia,Sanitario,Vallès Oriental,10,Respondieron en menos de 24 horas.
+NPS01318,2026-10-13,C0033,Grau Enginyeria,Oficinas,Garraf,7,"Correcto, aunque la cita tardó un poco."
+NPS01319,2026-10-05,C0589,Restaurant La Lluna L'Hospitalet,Restauración,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01320,2026-10-08,C0236,Hotel Cala Cardedeu,Hotel,Vallès Oriental,9,
+NPS01321,2026-10-21,C0153,Calçats Del Mar,Retail,Baix Llobregat,9,Buen seguimiento del técnico de referencia.
+NPS01322,2026-10-23,C1202,Casas Group Sant Boi,Oficinas,Baix Llobregat,10,Muy contentos con el mantenimiento.
+NPS01323,2026-10-14,C0160,Col·legi Mediterrània,Educación,Vallès Occidental,8,El precio ha subido este año.
+NPS01324,2026-10-20,C0506,Escola Sol Ixent,Educación,Vallès Occidental,9,Buen seguimiento del técnico de referencia.
+NPS01325,2026-10-03,C1088,Ferreteria Sant Jordi Barcelona,Retail,Barcelonès,8,Sin incidencias destacables.
+NPS01326,2026-10-26,C0360,Moda Nova,Retail,Vallès Oriental,3,Nos cobraron una visita que creíamos incluida.
+NPS01327,2026-10-26,C0380,Vila Partners,Oficinas,Barcelonès,10,Buen seguimiento del técnico de referencia.
+NPS01328,2026-10-04,C0531,Llar d'Infants Sol Ixent Sant Cugat,Educación,Vallès Occidental,4,Nos cobraron una visita que creíamos incluida.
+NPS01329,2026-10-04,C1100,Font Assessors Mataró,Oficinas,Maresme,7,El precio ha subido este año.
+NPS01330,2026-10-28,C0280,Forn Del Mar,Retail,Barcelonès,5,Tardaron más de dos días en venir.
+NPS01331,2026-10-25,C1185,Brasseria Cal Ton Badalona,Restauración,Barcelonès,7,El precio ha subido este año.
+NPS01332,2026-10-12,C1194,Mobles Plus Badalona,Retail,Barcelonès,3,Nos cobraron una visita que creíamos incluida.
+NPS01333,2026-10-18,C0741,Hotel Els Pins Premià,Hotel,Maresme,10,
+NPS01334,2026-10-02,C0511,Vidal Gestió,Oficinas,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01335,2026-10-10,C1058,Fisioteràpia Sitges Badalona,Sanitario,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01336,2026-10-13,C1005,Clínica Sant Cugat Barcelona,Sanitario,Barcelonès,3,
+NPS01337,2026-10-07,C0738,Navarro Consultors Mollet,Oficinas,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS01338,2026-10-30,C1153,Ferreteria Urbana Sant Cugat,Retail,Vallès Occidental,6,Nos cobraron una visita que creíamos incluida.
+NPS01339,2026-10-09,C0632,Sala Assessors,Oficinas,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS01340,2026-10-26,C0840,Òptica Clàssica Premià,Retail,Maresme,7,"Bien, pero las facturas llegan tarde."
+NPS01341,2026-10-09,C0614,Ferrer Group,Oficinas,Baix Llobregat,9,Respondieron en menos de 24 horas.
+NPS01342,2026-10-09,C0718,Mas Gestió Vilanova,Oficinas,Garraf,8,
+NPS01343,2026-10-13,C0031,Riera Consultors,Oficinas,Garraf,7,"Bien, pero las facturas llegan tarde."
+NPS01344,2026-10-19,C0524,Llorens Advocats,Oficinas,Garraf,9,"Servicio puntual, como siempre."
+NPS01345,2026-10-17,C0331,Hotel Llevant Sant Boi,Hotel,Baix Llobregat,7,"Correcto, aunque la cita tardó un poco."
+NPS01346,2026-10-10,C0047,Llar d'Infants Montseny,Educación,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS01347,2026-10-31,C0553,Marín Group,Oficinas,Barcelonès,10,"Servicio puntual, como siempre."
+NPS01348,2026-10-21,C0672,Calçats Central Barcelona,Retail,Barcelonès,8,El precio ha subido este año.
+NPS01349,2026-10-25,C0109,Bar La Lluna,Restauración,Barcelonès,10,Respondieron en menos de 24 horas.
+NPS01350,2026-10-09,C1150,Hotel Plaça Mollet,Hotel,Vallès Oriental,9,Buen seguimiento del técnico de referencia.
+NPS01351,2026-10-25,C1170,Bosch Arquitectes Mollet,Oficinas,Vallès Oriental,9,Muy contentos con el mantenimiento.
+NPS01352,2026-10-16,C0003,Acadèmia Els Til·lers,Educación,Barcelonès,3,No nos avisaron del cambio de técnico.
+NPS01353,2026-10-30,C0964,Centre Mèdic Rubí L'Hospitalet,Sanitario,Barcelonès,7,
+NPS01354,2026-10-27,C0307,Font Gestió,Oficinas,Garraf,9,Respondieron en menos de 24 horas.
+NPS01355,2026-10-16,C1142,Cafeteria El Port Sabadell,Restauración,Vallès Occidental,9,
+NPS01356,2026-10-23,C1013,Escola Pau Casals Badalona,Educación,Barcelonès,8,"Correcto, aunque la cita tardó un poco."
+NPS01357,2026-10-23,C1003,Acadèmia Can Mas El Prat,Educación,Baix Llobregat,10,El técnico fue muy amable y resolvió rápido.
+NPS01358,2026-10-13,C0429,Hotel Sol de Mar El Prat,Hotel,Baix Llobregat,0,Hace mucho ruido y ya ha fallado dos veces.
+NPS01359,2026-10-07,C0462,Laboratori Sitges,Sanitario,Baix Llobregat,10,Buen seguimiento del técnico de referencia.
+NPS01360,2026-10-26,C0239,Calçats Família,Retail,Vallès Oriental,10,El técnico fue muy amable y resolvió rápido.
+NPS01361,2026-10-27,C0144,Mas Assessors,Oficinas,Garraf,8,
+NPS01362,2026-10-12,C1245,Clínica Badalona Rubí,Sanitario,Vallès Occidental,8,El precio ha subido este año.
+NPS01363,2026-10-20,C0840,Òptica Clàssica Premià,Retail,Maresme,9,
+NPS01364,2026-10-09,C0649,Hotel Portal Mollet,Hotel,Vallès Oriental,6,
+NPS01365,2026-10-12,C1076,Òptica Sant Jordi Barcelona,Retail,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS01366,2026-10-15,C1046,Llibreria Nova Sant Boi,Retail,Baix Llobregat,7,"Bien, pero las facturas llegan tarde."
+NPS01367,2026-10-27,C0826,Vila Enginyeria Badalona,Oficinas,Barcelonès,5,
+NPS01368,2026-10-07,C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,9,
+NPS01369,2026-10-23,C0361,Restaurant Can Pere,Restauración,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS01370,2026-10-01,C1116,Navarro Consultors Cornellà,Oficinas,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS01371,2026-10-11,C0492,Clínica Badalona,Sanitario,Baix Llobregat,9,El técnico fue muy amable y resolvió rápido.
+NPS01372,2026-10-19,C0680,Hotel Rambla Barcelona,Hotel,Barcelonès,8,El precio ha subido este año.
+NPS01373,2026-10-19,C1062,Bosch Arquitectes Arenys,Oficinas,Maresme,2,Hace mucho ruido y ya ha fallado dos veces.
+NPS01374,2026-10-22,C0680,Hotel Rambla Barcelona,Hotel,Barcelonès,2,Nos cobraron una visita que creíamos incluida.
+NPS01375,2026-10-01,C0350,Botigues Clàssica,Retail,Barcelonès,8,
+NPS01376,2026-10-12,C0794,Hotel Cala Granollers,Hotel,Vallès Oriental,8,El precio ha subido este año.
+NPS01377,2026-10-30,C0819,Clínica Rubí Sabadell,Sanitario,Vallès Occidental,9,"Servicio puntual, como siempre."
+NPS01378,2026-10-05,C0772,Brasseria La Lluna Cornellà,Restauración,Baix Llobregat,7,Sin incidencias destacables.
+NPS01379,2026-10-07,C0102,Vidal Group,Oficinas,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS01380,2026-10-15,C0659,Vila Arquitectes Granollers,Oficinas,Vallès Oriental,9,
+NPS01381,2026-10-26,C0751,Hotel Turó Badalona,Hotel,Barcelonès,6,Nos cobraron una visita que creíamos incluida.
+NPS01382,2026-10-08,C0053,Escola Pau Casals,Educación,Barcelonès,9,El técnico fue muy amable y resolvió rápido.
+NPS01383,2026-10-25,C0481,Navarro Enginyeria,Oficinas,Barcelonès,9,
+NPS01384,2026-11-06,C0714,Ortega Advocats Terrassa,Oficinas,Vallès Occidental,5,
+NPS01385,2026-11-10,C0331,Hotel Llevant Sant Boi,Hotel,Baix Llobregat,10,
+NPS01386,2026-11-12,C0178,Clínica Sitges,Sanitario,Barcelonès,8,Sin incidencias destacables.
+NPS01387,2026-11-14,C1164,Restaurant Can Jordi L'Hospitalet,Restauración,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01388,2026-11-12,C0547,Clínica Dental Diagonal,Sanitario,Vallès Occidental,3,El equipo nuevo se ha estropeado varias veces.
+NPS01389,2026-11-15,C0677,Hotel Costa Castelldefels,Hotel,Baix Llobregat,9,
+NPS01390,2026-11-01,C0132,Escola Ítaca,Educación,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS01391,2026-11-23,C1149,Col·legi Collserola Arenys,Educación,Maresme,4,Tardaron más de dos días en venir.
+NPS01392,2026-11-19,C1034,Centre Mèdic Les Corts Arenys,Sanitario,Maresme,10,
+NPS01393,2026-11-08,C0002,Botigues Nord,Retail,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS01394,2026-11-18,C0262,Vidal Advocats,Oficinas,Vallès Occidental,4,El equipo nuevo se ha estropeado varias veces.
+NPS01395,2026-11-08,C1088,Ferreteria Sant Jordi Barcelona,Retail,Barcelonès,7,
+NPS01396,2026-11-04,C0239,Calçats Família,Retail,Vallès Oriental,2,Nos cobraron una visita que creíamos incluida.
+NPS01397,2026-11-24,C1062,Bosch Arquitectes Arenys,Oficinas,Maresme,3,"Averías repetidas en el AeroFlex, los huéspedes se quejan."
+NPS01398,2026-11-13,C0909,Hotel Les Arenes L'Hospitalet,Hotel,Barcelonès,9,"Servicio puntual, como siempre."
+NPS01399,2026-11-12,C1065,Hotel Turó Sant Cugat,Hotel,Vallès Occidental,7,
+NPS01400,2026-11-10,C0477,Coll Arquitectes,Oficinas,Garraf,0,Hace mucho ruido y ya ha fallado dos veces.
+NPS01401,2026-11-05,C0142,Pizzeria La Plaça,Restauración,Maresme,10,"Servicio puntual, como siempre."
+NPS01402,2026-11-02,C0308,Òptica Urbana,Retail,Barcelonès,5,Tardaron más de dos días en venir.
+NPS01403,2026-11-16,C0348,Llorens Logística,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS01404,2026-11-23,C0918,Vila Tech Barcelona,Oficinas,Barcelonès,10,El técnico fue muy amable y resolvió rápido.
+NPS01405,2026-11-14,C0538,Col·legi Els Til·lers Badalona,Educación,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS01406,2026-11-06,C0316,Grau Group,Oficinas,Maresme,8,
+NPS01407,2026-11-09,C0604,Col·legi Pau Casals Badalona,Educación,Barcelonès,8,"Bien, pero las facturas llegan tarde."
+NPS01408,2026-11-12,C0302,Òptica Del Mar,Retail,Vallès Occidental,10,
+NPS01409,2026-11-22,C0126,Hotel Ronda,Hotel,Vallès Occidental,8,
+NPS01410,2026-11-17,C0730,Hotel Rambla L'Hospitalet,Hotel,Barcelonès,9,"Servicio puntual, como siempre."
+NPS01411,2026-11-12,C0786,Mas Group Sant Cugat,Oficinas,Vallès Occidental,6,
+NPS01412,2026-11-20,C0426,Ferrer Logística,Oficinas,Baix Llobregat,9,
+NPS01413,2026-11-18,C0440,Laboratori Gràcia,Sanitario,Vallès Oriental,9,"Servicio puntual, como siempre."
+NPS01414,2026-11-05,C0736,Cafeteria El Celler Premià,Restauración,Maresme,8,"Correcto, aunque la cita tardó un poco."
+NPS01415,2026-11-15,C0006,Hotel Portal,Hotel,Vallès Occidental,9,El técnico fue muy amable y resolvió rápido.
+NPS01416,2026-11-01,C0006,Hotel Portal,Hotel,Vallès Occidental,10,
+NPS01417,2026-11-20,C0178,Clínica Sitges,Sanitario,Barcelonès,9,Respondieron en menos de 24 horas.
+NPS01418,2026-11-07,C1059,Hotel Costa Cardedeu,Hotel,Vallès Oriental,4,El equipo nuevo se ha estropeado varias veces.
+NPS01419,2026-11-03,C0521,Forn Nord,Retail,Baix Llobregat,9,Muy contentos con el mantenimiento.
+NPS01420,2026-11-07,C0585,Pons Logística,Oficinas,Baix Llobregat,9,"Servicio puntual, como siempre."
+NPS01421,2026-11-03,C0321,Puig Arquitectes,Oficinas,Vallès Occidental,0,Nos cobraron una visita que creíamos incluida.
+NPS01422,2026-11-19,C1262,Calçats Urbana Premià,Retail,Maresme,7,"Correcto, aunque la cita tardó un poco."
+NPS01423,2026-11-13,C0303,Bosch Tech,Oficinas,Vallès Occidental,6,Tardaron más de dos días en venir.
+NPS01424,2026-11-01,C1061,Perfumeria Família El Prat,Retail,Baix Llobregat,7,Sin incidencias destacables.
+NPS01425,2026-11-22,C0178,Clínica Sitges,Sanitario,Barcelonès,9,Buen seguimiento del técnico de referencia.
+NPS01426,2026-11-09,C1166,Pizzeria La Terrassa Premià,Restauración,Maresme,9,Respondieron en menos de 24 horas.
+NPS01427,2026-11-16,C0889,Soler Consultors Cornellà,Oficinas,Baix Llobregat,8,"Correcto, aunque la cita tardó un poco."
+NPS01428,2026-11-05,C0641,Grau Group Cornellà,Oficinas,Baix Llobregat,6,Nos cobraron una visita que creíamos incluida.
+NPS01429,2026-11-24,C0659,Vila Arquitectes Granollers,Oficinas,Vallès Oriental,5,No nos avisaron del cambio de técnico.
+NPS01430,2026-11-20,C1079,Clínica Dental Mataró Sant Cugat,Sanitario,Vallès Occidental,8,"Bien, pero las facturas llegan tarde."
+NPS01431,2026-11-15,C0230,Bar Can Jordi,Restauración,Garraf,9,Respondieron en menos de 24 horas.
+NPS01432,2026-11-09,C0977,Casas Tech Barcelona,Oficinas,Barcelonès,10,Muy contentos con el mantenimiento.
+NPS01433,2026-11-06,C1076,Òptica Sant Jordi Barcelona,Retail,Barcelonès,7,"Bien, pero las facturas llegan tarde."
+NPS01434,2026-11-14,C0807,Col·legi Ítaca Barcelona,Educación,Barcelonès,4,Tardaron más de dos días en venir.
+NPS01435,2026-11-15,C0509,Col·legi Pau Casals Mataró,Educación,Maresme,7,"Correcto, aunque la cita tardó un poco."
+NPS01436,2026-11-04,C0228,Ferrer Enginyeria,Oficinas,Vallès Occidental,6,Tardaron más de dos días en venir.
+NPS01437,2026-11-24,C0445,Perfumeria Del Mar,Retail,Vallès Occidental,3,Nos cobraron una visita que creíamos incluida.
+NPS01438,2026-11-05,C0272,Hotel Ronda Sabadell,Hotel,Vallès Occidental,0,
+NPS01439,2026-11-21,C0200,Fisioteràpia Badalona,Sanitario,Maresme,3,No nos avisaron del cambio de técnico.
+NPS01440,2026-11-21,C0387,Hotel Els Pins Badalona,Hotel,Barcelonès,5,
+NPS01441,2026-11-19,C1170,Bosch Arquitectes Mollet,Oficinas,Vallès Oriental,7,
+NPS01442,2026-11-23,C0071,Hotel Brisa Alta,Hotel,Vallès Occidental,7,"Bien, pero las facturas llegan tarde."
+NPS01443,2026-11-12,C1062,Bosch Arquitectes Arenys,Oficinas,Maresme,1,Es un equipo casi nuevo y no para de dar problemas.
+NPS01444,2026-11-09,C1105,Pizzeria El Molí Barcelona,Restauración,Barcelonès,10,
+NPS01445,2026-11-22,C0377,Llar d'Infants Can Mas,Educación,Barcelonès,6,Tardaron más de dos días en venir.
+NPS01446,2026-11-12,C0386,Moda Vallès,Retail,Vallès Oriental,6,
+NPS01447,2026-11-02,C0287,Puig Gestió,Oficinas,Vallès Occidental,1,Nos cobraron una visita que creíamos incluida.

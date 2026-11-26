@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Read",
+      "Glob",
+      "Grep",
+      "Edit(salidas/**)",
+      "Write(salidas/**)",
+      "Edit(.claude/skills/**)",
+      "Write(.claude/skills/**)",
+      "Bash(sqlite3:*)",
+      "Bash(awk:*)",
+      "Bash(head:*)",
+      "Bash(wc:*)",
+      "Bash(cut:*)",
+      "Bash(sort:*)",
+      "Bash(uniq:*)",
+      "Bash(ls:*)",
+      "Bash(mkdir:*)"
+    ],
+    "deny": [
+      "Edit(datos/**)",
+      "Write(datos/**)",
+      "Edit(soluciones/**)",
+      "Write(soluciones/**)",
+      "WebFetch",
+      "WebSearch",
+      "Bash(git:*)"
+    ]
+  }
+}

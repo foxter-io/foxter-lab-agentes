@@ -1,0 +1,61 @@
+campana_id,nombre,canal,fecha_inicio,fecha_fin,coste_eur
+CA001,Aerotermia empresas · 12/2024,Google Ads,2024-12-01,2025-01-14,4460
+CA002,Directores de hotel · 12/2024,LinkedIn Ads,2024-12-01,2025-01-29,3780
+CA003,Blog eficiencia energética · 12/2024,SEO,2024-12-01,2025-02-28,2880
+CA004,Portal de presupuestos · 12/2024,Directorios,2024-12-01,2025-02-28,2040
+CA005,Feria Hostelco · 12/2024,Ferias,2024-12-01,2024-12-04,9410
+CA006,Programa recomienda y gana · 12/2024,Referidos,2024-12-01,2025-02-28,620
+CA007,Búsqueda instalación VRF · 01/2025,Google Ads,2025-01-15,2025-02-28,3700
+CA008,Facility managers · 01/2025,LinkedIn Ads,2025-01-30,2025-03-30,4280
+CA009,Búsqueda mantenimiento · 03/2025,Google Ads,2025-03-01,2025-04-14,3630
+CA010,Guías de mantenimiento · 03/2025,SEO,2025-03-01,2025-05-30,2290
+CA011,Fichas en directorios de empresas · 03/2025,Directorios,2025-03-01,2025-05-30,1870
+CA012,Feria Hostelco · 03/2025,Ferias,2025-03-01,2025-03-03,7880
+CA013,Programa recomienda y gana · 03/2025,Referidos,2025-03-01,2025-05-30,850
+CA014,Gerentes de clínicas · 03/2025,LinkedIn Ads,2025-03-31,2025-05-30,3460
+CA015,Aerotermia empresas · 04/2025,Google Ads,2025-04-15,2025-05-30,3550
+CA016,Remarketing · 05/2025,Google Ads,2025-05-31,2025-07-14,3920
+CA017,Gerentes de clínicas · 05/2025,LinkedIn Ads,2025-05-31,2025-07-29,3910
+CA018,Blog eficiencia energética · 05/2025,SEO,2025-05-31,2025-08-28,3030
+CA019,Portal de presupuestos · 05/2025,Directorios,2025-05-31,2025-08-28,1950
+CA020,Encuentro hoteles Costa · 05/2025,Ferias,2025-05-31,2025-06-02,10510
+CA021,Programa recomienda y gana · 05/2025,Referidos,2025-05-31,2025-08-28,710
+CA022,Búsqueda mantenimiento · 07/2025,Google Ads,2025-07-15,2025-08-28,4150
+CA023,Gerentes de clínicas · 07/2025,LinkedIn Ads,2025-07-30,2025-09-27,4480
+CA024,Búsqueda mantenimiento · 08/2025,Google Ads,2025-08-29,2025-10-12,3420
+CA025,Guías de mantenimiento · 08/2025,SEO,2025-08-29,2025-11-27,2690
+CA026,Fichas en directorios de empresas · 08/2025,Directorios,2025-08-29,2025-11-27,1690
+CA027,Feria Hostelco · 08/2025,Ferias,2025-08-29,2025-09-02,8250
+CA028,Programa recomienda y gana · 08/2025,Referidos,2025-08-29,2025-11-27,680
+CA029,Gerentes de clínicas · 09/2025,LinkedIn Ads,2025-09-28,2025-11-27,3800
+CA030,Búsqueda mantenimiento · 10/2025,Google Ads,2025-10-13,2025-11-27,4290
+CA031,Búsqueda instalación VRF · 11/2025,Google Ads,2025-11-28,2026-01-11,4390
+CA032,Directores de hotel · 11/2025,LinkedIn Ads,2025-11-28,2026-01-26,3630
+CA033,Blog eficiencia energética · 11/2025,SEO,2025-11-28,2026-02-25,3350
+CA034,Fichas en directorios de empresas · 11/2025,Directorios,2025-11-28,2026-02-25,1530
+CA035,Salón Rebuild · 11/2025,Ferias,2025-11-28,2025-11-30,8420
+CA036,Programa recomienda y gana · 11/2025,Referidos,2025-11-28,2026-02-25,700
+CA037,Búsqueda instalación VRF · 01/2026,Google Ads,2026-01-12,2026-02-25,3540
+CA038,Facility managers · 01/2026,LinkedIn Ads,2026-01-27,2026-03-27,4200
+CA039,Remarketing · 02/2026,Google Ads,2026-02-26,2026-04-11,4260
+CA040,Guías de mantenimiento · 02/2026,SEO,2026-02-26,2026-05-27,2990
+CA041,Portal de presupuestos · 02/2026,Directorios,2026-02-26,2026-05-27,2220
+CA042,Jornada Facility Management · 02/2026,Ferias,2026-02-26,2026-02-28,8970
+CA043,Programa recomienda y gana · 02/2026,Referidos,2026-02-26,2026-05-27,590
+CA044,Gerentes de clínicas · 03/2026,LinkedIn Ads,2026-03-28,2026-05-27,4080
+CA045,Búsqueda mantenimiento · 04/2026,Google Ads,2026-04-12,2026-05-27,4090
+CA046,Remarketing · 05/2026,Google Ads,2026-05-28,2026-07-11,4050
+CA047,Facility managers · 05/2026,LinkedIn Ads,2026-05-28,2026-07-26,4400
+CA048,Blog eficiencia energética · 05/2026,SEO,2026-05-28,2026-08-25,2700
+CA049,Portal de presupuestos · 05/2026,Directorios,2026-05-28,2026-08-25,1630
+CA050,Encuentro hoteles Costa · 05/2026,Ferias,2026-05-28,2026-05-31,9270
+CA051,Programa recomienda y gana · 05/2026,Referidos,2026-05-28,2026-08-25,870
+CA052,Remarketing · 07/2026,Google Ads,2026-07-12,2026-08-25,4520
+CA053,Facility managers · 07/2026,LinkedIn Ads,2026-07-27,2026-09-24,3840
+CA054,Remarketing · 08/2026,Google Ads,2026-08-26,2026-10-09,3710
+CA055,Blog eficiencia energética · 08/2026,SEO,2026-08-26,2026-11-24,2670
+CA056,Portal de presupuestos · 08/2026,Directorios,2026-08-26,2026-11-24,1630
+CA057,Salón Rebuild · 08/2026,Ferias,2026-08-26,2026-08-30,8150
+CA058,Programa recomienda y gana · 08/2026,Referidos,2026-08-26,2026-11-24,580
+CA059,Directores de hotel · 09/2026,LinkedIn Ads,2026-09-25,2026-11-24,4090
+CA060,Remarketing · 10/2026,Google Ads,2026-10-10,2026-11-24,3810

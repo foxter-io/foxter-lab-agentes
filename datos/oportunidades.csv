@@ -1,0 +1,610 @@
+oportunidad_id,fecha_creacion,empresa,cliente_id,sector,zona,servicio,origen,comercial,importe_eur,estado,etapa,fecha_cierre,motivo_perdida,competidor,nota
+OP0001,2024-12-02,Puig Logística Sabadell,,Oficinas,Vallès Occidental,Instalación VRF,Ferias,Ingrid Solé,116900,Perdida,Cerrada perdida,2025-01-14,Precio,TermoCat,Nos dicen que el precio está por encima de su presupuesto.
+OP0002,2024-12-22,Hotel Sol de Mar Cornellà,C1131,Hotel,Baix Llobregat,Contrato de mantenimiento,Ferias,Pau Riera,30100,Ganada,Cerrada ganada,2025-04-17,,,
+OP0003,2024-12-25,Bar La Lluna Granollers,,Restauración,Vallès Oriental,Climatización de local,Ferias,Ingrid Solé,36900,Perdida,Cerrada perdida,2025-02-06,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0004,2024-12-26,Font Consultors L'Hospitalet,C1132,Oficinas,Barcelonès,Instalación VRF,SEO,Marta Camps,149000,Ganada,Cerrada ganada,2025-02-19,,,
+OP0005,2024-12-16,Serra Advocats Cornellà,,Oficinas,Baix Llobregat,Instalación VRF,SEO,Pau Riera,56300,Perdida,Cerrada perdida,2025-02-20,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0006,2024-12-18,Restaurant El Celler Vilanova,,Restauración,Garraf,Contrato de mantenimiento,Directorios,Laura Vidal,6800,Perdida,Cerrada perdida,2025-01-07,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0007,2024-12-18,Cafeteria El Racó L'Hospitalet,C1133,Restauración,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,8400,Ganada,Cerrada ganada,2025-01-11,,,
+OP0008,2024-12-01,Vila Arquitectes Mollet,,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,49400,Perdida,Cerrada perdida,2025-01-11,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0009,2024-12-22,Riera Consultors Cornellà,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,21400,Perdida,Cerrada perdida,2025-01-23,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0010,2024-12-24,Òptica Nord Vilanova,,Retail,Garraf,Mantenimiento multitienda,Ferias,Pau Riera,9900,Perdida,Cerrada perdida,2025-02-15,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0011,2024-12-28,Clínica Dental Terrassa Premià,,Sanitario,Maresme,Renovación de equipos,LinkedIn Ads,Laura Vidal,26200,Perdida,Cerrada perdida,2025-03-06,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0012,2024-12-26,Òptica Urbana L'Hospitalet,C0862,Retail,Barcelonès,Renovación de equipos,SEO,Àlex Ferrer,47600,Perdida,Cerrada perdida,2025-02-23,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0013,2024-12-26,Hotel Els Pins Vilanova,C0217,Hotel,Garraf,Aerotermia,Referidos,Laura Vidal,97000,Perdida,Cerrada perdida,2025-04-20,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0014,2024-12-22,Esports Família Cornellà,,Retail,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,33400,Perdida,Cerrada perdida,2025-01-31,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0015,2024-12-12,Pons Consultors Premià,,Oficinas,Maresme,Instalación VRF,Referidos,Laura Vidal,140500,Perdida,Cerrada perdida,2025-02-15,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0016,2024-12-13,Hotel Les Arenes Badalona,,Hotel,Barcelonès,Aerotermia,LinkedIn Ads,Àlex Ferrer,62300,Perdida,Cerrada perdida,2025-02-12,Precio,AirePro,El cliente ha recibido una oferta un 7 % más barata.
+OP0017,2024-12-20,Vila Advocats Premià,,Oficinas,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,21200,Perdida,Cerrada perdida,2025-03-03,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0018,2024-12-17,Hotel Turó Arenys,C0539,Hotel,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,22800,Perdida,Cerrada perdida,2025-03-17,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0019,2024-12-24,Hotel Els Pins Sant Boi,,Hotel,Baix Llobregat,Aerotermia,Google Ads,Pau Riera,116200,Perdida,Cerrada perdida,2025-05-19,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0020,2024-12-18,Moda Plus Cornellà,C0678,Retail,Baix Llobregat,Mantenimiento multitienda,Google Ads,Pau Riera,9700,Perdida,Cerrada perdida,2025-02-16,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0021,2024-12-28,Serra Advocats,C0204,Oficinas,Barcelonès,Instalación VRF,SEO,Marta Camps,85900,Ganada,Cerrada ganada,2025-03-28,,,
+OP0022,2024-12-29,Fisioteràpia Sabadell El Prat,C0885,Sanitario,Baix Llobregat,Contrato de mantenimiento,Ferias,Pau Riera,14000,Perdida,Cerrada perdida,2025-02-07,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0023,2024-12-08,Llar d'Infants Ítaca Castelldefels,,Educación,Baix Llobregat,Climatización de aulas,Ferias,Pau Riera,50100,Perdida,Cerrada perdida,2025-02-16,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0024,2025-01-17,Coll Partners Granollers,,Oficinas,Vallès Oriental,Instalación VRF,Referidos,Ingrid Solé,73000,Perdida,Cerrada perdida,2025-03-03,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0025,2025-01-13,Pons Consultors,C0568,Oficinas,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,27200,Ganada,Cerrada ganada,2025-02-16,,,
+OP0026,2025-01-20,Soler Partners Sant Cugat,,Oficinas,Vallès Occidental,Renovación de equipos,Ferias,Ingrid Solé,31200,Perdida,Cerrada perdida,2025-02-20,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0027,2025-01-25,Perfumeria Nord Badalona,C1134,Retail,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,43600,Ganada,Cerrada ganada,2025-02-23,,,
+OP0028,2025-01-18,Sala Advocats Premià,,Oficinas,Maresme,Instalación VRF,LinkedIn Ads,Laura Vidal,138700,Perdida,Cerrada perdida,2025-03-27,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0029,2025-01-02,Fisioteràpia Sitges Cornellà,C0661,Sanitario,Baix Llobregat,Renovación de equipos,Referidos,Pau Riera,35200,Ganada,Cerrada ganada,2025-02-16,,,
+OP0030,2025-01-15,Escola Can Mas El Prat,C1068,Educación,Baix Llobregat,Climatización de aulas,Referidos,Pau Riera,139800,Perdida,Cerrada perdida,2025-04-14,Precio,TermoCat,Nos dicen que el precio está por encima de su presupuesto.
+OP0031,2025-01-31,Llibreria Clàssica,C0286,Retail,Baix Llobregat,Renovación de equipos,Ferias,Pau Riera,66000,Perdida,Cerrada perdida,2025-03-06,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0032,2025-01-18,Clínica Terrassa L'Hospitalet,,Sanitario,Barcelonès,Renovación de equipos,Ferias,Marta Camps,40600,Perdida,Cerrada perdida,2025-04-01,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0033,2025-01-11,Cafeteria El Celler El Prat,,Restauración,Baix Llobregat,Contrato de mantenimiento,Referidos,Pau Riera,6100,Perdida,Cerrada perdida,2025-02-18,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0034,2025-01-30,Soler Partners,C0050,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,118800,Perdida,Cerrada perdida,2025-04-10,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0035,2025-01-22,Clínica Dental Diagonal,C0547,Sanitario,Vallès Occidental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,10800,Perdida,Cerrada perdida,2025-03-03,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0036,2025-01-25,Clínica Dental Rubí Badalona,,Sanitario,Barcelonès,Contrato de mantenimiento,SEO,Marta Camps,21800,Perdida,Cerrada perdida,2025-03-21,Precio,TermoCat,El cliente ha recibido una oferta un 11 % más barata.
+OP0037,2025-01-20,Vidal Enginyeria Premià,,Oficinas,Maresme,Instalación VRF,Directorios,Laura Vidal,78800,Perdida,Cerrada perdida,2025-03-28,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0038,2025-01-08,Sala Advocats Castelldefels,C1135,Oficinas,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,8500,Ganada,Cerrada ganada,2025-03-11,,,
+OP0039,2025-01-26,Bar Can Pere,C0059,Restauración,Maresme,Climatización de local,Ferias,Laura Vidal,36000,Ganada,Cerrada ganada,2025-02-28,,,
+OP0040,2025-01-26,Grau Logística Castelldefels,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,19900,Perdida,Cerrada perdida,2025-03-23,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0041,2025-01-14,Ferrer Advocats Rubí,,Oficinas,Vallès Occidental,Instalación VRF,Referidos,Ingrid Solé,122100,Perdida,Cerrada perdida,2025-03-25,Precio,,El cliente ha recibido una oferta un 10 % más barata.
+OP0042,2025-01-04,Clínica Dental Sitges Sant Cugat,C0944,Sanitario,Vallès Occidental,Contrato de mantenimiento,SEO,Ingrid Solé,10500,Ganada,Cerrada ganada,2025-02-24,,,
+OP0043,2025-01-07,Hotel Mirador Castelldefels,C1136,Hotel,Baix Llobregat,Instalación VRF,Google Ads,Pau Riera,156600,Ganada,Cerrada ganada,2025-03-12,,,
+OP0044,2025-01-23,Hotel Llevant Barcelona,C1137,Hotel,Barcelonès,Aerotermia,Referidos,Àlex Ferrer,43300,Ganada,Cerrada ganada,2025-03-29,,,
+OP0045,2025-01-11,Grau Advocats Badalona,,Oficinas,Barcelonès,Renovación de equipos,LinkedIn Ads,Marta Camps,33700,Perdida,Cerrada perdida,2025-03-27,Precio,,El cliente ha recibido una oferta un 10 % más barata.
+OP0046,2025-02-04,Marín Logística Badalona,,Oficinas,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,80900,Perdida,Cerrada perdida,2025-04-19,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0047,2025-02-28,Centre Mèdic Terrassa Sitges,,Sanitario,Garraf,Renovación de equipos,Directorios,Laura Vidal,37100,Perdida,Cerrada perdida,2025-04-27,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0048,2025-02-01,Casas Enginyeria Cardedeu,C1138,Oficinas,Vallès Oriental,Contrato de mantenimiento,Directorios,Ingrid Solé,11300,Ganada,Cerrada ganada,2025-03-31,,,
+OP0049,2025-02-21,Llibreria Del Mar Badalona,C0702,Retail,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,66400,Ganada,Cerrada ganada,2025-04-09,,,
+OP0050,2025-02-19,Moda Del Mar Cornellà,,Retail,Baix Llobregat,Mantenimiento multitienda,Google Ads,Pau Riera,10800,Perdida,Cerrada perdida,2025-04-19,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0051,2025-02-18,Hotel Cala Arenys,,Hotel,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,37500,Perdida,Cerrada perdida,2025-07-10,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0052,2025-02-23,Riera Arquitectes Badalona,C1139,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Àlex Ferrer,24000,Ganada,Cerrada ganada,2025-04-30,,,
+OP0053,2025-02-15,Hotel Nord L'Hospitalet,C1140,Hotel,Barcelonès,Contrato de mantenimiento,Directorios,Àlex Ferrer,36500,Ganada,Cerrada ganada,2025-06-29,,,
+OP0054,2025-02-11,Escola Montseny El Prat,,Educación,Baix Llobregat,Climatización de aulas,Directorios,Pau Riera,99600,Perdida,Cerrada perdida,2025-04-18,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0055,2025-02-06,Serra Assessors Sabadell,C1141,Oficinas,Vallès Occidental,Instalación VRF,Directorios,Ingrid Solé,140000,Ganada,Cerrada ganada,2025-03-26,,,
+OP0056,2025-02-05,Bar Cal Ton,C0052,Restauración,Maresme,Climatización de local,Referidos,Laura Vidal,21000,Ganada,Cerrada ganada,2025-03-27,,,
+OP0057,2025-02-11,Fisioteràpia Granollers Mataró,C0813,Sanitario,Maresme,Renovación de equipos,Ferias,Laura Vidal,55600,Perdida,Cerrada perdida,2025-04-05,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0058,2025-02-07,Ferrer Partners,C0392,Oficinas,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,52700,Ganada,Cerrada ganada,2025-05-02,,,
+OP0059,2025-02-04,Serra Partners Mollet,,Oficinas,Vallès Oriental,Instalación VRF,Google Ads,Ingrid Solé,97000,Perdida,Cerrada perdida,2025-05-03,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0060,2025-02-20,Hotel Els Pins Cardedeu,C0412,Hotel,Vallès Oriental,Instalación VRF,SEO,Ingrid Solé,160600,Perdida,Cerrada perdida,2025-06-21,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0061,2025-02-01,Cafeteria El Port Sabadell,C1142,Restauración,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,7100,Ganada,Cerrada ganada,2025-03-01,,,
+OP0062,2025-02-03,Bosch Group Badalona,C1143,Oficinas,Barcelonès,Instalación VRF,Referidos,Àlex Ferrer,89800,Ganada,Cerrada ganada,2025-04-27,,,
+OP0063,2025-02-16,Hotel Costa Cornellà,C0643,Hotel,Baix Llobregat,Instalación VRF,Referidos,Pau Riera,75900,Perdida,Cerrada perdida,2025-05-28,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0064,2025-02-24,Hotel Els Pins Barcelona,C1144,Hotel,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,18500,Ganada,Cerrada ganada,2025-06-16,,,
+OP0065,2025-02-03,Roca Group,C0379,Oficinas,Barcelonès,Renovación de equipos,Referidos,Marta Camps,70700,Ganada,Cerrada ganada,2025-04-20,,,
+OP0066,2025-02-20,Hotel Jardí Mataró,C1145,Hotel,Maresme,Aerotermia,Referidos,Laura Vidal,54700,Ganada,Cerrada ganada,2025-07-05,,,
+OP0067,2025-02-08,Calçats Vallès Vilanova,,Retail,Garraf,Mantenimiento multitienda,Directorios,Pau Riera,28300,Perdida,Cerrada perdida,2025-04-18,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0068,2025-02-21,Bar Can Pere Barcelona,,Restauración,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,12200,Perdida,Cerrada perdida,2025-04-05,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0069,2025-02-04,Fisioteràpia Sant Cugat Sitges,,Sanitario,Garraf,Renovación de equipos,Directorios,Laura Vidal,28100,Perdida,Cerrada perdida,2025-03-29,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0070,2025-02-25,Coll Enginyeria Cornellà,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Referidos,Pau Riera,13100,Perdida,Cerrada perdida,2025-04-21,Precio,,El cliente ha recibido una oferta un 10 % más barata.
+OP0071,2025-02-24,Vidal Enginyeria Cardedeu,C1146,Oficinas,Vallès Oriental,Contrato de mantenimiento,Referidos,Ingrid Solé,23700,Ganada,Cerrada ganada,2025-05-20,,,
+OP0072,2025-02-25,Ferreteria Sant Jordi Barcelona,C1088,Retail,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,28400,Perdida,Cerrada perdida,2025-04-18,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0073,2025-03-15,Ferreteria Sant Jordi L'Hospitalet,C1147,Retail,Barcelonès,Mantenimiento multitienda,Referidos,Àlex Ferrer,16700,Ganada,Cerrada ganada,2025-05-20,,,
+OP0074,2025-03-23,Hotel Montjuïc Terrassa,C0703,Hotel,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,37300,Ganada,Cerrada ganada,2025-07-05,,,
+OP0075,2025-03-02,Llar d'Infants Collserola Barcelona,,Educación,Barcelonès,Climatización de aulas,Directorios,Àlex Ferrer,92100,Perdida,Cerrada perdida,2025-06-20,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0076,2025-03-21,Fisioteràpia Les Corts Cornellà,,Sanitario,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,26800,Perdida,Cerrada perdida,2025-04-23,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0077,2025-03-14,Soler Arquitectes L'Hospitalet,C1148,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Àlex Ferrer,11500,Ganada,Cerrada ganada,2025-06-08,,,
+OP0078,2025-03-23,Ortega Tech L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,13400,Perdida,Cerrada perdida,2025-05-23,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0079,2025-03-25,Llorens Arquitectes,C0273,Oficinas,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,44300,Ganada,Cerrada ganada,2025-05-11,,,
+OP0080,2025-03-20,Col·legi Collserola Arenys,C1149,Educación,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,10300,Ganada,Cerrada ganada,2025-07-09,,,
+OP0081,2025-03-04,Hotel Plaça Mollet,C1150,Hotel,Vallès Oriental,Contrato de mantenimiento,Google Ads,Ingrid Solé,36700,Ganada,Cerrada ganada,2025-07-02,,,
+OP0082,2025-03-20,Roca Gestió,C0188,Oficinas,Garraf,Instalación VRF,Ferias,Laura Vidal,105500,Perdida,Cerrada perdida,2025-05-13,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0083,2025-03-15,Casas Consultors Barcelona,C1151,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,21700,Ganada,Cerrada ganada,2025-05-16,,,
+OP0084,2025-03-13,Sala Arquitectes Barcelona,C1152,Oficinas,Barcelonès,Renovación de equipos,Google Ads,Marta Camps,26600,Ganada,Cerrada ganada,2025-04-18,,,
+OP0085,2025-03-21,Institut Montseny Barcelona,C0500,Educación,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,10900,Perdida,Cerrada perdida,2025-07-12,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0086,2025-03-02,Centre Òptic Diagonal,C0324,Sanitario,Baix Llobregat,Renovación de equipos,Referidos,Pau Riera,72800,Ganada,Cerrada ganada,2025-05-02,,,
+OP0087,2025-03-28,Bosch Consultors Mollet,,Oficinas,Vallès Oriental,Renovación de equipos,Directorios,Ingrid Solé,36500,Perdida,Cerrada perdida,2025-05-26,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0088,2025-03-09,Pons Partners Mataró,,Oficinas,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,12000,Perdida,Cerrada perdida,2025-05-04,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0089,2025-03-08,Clínica Sant Cugat,C0353,Sanitario,Baix Llobregat,Contrato de mantenimiento,SEO,Pau Riera,19700,Ganada,Cerrada ganada,2025-04-13,,,
+OP0090,2025-03-21,Pizzeria Can Jordi L'Hospitalet,,Restauración,Barcelonès,Climatización de local,Directorios,Marta Camps,42000,Perdida,Cerrada perdida,2025-04-16,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0091,2025-03-20,Llorens Advocats L'Hospitalet,,Oficinas,Barcelonès,Renovación de equipos,Google Ads,Àlex Ferrer,86100,Perdida,Cerrada perdida,2025-05-06,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0092,2025-03-19,Brasseria El Racó Premià,,Restauración,Maresme,Climatización de local,Directorios,Laura Vidal,40300,Perdida,Cerrada perdida,2025-04-09,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0093,2025-03-06,Roca Assessors Barcelona,,Oficinas,Barcelonès,Instalación VRF,Referidos,Àlex Ferrer,102300,Perdida,Cerrada perdida,2025-04-25,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0094,2025-03-24,Bar El Racó Vilanova,,Restauración,Garraf,Climatización de local,Ferias,Pau Riera,41700,Perdida,Cerrada perdida,2025-04-13,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0095,2025-03-17,Bar La Terrassa Barcelona,,Restauración,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,12700,Perdida,Cerrada perdida,2025-04-07,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0096,2025-03-04,Vila Group Sant Cugat,,Oficinas,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,86200,Perdida,Cerrada perdida,2025-04-26,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0097,2025-03-29,Coll Consultors Premià,C0710,Oficinas,Maresme,Renovación de equipos,Ferias,Laura Vidal,86400,Perdida,Cerrada perdida,2025-05-03,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0098,2025-04-05,Hotel Turó Premià,,Hotel,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,30000,Perdida,Cerrada perdida,2025-06-24,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0099,2025-04-07,Ferreteria Urbana Sant Cugat,C1153,Retail,Vallès Occidental,Mantenimiento multitienda,Google Ads,Ingrid Solé,35600,Ganada,Cerrada ganada,2025-06-15,,,
+OP0100,2025-04-03,Mas Partners,C0381,Oficinas,Vallès Occidental,Instalación VRF,LinkedIn Ads,Ingrid Solé,55800,Perdida,Cerrada perdida,2025-06-14,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0101,2025-04-05,Hotel Ronda Arenys,,Hotel,Maresme,Instalación VRF,Referidos,Laura Vidal,157100,Perdida,Cerrada perdida,2025-06-15,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0102,2025-04-09,Botigues Nova,C0151,Retail,Vallès Occidental,Renovación de equipos,Referidos,Ingrid Solé,52900,Ganada,Cerrada ganada,2025-06-05,,,
+OP0103,2025-04-30,Hotel Portal Badalona,,Hotel,Barcelonès,Aerotermia,Ferias,Àlex Ferrer,60900,Perdida,Cerrada perdida,2025-07-31,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0104,2025-04-17,Centre Òptic Sant Gervasi Sitges,C1154,Sanitario,Garraf,Renovación de equipos,Ferias,Pau Riera,81200,Ganada,Cerrada ganada,2025-06-03,,,
+OP0105,2025-04-11,Riera Group Arenys,C1155,Oficinas,Maresme,Instalación VRF,LinkedIn Ads,Laura Vidal,109400,Ganada,Cerrada ganada,2025-06-20,,,
+OP0106,2025-04-08,Centre Mèdic Sant Gervasi,C0657,Sanitario,Vallès Occidental,Contrato de mantenimiento,SEO,Ingrid Solé,21300,Perdida,Cerrada perdida,2025-06-26,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0107,2025-04-10,Pons Assessors Arenys,,Oficinas,Maresme,Instalación VRF,Directorios,Laura Vidal,111000,Perdida,Cerrada perdida,2025-06-05,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0108,2025-04-23,Centre Mèdic Sant Gervasi L'Hospitalet,,Sanitario,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,15200,Perdida,Cerrada perdida,2025-06-02,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0109,2025-04-12,Coll Arquitectes Badalona,,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,18700,Perdida,Cerrada perdida,2025-07-09,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0110,2025-04-03,Ortega Assessors Barcelona,C1156,Oficinas,Barcelonès,Renovación de equipos,Referidos,Marta Camps,74500,Ganada,Cerrada ganada,2025-06-24,,,
+OP0111,2025-04-22,Hotel Brisa Alta Sabadell,C1052,Hotel,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,22100,Perdida,Cerrada perdida,2025-07-02,Precio,Climatitzacions Nord,El cliente ha recibido una oferta un 6 % más barata.
+OP0112,2025-04-14,Fisioteràpia Mataró Terrassa,,Sanitario,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,61300,Perdida,Cerrada perdida,2025-07-01,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0113,2025-04-16,Acadèmia Pau Casals Sant Cugat,,Educación,Vallès Occidental,Climatización de aulas,Directorios,Ingrid Solé,79600,Perdida,Cerrada perdida,2025-06-18,Precio,AirePro,El cliente ha recibido una oferta un 11 % más barata.
+OP0114,2025-04-16,Mobles Urbana Vilanova,,Retail,Garraf,Renovación de equipos,Ferias,Laura Vidal,40800,Perdida,Cerrada perdida,2025-05-29,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0115,2025-04-04,Ferrer Logística Cornellà,C1157,Oficinas,Baix Llobregat,Contrato de mantenimiento,SEO,Pau Riera,22400,Ganada,Cerrada ganada,2025-05-17,,,
+OP0116,2025-04-30,Serra Assessors Sitges,,Oficinas,Garraf,Renovación de equipos,SEO,Laura Vidal,31700,Perdida,Cerrada perdida,2025-07-26,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0117,2025-04-19,Ferrer Partners Cornellà,,Oficinas,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,59400,Perdida,Cerrada perdida,2025-06-26,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0118,2025-04-14,Cafeteria El Celler L'Hospitalet,,Restauración,Barcelonès,Climatización de local,Google Ads,Marta Camps,17800,Perdida,Cerrada perdida,2025-06-01,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0119,2025-04-27,Soler Assessors Castelldefels,C1158,Oficinas,Baix Llobregat,Instalación VRF,Referidos,Pau Riera,153200,Ganada,Cerrada ganada,2025-06-29,,,
+OP0120,2025-04-24,Hotel Cala Sant Cugat,,Hotel,Vallès Occidental,Instalación VRF,LinkedIn Ads,Ingrid Solé,140900,Perdida,Cerrada perdida,2025-08-19,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0121,2025-04-03,Bosch Arquitectes Rubí,,Oficinas,Vallès Occidental,Instalación VRF,Directorios,Ingrid Solé,75400,Perdida,Cerrada perdida,2025-05-18,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0122,2025-04-02,Llibreria Del Mar Terrassa,C1159,Retail,Vallès Occidental,Renovación de equipos,Ferias,Ingrid Solé,23300,Ganada,Cerrada ganada,2025-06-10,,,
+OP0123,2025-04-18,Ferreteria Plus Mataró,,Retail,Maresme,Renovación de equipos,LinkedIn Ads,Laura Vidal,51000,Perdida,Cerrada perdida,2025-06-05,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0124,2025-04-30,Hotel Rambla Badalona,C0785,Hotel,Barcelonès,Instalación VRF,Referidos,Marta Camps,155600,Ganada,Cerrada ganada,2025-09-18,,,
+OP0125,2025-05-10,Esports Nova Barcelona,C0929,Retail,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,68100,Ganada,Cerrada ganada,2025-06-06,,,
+OP0126,2025-05-04,Mas Enginyeria L'Hospitalet,,Oficinas,Barcelonès,Instalación VRF,Referidos,Marta Camps,57000,Perdida,Cerrada perdida,2025-07-06,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0127,2025-05-08,Sala Partners Cardedeu,C1160,Oficinas,Vallès Oriental,Instalación VRF,Ferias,Ingrid Solé,146300,Ganada,Cerrada ganada,2025-06-25,,,
+OP0128,2025-05-30,Moda Urbana,C0193,Retail,Baix Llobregat,Mantenimiento multitienda,LinkedIn Ads,Pau Riera,12400,Ganada,Cerrada ganada,2025-06-27,,,
+OP0129,2025-05-05,Centre Òptic Les Corts Vilanova,,Sanitario,Garraf,Renovación de equipos,LinkedIn Ads,Laura Vidal,80000,Perdida,Cerrada perdida,2025-06-20,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0130,2025-05-04,Hotel Jardí L'Hospitalet,,Hotel,Barcelonès,Contrato de mantenimiento,Ferias,Àlex Ferrer,17200,Perdida,Cerrada perdida,2025-07-11,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0131,2025-05-08,Centre Mèdic Diagonal Badalona,,Sanitario,Barcelonès,Renovación de equipos,Google Ads,Àlex Ferrer,32900,Perdida,Cerrada perdida,2025-07-15,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0132,2025-05-11,Hotel Jardí Barcelona,,Hotel,Barcelonès,Aerotermia,Referidos,Marta Camps,59100,Perdida,Cerrada perdida,2025-07-27,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0133,2025-05-23,Hotel Sol de Mar Sabadell,C0486,Hotel,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,24200,Ganada,Cerrada ganada,2025-08-23,,,
+OP0134,2025-05-25,Vidal Assessors Terrassa,C1161,Oficinas,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,16900,Ganada,Cerrada ganada,2025-08-01,,,
+OP0135,2025-05-30,Cafeteria Can Jordi Barcelona,C1162,Restauración,Barcelonès,Climatización de local,Google Ads,Marta Camps,40000,Ganada,Cerrada ganada,2025-07-09,,,
+OP0136,2025-05-04,Cafeteria La Plaça Terrassa,,Restauración,Vallès Occidental,Contrato de mantenimiento,Directorios,Ingrid Solé,12700,Perdida,Cerrada perdida,2025-06-09,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0137,2025-05-03,Pizzeria El Celler L'Hospitalet,C0512,Restauración,Barcelonès,Climatización de local,Referidos,Marta Camps,34600,Ganada,Cerrada ganada,2025-05-30,,,
+OP0138,2025-05-14,Calçats Sant Jordi,C0289,Retail,Barcelonès,Mantenimiento multitienda,LinkedIn Ads,Marta Camps,10800,Perdida,Cerrada perdida,2025-07-11,Precio,,El cliente ha recibido una oferta un 9 % más barata.
+OP0139,2025-05-31,Restaurant Cal Ton Badalona,C1163,Restauración,Barcelonès,Climatización de local,Referidos,Àlex Ferrer,24800,Ganada,Cerrada ganada,2025-07-04,,,
+OP0140,2025-05-07,Brasseria La Vinya,C0140,Restauración,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,8700,Perdida,Cerrada perdida,2025-06-23,Precio,,El cliente ha recibido una oferta un 7 % más barata.
+OP0141,2025-05-15,Pons Logística Cardedeu,C0719,Oficinas,Vallès Oriental,Instalación VRF,LinkedIn Ads,Ingrid Solé,92400,Perdida,Cerrada perdida,2025-07-29,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0142,2025-05-11,Col·legi Sol Ixent Mataró,,Educación,Maresme,Contrato de mantenimiento,Ferias,Laura Vidal,19800,Perdida,Cerrada perdida,2025-08-29,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0143,2025-05-01,Ferreteria Vallès Sitges,,Retail,Garraf,Mantenimiento multitienda,Referidos,Pau Riera,30500,Perdida,Cerrada perdida,2025-05-29,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0144,2025-05-25,Restaurant Can Jordi L'Hospitalet,C1164,Restauración,Barcelonès,Contrato de mantenimiento,Referidos,Àlex Ferrer,8700,Ganada,Cerrada ganada,2025-06-14,,,
+OP0145,2025-05-27,Botigues Central Barcelona,,Retail,Barcelonès,Mantenimiento multitienda,Google Ads,Marta Camps,16700,Perdida,Cerrada perdida,2025-07-28,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0146,2025-05-19,Mas Consultors Rubí,,Oficinas,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,20700,Perdida,Cerrada perdida,2025-06-28,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0147,2025-06-11,Ortega Tech,C0457,Oficinas,Garraf,Instalación VRF,SEO,Pau Riera,104700,Perdida,Cerrada perdida,2025-08-12,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0148,2025-06-23,Botigues Vallès L'Hospitalet,,Retail,Barcelonès,Mantenimiento multitienda,Referidos,Àlex Ferrer,34800,Perdida,Cerrada perdida,2025-08-11,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0149,2025-06-04,Institut Can Mas Barcelona,,Educación,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,14600,Perdida,Cerrada perdida,2025-07-19,Precio,,El cliente ha recibido una oferta un 9 % más barata.
+OP0150,2025-06-22,Centre Mèdic Gràcia Castelldefels,,Sanitario,Baix Llobregat,Renovación de equipos,LinkedIn Ads,Pau Riera,66100,Perdida,Cerrada perdida,2025-08-27,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0151,2025-06-20,Centre Òptic Terrassa Arenys,,Sanitario,Maresme,Renovación de equipos,Referidos,Laura Vidal,81900,Perdida,Cerrada perdida,2025-08-22,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0152,2025-06-12,Ferreteria Vallès Cardedeu,,Retail,Vallès Oriental,Renovación de equipos,Directorios,Ingrid Solé,38400,Perdida,Cerrada perdida,2025-08-02,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0153,2025-06-14,Esports Nova,C0162,Retail,Barcelonès,Mantenimiento multitienda,SEO,Àlex Ferrer,13600,Perdida,Cerrada perdida,2025-08-15,Precio,AirePro,Nos dicen que el precio está por encima de su presupuesto.
+OP0154,2025-06-03,Hotel Els Pins Sud L'Hospitalet,,Hotel,Barcelonès,Instalación VRF,SEO,Àlex Ferrer,156900,Perdida,Cerrada perdida,2025-08-07,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0155,2025-06-02,Esports Central Badalona,,Retail,Barcelonès,Renovación de equipos,Google Ads,Àlex Ferrer,67700,Perdida,Cerrada perdida,2025-07-06,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0156,2025-06-19,Mas Arquitectes Sabadell,C1165,Oficinas,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,76800,Ganada,Cerrada ganada,2025-07-20,,,
+OP0157,2025-06-21,Hotel Costa Mollet,,Hotel,Vallès Oriental,Instalación VRF,Ferias,Ingrid Solé,75300,Perdida,Cerrada perdida,2025-11-04,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0158,2025-06-14,Pizzeria La Terrassa Premià,C1166,Restauración,Maresme,Contrato de mantenimiento,Referidos,Laura Vidal,7800,Ganada,Cerrada ganada,2025-07-30,,,
+OP0159,2025-06-14,Ortega Consultors Rubí,,Oficinas,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,75600,Perdida,Cerrada perdida,2025-08-01,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0160,2025-06-12,Hotel Nord Arenys,C1167,Hotel,Maresme,Aerotermia,Ferias,Laura Vidal,82200,Ganada,Cerrada ganada,2025-09-29,,,
+OP0161,2025-06-30,Brasseria El Molí L'Hospitalet,,Restauración,Barcelonès,Climatización de local,Ferias,Marta Camps,13300,Perdida,Cerrada perdida,2025-08-08,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0162,2025-06-06,Esports Nord Barcelona,C0802,Retail,Barcelonès,Mantenimiento multitienda,Directorios,Àlex Ferrer,27300,Ganada,Cerrada ganada,2025-08-15,,,
+OP0163,2025-06-20,Moda Urbana L'Hospitalet,C1168,Retail,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,25100,Ganada,Cerrada ganada,2025-08-04,,,
+OP0164,2025-06-27,Vidal Group Sant Boi,,Oficinas,Baix Llobregat,Instalación VRF,SEO,Pau Riera,68900,Perdida,Cerrada perdida,2025-07-31,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0165,2025-06-14,Restaurant La Lluna Mataró,,Restauración,Maresme,Contrato de mantenimiento,Referidos,Laura Vidal,8000,Perdida,Cerrada perdida,2025-07-26,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0166,2025-06-15,Calçats Plus Badalona,,Retail,Barcelonès,Mantenimiento multitienda,LinkedIn Ads,Marta Camps,17500,Perdida,Cerrada perdida,2025-08-21,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0167,2025-06-18,Centre Òptic Gràcia Badalona,,Sanitario,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Marta Camps,14500,Perdida,Cerrada perdida,2025-07-27,Precio,Climatitzacions Nord,El cliente ha recibido una oferta un 6 % más barata.
+OP0168,2025-06-23,Òptica Vallès Sabadell,C1169,Retail,Vallès Occidental,Renovación de equipos,Referidos,Ingrid Solé,33800,Ganada,Cerrada ganada,2025-08-30,,,
+OP0169,2025-06-25,Col·legi Collserola Terrassa,,Educación,Vallès Occidental,Climatización de aulas,Ferias,Ingrid Solé,63200,Perdida,Cerrada perdida,2025-08-15,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0170,2025-06-09,Hotel Nord Castelldefels,,Hotel,Baix Llobregat,Contrato de mantenimiento,Directorios,Pau Riera,16700,Perdida,Cerrada perdida,2025-09-18,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0171,2025-06-04,Bosch Arquitectes Mollet,C1170,Oficinas,Vallès Oriental,Contrato de mantenimiento,SEO,Ingrid Solé,20800,Ganada,Cerrada ganada,2025-07-07,,,
+OP0172,2025-06-24,Fisioteràpia Rubí El Prat,C1171,Sanitario,Baix Llobregat,Contrato de mantenimiento,SEO,Pau Riera,16300,Ganada,Cerrada ganada,2025-09-10,,,
+OP0173,2025-07-09,Hotel Nord Sitges,,Hotel,Garraf,Instalación VRF,Directorios,Laura Vidal,126000,Perdida,Cerrada perdida,2025-09-17,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0174,2025-07-27,Hotel Plaça Cornellà,,Hotel,Baix Llobregat,Instalación VRF,Directorios,Pau Riera,153600,Perdida,Cerrada perdida,2025-11-29,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0175,2025-07-15,Riera Enginyeria Sitges,C0854,Oficinas,Garraf,Renovación de equipos,Referidos,Laura Vidal,75700,Ganada,Cerrada ganada,2025-10-06,,,
+OP0176,2025-07-24,Ortega Enginyeria,C0402,Oficinas,Barcelonès,Renovación de equipos,Ferias,Marta Camps,35200,Ganada,Cerrada ganada,2025-09-27,,,
+OP0177,2025-07-23,Escola Collserola L'Hospitalet,C1095,Educación,Barcelonès,Contrato de mantenimiento,Directorios,Àlex Ferrer,16600,Perdida,Cerrada perdida,2025-10-04,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0178,2025-07-30,Acadèmia Mediterrània Sant Cugat,,Educación,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,10300,Perdida,Cerrada perdida,2025-10-14,Precio,AirePro,El cliente ha recibido una oferta un 7 % más barata.
+OP0179,2025-07-07,Institut Sol Ixent Barcelona,,Educación,Barcelonès,Climatización de aulas,Directorios,Marta Camps,56000,Perdida,Cerrada perdida,2025-10-29,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0180,2025-07-02,Puig Consultors Badalona,,Oficinas,Barcelonès,Contrato de mantenimiento,Google Ads,Àlex Ferrer,13400,Perdida,Cerrada perdida,2025-09-04,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0181,2025-07-01,Perfumeria Sant Jordi Sant Boi,,Retail,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,68900,Perdida,Cerrada perdida,2025-08-08,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0182,2025-07-30,Forn Del Mar Sitges,C0872,Retail,Garraf,Mantenimiento multitienda,SEO,Pau Riera,13500,Ganada,Cerrada ganada,2025-09-09,,,
+OP0183,2025-07-09,Pizzeria El Racó Barcelona,C1172,Restauración,Barcelonès,Climatización de local,LinkedIn Ads,Àlex Ferrer,24900,Ganada,Cerrada ganada,2025-08-01,,,
+OP0184,2025-07-17,Casas Arquitectes Premià,C1173,Oficinas,Maresme,Instalación VRF,SEO,Laura Vidal,142100,Ganada,Cerrada ganada,2025-08-30,,,
+OP0185,2025-07-16,Grau Enginyeria,C0033,Oficinas,Garraf,Renovación de equipos,Ferias,Laura Vidal,80500,Perdida,Cerrada perdida,2025-09-26,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0186,2025-07-31,Vila Group Cornellà,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,25700,Perdida,Cerrada perdida,2025-10-08,Precio,TermoCat,Han pedido rebaja y no hemos podido igualar.
+OP0187,2025-07-02,Perfumeria Clàssica Castelldefels,,Retail,Baix Llobregat,Mantenimiento multitienda,Ferias,Pau Riera,28200,Perdida,Cerrada perdida,2025-08-06,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0188,2025-07-27,Esports Nord Mataró,,Retail,Maresme,Mantenimiento multitienda,Directorios,Laura Vidal,31100,Perdida,Cerrada perdida,2025-09-24,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0189,2025-07-20,Puig Consultors Cardedeu,,Oficinas,Vallès Oriental,Contrato de mantenimiento,Ferias,Ingrid Solé,13000,Perdida,Cerrada perdida,2025-09-20,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0190,2025-07-09,Bar Cal Ton Sant Boi,C1174,Restauración,Baix Llobregat,Climatización de local,LinkedIn Ads,Pau Riera,42500,Ganada,Cerrada ganada,2025-07-30,,,
+OP0191,2025-07-25,Ferreteria Família L'Hospitalet,C1175,Retail,Barcelonès,Renovación de equipos,Google Ads,Marta Camps,31500,Ganada,Cerrada ganada,2025-08-22,,,
+OP0192,2025-07-12,Llar d'Infants Can Mas Badalona,C0559,Educación,Barcelonès,Climatización de aulas,Referidos,Marta Camps,134900,Ganada,Cerrada ganada,2025-10-19,,,
+OP0193,2025-07-21,Serra Group Castelldefels,,Oficinas,Baix Llobregat,Instalación VRF,Google Ads,Pau Riera,133600,Perdida,Cerrada perdida,2025-10-16,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0194,2025-07-31,Clínica Dental Granollers Sant Cugat,,Sanitario,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,40300,Perdida,Cerrada perdida,2025-09-18,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0195,2025-07-25,Pizzeria Cal Ton Badalona,,Restauración,Barcelonès,Climatización de local,LinkedIn Ads,Àlex Ferrer,28800,Perdida,Cerrada perdida,2025-08-24,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0196,2025-07-21,Pons Advocats Mataró,C0991,Oficinas,Maresme,Renovación de equipos,Directorios,Laura Vidal,64800,Perdida,Cerrada perdida,2025-08-30,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0197,2025-07-08,Hotel Vela Mataró,,Hotel,Maresme,Aerotermia,Referidos,Laura Vidal,74100,Perdida,Cerrada perdida,2025-11-16,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0198,2025-07-30,Fisioteràpia Mataró El Prat,C1176,Sanitario,Baix Llobregat,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,11100,Ganada,Cerrada ganada,2025-09-03,,,
+OP0199,2025-08-30,Casas Advocats L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,28600,Perdida,Cerrada perdida,2025-10-06,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0200,2025-08-07,Hotel Vela L'Hospitalet,C0832,Hotel,Barcelonès,Aerotermia,Referidos,Àlex Ferrer,44700,Perdida,Cerrada perdida,2025-10-21,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0201,2025-08-22,Font Assessors Mataró,C1100,Oficinas,Maresme,Renovación de equipos,LinkedIn Ads,Laura Vidal,58900,Ganada,Cerrada ganada,2025-11-07,,,
+OP0202,2025-08-10,Llibreria Nova Sant Boi,C1046,Retail,Baix Llobregat,Mantenimiento multitienda,Directorios,Pau Riera,28400,Perdida,Cerrada perdida,2025-09-23,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0203,2025-08-24,Hotel Brisa Alta L'Hospitalet,C0605,Hotel,Barcelonès,Instalación VRF,SEO,Àlex Ferrer,85300,Perdida,Cerrada perdida,2025-12-08,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0204,2025-08-17,Col·legi Pau Casals Barcelona,C1177,Educación,Barcelonès,Climatización de aulas,SEO,Àlex Ferrer,52800,Ganada,Cerrada ganada,2025-12-09,,,
+OP0205,2025-08-12,Fisioteràpia Gràcia L'Hospitalet,,Sanitario,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,15700,Perdida,Cerrada perdida,2025-10-04,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0206,2025-08-20,Institut Pau Casals Sant Boi,C1178,Educación,Baix Llobregat,Contrato de mantenimiento,SEO,Pau Riera,19000,Ganada,Cerrada ganada,2025-11-14,,,
+OP0207,2025-08-22,Col·legi Ítaca Cornellà,,Educación,Baix Llobregat,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,14500,Perdida,Cerrada perdida,2025-11-16,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0208,2025-08-19,Mas Advocats Barcelona,C1179,Oficinas,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,77800,Ganada,Cerrada ganada,2025-11-07,,,
+OP0209,2025-08-31,Hotel Sant Pere Terrassa,C1180,Hotel,Vallès Occidental,Aerotermia,LinkedIn Ads,Ingrid Solé,118500,Ganada,Cerrada ganada,2025-12-30,,,
+OP0210,2025-08-06,Riera Tech Vilanova,,Oficinas,Garraf,Contrato de mantenimiento,Ferias,Laura Vidal,25200,Perdida,Cerrada perdida,2025-11-01,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0211,2025-08-24,Esports Central Barcelona,C0888,Retail,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,46700,Perdida,Cerrada perdida,2025-10-26,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0212,2025-08-12,Òptica Plus,C0315,Retail,Vallès Oriental,Mantenimiento multitienda,Directorios,Ingrid Solé,31100,Perdida,Cerrada perdida,2025-09-10,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0213,2025-08-29,Perfumeria Central Rubí,,Retail,Vallès Occidental,Mantenimiento multitienda,Directorios,Ingrid Solé,24200,Perdida,Cerrada perdida,2025-11-06,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0214,2025-08-29,Moda Vallès Barcelona,,Retail,Barcelonès,Mantenimiento multitienda,LinkedIn Ads,Àlex Ferrer,31100,Perdida,Cerrada perdida,2025-10-24,Precio,TermoCat,Han pedido rebaja y no hemos podido igualar.
+OP0215,2025-08-21,Col·legi Mediterrània Badalona,,Educación,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,21500,Perdida,Cerrada perdida,2025-12-10,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0216,2025-08-30,Clínica Dental Les Corts Mataró,,Sanitario,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,16400,Perdida,Cerrada perdida,2025-11-04,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0217,2025-08-16,Fisioteràpia Les Corts El Prat,,Sanitario,Baix Llobregat,Contrato de mantenimiento,SEO,Pau Riera,27400,Perdida,Cerrada perdida,2025-09-24,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0218,2025-08-09,Bosch Advocats Terrassa,,Oficinas,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,70800,Perdida,Cerrada perdida,2025-10-21,Precio,,El cliente ha recibido una oferta un 10 % más barata.
+OP0219,2025-08-29,Hotel Port Nou Badalona,,Hotel,Barcelonès,Instalación VRF,SEO,Àlex Ferrer,152900,Perdida,Cerrada perdida,2025-10-31,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0220,2025-08-23,Vila Tech Cardedeu,,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,48100,Perdida,Cerrada perdida,2025-10-28,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0221,2025-08-12,Ferrer Enginyeria,C0228,Oficinas,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,22000,Ganada,Cerrada ganada,2025-10-14,,,
+OP0222,2025-08-03,Hotel Portal Arenys,,Hotel,Maresme,Contrato de mantenimiento,Google Ads,Laura Vidal,35300,Perdida,Cerrada perdida,2025-12-23,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0223,2025-08-29,Hotel Montjuïc Badalona,C0668,Hotel,Barcelonès,Aerotermia,Referidos,Àlex Ferrer,63200,Ganada,Cerrada ganada,2025-11-03,,,
+OP0224,2025-08-03,Ferreteria Urbana Rubí,C1181,Retail,Vallès Occidental,Renovación de equipos,Referidos,Ingrid Solé,58800,Ganada,Cerrada ganada,2025-09-04,,,
+OP0225,2025-08-20,Escola Pau Casals Cornellà,C1182,Educación,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,18500,Ganada,Cerrada ganada,2025-11-07,,,
+OP0226,2025-08-30,Grau Consultors Cardedeu,,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,51900,Perdida,Cerrada perdida,2025-10-10,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0227,2025-09-04,Perfumeria Família El Prat,C1061,Retail,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,36500,Ganada,Cerrada ganada,2025-10-12,,,
+OP0228,2025-09-10,Hotel Costa Nou Badalona,C1183,Hotel,Barcelonès,Aerotermia,SEO,Àlex Ferrer,74700,Ganada,Cerrada ganada,2026-01-11,,,
+OP0229,2025-09-05,Col·legi Els Til·lers Cardedeu,C1043,Educación,Vallès Oriental,Contrato de mantenimiento,SEO,Ingrid Solé,18200,Ganada,Cerrada ganada,2025-12-14,,,
+OP0230,2025-09-06,Llorens Arquitectes,C0273,Oficinas,Barcelonès,Instalación VRF,Directorios,Marta Camps,63000,Ganada,Cerrada ganada,2025-11-04,,,
+OP0231,2025-09-18,Hotel Mirador Sud L'Hospitalet,,Hotel,Barcelonès,Contrato de mantenimiento,Google Ads,Àlex Ferrer,16100,Perdida,Cerrada perdida,2025-12-03,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0232,2025-09-19,Pizzeria El Port Mollet,,Restauración,Vallès Oriental,Climatización de local,Google Ads,Ingrid Solé,20400,Perdida,Cerrada perdida,2025-10-23,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0233,2025-09-10,Navarro Arquitectes Sant Boi,C1184,Oficinas,Baix Llobregat,Contrato de mantenimiento,Ferias,Pau Riera,29500,Ganada,Cerrada ganada,2025-11-17,,,
+OP0234,2025-09-29,Bosch Enginyeria L'Hospitalet,C1025,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,26800,Ganada,Cerrada ganada,2025-11-07,,,
+OP0235,2025-09-05,Brasseria Cal Ton Badalona,C1185,Restauración,Barcelonès,Contrato de mantenimiento,Google Ads,Àlex Ferrer,13200,Ganada,Cerrada ganada,2025-10-25,,,
+OP0236,2025-09-20,Roca Partners El Prat,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Directorios,Pau Riera,17000,Perdida,Cerrada perdida,2025-10-27,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0237,2025-09-25,Centre Mèdic Sabadell Castelldefels,,Sanitario,Baix Llobregat,Renovación de equipos,LinkedIn Ads,Pau Riera,74800,Perdida,Cerrada perdida,2025-12-13,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0238,2025-09-30,Clínica Dental Rubí Cornellà,,Sanitario,Baix Llobregat,Renovación de equipos,LinkedIn Ads,Pau Riera,35800,Perdida,Cerrada perdida,2025-11-24,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0239,2025-09-09,Llar d'Infants Turó Blau Vilanova,C1186,Educación,Garraf,Contrato de mantenimiento,Google Ads,Pau Riera,13600,Ganada,Cerrada ganada,2025-12-13,,,
+OP0240,2025-09-24,Col·legi Sol Ixent Granollers,,Educación,Vallès Oriental,Climatización de aulas,LinkedIn Ads,Ingrid Solé,79800,Perdida,Cerrada perdida,2025-12-25,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0241,2025-09-21,Laboratori Gràcia Barcelona,C1019,Sanitario,Barcelonès,Contrato de mantenimiento,Directorios,Àlex Ferrer,11700,Perdida,Cerrada perdida,2025-10-30,Precio,TermoCat,El cliente ha recibido una oferta un 11 % más barata.
+OP0242,2025-09-28,Perfumeria Sant Jordi Mollet,,Retail,Vallès Oriental,Renovación de equipos,Google Ads,Ingrid Solé,20200,Perdida,Cerrada perdida,2025-12-04,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0243,2025-09-09,Font Gestió Badalona,,Oficinas,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,24100,Perdida,Cerrada perdida,2025-10-20,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0244,2025-09-13,Brasseria La Terrassa Barcelona,C1187,Restauración,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,10600,Ganada,Cerrada ganada,2025-10-06,,,
+OP0245,2025-09-27,Hotel Llevant Cardedeu,,Hotel,Vallès Oriental,Contrato de mantenimiento,Referidos,Ingrid Solé,21000,Perdida,Cerrada perdida,2025-11-26,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0246,2025-09-30,Restaurant Cal Ton,C0036,Restauración,Vallès Occidental,Climatización de local,Google Ads,Ingrid Solé,27300,Ganada,Cerrada ganada,2025-11-19,,,
+OP0247,2025-09-21,Pizzeria Can Pere Cardedeu,,Restauración,Vallès Oriental,Climatización de local,Referidos,Ingrid Solé,34000,Perdida,Cerrada perdida,2025-11-04,Precio,TermoCat,El cliente ha recibido una oferta un 11 % más barata.
+OP0248,2025-09-01,Ferrer Logística Granollers,C1188,Oficinas,Vallès Oriental,Contrato de mantenimiento,Referidos,Ingrid Solé,9000,Ganada,Cerrada ganada,2025-10-24,,,
+OP0249,2025-09-06,Casas Arquitectes,C0389,Oficinas,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,64300,Ganada,Cerrada ganada,2025-12-01,,,
+OP0250,2025-09-03,Esports Clàssica Barcelona,C1189,Retail,Barcelonès,Mantenimiento multitienda,SEO,Àlex Ferrer,13200,Ganada,Cerrada ganada,2025-10-08,,,
+OP0251,2025-09-27,Restaurant La Plaça Rubí,,Restauración,Vallès Occidental,Climatización de local,LinkedIn Ads,Ingrid Solé,14600,Perdida,Cerrada perdida,2025-10-13,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0252,2025-09-04,Calçats Urbana Badalona,C1190,Retail,Barcelonès,Mantenimiento multitienda,Directorios,Marta Camps,27300,Ganada,Cerrada ganada,2025-10-28,,,
+OP0253,2025-10-01,Mobles Nord Barcelona,C1091,Retail,Barcelonès,Mantenimiento multitienda,SEO,Marta Camps,16700,Perdida,Cerrada perdida,2025-11-11,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0254,2025-10-06,Vidal Enginyeria Barcelona,,Oficinas,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,58600,Perdida,Cerrada perdida,2025-11-05,Precio,TermoCat,Han pedido rebaja y no hemos podido igualar.
+OP0255,2025-10-27,Centre Òptic Sant Cugat,C0401,Sanitario,Vallès Oriental,Contrato de mantenimiento,Ferias,Ingrid Solé,20700,Ganada,Cerrada ganada,2025-11-27,,,
+OP0256,2025-10-20,Hotel Portal Sitges,,Hotel,Garraf,Aerotermia,Google Ads,Pau Riera,97000,Perdida,Cerrada perdida,2025-12-19,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0257,2025-10-07,Òptica Nova Cornellà,,Retail,Baix Llobregat,Mantenimiento multitienda,LinkedIn Ads,Pau Riera,25900,Perdida,Cerrada perdida,2025-11-13,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0258,2025-10-14,Botigues Nova Cardedeu,C1191,Retail,Vallès Oriental,Mantenimiento multitienda,LinkedIn Ads,Ingrid Solé,27000,Ganada,Cerrada ganada,2025-12-15,,,
+OP0259,2025-10-02,Clínica Dental Mataró Badalona,C0843,Sanitario,Barcelonès,Renovación de equipos,Referidos,Marta Camps,78200,Ganada,Cerrada ganada,2025-12-21,,,
+OP0260,2025-10-06,Vidal Tech Sitges,C1192,Oficinas,Garraf,Instalación VRF,Google Ads,Pau Riera,67200,Ganada,Cerrada ganada,2025-12-06,,,
+OP0261,2025-10-22,Serra Arquitectes L'Hospitalet,C0891,Oficinas,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,29200,Perdida,Cerrada perdida,2025-11-24,Precio,TermoCat,El cliente ha recibido una oferta un 11 % más barata.
+OP0262,2025-10-09,Calçats Clàssica Badalona,C1193,Retail,Barcelonès,Renovación de equipos,Ferias,Marta Camps,30900,Ganada,Cerrada ganada,2025-11-17,,,
+OP0263,2025-10-04,Coll Partners Badalona,,Oficinas,Barcelonès,Instalación VRF,Google Ads,Marta Camps,59200,Perdida,Cerrada perdida,2025-11-15,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0264,2025-10-12,Hotel Jardí Mollet,,Hotel,Vallès Oriental,Aerotermia,SEO,Ingrid Solé,73600,Perdida,Cerrada perdida,2026-02-10,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0265,2025-10-08,Grau Arquitectes Sant Cugat,,Oficinas,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,59700,Perdida,Cerrada perdida,2025-11-07,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0266,2025-10-05,Hotel Els Pins Est Badalona,,Hotel,Barcelonès,Aerotermia,SEO,Marta Camps,113900,Perdida,Cerrada perdida,2026-01-25,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0267,2025-10-22,Soler Assessors Mataró,,Oficinas,Maresme,Instalación VRF,Ferias,Laura Vidal,59700,Perdida,Cerrada perdida,2025-11-21,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0268,2025-10-30,Mobles Plus Badalona,C1194,Retail,Barcelonès,Mantenimiento multitienda,Referidos,Àlex Ferrer,32200,Ganada,Cerrada ganada,2025-12-05,,,
+OP0269,2025-10-27,Bar El Port Terrassa,C1195,Restauración,Vallès Occidental,Climatización de local,Ferias,Ingrid Solé,16300,Ganada,Cerrada ganada,2025-11-13,,,
+OP0270,2025-10-23,Grau Tech Badalona,,Oficinas,Barcelonès,Renovación de equipos,SEO,Marta Camps,87400,Perdida,Cerrada perdida,2025-12-11,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0271,2025-10-21,Pizzeria Can Pere Mataró,C1196,Restauración,Maresme,Climatización de local,Google Ads,Laura Vidal,38700,Ganada,Cerrada ganada,2025-12-04,,,
+OP0272,2025-10-19,Hotel Montjuïc Badalona,C0668,Hotel,Barcelonès,Instalación VRF,Directorios,Marta Camps,124400,Perdida,Cerrada perdida,2026-01-02,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0273,2025-10-14,Hotel Llevant Sant Cugat,,Hotel,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,73300,Perdida,Cerrada perdida,2026-01-23,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0274,2025-10-31,Llibreria Família Terrassa,,Retail,Vallès Occidental,Mantenimiento multitienda,SEO,Ingrid Solé,18600,Perdida,Cerrada perdida,2025-12-12,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0275,2025-10-06,Esports Sant Jordi Sant Cugat,C1197,Retail,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,61800,Ganada,Cerrada ganada,2025-11-23,,,
+OP0276,2025-10-05,Hotel Mirador Arenys,,Hotel,Maresme,Instalación VRF,Directorios,Laura Vidal,124200,Perdida,Cerrada perdida,2026-01-06,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0277,2025-10-24,Escola Els Til·lers Vilanova,C0701,Educación,Garraf,Climatización de aulas,LinkedIn Ads,Laura Vidal,93200,Ganada,Cerrada ganada,2026-02-20,,,
+OP0278,2025-10-06,Botigues Plus Sant Cugat,,Retail,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,42500,Perdida,Cerrada perdida,2025-11-23,Precio,AirePro,El cliente ha recibido una oferta un 7 % más barata.
+OP0279,2025-10-31,Pizzeria El Celler Sitges,,Restauración,Garraf,Contrato de mantenimiento,Directorios,Pau Riera,12600,Perdida,Cerrada perdida,2025-12-09,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0280,2025-10-16,Hotel Rambla Premià,C0363,Hotel,Maresme,Aerotermia,Ferias,Laura Vidal,117700,Perdida,Cerrada perdida,2026-02-12,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0281,2025-11-07,Ferrer Consultors Badalona,,Oficinas,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,8600,Perdida,Cerrada perdida,2025-12-14,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0282,2025-11-17,Cafeteria El Molí Cornellà,,Restauración,Baix Llobregat,Climatización de local,Referidos,Pau Riera,30900,Perdida,Cerrada perdida,2025-12-24,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0283,2025-11-07,Hotel Portal Mollet,C0649,Hotel,Vallès Oriental,Aerotermia,Google Ads,Ingrid Solé,56600,Perdida,Cerrada perdida,2026-02-02,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0284,2025-11-14,Fisioteràpia Diagonal L'Hospitalet,,Sanitario,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,62500,Perdida,Cerrada perdida,2026-01-06,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0285,2025-11-17,Serra Enginyeria Barcelona,C1198,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Marta Camps,29300,Ganada,Cerrada ganada,2025-12-28,,,
+OP0286,2025-11-21,Brasseria El Molí Cardedeu,C0707,Restauración,Vallès Oriental,Climatización de local,Referidos,Ingrid Solé,43700,Ganada,Cerrada ganada,2025-12-14,,,
+OP0287,2025-11-28,Hotel Les Arenes,C0060,Hotel,Vallès Occidental,Aerotermia,Referidos,Ingrid Solé,79300,Ganada,Cerrada ganada,2026-03-17,,,
+OP0288,2025-11-09,Forn Nord L'Hospitalet,,Retail,Barcelonès,Mantenimiento multitienda,LinkedIn Ads,Àlex Ferrer,11200,Perdida,Cerrada perdida,2025-12-26,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0289,2025-11-30,Marín Consultors Rubí,,Oficinas,Vallès Occidental,Renovación de equipos,Referidos,Ingrid Solé,51600,Perdida,Cerrada perdida,2026-01-26,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0290,2025-11-05,Hotel Els Pins Castelldefels,C1199,Hotel,Baix Llobregat,Instalación VRF,Referidos,Pau Riera,145500,Ganada,Cerrada ganada,2026-01-09,,,
+OP0291,2025-11-28,Hotel Port,C0034,Hotel,Barcelonès,Instalación VRF,LinkedIn Ads,Àlex Ferrer,174400,Ganada,Cerrada ganada,2026-03-26,,,
+OP0292,2025-11-28,Laboratori Sant Cugat Sitges,C1200,Sanitario,Garraf,Contrato de mantenimiento,Ferias,Pau Riera,22000,Ganada,Cerrada ganada,2026-02-07,,,
+OP0293,2025-11-06,Hotel Portal Park Barcelona,,Hotel,Barcelonès,Aerotermia,Directorios,Marta Camps,43100,Perdida,Cerrada perdida,2026-03-22,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0294,2025-11-14,Vila Tech Sitges,C1201,Oficinas,Garraf,Renovación de equipos,Directorios,Laura Vidal,40600,Ganada,Cerrada ganada,2026-01-09,,,
+OP0295,2025-11-22,Casas Group Sant Boi,C1202,Oficinas,Baix Llobregat,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,18400,Ganada,Cerrada ganada,2026-02-17,,,
+OP0296,2025-11-29,Ferrer Partners L'Hospitalet,,Oficinas,Barcelonès,Instalación VRF,Ferias,Marta Camps,151800,Perdida,Cerrada perdida,2026-01-23,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0297,2025-11-13,Serra Arquitectes Badalona,,Oficinas,Barcelonès,Instalación VRF,Referidos,Àlex Ferrer,86800,Perdida,Cerrada perdida,2026-01-19,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0298,2025-11-24,Òptica Central Rubí,C1203,Retail,Vallès Occidental,Renovación de equipos,LinkedIn Ads,Ingrid Solé,55300,Ganada,Cerrada ganada,2026-01-27,,,
+OP0299,2025-11-20,Coll Logística L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,9100,Perdida,Cerrada perdida,2026-01-17,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0300,2025-11-06,Llorens Gestió L'Hospitalet,,Oficinas,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,37500,Perdida,Cerrada perdida,2026-01-30,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0301,2025-11-09,Centre Òptic Sabadell Mollet,,Sanitario,Vallès Oriental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,15600,Perdida,Cerrada perdida,2026-01-25,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0302,2025-11-30,Hotel Jardí Cornellà,C1204,Hotel,Baix Llobregat,Instalación VRF,SEO,Pau Riera,99100,Ganada,Cerrada ganada,2026-04-21,,,
+OP0303,2025-12-01,Col·legi Mediterrània Mollet,C1205,Educación,Vallès Oriental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,8800,Ganada,Cerrada ganada,2026-02-09,,,
+OP0304,2025-12-05,Ferrer Assessors Terrassa,,Oficinas,Vallès Occidental,Renovación de equipos,Google Ads,Ingrid Solé,52400,Perdida,Cerrada perdida,2026-01-23,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0305,2025-12-21,Ortega Advocats L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,27400,Perdida,Cerrada perdida,2026-02-07,Precio,,El cliente ha recibido una oferta un 5 % más barata.
+OP0306,2025-12-16,Restaurant El Molí Vilanova,C0595,Restauración,Garraf,Climatización de local,Referidos,Laura Vidal,33800,Ganada,Cerrada ganada,2026-01-17,,,
+OP0307,2025-12-28,Laboratori Badalona Terrassa,,Sanitario,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,17100,Perdida,Cerrada perdida,2026-02-18,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0308,2025-12-29,Hotel Els Pins Baix Badalona,,Hotel,Barcelonès,Aerotermia,SEO,Àlex Ferrer,67200,Perdida,Cerrada perdida,2026-04-09,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0309,2025-12-30,Riera Gestió Cardedeu,C1206,Oficinas,Vallès Oriental,Instalación VRF,Google Ads,Ingrid Solé,114400,Ganada,Cerrada ganada,2026-01-30,,,
+OP0310,2025-12-13,Botigues Nord Cornellà,C0760,Retail,Baix Llobregat,Mantenimiento multitienda,Ferias,Pau Riera,12600,Perdida,Cerrada perdida,2026-01-29,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0311,2025-12-12,Ferreteria Nord Mataró,C1207,Retail,Maresme,Renovación de equipos,Referidos,Laura Vidal,37200,Ganada,Cerrada ganada,2026-01-30,,,
+OP0312,2025-12-04,Acadèmia Turó Blau Barcelona,C1208,Educación,Barcelonès,Climatización de aulas,SEO,Marta Camps,116500,Ganada,Cerrada ganada,2026-03-18,,,
+OP0313,2025-12-25,Cafeteria La Vinya Mollet,,Restauración,Vallès Oriental,Climatización de local,Google Ads,Ingrid Solé,36400,Perdida,Cerrada perdida,2026-02-04,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0314,2025-12-31,Hotel Brisa Alta Mataró,C0456,Hotel,Maresme,Aerotermia,SEO,Laura Vidal,101500,Perdida,Cerrada perdida,2026-04-30,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0315,2025-12-20,Clínica Dental Sant Cugat Sabadell,,Sanitario,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,27400,Perdida,Cerrada perdida,2026-02-01,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0316,2025-12-20,Navarro Partners Cardedeu,,Oficinas,Vallès Oriental,Renovación de equipos,Ferias,Ingrid Solé,78300,Perdida,Cerrada perdida,2026-01-28,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0317,2025-12-17,Restaurant Cal Ton,C0036,Restauración,Vallès Occidental,Climatización de local,Referidos,Ingrid Solé,20400,Ganada,Cerrada ganada,2026-02-03,,,
+OP0318,2025-12-23,Restaurant Can Jordi Rubí,,Restauración,Vallès Occidental,Contrato de mantenimiento,Directorios,Ingrid Solé,6800,Perdida,Cerrada perdida,2026-01-07,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0319,2025-12-14,Hotel Sant Pere Vilanova,,Hotel,Garraf,Instalación VRF,LinkedIn Ads,Laura Vidal,118500,Perdida,Cerrada perdida,2026-04-26,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0320,2025-12-27,Clínica Dental Sitges Barcelona,,Sanitario,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,26800,Perdida,Cerrada perdida,2026-03-05,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0321,2025-12-07,Hotel Mirador Sant Boi,C1209,Hotel,Baix Llobregat,Aerotermia,Ferias,Pau Riera,67400,Ganada,Cerrada ganada,2026-05-03,,,
+OP0322,2025-12-11,Serra Group Terrassa,C0960,Oficinas,Vallès Occidental,Instalación VRF,Ferias,Ingrid Solé,119200,Ganada,Cerrada ganada,2026-03-11,,,
+OP0323,2025-12-13,Mas Group Sant Boi,C0759,Oficinas,Baix Llobregat,Contrato de mantenimiento,Directorios,Pau Riera,25000,Ganada,Cerrada ganada,2026-02-01,,,
+OP0324,2025-12-16,Pons Logística Barcelona,C0666,Oficinas,Barcelonès,Renovación de equipos,LinkedIn Ads,Marta Camps,55800,Ganada,Cerrada ganada,2026-02-10,,,
+OP0325,2025-12-12,Mas Enginyeria Vilanova,,Oficinas,Garraf,Contrato de mantenimiento,LinkedIn Ads,Laura Vidal,16800,Perdida,Cerrada perdida,2026-03-10,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0326,2025-12-07,Cafeteria El Celler Cornellà,C1210,Restauración,Baix Llobregat,Climatización de local,Google Ads,Pau Riera,38400,Ganada,Cerrada ganada,2025-12-22,,,
+OP0327,2025-12-02,Hotel Jardí Cardedeu,C0651,Hotel,Vallès Oriental,Aerotermia,LinkedIn Ads,Ingrid Solé,81000,Perdida,Cerrada perdida,2026-03-05,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0328,2025-12-15,Font Group El Prat,C1211,Oficinas,Baix Llobregat,Instalación VRF,Referidos,Pau Riera,98300,Ganada,Cerrada ganada,2026-01-30,,,
+OP0329,2026-01-03,Cafeteria Can Pere,C0224,Restauración,Vallès Occidental,Climatización de local,SEO,Ingrid Solé,37100,Ganada,Cerrada ganada,2026-02-05,,,
+OP0330,2026-01-11,Hotel Costa,C0130,Hotel,Baix Llobregat,Aerotermia,SEO,Pau Riera,102400,Perdida,Cerrada perdida,2026-04-29,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0331,2026-01-18,Cafeteria El Celler Mataró,,Restauración,Maresme,Climatización de local,Google Ads,Laura Vidal,22700,Perdida,Cerrada perdida,2026-02-19,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0332,2026-01-24,Fisioteràpia Rubí Barcelona,,Sanitario,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Marta Camps,16800,Perdida,Cerrada perdida,2026-03-20,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0333,2026-01-12,Ortega Group Cornellà,,Oficinas,Baix Llobregat,Contrato de mantenimiento,Directorios,Pau Riera,21100,Perdida,Cerrada perdida,2026-04-04,Precio,,El cliente ha recibido una oferta un 6 % más barata.
+OP0334,2026-01-04,Serra Arquitectes Mataró,C1212,Oficinas,Maresme,Renovación de equipos,Referidos,Laura Vidal,31200,Ganada,Cerrada ganada,2026-03-20,,,
+OP0335,2026-01-15,Òptica Central Vilanova,,Retail,Garraf,Mantenimiento multitienda,SEO,Laura Vidal,27300,Perdida,Cerrada perdida,2026-03-17,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0336,2026-01-10,Soler Consultors Cornellà,C0889,Oficinas,Baix Llobregat,Instalación VRF,Google Ads,Pau Riera,123300,Perdida,Cerrada perdida,2026-02-16,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0337,2026-01-02,Llar d'Infants Turó Blau Sant Cugat,,Educación,Vallès Occidental,Climatización de aulas,Ferias,Ingrid Solé,44600,Perdida,Cerrada perdida,2026-05-02,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0338,2026-01-16,Llar d'Infants Pau Casals Premià,,Educación,Maresme,Contrato de mantenimiento,Ferias,Laura Vidal,16000,Perdida,Cerrada perdida,2026-04-03,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0339,2026-01-23,Bar Els Amics Granollers,,Restauración,Vallès Oriental,Climatización de local,Directorios,Ingrid Solé,23700,Perdida,Cerrada perdida,2026-02-25,Precio,TermoCat,El cliente ha recibido una oferta un 12 % más barata.
+OP0340,2026-01-18,Llorens Advocats Sant Cugat,,Oficinas,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,19900,Perdida,Cerrada perdida,2026-04-14,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0341,2026-01-08,Coll Partners Cardedeu,,Oficinas,Vallès Oriental,Renovación de equipos,Directorios,Ingrid Solé,63600,Perdida,Cerrada perdida,2026-03-25,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0342,2026-01-25,Llibreria Nord Terrassa,,Retail,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,31300,Perdida,Cerrada perdida,2026-02-19,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0343,2026-01-29,Hotel Rambla Cardedeu,C1213,Hotel,Vallès Oriental,Instalación VRF,Referidos,Ingrid Solé,143500,Ganada,Cerrada ganada,2026-05-10,,,
+OP0344,2026-01-28,Col·legi La Salle Nord Sant Boi,,Educación,Baix Llobregat,Climatización de aulas,Directorios,Pau Riera,103500,Perdida,Cerrada perdida,2026-04-08,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0345,2026-01-17,Hotel Cala Baix Barcelona,C1214,Hotel,Barcelonès,Aerotermia,SEO,Marta Camps,46400,Ganada,Cerrada ganada,2026-06-12,,,
+OP0346,2026-01-13,Bosch Partners Castelldefels,C1215,Oficinas,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,87100,Ganada,Cerrada ganada,2026-04-03,,,
+OP0347,2026-01-10,Botigues Nord El Prat,C1216,Retail,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,56200,Ganada,Cerrada ganada,2026-03-01,,,
+OP0348,2026-01-21,Sala Arquitectes,C0400,Oficinas,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,128500,Ganada,Cerrada ganada,2026-03-19,,,
+OP0349,2026-01-14,Llibreria Plus Vilanova,,Retail,Garraf,Renovación de equipos,Referidos,Pau Riera,25700,Perdida,Cerrada perdida,2026-02-17,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0350,2026-01-04,Hotel Cala Sabadell,,Hotel,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,80500,Perdida,Cerrada perdida,2026-04-20,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0351,2026-01-21,Llar d'Infants La Salle Nord Sabadell,,Educación,Vallès Occidental,Climatización de aulas,Referidos,Ingrid Solé,85100,Perdida,Cerrada perdida,2026-04-17,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0352,2026-01-14,Hotel Cala Sitges,C0148,Hotel,Garraf,Aerotermia,Referidos,Pau Riera,64100,Ganada,Cerrada ganada,2026-04-17,,,
+OP0353,2026-01-13,Llar d'Infants Sol Ixent Rubí,C0664,Educación,Vallès Occidental,Contrato de mantenimiento,Ferias,Ingrid Solé,15000,Perdida,Cerrada perdida,2026-04-18,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0354,2026-01-28,Col·legi Sol Ixent Terrassa,C0855,Educación,Vallès Occidental,Climatización de aulas,Referidos,Ingrid Solé,106300,Ganada,Cerrada ganada,2026-03-14,,,
+OP0355,2026-01-30,Institut Collserola Badalona,C1217,Educación,Barcelonès,Climatización de aulas,Referidos,Àlex Ferrer,102500,Ganada,Cerrada ganada,2026-03-30,,,
+OP0356,2026-01-01,Forn Sant Jordi Castelldefels,C1218,Retail,Baix Llobregat,Mantenimiento multitienda,Referidos,Pau Riera,16300,Ganada,Cerrada ganada,2026-02-16,,,
+OP0357,2026-02-17,Escola Sol Ixent Rubí,C1219,Educación,Vallès Occidental,Climatización de aulas,Ferias,Ingrid Solé,50200,Ganada,Cerrada ganada,2026-06-04,,,
+OP0358,2026-02-09,Bar Els Amics L'Hospitalet,,Restauración,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,11200,Perdida,Cerrada perdida,2026-03-02,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0359,2026-02-15,Serra Assessors Cardedeu,,Oficinas,Vallès Oriental,Renovación de equipos,Ferias,Ingrid Solé,67800,Perdida,Cerrada perdida,2026-04-17,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0360,2026-02-15,Ferreteria Nova Granollers,,Retail,Vallès Oriental,Renovación de equipos,SEO,Ingrid Solé,51600,Perdida,Cerrada perdida,2026-03-22,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0361,2026-02-06,Sala Logística,C0545,Oficinas,Barcelonès,Instalación VRF,Ferias,Marta Camps,62000,Perdida,Cerrada perdida,2026-04-19,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0362,2026-02-04,Hotel Vela Plaça Badalona,C1220,Hotel,Barcelonès,Instalación VRF,SEO,Àlex Ferrer,176800,Ganada,Cerrada ganada,2026-04-26,,,
+OP0363,2026-02-18,Clínica Granollers Sitges,,Sanitario,Garraf,Renovación de equipos,Referidos,Pau Riera,72900,Perdida,Cerrada perdida,2026-03-25,Precio,Climatitzacions Nord,El cliente ha recibido una oferta un 11 % más barata.
+OP0364,2026-02-21,Centre Òptic Terrassa Castelldefels,,Sanitario,Baix Llobregat,Renovación de equipos,Referidos,Pau Riera,35100,Perdida,Cerrada perdida,2026-05-02,Precio,AirePro,Nos dicen que el precio está por encima de su presupuesto.
+OP0365,2026-02-25,Escola Turó Blau Mollet,C0723,Educación,Vallès Oriental,Contrato de mantenimiento,Referidos,Ingrid Solé,19000,Ganada,Cerrada ganada,2026-06-03,,,
+OP0366,2026-02-23,Òptica Central L'Hospitalet,C1221,Retail,Barcelonès,Mantenimiento multitienda,SEO,Àlex Ferrer,12900,Ganada,Cerrada ganada,2026-04-15,,,
+OP0367,2026-02-16,Fisioteràpia Badalona Sitges,,Sanitario,Garraf,Contrato de mantenimiento,Directorios,Pau Riera,23300,Perdida,Cerrada perdida,2026-05-05,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0368,2026-02-12,Grau Arquitectes Barcelona,,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,26900,Perdida,Cerrada perdida,2026-04-13,Precio,TermoCat,Nos dicen que el precio está por encima de su presupuesto.
+OP0369,2026-02-10,Clínica Les Corts Mataró,,Sanitario,Maresme,Contrato de mantenimiento,LinkedIn Ads,Laura Vidal,18400,Perdida,Cerrada perdida,2026-03-23,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0370,2026-02-11,Cafeteria La Terrassa Sabadell,,Restauración,Vallès Occidental,Contrato de mantenimiento,Ferias,Ingrid Solé,12900,Perdida,Cerrada perdida,2026-03-16,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0371,2026-02-02,Forn Vallès Terrassa,C1222,Retail,Vallès Occidental,Mantenimiento multitienda,Referidos,Ingrid Solé,24800,Ganada,Cerrada ganada,2026-03-27,,,
+OP0372,2026-02-01,Sala Arquitectes Sabadell,,Oficinas,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,76100,Perdida,Cerrada perdida,2026-04-18,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0373,2026-02-28,Hotel Rambla Arenys,,Hotel,Maresme,Instalación VRF,LinkedIn Ads,Laura Vidal,90700,Perdida,Cerrada perdida,2026-07-12,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0374,2026-02-17,Institut Turó Blau Badalona,C1223,Educación,Barcelonès,Climatización de aulas,Ferias,Marta Camps,94400,Ganada,Cerrada ganada,2026-04-07,,,
+OP0375,2026-02-02,Botigues Central Premià,C1224,Retail,Maresme,Mantenimiento multitienda,Google Ads,Laura Vidal,32800,Ganada,Cerrada ganada,2026-02-27,,,
+OP0376,2026-02-17,Vidal Assessors L'Hospitalet,,Oficinas,Barcelonès,Instalación VRF,Google Ads,Àlex Ferrer,124900,Perdida,Cerrada perdida,2026-04-06,Precio,TermoCat,Han pedido rebaja y no hemos podido igualar.
+OP0377,2026-02-27,Pizzeria El Port Sitges,C0737,Restauración,Garraf,Contrato de mantenimiento,Referidos,Laura Vidal,11400,Perdida,Cerrada perdida,2026-04-01,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0378,2026-02-02,Puig Partners Premià,,Oficinas,Maresme,Contrato de mantenimiento,LinkedIn Ads,Laura Vidal,16500,Perdida,Cerrada perdida,2026-03-29,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0379,2026-02-25,Hotel Sant Pere Rubí,,Hotel,Vallès Occidental,Instalación VRF,SEO,Ingrid Solé,80800,Perdida,Cerrada perdida,2026-07-06,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar. Mencionan a ClimaNova.
+OP0380,2026-02-22,Escola Pau Casals Sabadell,C1225,Educación,Vallès Occidental,Climatización de aulas,Google Ads,Ingrid Solé,120000,Ganada,Cerrada ganada,2026-06-13,,,
+OP0381,2026-02-20,Serra Consultors Barcelona,C1226,Oficinas,Barcelonès,Renovación de equipos,LinkedIn Ads,Àlex Ferrer,50300,Ganada,Cerrada ganada,2026-04-19,,,
+OP0382,2026-02-18,Roca Assessors Cornellà,,Oficinas,Baix Llobregat,Instalación VRF,Directorios,Pau Riera,83100,Perdida,Cerrada perdida,2026-03-25,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0383,2026-03-08,Soler Consultors L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,Google Ads,Àlex Ferrer,23300,Perdida,Cerrada perdida,2026-05-03,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0384,2026-03-18,Institut Collserola Sitges,,Educación,Garraf,Climatización de aulas,SEO,Pau Riera,85800,Perdida,Cerrada perdida,2026-05-31,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0385,2026-03-02,Mas Group Granollers,,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,153300,Perdida,Cerrada perdida,2026-04-19,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0386,2026-03-27,Llar d'Infants Can Mas,C0377,Educación,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,8900,Ganada,Cerrada ganada,2026-05-28,,,
+OP0387,2026-03-17,Cafeteria La Vinya Rubí,,Restauración,Vallès Occidental,Climatización de local,Ferias,Ingrid Solé,30400,Perdida,Cerrada perdida,2026-04-11,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0388,2026-03-14,Cafeteria La Plaça Badalona,,Restauración,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,6300,Perdida,Cerrada perdida,2026-04-13,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0389,2026-03-30,Col·legi Mediterrània L'Hospitalet,,Educación,Barcelonès,Contrato de mantenimiento,Google Ads,Marta Camps,18300,Perdida,Cerrada perdida,2026-06-29,Precio,AirePro,Han pedido rebaja y no hemos podido igualar.
+OP0390,2026-03-06,Cafeteria La Terrassa Vilanova,C1227,Restauración,Garraf,Contrato de mantenimiento,Referidos,Laura Vidal,13000,Ganada,Cerrada ganada,2026-04-07,,,
+OP0391,2026-03-10,Mas Enginyeria Mollet,,Oficinas,Vallès Oriental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,27000,Perdida,Cerrada perdida,2026-04-15,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0392,2026-03-05,Ferreteria Sant Jordi Arenys,,Retail,Maresme,Mantenimiento multitienda,Directorios,Laura Vidal,14200,Perdida,Cerrada perdida,2026-04-06,Precio,TermoCat,El cliente ha recibido una oferta un 11 % más barata.
+OP0393,2026-03-05,Clínica Les Corts Arenys,,Sanitario,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,21800,Perdida,Cerrada perdida,2026-05-19,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0394,2026-03-31,Brasseria La Plaça Sitges,,Restauración,Garraf,Climatización de local,Ferias,Laura Vidal,21600,Perdida,Cerrada perdida,2026-05-13,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0395,2026-03-06,Mobles Central L'Hospitalet,,Retail,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,59200,Perdida,Cerrada perdida,2026-04-22,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0396,2026-03-14,Vila Gestió Castelldefels,C1228,Oficinas,Baix Llobregat,Renovación de equipos,LinkedIn Ads,Pau Riera,48800,Ganada,Cerrada ganada,2026-04-26,,,
+OP0397,2026-03-19,Ortega Partners,C0215,Oficinas,Barcelonès,Renovación de equipos,Referidos,Marta Camps,47600,Ganada,Cerrada ganada,2026-06-07,,,
+OP0398,2026-03-30,Casas Logística,C0226,Oficinas,Maresme,Instalación VRF,Referidos,Laura Vidal,61500,Perdida,Cerrada perdida,2026-05-18,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0399,2026-03-06,Cafeteria Can Pere Sant Cugat,,Restauración,Vallès Occidental,Climatización de local,Ferias,Ingrid Solé,43300,Perdida,Cerrada perdida,2026-04-06,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0400,2026-03-22,Sala Arquitectes Mataró,C0743,Oficinas,Maresme,Renovación de equipos,SEO,Laura Vidal,56200,Ganada,Cerrada ganada,2026-06-14,,,
+OP0401,2026-03-04,Roca Assessors Badalona,,Oficinas,Barcelonès,Renovación de equipos,Referidos,Marta Camps,83900,Perdida,Cerrada perdida,2026-04-16,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0402,2026-03-19,Roca Arquitectes Mataró,,Oficinas,Maresme,Instalación VRF,LinkedIn Ads,Laura Vidal,146800,Perdida,Cerrada perdida,2026-06-17,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0403,2026-03-28,Hotel Port Sabadell,,Hotel,Vallès Occidental,Aerotermia,SEO,Ingrid Solé,68300,Perdida,Cerrada perdida,2026-07-20,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar.
+OP0404,2026-03-26,Col·legi Montseny Vilanova,C0844,Educación,Garraf,Climatización de aulas,LinkedIn Ads,Laura Vidal,81000,Perdida,Cerrada perdida,2026-05-14,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0405,2026-03-06,Hotel Sant Pere Sud Barcelona,,Hotel,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,35600,Perdida,Cerrada perdida,2026-05-23,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0406,2026-03-24,Hotel Brisa Alta L'Hospitalet,C0605,Hotel,Barcelonès,Aerotermia,SEO,Àlex Ferrer,116700,Ganada,Cerrada ganada,2026-07-22,,,
+OP0407,2026-04-01,Centre Òptic Sabadell L'Hospitalet,,Sanitario,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,21600,Perdida,Cerrada perdida,2026-06-14,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0408,2026-04-17,Riera Consultors Barcelona,,Oficinas,Barcelonès,Renovación de equipos,Google Ads,Marta Camps,59400,Perdida,Cerrada perdida,2026-06-04,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0409,2026-04-21,Bosch Tech,C0303,Oficinas,Vallès Occidental,Instalación VRF,Ferias,Ingrid Solé,120600,Perdida,Cerrada perdida,2026-06-11,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0410,2026-04-12,Bosch Gestió Arenys,,Oficinas,Maresme,Instalación VRF,SEO,Laura Vidal,98600,Perdida,Cerrada perdida,2026-05-30,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0411,2026-04-08,Col·legi Els Til·lers Cardedeu,C1043,Educación,Vallès Oriental,Contrato de mantenimiento,Ferias,Ingrid Solé,11900,Perdida,Cerrada perdida,2026-08-01,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar. Mencionan a ClimaNova.
+OP0412,2026-04-06,Pizzeria El Racó Arenys,,Restauración,Maresme,Climatización de local,Directorios,Laura Vidal,21000,Perdida,Cerrada perdida,2026-05-13,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0413,2026-04-16,Centre Òptic Granollers Sant Boi,C1022,Sanitario,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,48900,Ganada,Cerrada ganada,2026-06-29,,,
+OP0414,2026-04-20,Brasseria El Molí Mataró,C1229,Restauración,Maresme,Contrato de mantenimiento,Referidos,Laura Vidal,13700,Ganada,Cerrada ganada,2026-05-13,,,
+OP0415,2026-04-30,Hotel Sant Pere El Prat,C1230,Hotel,Baix Llobregat,Instalación VRF,Referidos,Pau Riera,81600,Ganada,Cerrada ganada,2026-08-01,,,
+OP0416,2026-04-14,Hotel Turó Arenys,C0539,Hotel,Maresme,Aerotermia,LinkedIn Ads,Laura Vidal,88000,Perdida,Cerrada perdida,2026-08-29,Precio,Climatitzacions Nord,El cliente ha recibido una oferta un 8 % más barata.
+OP0417,2026-04-29,Hotel Mirador Barcelona,C1008,Hotel,Barcelonès,Aerotermia,Referidos,Marta Camps,84200,Ganada,Cerrada ganada,2026-07-12,,,
+OP0418,2026-04-19,Clínica Sant Gervasi Premià,C1231,Sanitario,Maresme,Contrato de mantenimiento,SEO,Laura Vidal,25100,Ganada,Cerrada ganada,2026-07-05,,,
+OP0419,2026-04-08,Pons Advocats,C0032,Oficinas,Barcelonès,Instalación VRF,Ferias,Marta Camps,140700,Perdida,Cerrada perdida,2026-05-08,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0420,2026-04-04,Escola La Salle Nord Sant Boi,,Educación,Baix Llobregat,Climatización de aulas,Referidos,Pau Riera,70500,Perdida,Cerrada perdida,2026-05-27,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0421,2026-04-06,Escola Mediterrània Sitges,,Educación,Garraf,Climatización de aulas,Google Ads,Laura Vidal,127100,Perdida,Cerrada perdida,2026-06-22,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0422,2026-04-07,Hotel Mirador Badalona,C0804,Hotel,Barcelonès,Instalación VRF,Google Ads,Àlex Ferrer,106300,Perdida,Cerrada perdida,2026-07-17,Precio,TermoCat,El cliente ha recibido una oferta un 7 % más barata.
+OP0423,2026-04-26,Hotel Marina Plaça L'Hospitalet,C1232,Hotel,Barcelonès,Aerotermia,Google Ads,Marta Camps,101900,Ganada,Cerrada ganada,2026-08-07,,,
+OP0424,2026-04-07,Ferreteria Vallès Barcelona,,Retail,Barcelonès,Mantenimiento multitienda,Google Ads,Marta Camps,30800,Perdida,Cerrada perdida,2026-06-12,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0425,2026-04-02,Llar d'Infants Ítaca Sant Cugat,,Educación,Vallès Occidental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,12600,Perdida,Cerrada perdida,2026-07-05,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0426,2026-04-10,Puig Group L'Hospitalet,C1233,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Àlex Ferrer,28700,Ganada,Cerrada ganada,2026-06-01,,,
+OP0427,2026-04-21,Bar La Terrassa,C0469,Restauración,Maresme,Contrato de mantenimiento,SEO,Laura Vidal,6800,Ganada,Cerrada ganada,2026-06-07,,,
+OP0428,2026-04-25,Perfumeria Nord Sant Cugat,,Retail,Vallès Occidental,Mantenimiento multitienda,Directorios,Ingrid Solé,17800,Perdida,Cerrada perdida,2026-06-05,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0429,2026-04-19,Hotel Costa Plaça L'Hospitalet,,Hotel,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,22000,Perdida,Cerrada perdida,2026-08-31,Precio,TermoCat,El cliente ha recibido una oferta un 5 % más barata.
+OP0430,2026-04-10,Institut Els Til·lers,C0356,Educación,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,21200,Perdida,Cerrada perdida,2026-06-24,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0431,2026-04-27,Pons Logística,C0585,Oficinas,Baix Llobregat,Renovación de equipos,Ferias,Pau Riera,66100,Perdida,Cerrada perdida,2026-06-27,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0432,2026-04-02,Hotel Costa El Prat,C1234,Hotel,Baix Llobregat,Instalación VRF,SEO,Pau Riera,125900,Ganada,Cerrada ganada,2026-07-11,,,
+OP0433,2026-05-27,Centre Mèdic Sabadell Terrassa,C0771,Sanitario,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,43200,Perdida,Cerrada perdida,2026-07-25,Precio,TermoCat,Nos dicen que el precio está por encima de su presupuesto.
+OP0434,2026-05-29,Botigues Família Mollet,,Retail,Vallès Oriental,Renovación de equipos,Ferias,Ingrid Solé,57400,Perdida,Cerrada perdida,2026-07-01,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar.
+OP0435,2026-05-11,Fisioteràpia Diagonal Mollet,,Sanitario,Vallès Oriental,Contrato de mantenimiento,Google Ads,Ingrid Solé,14500,Perdida,Cerrada perdida,2026-06-16,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0436,2026-05-12,Sala Assessors Mollet,C1037,Oficinas,Vallès Oriental,Contrato de mantenimiento,Ferias,Ingrid Solé,9600,Perdida,Cerrada perdida,2026-07-23,Precio,ClimaNova,El cliente ha recibido una oferta un 22 % más barata. Mencionan a ClimaNova.
+OP0437,2026-05-02,Col·legi Collserola L'Hospitalet,,Educación,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,8900,Perdida,Cerrada perdida,2026-07-22,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0438,2026-05-29,Ortega Enginyeria Vilanova,,Oficinas,Garraf,Renovación de equipos,Google Ads,Pau Riera,34500,Perdida,Cerrada perdida,2026-07-10,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0439,2026-05-31,Clínica Badalona,C0492,Sanitario,Baix Llobregat,Renovación de equipos,LinkedIn Ads,Pau Riera,50200,Ganada,Cerrada ganada,2026-08-19,,,
+OP0440,2026-05-14,Botigues Central Sant Cugat,,Retail,Vallès Occidental,Mantenimiento multitienda,Directorios,Ingrid Solé,9300,Perdida,Cerrada perdida,2026-07-07,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar.
+OP0441,2026-05-14,Hotel Les Arenes Sabadell,C1235,Hotel,Vallès Occidental,Aerotermia,Google Ads,Ingrid Solé,103100,Ganada,Cerrada ganada,2026-08-31,,,
+OP0442,2026-05-23,Mas Tech Premià,C1236,Oficinas,Maresme,Renovación de equipos,Referidos,Laura Vidal,82200,Ganada,Cerrada ganada,2026-06-24,,,
+OP0443,2026-05-26,Coll Consultors Granollers,,Oficinas,Vallès Oriental,Instalación VRF,Directorios,Ingrid Solé,100000,Perdida,Cerrada perdida,2026-06-30,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0444,2026-05-18,Fisioteràpia Sant Gervasi Badalona,C0850,Sanitario,Barcelonès,Renovación de equipos,SEO,Àlex Ferrer,74400,Ganada,Cerrada ganada,2026-08-03,,,
+OP0445,2026-05-23,Pons Arquitectes Barcelona,C1237,Oficinas,Barcelonès,Renovación de equipos,LinkedIn Ads,Àlex Ferrer,28500,Ganada,Cerrada ganada,2026-08-19,,,
+OP0446,2026-05-07,Mas Gestió L'Hospitalet,C1238,Oficinas,Barcelonès,Renovación de equipos,SEO,Marta Camps,44800,Ganada,Cerrada ganada,2026-07-26,,,
+OP0447,2026-05-16,Ferrer Partners,C0392,Oficinas,Barcelonès,Instalación VRF,Referidos,Àlex Ferrer,131000,Ganada,Cerrada ganada,2026-06-28,,,
+OP0448,2026-05-13,Hotel Sol de Mar Plaça L'Hospitalet,C1239,Hotel,Barcelonès,Aerotermia,Ferias,Marta Camps,66100,Ganada,Cerrada ganada,2026-09-06,,,
+OP0449,2026-05-12,Òptica Central Terrassa,,Retail,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,28500,Perdida,Cerrada perdida,2026-06-30,Eligió otra solución,,Han decidido alquilar equipos portátiles.
+OP0450,2026-05-16,Clínica Dental Les Corts Vilanova,C1240,Sanitario,Garraf,Renovación de equipos,Referidos,Pau Riera,46200,Ganada,Cerrada ganada,2026-06-25,,,
+OP0451,2026-05-30,Brasseria Can Pere L'Hospitalet,C0877,Restauración,Barcelonès,Contrato de mantenimiento,Ferias,Àlex Ferrer,8800,Ganada,Cerrada ganada,2026-07-15,,,
+OP0452,2026-05-26,Moda Clàssica,C0073,Retail,Barcelonès,Mantenimiento multitienda,Google Ads,Marta Camps,13000,Ganada,Cerrada ganada,2026-06-24,,,
+OP0453,2026-05-01,Col·legi Mediterrània Vilanova,,Educación,Garraf,Climatización de aulas,Directorios,Laura Vidal,121100,Perdida,Cerrada perdida,2026-07-20,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0454,2026-05-11,Mobles Urbana Barcelona,C1241,Retail,Barcelonès,Renovación de equipos,SEO,Marta Camps,53300,Ganada,Cerrada ganada,2026-07-04,,,
+OP0455,2026-05-06,Moda Sant Jordi Sant Boi,,Retail,Baix Llobregat,Mantenimiento multitienda,Google Ads,Pau Riera,35200,Perdida,Cerrada perdida,2026-07-03,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0456,2026-05-28,Cafeteria La Terrassa L'Hospitalet,,Restauración,Barcelonès,Climatización de local,LinkedIn Ads,Àlex Ferrer,41300,Perdida,Cerrada perdida,2026-07-14,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0457,2026-05-01,Centre Òptic Diagonal Badalona,C1242,Sanitario,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,63700,Ganada,Cerrada ganada,2026-06-13,,,
+OP0458,2026-05-08,Centre Mèdic Granollers Badalona,C1243,Sanitario,Barcelonès,Contrato de mantenimiento,Ferias,Àlex Ferrer,25600,Ganada,Cerrada ganada,2026-07-08,,,
+OP0459,2026-05-30,Ortega Partners,C0215,Oficinas,Barcelonès,Instalación VRF,Referidos,Marta Camps,124100,Ganada,Cerrada ganada,2026-08-19,,,
+OP0460,2026-05-27,Hotel Turó Plaça L'Hospitalet,,Hotel,Barcelonès,Instalación VRF,SEO,Marta Camps,77000,Perdida,Cerrada perdida,2026-09-11,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0461,2026-06-09,Roca Tech Sitges,,Oficinas,Garraf,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,20100,Perdida,Cerrada perdida,2026-08-07,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0462,2026-06-04,Vidal Group Badalona,,Oficinas,Barcelonès,Instalación VRF,Directorios,Àlex Ferrer,144900,Perdida,Cerrada perdida,2026-07-19,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0463,2026-06-12,Fisioteràpia Rubí Mollet,C0761,Sanitario,Vallès Oriental,Renovación de equipos,Referidos,Ingrid Solé,52700,Perdida,Cerrada perdida,2026-07-24,Precio,AirePro,Nos dicen que el precio está por encima de su presupuesto.
+OP0464,2026-06-18,Clínica Sabadell Cardedeu,,Sanitario,Vallès Oriental,Contrato de mantenimiento,SEO,Ingrid Solé,12700,Perdida,Cerrada perdida,2026-08-18,Precio,ClimaNova,El cliente ha recibido una oferta un 18 % más barata.
+OP0465,2026-06-12,Casas Group Badalona,,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Àlex Ferrer,26100,Perdida,Cerrada perdida,2026-08-24,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0466,2026-06-17,Hotel Turó Sant Boi,,Hotel,Baix Llobregat,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,36000,Perdida,Cerrada perdida,2026-09-12,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0467,2026-06-03,Restaurant El Molí,C0131,Restauración,Garraf,Climatización de local,SEO,Laura Vidal,21500,Ganada,Cerrada ganada,2026-07-22,,,
+OP0468,2026-06-22,Forn Vallès,C0221,Retail,Barcelonès,Mantenimiento multitienda,SEO,Àlex Ferrer,25300,Ganada,Cerrada ganada,2026-08-03,,,
+OP0469,2026-06-20,Escola Collserola L'Hospitalet,C1095,Educación,Barcelonès,Contrato de mantenimiento,SEO,Marta Camps,11200,Perdida,Cerrada perdida,2026-08-11,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0470,2026-06-14,Marín Arquitectes El Prat,C0766,Oficinas,Baix Llobregat,Contrato de mantenimiento,Directorios,Pau Riera,17400,Perdida,Cerrada perdida,2026-08-05,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0471,2026-06-24,Forn Del Mar Vilanova,C1244,Retail,Garraf,Mantenimiento multitienda,Ferias,Laura Vidal,13000,Ganada,Cerrada ganada,2026-09-02,,,
+OP0472,2026-06-07,Brasseria Can Pere,C0414,Restauración,Barcelonès,Climatización de local,Referidos,Àlex Ferrer,40100,Ganada,Cerrada ganada,2026-06-29,,,
+OP0473,2026-06-29,Puig Arquitectes Badalona,,Oficinas,Barcelonès,Renovación de equipos,Google Ads,Marta Camps,33700,Perdida,Cerrada perdida,2026-08-05,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0474,2026-06-02,Centre Mèdic Sitges Granollers,,Sanitario,Vallès Oriental,Renovación de equipos,Referidos,Ingrid Solé,34700,Perdida,Cerrada perdida,2026-08-19,Precio,ClimaNova,El cliente ha recibido una oferta un 20 % más barata.
+OP0475,2026-06-02,Hotel Vela Alt Badalona,,Hotel,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,37300,Perdida,Cerrada perdida,2026-10-20,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0476,2026-06-06,Soler Partners Badalona,,Oficinas,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,31300,Perdida,Cerrada perdida,2026-07-16,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0477,2026-06-18,Centre Mèdic Rubí Vilanova,,Sanitario,Garraf,Renovación de equipos,Referidos,Pau Riera,42900,Perdida,Cerrada perdida,2026-08-12,Precio,TermoCat,Han pedido rebaja y no hemos podido igualar.
+OP0478,2026-06-23,Mobles Sant Jordi,C0030,Retail,Vallès Oriental,Mantenimiento multitienda,Referidos,Ingrid Solé,31100,Perdida,Cerrada perdida,2026-08-07,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto. Mencionan a ClimaNova.
+OP0479,2026-06-19,Bar El Molí,C0257,Restauración,Vallès Occidental,Contrato de mantenimiento,Directorios,Ingrid Solé,10200,Perdida,Cerrada perdida,2026-07-18,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0480,2026-06-23,Roca Advocats Badalona,,Oficinas,Barcelonès,Instalación VRF,Directorios,Marta Camps,117500,Perdida,Cerrada perdida,2026-09-20,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0481,2026-06-17,Calçats Central Vilanova,,Retail,Garraf,Mantenimiento multitienda,Referidos,Pau Riera,19400,Perdida,Cerrada perdida,2026-07-27,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0482,2026-06-02,Col·legi Collserola Barcelona,,Educación,Barcelonès,Climatización de aulas,Directorios,Marta Camps,89900,Perdida,Cerrada perdida,2026-08-07,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0483,2026-06-07,Clínica Badalona Rubí,C1245,Sanitario,Vallès Occidental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,9300,Ganada,Cerrada ganada,2026-07-16,,,
+OP0484,2026-06-02,Escola Turó Blau,C0244,Educación,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,10200,Perdida,Cerrada perdida,2026-09-03,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0485,2026-06-27,Hotel Mirador Sitges,,Hotel,Garraf,Instalación VRF,Referidos,Pau Riera,104000,Perdida,Cerrada perdida,2026-11-13,Precio,TermoCat,El cliente ha recibido una oferta un 9 % más barata.
+OP0486,2026-07-28,Institut Mediterrània Sabadell,C0842,Educación,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,21600,Perdida,Cerrada perdida,2026-09-14,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0487,2026-07-07,Vidal Group,C0102,Oficinas,Barcelonès,Renovación de equipos,LinkedIn Ads,Marta Camps,83900,Perdida,Cerrada perdida,2026-09-13,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0488,2026-07-27,Mas Partners Rubí,,Oficinas,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,48600,Perdida,Cerrada perdida,2026-10-19,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar. Mencionan a ClimaNova.
+OP0489,2026-07-10,Clínica Dental Badalona Sant Cugat,,Sanitario,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,70600,Perdida,Cerrada perdida,2026-08-15,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0490,2026-07-05,Fisioteràpia Rubí Sitges,,Sanitario,Garraf,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,23000,Perdida,Cerrada perdida,2026-08-15,Plazo,,Nuestro plazo de entrega no encajaba con su apertura.
+OP0491,2026-07-02,Sala Logística Rubí,,Oficinas,Vallès Occidental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,8700,Perdida,Cerrada perdida,2026-08-15,Precio,Climatitzacions Nord,Nos dicen que el precio está por encima de su presupuesto.
+OP0492,2026-07-23,Hotel Jardí Rubí,,Hotel,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,27100,Abierta,Propuesta enviada,2026-12-04,,,
+OP0493,2026-07-29,Moda Nord Sant Cugat,C1246,Retail,Vallès Occidental,Mantenimiento multitienda,Referidos,Ingrid Solé,20100,Ganada,Cerrada ganada,2026-09-09,,,
+OP0494,2026-07-22,Laboratori Les Corts Sitges,C1247,Sanitario,Garraf,Contrato de mantenimiento,Referidos,Pau Riera,17600,Ganada,Cerrada ganada,2026-10-06,,,
+OP0495,2026-07-23,Hotel Plaça Sud L'Hospitalet,C1248,Hotel,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,33700,Ganada,Cerrada ganada,2026-09-21,,,
+OP0496,2026-07-29,Grau Arquitectes Rubí,,Oficinas,Vallès Occidental,Instalación VRF,Google Ads,Ingrid Solé,140900,Perdida,Cerrada perdida,2026-09-15,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0497,2026-07-24,Hotel Port,C0034,Hotel,Barcelonès,Instalación VRF,Ferias,Àlex Ferrer,75400,Ganada,Cerrada ganada,2026-10-11,,,
+OP0498,2026-07-19,Vila Assessors Mataró,,Oficinas,Maresme,Renovación de equipos,Ferias,Laura Vidal,64900,Perdida,Cerrada perdida,2026-10-17,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0499,2026-07-16,Casas Assessors Sitges,,Oficinas,Garraf,Instalación VRF,Directorios,Laura Vidal,88800,Perdida,Cerrada perdida,2026-08-29,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0500,2026-07-12,Hotel Portal Castelldefels,C0784,Hotel,Baix Llobregat,Instalación VRF,Ferias,Pau Riera,158100,Ganada,Cerrada ganada,2026-09-29,,,
+OP0501,2026-07-16,Centre Òptic Gràcia Mollet,,Sanitario,Vallès Oriental,Contrato de mantenimiento,Referidos,Ingrid Solé,12800,Perdida,Cerrada perdida,2026-09-03,Precio,,Nos dicen que el precio está por encima de su presupuesto.
+OP0502,2026-07-11,Ferreteria Sant Jordi Badalona,C0897,Retail,Barcelonès,Mantenimiento multitienda,SEO,Àlex Ferrer,24200,Ganada,Cerrada ganada,2026-08-21,,,
+OP0503,2026-07-10,Llar d'Infants Turó Blau Rubí,,Educación,Vallès Occidental,Contrato de mantenimiento,SEO,Ingrid Solé,16600,Perdida,Cerrada perdida,2026-09-01,Eligió otra solución,,Han optado por reparar los equipos actuales.
+OP0504,2026-07-24,Esports Família,C0010,Retail,Vallès Oriental,Mantenimiento multitienda,Ferias,Ingrid Solé,16400,Perdida,Cerrada perdida,2026-09-18,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0505,2026-07-02,Hotel Nord Mar Barcelona,C1249,Hotel,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,20500,Ganada,Cerrada ganada,2026-10-22,,,
+OP0506,2026-07-06,Sala Tech Granollers,,Oficinas,Vallès Oriental,Renovación de equipos,Google Ads,Ingrid Solé,35500,Perdida,Cerrada perdida,2026-09-23,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto. Mencionan a ClimaNova.
+OP0507,2026-07-24,Pons Partners,C0128,Oficinas,Vallès Oriental,Instalación VRF,Ferias,Ingrid Solé,58500,Perdida,Cerrada perdida,2026-09-23,Precio,ClimaNova,Han pedido rebaja y no hemos podido igualar. Mencionan a ClimaNova.
+OP0508,2026-07-08,Grau Gestió Badalona,C1250,Oficinas,Barcelonès,Renovación de equipos,Directorios,Àlex Ferrer,41100,Ganada,Cerrada ganada,2026-08-13,,,
+OP0509,2026-07-29,Roca Gestió,C0188,Oficinas,Garraf,Renovación de equipos,Ferias,Pau Riera,29400,Ganada,Cerrada ganada,2026-10-22,,,
+OP0510,2026-08-29,Hotel Brisa Alta Castelldefels,C0788,Hotel,Baix Llobregat,Instalación VRF,SEO,Pau Riera,127100,Abierta,Negociación,2026-12-12,,,
+OP0511,2026-08-08,Pizzeria La Plaça Rubí,C0732,Restauración,Vallès Occidental,Climatización de local,SEO,Ingrid Solé,43700,Perdida,Cerrada perdida,2026-09-13,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto. Mencionan a ClimaNova.
+OP0512,2026-08-01,Òptica Nova Badalona,C1251,Retail,Barcelonès,Renovación de equipos,Referidos,Marta Camps,63400,Ganada,Cerrada ganada,2026-09-07,,,
+OP0513,2026-08-20,Centre Òptic Granollers Terrassa,,Sanitario,Vallès Occidental,Contrato de mantenimiento,Directorios,Ingrid Solé,19400,Perdida,Cerrada perdida,2026-10-18,Precio,,Han pedido rebaja y no hemos podido igualar.
+OP0514,2026-08-03,Sala Logística,C0545,Oficinas,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,26500,Perdida,Cerrada perdida,2026-10-26,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0515,2026-08-16,Clínica Dental Granollers Mataró,C1252,Sanitario,Maresme,Renovación de equipos,LinkedIn Ads,Laura Vidal,25700,Ganada,Cerrada ganada,2026-11-04,,,
+OP0516,2026-08-18,Llar d'Infants Can Mas Badalona,C0559,Educación,Barcelonès,Climatización de aulas,Directorios,Àlex Ferrer,56800,Perdida,Cerrada perdida,2026-10-13,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0517,2026-08-04,Acadèmia Collserola Cornellà,C1253,Educación,Baix Llobregat,Contrato de mantenimiento,LinkedIn Ads,Pau Riera,8500,Ganada,Cerrada ganada,2026-11-21,,,
+OP0518,2026-08-16,Hotel Costa Rubí,C0337,Hotel,Vallès Occidental,Aerotermia,Referidos,Ingrid Solé,67500,Perdida,Cerrada perdida,2026-10-25,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto.
+OP0519,2026-08-18,Col·legi Montseny L'Hospitalet,,Educación,Barcelonès,Climatización de aulas,Google Ads,Àlex Ferrer,39500,Abierta,Negociación,2026-12-10,,,
+OP0520,2026-08-15,Laboratori Mataró L'Hospitalet,,Sanitario,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,21200,Perdida,Cerrada perdida,2026-10-16,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0521,2026-08-14,Llibreria Plus Arenys,,Retail,Maresme,Mantenimiento multitienda,Directorios,Laura Vidal,35500,Perdida,Cerrada perdida,2026-09-23,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0522,2026-08-08,Clínica Rubí Barcelona,C1254,Sanitario,Barcelonès,Renovación de equipos,Referidos,Marta Camps,35600,Ganada,Cerrada ganada,2026-10-14,,,
+OP0523,2026-08-21,Vila Group,C0080,Oficinas,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,29900,Perdida,Cerrada perdida,2026-10-08,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto. Mencionan a ClimaNova.
+OP0524,2026-08-28,Llibreria Nord Mataró,,Retail,Maresme,Renovación de equipos,Google Ads,Laura Vidal,28100,Perdida,Cerrada perdida,2026-09-27,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0525,2026-08-26,Fisioteràpia Sant Cugat Granollers,,Sanitario,Vallès Oriental,Renovación de equipos,Referidos,Ingrid Solé,47400,Perdida,Cerrada perdida,2026-10-05,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0526,2026-08-31,Escola Can Mas Sabadell,C0930,Educación,Vallès Occidental,Climatización de aulas,SEO,Ingrid Solé,37000,Abierta,Propuesta enviada,2026-12-14,,,
+OP0527,2026-08-05,Coll Arquitectes Granollers,,Oficinas,Vallès Oriental,Renovación de equipos,Google Ads,Ingrid Solé,39800,Perdida,Cerrada perdida,2026-10-13,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0528,2026-08-21,Hotel Nord Sant Cugat,,Hotel,Vallès Occidental,Contrato de mantenimiento,Ferias,Ingrid Solé,26300,Abierta,Negociación,2026-12-16,,,
+OP0529,2026-08-27,Hotel Port Park L'Hospitalet,C1255,Hotel,Barcelonès,Aerotermia,Referidos,Marta Camps,45500,Ganada,Cerrada ganada,2026-11-16,,,
+OP0530,2026-08-26,Moda Central Sitges,C0689,Retail,Garraf,Mantenimiento multitienda,Referidos,Laura Vidal,29200,Ganada,Cerrada ganada,2026-10-27,,,
+OP0531,2026-08-18,Hotel Montjuïc Centre Barcelona,,Hotel,Barcelonès,Aerotermia,Directorios,Àlex Ferrer,103100,Abierta,Negociación,2027-01-06,,,
+OP0532,2026-08-23,Restaurant La Lluna,C0453,Restauración,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,9200,Perdida,Cerrada perdida,2026-09-17,Sin presupuesto,,Aplazan la inversión al año que viene.
+OP0533,2026-08-06,Llar d'Infants Collserola Sant Cugat,,Educación,Vallès Occidental,Climatización de aulas,Google Ads,Ingrid Solé,70700,Perdida,Cerrada perdida,2026-10-06,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0534,2026-08-28,Perfumeria Urbana Sant Cugat,,Retail,Vallès Occidental,Renovación de equipos,Google Ads,Ingrid Solé,58100,Perdida,Cerrada perdida,2026-10-06,Precio,ClimaNova,El cliente ha recibido una oferta un 10 % más barata.
+OP0535,2026-08-20,Moda Central L'Hospitalet,C1256,Retail,Barcelonès,Renovación de equipos,Referidos,Àlex Ferrer,24300,Ganada,Cerrada ganada,2026-09-20,,,
+OP0536,2026-08-13,Clínica Diagonal Mataró,C0956,Sanitario,Maresme,Contrato de mantenimiento,Directorios,Laura Vidal,24200,Perdida,Cerrada perdida,2026-09-25,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0537,2026-08-27,Botigues Nova Mataró,,Retail,Maresme,Mantenimiento multitienda,Directorios,Laura Vidal,25600,Perdida,Cerrada perdida,2026-09-27,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0538,2026-09-04,Hotel Plaça Est Barcelona,,Hotel,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Àlex Ferrer,23600,Abierta,Visita técnica,2026-12-19,,,
+OP0539,2026-09-24,Hotel Mirador Cardedeu,,Hotel,Vallès Oriental,Instalación VRF,Google Ads,Ingrid Solé,116800,Abierta,Negociación,2027-02-11,,,
+OP0540,2026-09-20,Mobles Nord Barcelona,C1091,Retail,Barcelonès,Renovación de equipos,Google Ads,Àlex Ferrer,55500,Perdida,Cerrada perdida,2026-11-08,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0541,2026-09-27,Brasseria El Molí Sant Cugat,C1257,Restauración,Vallès Occidental,Climatización de local,LinkedIn Ads,Ingrid Solé,32900,Ganada,Cerrada ganada,2026-10-24,,,
+OP0542,2026-09-21,Ferrer Group Sabadell,,Oficinas,Vallès Occidental,Contrato de mantenimiento,Ferias,Ingrid Solé,12100,Perdida,Cerrada perdida,2026-10-23,Precio,ClimaNova,El cliente ha recibido una oferta un 8 % más barata. Mencionan a ClimaNova.
+OP0543,2026-09-30,Acadèmia Mediterrània L'Hospitalet,,Educación,Barcelonès,Climatización de aulas,Google Ads,Marta Camps,135800,Abierta,Visita técnica,2027-01-18,,,
+OP0544,2026-09-16,Marín Enginyeria Cardedeu,,Oficinas,Vallès Oriental,Renovación de equipos,Ferias,Ingrid Solé,27500,Perdida,Cerrada perdida,2026-11-03,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto.
+OP0545,2026-09-23,Centre Mèdic Sant Cugat Rubí,,Sanitario,Vallès Occidental,Renovación de equipos,Ferias,Ingrid Solé,80100,Abierta,Visita técnica,2026-12-06,,,
+OP0546,2026-09-24,Calçats Clàssica Cornellà,C1258,Retail,Baix Llobregat,Mantenimiento multitienda,Google Ads,Pau Riera,32100,Ganada,Cerrada ganada,2026-11-11,,,
+OP0547,2026-09-29,Hotel Montjuïc Sabadell,,Hotel,Vallès Occidental,Instalación VRF,Directorios,Ingrid Solé,161700,Abierta,Negociación,2026-12-24,,,
+OP0548,2026-09-08,Escola La Salle Nord Sabadell,C0871,Educación,Vallès Occidental,Climatización de aulas,Referidos,Ingrid Solé,56700,Abierta,Visita técnica,2026-12-24,,,
+OP0549,2026-09-15,Clínica Dental Badalona El Prat,C1259,Sanitario,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,35600,Ganada,Cerrada ganada,2026-10-16,,,
+OP0550,2026-09-13,Cafeteria Cal Ton Barcelona,C1260,Restauración,Barcelonès,Climatización de local,SEO,Àlex Ferrer,35700,Ganada,Cerrada ganada,2026-10-29,,,
+OP0551,2026-09-18,Institut Els Til·lers,C0356,Educación,Maresme,Contrato de mantenimiento,LinkedIn Ads,Laura Vidal,11900,Abierta,Propuesta enviada,2026-12-01,,,
+OP0552,2026-09-23,Font Logística Sant Boi,,Oficinas,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,53100,Perdida,Cerrada perdida,2026-11-10,Plazo,,Necesitaban la instalación antes de lo que podíamos.
+OP0553,2026-09-19,Col·legi Mediterrània,C0160,Educación,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,11100,Abierta,Negociación,2026-12-11,,,
+OP0554,2026-09-06,Vidal Gestió Badalona,,Oficinas,Barcelonès,Renovación de equipos,Google Ads,Marta Camps,60400,Perdida,Cerrada perdida,2026-10-19,Sin respuesta,,Sin respuesta tras tres seguimientos.
+OP0555,2026-09-06,Llar d'Infants Ítaca Cornellà,,Educación,Baix Llobregat,Climatización de aulas,Google Ads,Pau Riera,59200,Abierta,Negociación,2026-12-10,,,
+OP0556,2026-09-08,Centre Òptic Sant Gervasi Badalona,,Sanitario,Barcelonès,Contrato de mantenimiento,LinkedIn Ads,Marta Camps,18900,Perdida,Cerrada perdida,2026-11-11,Sin presupuesto,,No tienen partida aprobada para este año.
+OP0557,2026-09-28,Esports Clàssica Badalona,,Retail,Barcelonès,Renovación de equipos,Directorios,Marta Camps,38000,Perdida,Cerrada perdida,2026-10-28,Precio,Climatitzacions Nord,Han pedido rebaja y no hemos podido igualar.
+OP0558,2026-09-11,Cafeteria La Terrassa Badalona,C0471,Restauración,Barcelonès,Climatización de local,LinkedIn Ads,Marta Camps,21800,Perdida,Cerrada perdida,2026-10-24,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0559,2026-09-18,Marín Partners Barcelona,C1261,Oficinas,Barcelonès,Instalación VRF,Google Ads,Àlex Ferrer,52800,Ganada,Cerrada ganada,2026-11-19,,,
+OP0560,2026-09-20,Forn Del Mar Sant Boi,,Retail,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,65800,Perdida,Cerrada perdida,2026-11-18,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0561,2026-09-27,Calçats Urbana Premià,C1262,Retail,Maresme,Mantenimiento multitienda,Referidos,Laura Vidal,11700,Ganada,Cerrada ganada,2026-11-05,,,
+OP0562,2026-10-03,Institut La Salle Nord Arenys,,Educación,Maresme,Climatización de aulas,Google Ads,Laura Vidal,41100,Abierta,Visita técnica,2027-01-22,,,
+OP0563,2026-10-25,Clínica Dental Sitges Terrassa,,Sanitario,Vallès Occidental,Renovación de equipos,LinkedIn Ads,Ingrid Solé,71700,Abierta,Visita técnica,2027-01-12,,,
+OP0564,2026-10-07,Moda Clàssica Sitges,C1263,Retail,Garraf,Renovación de equipos,SEO,Pau Riera,54900,Ganada,Cerrada ganada,2026-11-22,,,
+OP0565,2026-10-11,Bosch Enginyeria Rubí,C1010,Oficinas,Vallès Occidental,Renovación de equipos,Ferias,Ingrid Solé,31200,Abierta,Propuesta enviada,2026-12-31,,,
+OP0566,2026-10-04,Hotel Vela Sitges,,Hotel,Garraf,Aerotermia,LinkedIn Ads,Laura Vidal,47400,Abierta,Propuesta enviada,2026-12-17,,,
+OP0567,2026-10-09,Pizzeria Can Jordi Barcelona,C1009,Restauración,Barcelonès,Climatización de local,Ferias,Àlex Ferrer,36800,Abierta,Visita técnica,2026-11-27,,,
+OP0568,2026-10-21,Roca Group,C0379,Oficinas,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,15800,Abierta,Negociación,2027-01-07,,,
+OP0569,2026-10-02,Pons Consultors,C0568,Oficinas,Barcelonès,Contrato de mantenimiento,Ferias,Àlex Ferrer,22000,Abierta,Propuesta enviada,2026-12-08,,,
+OP0570,2026-10-14,Vidal Group,C0102,Oficinas,Barcelonès,Contrato de mantenimiento,Directorios,Marta Camps,29400,Perdida,Cerrada perdida,2026-11-18,Sin respuesta,,Dejaron de responder después de enviar la propuesta.
+OP0571,2026-10-23,Pizzeria La Lluna Sitges,,Restauración,Garraf,Contrato de mantenimiento,Directorios,Laura Vidal,13800,Abierta,Visita técnica,2026-12-07,,,
+OP0572,2026-10-09,Hotel Plaça Granollers,C0336,Hotel,Vallès Oriental,Contrato de mantenimiento,Directorios,Ingrid Solé,29600,Abierta,Visita técnica,2026-12-14,,,
+OP0573,2026-10-03,Clínica Sant Cugat Granollers,,Sanitario,Vallès Oriental,Renovación de equipos,Directorios,Ingrid Solé,76900,Perdida,Cerrada perdida,2026-11-19,Precio,ClimaNova,Nos dicen que el precio está por encima de su presupuesto. Mencionan a ClimaNova.
+OP0574,2026-10-14,Llorens Group L'Hospitalet,,Oficinas,Barcelonès,Contrato de mantenimiento,SEO,Àlex Ferrer,8200,Abierta,Negociación,2026-12-04,,,
+OP0575,2026-10-03,Òptica Família Badalona,C1264,Retail,Barcelonès,Mantenimiento multitienda,Referidos,Marta Camps,11700,Ganada,Cerrada ganada,2026-11-03,,,
+OP0576,2026-10-15,Laboratori Diagonal Badalona,,Sanitario,Barcelonès,Renovación de equipos,Directorios,Marta Camps,54800,Abierta,Propuesta enviada,2026-12-12,,,
+OP0577,2026-10-26,Vila Arquitectes Granollers,C0659,Oficinas,Vallès Oriental,Instalación VRF,Google Ads,Ingrid Solé,54000,Abierta,Negociación,2026-11-30,,,
+OP0578,2026-10-25,Clínica Sabadell El Prat,,Sanitario,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,31300,Abierta,Visita técnica,2026-12-07,,,
+OP0579,2026-10-14,Pons Partners Sabadell,,Oficinas,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,65400,Abierta,Visita técnica,2026-11-27,,,
+OP0580,2026-10-25,Centre Mèdic Sabadell Sabadell,,Sanitario,Vallès Occidental,Renovación de equipos,Directorios,Ingrid Solé,50900,Abierta,Propuesta enviada,2026-12-22,,,
+OP0581,2026-10-09,Òptica Nova Cardedeu,,Retail,Vallès Oriental,Mantenimiento multitienda,LinkedIn Ads,Ingrid Solé,20900,Abierta,Visita técnica,2026-12-01,,,
+OP0582,2026-10-11,Forn Vallès Barcelona,,Retail,Barcelonès,Renovación de equipos,Ferias,Àlex Ferrer,63300,Abierta,Propuesta enviada,2026-12-09,,,
+OP0583,2026-10-21,Acadèmia Pau Casals Cornellà,,Educación,Baix Llobregat,Contrato de mantenimiento,Ferias,Pau Riera,17900,Abierta,Visita técnica,2026-12-20,,,
+OP0584,2026-10-21,Hotel Vela Vell Barcelona,,Hotel,Barcelonès,Aerotermia,LinkedIn Ads,Marta Camps,48400,Abierta,Propuesta enviada,2027-01-05,,,
+OP0585,2026-10-06,Fisioteràpia Terrassa Granollers,,Sanitario,Vallès Oriental,Contrato de mantenimiento,Google Ads,Ingrid Solé,19700,Abierta,Propuesta enviada,2026-12-19,,,
+OP0586,2026-10-07,Bosch Enginyeria Castelldefels,,Oficinas,Baix Llobregat,Instalación VRF,Directorios,Pau Riera,85200,Abierta,Visita técnica,2026-12-25,,,
+OP0587,2026-11-12,Forn Urbana Terrassa,C0800,Retail,Vallès Occidental,Renovación de equipos,Ferias,Ingrid Solé,69800,Abierta,Propuesta enviada,2027-01-18,,,
+OP0588,2026-11-05,Calçats Plus El Prat,,Retail,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,48800,Abierta,Negociación,2026-12-07,,,
+OP0589,2026-11-13,Moda Vallès Badalona,,Retail,Barcelonès,Mantenimiento multitienda,Referidos,Àlex Ferrer,34400,Abierta,Visita técnica,2027-01-13,,,
+OP0590,2026-11-22,Pons Arquitectes Badalona,,Oficinas,Barcelonès,Instalación VRF,Ferias,Àlex Ferrer,119900,Abierta,Negociación,2027-02-10,,,
+OP0591,2026-11-12,Hotel Rambla Sant Cugat,C0191,Hotel,Vallès Occidental,Aerotermia,Referidos,Ingrid Solé,65200,Abierta,Negociación,2027-02-01,,,
+OP0592,2026-11-04,Centre Òptic Gràcia Terrassa,,Sanitario,Vallès Occidental,Contrato de mantenimiento,Google Ads,Ingrid Solé,11200,Abierta,Visita técnica,2027-01-11,,,
+OP0593,2026-11-22,Mobles Nord Terrassa,,Retail,Vallès Occidental,Renovación de equipos,SEO,Ingrid Solé,46700,Abierta,Propuesta enviada,2027-01-03,,,
+OP0594,2026-11-15,Hotel Llevant Est L'Hospitalet,,Hotel,Barcelonès,Contrato de mantenimiento,Ferias,Marta Camps,31500,Abierta,Negociación,2027-02-11,,,
+OP0595,2026-11-11,Font Partners,C0322,Oficinas,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,85600,Abierta,Visita técnica,2027-01-14,,,
+OP0596,2026-11-24,Casas Assessors L'Hospitalet,,Oficinas,Barcelonès,Renovación de equipos,SEO,Àlex Ferrer,34300,Abierta,Visita técnica,2027-02-04,,,
+OP0597,2026-11-07,Casas Tech Sant Cugat,,Oficinas,Vallès Occidental,Contrato de mantenimiento,Referidos,Ingrid Solé,11400,Abierta,Propuesta enviada,2026-12-12,,,
+OP0598,2026-11-17,Roca Logística,C0328,Oficinas,Baix Llobregat,Renovación de equipos,Google Ads,Pau Riera,27300,Abierta,Negociación,2027-02-04,,,
+OP0599,2026-11-14,Hotel Brisa Alta El Prat,,Hotel,Baix Llobregat,Contrato de mantenimiento,Ferias,Pau Riera,24000,Abierta,Propuesta enviada,2027-03-09,,,
+OP0600,2026-11-14,Esports Família Sant Cugat,,Retail,Vallès Occidental,Mantenimiento multitienda,Referidos,Ingrid Solé,10300,Abierta,Propuesta enviada,2026-12-28,,,
+OP0601,2026-11-07,Riera Gestió Mollet,,Oficinas,Vallès Oriental,Contrato de mantenimiento,LinkedIn Ads,Ingrid Solé,15700,Abierta,Propuesta enviada,2027-01-22,,,
+OP0602,2026-11-11,Serra Logística Sant Boi,,Oficinas,Baix Llobregat,Renovación de equipos,SEO,Pau Riera,86300,Abierta,Propuesta enviada,2027-01-03,,,
+OP0603,2026-11-15,Forn Del Mar Arenys,,Retail,Maresme,Mantenimiento multitienda,SEO,Laura Vidal,23300,Abierta,Propuesta enviada,2026-12-31,,,
+OP0604,2026-11-17,Hotel Plaça Premià,,Hotel,Maresme,Instalación VRF,Google Ads,Laura Vidal,111800,Abierta,Propuesta enviada,2027-03-12,,,
+OP0605,2026-11-02,Esports Nova Sant Cugat,,Retail,Vallès Occidental,Mantenimiento multitienda,SEO,Ingrid Solé,19700,Abierta,Visita técnica,2026-12-24,,,
+OP0606,2026-11-21,Brasseria Cal Ton L'Hospitalet,C0551,Restauración,Barcelonès,Contrato de mantenimiento,Referidos,Marta Camps,9400,Abierta,Propuesta enviada,2026-12-08,,,
+OP0607,2026-11-25,Esports Nova Vilanova,,Retail,Garraf,Renovación de equipos,Ferias,Laura Vidal,59200,Abierta,Visita técnica,2027-02-02,,,
+OP0608,2026-11-17,Hotel Les Arenes Castelldefels,,Hotel,Baix Llobregat,Contrato de mantenimiento,Google Ads,Pau Riera,18500,Abierta,Visita técnica,2027-02-25,,,
+OP0609,2026-11-02,Ferreteria Urbana Castelldefels,,Retail,Baix Llobregat,Mantenimiento multitienda,Directorios,Pau Riera,23900,Abierta,Negociación,2026-12-08,,,

@@ -1,0 +1,715 @@
+<title>Foxter LAB #2</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Sora:wght@200;300;400;500;600;700&display=swap">
+<style>
+/* Layout: guía de taller a pantalla completa. Barra superior (marca + filtro de agente), una diapositiva visible cada vez, barra inferior de navegación. En cada paso se ven solo las instrucciones del agente elegido, con Claude Code y Codex juntos. */
+:root{
+  --bg:#F6F6F4; --surface:#FFFFFF; --fg:#131313; --fg2:#57575A; --fg3:#8A8A8D;
+  --line:rgba(19,19,19,.10); --line2:rgba(19,19,19,.20);
+  --ink:#080808; --on-ink:#F6F6F4; --on-ink-2:#A9A9AD; --ink-line:rgba(246,246,244,.14);
+  --purple:#6801FE; --purple-text:#6801FE; --purple-soft:rgba(104,1,254,.08);
+  --gold:#E1AC23; --gold-text:#8A6A0E; --orange:#F39C12;
+  --clara:#6801FE; --clara-on:#FFFFFF; --clara-text:#6801FE; --clara-soft:rgba(104,1,254,.07);
+  --max:#E1AC23;   --max-on:#131313;   --max-text:#7A5C08;   --max-soft:rgba(225,172,35,.12);
+  --otto:#080808;  --otto-on:#F6F6F4;  --otto-text:#131313;  --otto-soft:rgba(19,19,19,.045);
+  --mara:#1F9D6B; --mara-on:#FFFFFF; --mara-text:#16794F; --mara-soft:rgba(31,157,107,.09);
+  --diana:#E2665A; --diana-on:#FFFFFF; --diana-text:#B8463B; --diana-soft:rgba(226,102,90,.10);
+  --code-bg:#F3F1FA;
+  --shadow:0 1px 3px rgba(19,19,19,.06),0 8px 24px rgba(19,19,19,.06);
+  --halo:rgba(104,1,254,.08);
+  --grad-text:linear-gradient(90deg,#F39C12 0%,#E1AC23 45%,#6801FE 100%);
+  --font-h:"monument-extended","Sora","Helvetica Neue",Arial,sans-serif;
+  --font-b:"Sora","Helvetica Neue",Arial,sans-serif;
+  --font-m:ui-monospace,Menlo,Consolas,"Courier New",monospace;
+  --r-sm:8px; --r-md:14px; --r-lg:18px;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0C0C0D; --surface:#17171A; --fg:#F6F6F4; --fg2:#B4B4B8; --fg3:#86868B;
+  --line:rgba(246,246,244,.10); --line2:rgba(246,246,244,.22);
+  --ink:#050505; --ink-line:rgba(246,246,244,.16);
+  --purple-text:#A577FF; --purple-soft:rgba(104,1,254,.20); --gold-text:#E1AC23;
+  --clara-text:#A577FF; --clara-soft:rgba(104,1,254,.16);
+  --max-text:#E8BC4A; --max-soft:rgba(225,172,35,.12);
+  --otto:#F6F6F4; --otto-on:#080808; --otto-text:#F6F6F4; --otto-soft:rgba(246,246,244,.06);
+  --mara-text:#4CC795; --mara-soft:rgba(31,157,107,.16); --diana-text:#F08A80; --diana-soft:rgba(226,102,90,.16);
+  --code-bg:#1F1D26; --shadow:0 0 0 1px rgba(246,246,244,.06); --halo:rgba(104,1,254,.18);
+  color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0C0C0D; --surface:#17171A; --fg:#F6F6F4; --fg2:#B4B4B8; --fg3:#86868B;
+  --line:rgba(246,246,244,.10); --line2:rgba(246,246,244,.22);
+  --ink:#050505; --ink-line:rgba(246,246,244,.16);
+  --purple-text:#A577FF; --purple-soft:rgba(104,1,254,.20); --gold-text:#E1AC23;
+  --clara-text:#A577FF; --clara-soft:rgba(104,1,254,.16);
+  --max-text:#E8BC4A; --max-soft:rgba(225,172,35,.12);
+  --otto:#F6F6F4; --otto-on:#080808; --otto-text:#F6F6F4; --otto-soft:rgba(246,246,244,.06);
+  --mara-text:#4CC795; --mara-soft:rgba(31,157,107,.16); --diana-text:#F08A80; --diana-soft:rgba(226,102,90,.16);
+  --code-bg:#1F1D26; --shadow:0 0 0 1px rgba(246,246,244,.06); --halo:rgba(104,1,254,.18);
+  color-scheme:dark}
+
+@font-face{font-family:"monument-extended";src:url("fonts/monument-regular.woff") format("woff");font-weight:400;font-display:swap}
+@font-face{font-family:"monument-extended";src:url("fonts/monument-ultrabold.otf") format("opentype");font-weight:800;font-display:swap}
+
+*,*::before,*::after{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{height:100%;margin:0}
+body{background:var(--bg);color:var(--fg);font-family:var(--font-b);font-weight:300;font-size:16px;line-height:1.55;-webkit-font-smoothing:antialiased;overflow:hidden}
+button{font:inherit;color:inherit;background:none;border:0;padding:0;cursor:pointer}
+:focus-visible{outline:2px solid var(--purple);outline-offset:3px;border-radius:6px}
+h1,h2,h3,p,ol,ul{margin:0}
+ul,ol{padding:0;list-style:none}
+.gutter{padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.wrap{max-width:1240px;margin:0 auto;width:100%}
+
+/* Shell */
+.app{height:100%;display:grid;grid-template-rows:auto 1fr auto;grid-template-columns:minmax(0,1fr)}
+.bar{border-bottom:1px solid var(--line);background:var(--bg)}
+.bar__in{display:flex;align-items:center;gap:14px;flex-wrap:wrap;padding-block:10px}
+.logo{display:inline-flex;align-items:center;gap:12px;color:var(--fg);min-height:40px}
+.logo svg{height:15px;width:auto;display:block}
+.logo span{font-family:var(--font-h);font-size:11px;letter-spacing:.06em;color:var(--fg2);padding-left:12px;border-left:1px solid var(--line2);line-height:1.2}
+.draft{font-size:11px;font-weight:500;letter-spacing:.08em;text-transform:uppercase;padding:5px 10px;border-radius:999px;background:var(--max-soft);color:var(--gold-text);border:1px solid rgba(225,172,35,.45)}
+.spacer{flex:1}
+.filter{display:inline-flex;align-items:center;gap:4px;padding:4px;border:1px solid var(--line2);border-radius:999px;max-width:100%;overflow-x:auto}
+.filter__lbl{font-size:12px;color:var(--fg2);padding:0 6px 0 10px}
+.filter button{display:inline-flex;align-items:center;gap:6px;min-height:34px;padding:0 12px;border-radius:999px;font-size:13px;font-weight:500;transition:background-color .2s,color .2s}
+.filter button svg{width:22px;height:22px}
+.filter button[aria-pressed="true"]{background:var(--fg);color:var(--bg)}
+.iconbtn{display:inline-flex;align-items:center;gap:8px;min-height:40px;padding:0 14px;border-radius:var(--r-sm);border:1px solid var(--line2);font-size:13px;font-weight:500}
+.iconbtn:hover{border-color:var(--fg)}
+
+.stage{overflow-y:auto;overflow-x:hidden;position:relative;scroll-behavior:smooth}
+.slide{min-height:100%;padding-block:clamp(24px,4vh,48px) 40px}
+.slide:not([hidden]){animation:in .35s cubic-bezier(.2,.7,.2,1) both}
+@keyframes in{from{transform:translateY(6px)}to{transform:none}}
+
+.nav{border-top:1px solid var(--line);background:var(--bg)}
+.nav__in{display:flex;align-items:center;gap:16px;padding-block:10px}
+.navbtn{display:inline-flex;align-items:center;gap:8px;min-height:44px;padding:0 18px;border-radius:var(--r-sm);font-size:14px;font-weight:500;border:1px solid var(--line2);white-space:nowrap}
+.navbtn--next{background:var(--purple);color:#fff;border-color:var(--purple);box-shadow:0 7px 24px 0 rgba(104,1,254,.28)}
+.navbtn--next:hover{background:#7a15ff}
+.navbtn:disabled{opacity:.35;cursor:default;box-shadow:none}
+.navmid{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
+.navmid__txt{display:flex;justify-content:space-between;gap:12px;font-size:12px;color:var(--fg2)}
+.navmid__txt b{font-weight:500;color:var(--fg);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.count{font-variant-numeric:tabular-nums;white-space:nowrap}
+.prog{height:4px;background:var(--line);border-radius:4px;overflow:hidden}
+.prog i{display:block;height:100%;width:0;background:var(--grad-text);transition:width .3s}
+
+/* Type */
+.eyebrow{display:inline-flex;align-items:center;gap:12px;font-size:11px;font-weight:700;letter-spacing:.2em;text-transform:uppercase;color:var(--orange)}
+.eyebrow::before{content:"";width:24px;height:1px;background:currentColor;opacity:.7}
+.h-title{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:clamp(24px,3.2vw,44px);line-height:1.12;letter-spacing:0;text-wrap:balance;max-width:24ch}
+.em{background:var(--grad-text);-webkit-background-clip:text;background-clip:text;-webkit-text-fill-color:transparent;color:transparent;padding:0 .06em}
+.lead{font-size:clamp(16px,1.35vw,20px);font-weight:300;color:var(--fg2);max-width:62ch}
+.head{display:flex;flex-direction:column;gap:14px;margin-bottom:clamp(20px,3vh,36px)}
+.meta{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
+.chip{display:inline-flex;align-items:center;gap:8px;padding:6px 12px;border-radius:999px;font-size:12px;font-weight:500;letter-spacing:.06em;text-transform:uppercase;border:1px solid var(--line2);color:var(--fg)}
+.chip--purple{background:var(--purple-soft);border-color:rgba(104,1,254,.30);color:var(--purple-text)}
+.chip--time{font-variant-numeric:tabular-nums}
+
+/* Cards */
+.card{background:var(--surface);border:1px solid var(--line);border-radius:var(--r-lg);padding:clamp(18px,2vw,28px);box-shadow:var(--shadow);min-width:0}
+.card--halo{position:relative;overflow:hidden}
+.card--halo::before{content:"";position:absolute;inset:0;background:radial-gradient(520px circle at 0% 0%,var(--halo),transparent 45%);pointer-events:none}
+.card h3{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:clamp(15px,1.2vw,18px);line-height:1.25;margin-bottom:8px}
+.card p{color:var(--fg2);font-size:15px}
+.grid{display:grid;gap:16px}
+.g2{grid-template-columns:repeat(2,minmax(0,1fr))}
+.g3{grid-template-columns:repeat(3,minmax(0,1fr))}
+.g5{grid-template-columns:repeat(5,minmax(0,1fr))}
+
+/* Cover */
+.cover{background:var(--ink);color:var(--on-ink);border-radius:var(--r-lg);padding:clamp(28px,5vw,64px);position:relative;overflow:hidden;display:grid;grid-template-columns:minmax(0,1fr);align-items:end;border:1px solid var(--ink-line)}
+.tbd{min-height:62vh;display:grid;place-items:center;border:1.5px dashed var(--line2);border-radius:var(--r-lg);background:var(--surface);font-family:var(--font-h);text-transform:uppercase;font-size:clamp(32px,5vw,72px);color:var(--fg3);letter-spacing:.04em}
+.cover::before{content:"";position:absolute;inset:0;background:radial-gradient(800px circle at 0% 0%,rgba(104,1,254,.35),transparent 50%),radial-gradient(600px circle at 100% 100%,rgba(225,172,35,.16),transparent 50%);pointer-events:none}
+.cover > *{position:relative}
+.cover__logo{display:block;color:var(--on-ink);height:20px;width:auto;margin-bottom:clamp(28px,6vh,72px)}
+.cover h1{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:clamp(32px,5.4vw,78px);line-height:1.04;text-wrap:balance;margin-block:16px 22px}
+.cover .lead{color:var(--on-ink-2)}
+.cover__facts{display:flex;flex-wrap:wrap;gap:8px;margin-top:26px}
+.cover__facts span{padding:7px 14px;border:1px solid var(--ink-line);border-radius:999px;font-size:13px;color:var(--on-ink)}
+.cover__team{display:flex;gap:10px;margin-top:28px}
+.cover__team svg{width:64px;height:64px}
+.cover__team svg{--surface:var(--ink)}
+.cover .a-otto{--a:var(--on-ink);--a-on:var(--ink)}
+.qrbox{background:#F6F6F4;color:#131313;border-radius:var(--r-md);padding:18px;display:flex;flex-direction:column;gap:12px;align-items:flex-start;max-width:280px;justify-self:end;width:100%}
+.qr{width:150px;height:150px;display:grid;place-items:center;background:#F6F6F4}
+.qr img,.qr canvas,.qr svg{width:150px!important;height:150px!important}
+.qrbox b{font-weight:600;font-size:14px}
+.qrbox small{font-size:12px;color:#57575A;word-break:break-all}
+.qr--pending{border:1.5px dashed rgba(19,19,19,.3);border-radius:10px;font-size:12px;color:#57575A;text-align:center;padding:10px}
+
+/* Agenda */
+.agenda{display:grid;grid-template-columns:minmax(0,1fr);gap:0;border:1px solid var(--line);border-radius:var(--r-lg);background:var(--surface);overflow:hidden}
+.agenda li{display:grid;grid-template-columns:90px minmax(0,220px) minmax(0,1fr) auto;gap:16px;align-items:center;padding:13px 22px;border-top:1px solid var(--line)}
+.agenda li:first-child{border-top:0}
+.agenda .t{font-variant-numeric:tabular-nums;font-weight:500}
+.agenda .b{font-weight:500}
+.agenda .d{color:var(--fg2);font-size:15px}
+.agenda li.hands{background:var(--purple-soft)}
+.agenda .tag{font-size:11px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--purple-text);white-space:nowrap}
+
+/* LAB 1 -> 2 */
+.bridge{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:16px;align-items:stretch}
+.bridge__arrow{display:grid;place-items:center;color:var(--fg3)}
+.bridge__arrow svg{width:40px;height:40px}
+.lab-num{font-family:var(--font-h);font-size:13px;letter-spacing:.06em;color:var(--fg3);margin-bottom:14px;display:block}
+.big-line{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:clamp(18px,1.8vw,26px);line-height:1.2;margin-bottom:12px}
+
+/* Pieces */
+.piece{display:flex;flex-direction:column;gap:10px}
+.piece__ico{width:44px;height:44px;border-radius:12px;display:grid;place-items:center;background:var(--purple-soft);color:var(--purple-text)}
+.piece__ico svg{width:22px;height:22px}
+.piece__where{margin-top:auto;font-family:var(--font-m);font-size:12.5px;color:var(--fg);background:var(--code-bg);padding:6px 9px;border-radius:6px;align-self:flex-start;word-break:break-word}
+
+/* Agents */
+.agents{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:12px}
+.agent{border-radius:var(--r-lg);border:1px solid var(--line);background:var(--surface);overflow:hidden;box-shadow:var(--shadow);display:flex;flex-direction:column;min-width:0}
+.agent__top{display:flex;align-items:center;gap:12px;padding:16px;background:var(--a-soft);border-bottom:3px solid var(--a)}
+.agent__top svg{width:56px;height:56px;flex:none}
+.agent__name{font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:clamp(17px,1.5vw,22px);line-height:1;color:var(--a-text)}
+.agent__role{font-size:13px;font-weight:500;color:var(--fg);margin-top:6px}
+.agent__tag{font-size:13px;color:var(--fg2)}
+.agent__body{padding:14px 16px 18px;display:flex;flex-direction:column;gap:12px}
+.kv{display:grid;grid-template-columns:72px minmax(0,1fr);gap:10px;font-size:14.5px}
+.kv dt{font-size:11px;font-weight:600;letter-spacing:.1em;text-transform:uppercase;color:var(--fg3);padding-top:3px}
+.kv dd{margin:0;color:var(--fg2)}
+.agent .kv{grid-template-columns:minmax(0,1fr);gap:2px}
+.agent .kv dd{margin-bottom:10px;font-size:14px}
+.a-clara{--a:var(--clara);--a-on:var(--clara-on);--a-text:var(--clara-text);--a-soft:var(--clara-soft)}
+.a-max{--a:var(--max);--a-on:var(--max-on);--a-text:var(--max-text);--a-soft:var(--max-soft)}
+.a-otto{--a:var(--otto);--a-on:var(--otto-on);--a-text:var(--otto-text);--a-soft:var(--otto-soft)}
+.a-mara{--a:var(--mara);--a-on:var(--mara-on);--a-text:var(--mara-text);--a-soft:var(--mara-soft)}
+.a-diana{--a:var(--diana);--a-on:var(--diana-on);--a-text:var(--diana-text);--a-soft:var(--diana-soft)}
+
+/* Steps */
+.instr{display:flex;flex-direction:column;gap:10px;counter-reset:s}
+.instr li{display:grid;grid-template-columns:30px minmax(0,1fr);gap:12px;align-items:start;font-size:clamp(15px,1.15vw,17px)}
+.instr li::before{counter-increment:s;content:counter(s);width:28px;height:28px;border-radius:50%;display:grid;place-items:center;font-size:13px;font-weight:600;background:var(--fg);color:var(--bg)}
+.kbd{font-family:var(--font-m);font-size:.88em;background:var(--code-bg);padding:2px 7px;border-radius:5px;white-space:nowrap}
+.cols{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:16px;align-items:stretch}
+.col{display:flex;flex-direction:column;border-radius:var(--r-lg);background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--a);box-shadow:var(--shadow);min-width:0}
+.col__head{display:flex;align-items:center;gap:12px;padding:14px 18px 6px}
+.col__head svg{width:46px;height:46px;flex:none}
+.col__name{font-family:var(--font-h);text-transform:uppercase;font-size:18px;line-height:1;color:var(--a-text)}
+.col__role{font-size:12.5px;color:var(--fg2);margin-top:4px}
+.col__body{padding:10px 18px 18px;display:flex;flex-direction:column;gap:12px;flex:1}
+.prompt{position:relative;background:var(--a-soft);border:1px solid var(--line);border-radius:var(--r-md);padding:14px 14px 52px;min-width:0}
+.prompt--solo{--a-soft:var(--purple-soft)}
+.ptext{margin:0;white-space:pre-wrap;word-break:break-word;font-family:var(--font-b);font-weight:400;font-size:clamp(14.5px,1.1vw,17px);line-height:1.5;color:var(--fg)}
+.copy{position:absolute;right:10px;bottom:10px;display:inline-flex;align-items:center;gap:7px;min-height:34px;padding:0 13px;border-radius:var(--r-sm);font-size:13px;font-weight:500;background:var(--fg);color:var(--bg);transition:transform .15s}
+.copy:hover{transform:translateY(-1px)}
+.copy svg{width:15px;height:15px}
+.copy.done{background:#2ECC71;color:#0b2a17}
+.check{display:grid;grid-template-columns:22px minmax(0,1fr);gap:8px;font-size:14px;color:var(--fg2);margin-top:auto}
+.check svg{width:20px;height:20px;color:#1E9E55}
+.note{display:flex;gap:12px;align-items:flex-start;margin-top:18px;padding:14px 18px;border-radius:var(--r-md);border:1px dashed var(--line2);font-size:15px;color:var(--fg2)}
+.note b{color:var(--fg);font-weight:500}
+.split{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr);gap:clamp(18px,3vw,40px);align-items:start}
+.inline-copy{display:inline-flex;align-items:center;gap:8px;flex-wrap:wrap}
+.inline-copy .copy{position:static;min-height:28px;padding:0 10px;font-size:12px}
+
+/* Filtro: un agente */
+.app[data-filter="mara"] .ag-pane:not(.a-mara),.app[data-filter="max"] .ag-pane:not(.a-max),.app[data-filter="clara"] .ag-pane:not(.a-clara),.app[data-filter="otto"] .ag-pane:not(.a-otto),.app[data-filter="diana"] .ag-pane:not(.a-diana){display:none}
+.app[data-filter="mara"] .agent:not(.a-mara),.app[data-filter="max"] .agent:not(.a-max),.app[data-filter="clara"] .agent:not(.a-clara),.app[data-filter="otto"] .agent:not(.a-otto),.app[data-filter="diana"] .agent:not(.a-diana){opacity:.35}
+.app[data-filter="none"] .ag-pane{display:none}
+.app:not([data-filter="none"]) .need-agent{display:none}
+.agent[data-f]{cursor:pointer;transition:opacity .2s,transform .2s}
+.agent[data-f]:hover{transform:translateY(-2px)}
+.need-agent{display:flex;flex-direction:column;gap:14px}
+.need-agent p{color:var(--fg2)}
+.need-agent b{color:var(--fg);font-weight:500}
+.need-agent__btns{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:10px}
+.pickbtn{display:flex;align-items:center;gap:10px;padding:10px 12px;border:1px solid var(--line2);border-top:4px solid var(--a);border-radius:var(--r-md);text-align:left;background:var(--surface)}
+.pickbtn:hover{background:var(--a-soft)}
+.pickbtn svg{width:40px;height:40px;flex:none}
+.pickbtn b{display:block;font-family:var(--font-h);font-weight:400;text-transform:uppercase;font-size:14px;color:var(--a-text)}
+.pickbtn small{font-size:12px;color:var(--fg2)}
+.ag-pane{display:flex;flex-direction:column;gap:14px;border-radius:var(--r-lg);background:var(--surface);border:1px solid var(--line);border-top:4px solid var(--a);box-shadow:var(--shadow);padding:14px 18px 18px}
+.ag-pane__h{display:flex;align-items:center;gap:12px}
+.ag-pane__h svg{width:46px;height:46px;flex:none}
+.tools{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px;align-items:stretch}
+.tools--one{grid-template-columns:minmax(0,1fr)}
+.tool{display:flex;flex-direction:column;gap:12px;min-width:0;padding:14px;border:1px solid var(--line);border-radius:var(--r-md);background:var(--bg)}
+.tool__h{display:flex;flex-wrap:wrap;align-items:center;gap:8px}
+.tbadge{display:inline-flex;align-items:center;min-height:26px;padding:0 10px;border-radius:999px;background:var(--fg);color:var(--bg);font-size:12px;font-weight:600;letter-spacing:.02em}
+.tool__same{font-size:12px;color:var(--fg3)}
+.tool__p{font-size:15px;color:var(--fg2)}
+.instr--sm li{font-size:15px}
+.agent--all{opacity:1!important}
+.found{min-height:72px;font-size:15px;color:var(--fg);border:1px dashed var(--line2);border-radius:var(--r-sm);padding:10px}
+.found:focus{outline:2px solid var(--a);outline-offset:2px}
+
+/* Level Up */
+.split--mid{align-items:center}
+.lu{position:relative;border-radius:var(--r-lg);overflow:hidden;border:1px solid var(--ink-line);background:#2C2477;box-shadow:var(--shadow);max-width:560px;width:100%;justify-self:end}
+.lu__vid{display:block;width:100%;aspect-ratio:1;object-fit:cover;image-rendering:pixelated}
+.lu__link{position:absolute;right:12px;bottom:12px;display:flex;align-items:center;gap:10px;padding:6px 6px 6px 14px;border-radius:999px;background:rgba(8,8,8,.82);color:#F6F6F4;font-size:14px;font-weight:500;backdrop-filter:blur(6px)}
+.lu__link .copy{position:static;min-height:30px;padding:0 12px;font-size:12px;background:#F6F6F4;color:#131313}
+/* Diapositivas con poco contenido: centradas en vertical */
+.slide:not([hidden]){display:flex;flex-direction:column}
+.slide > .wrap{margin-block:auto}
+
+/* Lists */
+.ticks{display:flex;flex-direction:column;gap:12px}
+.ticks li{display:grid;grid-template-columns:26px minmax(0,1fr);gap:10px;font-size:clamp(15px,1.15vw,17px)}
+.ticks li svg{width:22px;height:22px;color:var(--purple-text);margin-top:2px}
+.ticks b{font-weight:500}
+
+/* Index */
+.index{position:fixed;inset:0;z-index:20;background:rgba(8,8,8,.45);display:flex;justify-content:flex-end}
+.index__panel{width:min(420px,100%);height:100%;background:var(--bg);border-left:1px solid var(--line);overflow-y:auto;padding:max(18px,env(safe-area-inset-top,0px)) max(20px,env(safe-area-inset-right,0px)) max(24px,env(safe-area-inset-bottom,0px)) 20px}
+.index__top{display:flex;justify-content:space-between;align-items:center;margin-bottom:14px}
+.index__top b{font-family:var(--font-h);text-transform:uppercase;font-weight:400;font-size:16px}
+.index h4{font-size:11px;font-weight:600;letter-spacing:.14em;text-transform:uppercase;color:var(--fg3);margin:18px 0 6px}
+.index button.it{display:flex;gap:12px;width:100%;text-align:left;padding:9px 10px;border-radius:var(--r-sm);font-size:14.5px}
+.index button.it:hover{background:var(--purple-soft)}
+.index button.it[aria-current="true"]{background:var(--fg);color:var(--bg)}
+.index .n{font-variant-numeric:tabular-nums;color:var(--fg3);min-width:22px}
+.index button.it[aria-current="true"] .n{color:inherit;opacity:.7}
+
+@media (max-width:1000px){
+  .g5{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .cols{grid-template-columns:minmax(0,1fr)}
+  .agents,.need-agent__btns{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .tools{grid-template-columns:minmax(0,1fr)}
+  .cover{grid-template-columns:minmax(0,1fr)}
+  .qrbox{justify-self:start}
+  .split{grid-template-columns:minmax(0,1fr)}
+}
+@media (max-width:720px){
+  .g2,.g3,.g5,.agents,.need-agent__btns{grid-template-columns:minmax(0,1fr)}
+  .bridge{grid-template-columns:minmax(0,1fr)}
+  .bridge__arrow{transform:rotate(90deg)}
+  .agenda li{grid-template-columns:64px minmax(0,1fr);gap:4px 12px}
+  .agenda .d{grid-column:2}
+  .agenda .tag{grid-column:2}
+  .logo span,.filter__lbl,.navbtn .lbl{display:none}
+  .filter button{padding:0 9px}
+  .filter button .nm{display:none}
+}
+@media (prefers-reduced-motion:reduce){
+  .slide:not([hidden]){animation:none}
+  .stage{scroll-behavior:auto}
+  *{transition:none!important}
+}
+</style>
+
+<div class="app" id="app" data-filter="none">
+  <header class="bar">
+    <div class="bar__in wrap gutter">
+      <a class="logo" href="#portada" aria-label="Foxter LAB, ir a la portada">
+        <svg viewBox="0 0 446 60" aria-hidden="true"><g fill="currentColor"><path d="M14.9874 13.4124V23.6643H56.6009V36.335H14.9874V59.1614H0V0.824219H61.5967V13.4124H14.9874Z"/><path d="M65.5491 29.9175C65.5491 10.5818 76.5289 0 102.167 0C127.805 0 138.784 10.6642 138.784 29.9175C138.784 49.1709 127.708 60 102.167 60C76.625 60 65.5491 49.3358 65.5491 29.9175ZM123.811 29.9175C123.811 18.0852 117.813 12.5882 102.167 12.5882C86.5205 12.5882 80.5228 18.0027 80.5228 29.9175C80.5228 41.8323 86.6029 47.4118 102.167 47.4118C117.731 47.4118 123.811 41.8323 123.811 29.9175Z"/><path d="M168.554 29.9997L135.752 0.824219H156.394L178.696 20.8196L200.917 0.824219H221.641L188.853 29.9997L221.641 59.1751H200.917L178.696 39.1797L156.394 59.1751H135.752L168.54 29.9997H168.554Z"/><path d="M298.02 13.4124H269.719V59.1614H254.732V13.4124H226.432V0.824219H298.006V13.4124H298.02Z"/><path d="M433.36 41.832L444.092 59.1614H426.442L417.041 43.5773H392.899V59.1614H377.911V0.824219H423.697C436.928 0.824219 446 9.24841 446 22.2489C446 31.745 441.169 38.7537 433.346 41.832H433.36ZM392.913 31.0029H419.552C424.054 31.0029 431.04 31.0029 431.04 22.2489C431.04 13.4949 424.054 13.4124 419.552 13.4124H392.913V31.0029Z"/><path d="M370.816 23.665H304.649V36.3357H370.816V23.665Z"/><path d="M370.816 0.824219H304.649V13.4949H370.816V0.824219Z"/><path d="M370.816 46.4912H304.649V59.1618H370.816V46.4912Z"/></g></svg>
+        <span>LAB #2</span>
+      </a>
+      <span class="draft">Borrador</span>
+      <span class="spacer"></span>
+      <div class="filter" role="group" aria-label="Mostrar los prompts de">
+        <span class="filter__lbl">Mi agente</span>
+        <button type="button" id="f-mara" data-f="mara" aria-pressed="false"><span class="av-mini" data-av="mara"></span><span class="nm">Mara</span></button>
+        <button type="button" id="f-max" data-f="max" aria-pressed="false"><span class="av-mini" data-av="max"></span><span class="nm">Max</span></button>
+        <button type="button" id="f-clara" data-f="clara" aria-pressed="false"><span class="av-mini" data-av="clara"></span><span class="nm">Clara</span></button>
+        <button type="button" id="f-otto" data-f="otto" aria-pressed="false"><span class="av-mini" data-av="otto"></span><span class="nm">Otto</span></button>
+        <button type="button" id="f-diana" data-f="diana" aria-pressed="false"><span class="av-mini" data-av="diana"></span><span class="nm">Diana</span></button>
+      </div>
+      <button type="button" class="iconbtn" id="openIndex" aria-haspopup="dialog">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="1.8" aria-hidden="true"><path d="M4 6h16M4 12h16M4 18h10"/></svg>Índice
+      </button>
+    </div>
+  </header>
+
+  <main class="stage" id="stage" tabindex="-1"></main>
+
+  <footer class="nav">
+    <div class="nav__in wrap gutter">
+      <button type="button" class="navbtn" id="prev" aria-label="Diapositiva anterior">
+        <svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M15 6l-6 6 6 6"/></svg><span class="lbl">Anterior</span>
+      </button>
+      <div class="navmid">
+        <div class="navmid__txt"><b id="secName">Portada</b><span class="count" id="count">1 / 1</span></div>
+        <div class="prog"><i id="progBar"></i></div>
+      </div>
+      <button type="button" class="navbtn navbtn--next" id="next" aria-label="Diapositiva siguiente">
+        <span class="lbl">Siguiente</span><svg viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M9 6l6 6-6 6"/></svg>
+      </button>
+    </div>
+  </footer>
+</div>
+
+<div class="index" id="index" hidden role="dialog" aria-modal="true" aria-label="Índice de la guía">
+  <div class="index__panel">
+    <div class="index__top"><b>Índice</b><button type="button" class="iconbtn" id="closeIndex">Cerrar</button></div>
+    <div id="indexList"></div>
+  </div>
+</div>
+
+<script>
+(function(){
+"use strict";
+
+var REPO_URL = "https://github.com/foxter-io/foxter-lab-agentes";
+var LEVELUP_URL = "https://foxter-level-up.lovable.app";
+var KEYS = ["mara","max","clara","otto","diana"];
+var P = {"marketing": {"slug": "marketing", "nombre": "Mara", "area": "Marketing", "tarea": ["Dashboard de leads, coste por lead y conversión por canal y trimestre", "Crea un dashboard de los leads de los últimos 12 meses por canal: número de leads, coste por lead, conversión a oportunidad y a cliente, y coste por cliente. Guárdalo en salidas/marketing."], "mejora": "Propón cómo repartir el presupuesto del próximo trimestre entre canales, con los datos que lo justifican.", "trampa": "¿Cuántos seguidores tenemos en Instagram?", "prog": ["Mara · Leads de la semana", "cada lunes a las 9:00", "Usa la skill marketing y su formato de dashboard para revisar los leads de los últimos 7 días por canal, compáralos con la media de las 8 semanas anteriores y avisa si algún canal cae o sube más de un 30 %. Guarda el resultado en salidas/marketing."]}, "ventas": {"slug": "ventas", "nombre": "Max", "area": "Ventas", "tarea": ["Dashboard de oportunidades perdidas del último año por motivo, competidor, zona y comercial", "Crea un dashboard de las oportunidades perdidas en los últimos 12 meses, por motivo, competidor, zona y comercial. Guárdalo en salidas/ventas."], "mejora": "Añade la evolución por trimestre y por zona del ratio de éxito, y destaca qué ha cambiado.", "trampa": "¿Qué precio ofreció ClimaNova en la última oportunidad que perdimos?", "prog": ["Max · Oportunidades en riesgo", "cada lunes a las 9:00", "Usa la skill ventas y su formato de dashboard para revisar las oportunidades abiertas: las que tienen la fecha de cierre prevista en los próximos 30 días, las de zonas con más pérdidas recientes y la previsión del mes. Guarda el resultado en salidas/ventas."]}, "experiencia-cliente": {"slug": "experiencia-cliente", "nombre": "Clara", "area": "Experiencia de cliente", "tarea": ["Dashboard de incidencias y NPS por modelo, sector y zona, con los temas que más se repiten", "Crea un dashboard de las incidencias y el NPS de los últimos 12 meses por modelo de equipo, sector y zona, con los temas que más se repiten en los comentarios. Guárdalo en salidas/experiencia-cliente."], "mejora": "Propón cinco mejoras priorizadas, con cuántas incidencias evitaría cada una.", "trampa": "¿Qué opinan los clientes de nuestra app?", "prog": ["Clara · Clientes en riesgo", "cada lunes a las 9:00", "Usa la skill experiencia-cliente y su formato de dashboard para revisar las incidencias de los últimos 7 días y los clientes con dos o más averías en los últimos 90 días o con una puntuación de 6 o menos. Guarda el resultado en salidas/experiencia-cliente."]}, "operaciones": {"slug": "operaciones", "nombre": "Otto", "area": "Datos y operaciones", "tarea": ["Dashboard de equipos con consumo anómalo y lista de los que tienen riesgo de avería en 30 días", "Crea un dashboard de los equipos monitorizados con consumo anómalo y la lista de los que tienen riesgo de avería en los próximos 30 días. Guárdalo en salidas/operaciones."], "mejora": "Cruza las averías de los últimos 12 meses con las lecturas: ¿cuántas se podrían haber anticipado por la subida de consumo?", "trampa": "¿Qué temperatura hacía en la calle el día que falló el último equipo?", "prog": ["Otto · Equipos en alerta", "cada día laborable a las 8:00", "Usa la skill operaciones y su formato de dashboard para revisar las lecturas de los equipos monitorizados y lista los que tienen el consumo disparado o alguna alarma en los últimos 7 días. Guarda el resultado en salidas/operaciones."]}, "direccion": {"slug": "direccion", "nombre": "Diana", "area": "Dirección", "tarea": ["Informe para el comité: facturación, margen, ventas y NPS, con tres decisiones recomendadas", "Crea un informe para el comité de dirección con la facturación, el margen, las ventas y el NPS de los últimos 12 meses, comparados con los 12 anteriores, y tres decisiones recomendadas. Guárdalo en salidas/direccion como un único archivo HTML."], "mejora": "Explica por qué cae el margen aunque la facturación crece: qué coste lo explica y de dónde viene.", "trampa": "¿Cuánto vale la empresa?", "prog": ["Diana · Informe mensual", "el primer día laborable de cada mes a las 8:00", "Usa la skill direccion y su formato de informe para preparar el informe del mes anterior para el comité: facturación, margen, ventas, NPS y tres alertas. Guárdalo en salidas/direccion."]}};
+var AG = {
+  mara:{slug:"marketing", name:"Mara", role:"Marketing", tag:"Sabe qué canal trae clientes, no solo contactos",
+    forwho:"Marketing, contenido y eventos",
+    does:"Analiza leads y campañas: qué canal trae clientes de verdad y cuánto cuesta cada uno.",
+    data:"4.000 leads y 60 campañas de los últimos 24 meses.",
+    gives:"Un dashboard de leads, coste y conversión por canal.",
+    c3b:"Se abre un dashboard con leads, coste por lead y conversión por canal, y te resume en el chat qué ha encontrado y por qué.",
+    c3c:"Propone un reparto del presupuesto y explica con qué datos lo justifica."},
+  max:{slug:"ventas", name:"Max", role:"Ventas", tag:"No deja escapar ninguna oportunidad",
+    forwho:"Negocio, CRM y fundadores",
+    does:"Analiza el pipeline: por qué se ganan y se pierden las oportunidades.",
+    data:"609 oportunidades y 1.264 clientes.",
+    gives:"Un dashboard de oportunidades perdidas por motivo, competidor, zona y comercial.",
+    c3b:"Se abre un dashboard con las pérdidas por motivo, competidor, zona y comercial, y te resume en el chat qué ha encontrado y por qué.",
+    c3c:"El dashboard muestra cómo ha cambiado el ratio de éxito por trimestre y por zona."},
+  clara:{slug:"experiencia-cliente", name:"Clara", role:"Experiencia de cliente", tag:"Escucha lo que los clientes repiten",
+    forwho:"Producto, diseño y servicio",
+    does:"Analiza incidencias y encuestas para encontrar los problemas que más se repiten.",
+    data:"2.709 incidencias, 1.447 encuestas y 800 equipos.",
+    gives:"Un dashboard de incidencias y satisfacción por modelo, sector y zona.",
+    c3b:"Se abre un dashboard con incidencias y NPS por modelo, sector y zona, y te resume en el chat qué ha encontrado y por qué.",
+    c3c:"Propone cinco mejoras ordenadas por prioridad, con las incidencias que evitaría cada una."},
+  otto:{slug:"operaciones", name:"Otto", role:"Datos y operaciones", tag:"Ve la avería antes de que ocurra",
+    forwho:"Ingeniería, datos e IA",
+    does:"Analiza las lecturas diarias de los equipos para detectar consumos anómalos.",
+    data:"52.938 lecturas diarias de 149 equipos.",
+    gives:"Un dashboard de equipos con riesgo de avería.",
+    c3b:"Se abre un dashboard con los equipos en riesgo, ordenados por subida de consumo, y te resume en el chat qué ha encontrado y por qué.",
+    c3c:"Te dice cuántas averías avisaban antes con una subida de consumo."},
+  diana:{slug:"direccion", name:"Diana", role:"Dirección", tag:"Convierte los datos en decisiones",
+    forwho:"CEO, fundadores y dirección",
+    does:"Prepara la visión de conjunto para el comité: facturación, margen, ventas y satisfacción.",
+    data:"4.526 facturas, más ventas y encuestas.",
+    gives:"Un informe para el comité con tres decisiones recomendadas.",
+    c3b:"Se abre un informe que compara los últimos 12 meses con los anteriores, con tres decisiones, y te resume en el chat qué ha encontrado y por qué.",
+    c3c:"Te explica qué coste hace caer el margen y de dónde viene."}
+};
+KEYS.forEach(function(k){ var p = P[AG[k].slug]; AG[k].p = p; });
+
+function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c];});}
+
+/* Avatares: misma estructura, un icono propio en la cabeza */
+function avatar(key){
+  var icon = {
+    mara:"<path d='M50 17h6l11-6v22l-11-6h-6z' fill='var(--a)'/><path d='M53 27l2 6' stroke='var(--a)' stroke-width='3' stroke-linecap='round'/>",
+    max:"<rect x='49' y='24' width='5' height='7' rx='1' fill='var(--a)'/><rect x='57.5' y='19' width='5' height='12' rx='1' fill='var(--a)'/><rect x='66' y='13' width='5' height='18' rx='1' fill='var(--a)'/>",
+    clara:"<path d='M49 14h22a3 3 0 0 1 3 3v9a3 3 0 0 1-3 3h-12l-6 5v-5h-4a3 3 0 0 1-3-3v-9a3 3 0 0 1 3-3z' fill='var(--a)'/>",
+    otto:"<circle cx='60' cy='22' r='6' fill='none' stroke='var(--a)' stroke-width='4'/><path d='M60 11v4M60 29v4M49 22h4M67 22h4M52.2 14.2l2.8 2.8M65 27l2.8 2.8M52.2 29.8l2.8-2.8M65 17l2.8-2.8' stroke='var(--a)' stroke-width='3.4' stroke-linecap='round'/>",
+    diana:"<circle cx='60' cy='22' r='10' fill='none' stroke='var(--a)' stroke-width='3'/><path d='M64.5 17.5l-3 6.5-6 3 3-6.5z' fill='var(--a)'/>"
+  }[key];
+  return "<svg class='a-"+key+"' viewBox='0 0 120 120' aria-hidden='true'>"+
+    "<line x1='60' y1='38' x2='60' y2='44' stroke='var(--a)' stroke-width='4' stroke-linecap='round'/>"+
+    "<circle cx='60' cy='22' r='17' fill='var(--surface)' stroke='var(--a)' stroke-width='3.5'/>"+icon+
+    "<rect x='20' y='44' width='80' height='66' rx='22' fill='var(--a)'/>"+
+    "<rect x='12' y='66' width='10' height='22' rx='5' fill='var(--a)'/><rect x='98' y='66' width='10' height='22' rx='5' fill='var(--a)'/>"+
+    "<circle cx='46' cy='72' r='7' fill='var(--a-on)'/><circle cx='74' cy='72' r='7' fill='var(--a-on)'/>"+
+    "<circle cx='47.5' cy='73.5' r='3' fill='var(--a)'/><circle cx='75.5' cy='73.5' r='3' fill='var(--a)'/>"+
+    "<path d='M50 91q10 7 20 0' fill='none' stroke='var(--a-on)' stroke-width='3.5' stroke-linecap='round'/>"+
+    "</svg>";
+}
+function team(){ return "<div class='cover__team'>"+KEYS.map(avatar).join("")+"</div>"; }
+
+var ICO = {
+  check:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2.2' aria-hidden='true'><circle cx='12' cy='12' r='9'/><path d='M8 12.5l2.7 2.7L16 9.8'/></svg>",
+  copy:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='2' aria-hidden='true'><rect x='9' y='9' width='11' height='11' rx='2'/><path d='M5 15V5a1 1 0 0 1 1-1h10'/></svg>",
+  arrow:"<svg viewBox='0 0 40 40' fill='none' stroke='currentColor' stroke-width='2' aria-hidden='true'><path d='M6 20h26M24 12l8 8-8 8'/></svg>",
+  role:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8'><circle cx='12' cy='8' r='3.5'/><path d='M5 20c1.2-3.6 3.8-5.5 7-5.5s5.8 1.9 7 5.5'/></svg>",
+  know:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8'><path d='M3 7a2 2 0 0 1 2-2h4l2 2h8a2 2 0 0 1 2 2v8a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z'/></svg>",
+  proc:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8'><path d='M8 6h12M8 12h12M8 18h12'/><circle cx='4' cy='6' r='1.2' fill='currentColor'/><circle cx='4' cy='12' r='1.2' fill='currentColor'/><circle cx='4' cy='18' r='1.2' fill='currentColor'/></svg>",
+  tools:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8'><path d='M14.7 6.3a4 4 0 0 0-5.4 5.4L4 17v3h3l5.3-5.3a4 4 0 0 0 5.4-5.4l-2.6 2.6-2.4-.6-.6-2.4z'/></svg>",
+  trig:"<svg viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.8'><circle cx='12' cy='13' r='8'/><path d='M12 9v4l3 2M9 2h6'/></svg>"
+};
+
+function prompt(text, solo){
+  return "<div class='prompt"+(solo?" prompt--solo":"")+"'><pre class='ptext'>"+esc(text)+"</pre>"+
+    "<button type='button' class='copy' data-copy>"+ICO.copy+"<span>Copiar</span></button></div>";
+}
+function check(text){ return "<p class='check'>"+ICO.check+"<span>"+esc(text)+"</span></p>"; }
+function head(o){
+  var meta = "";
+  if(o.chip) meta += "<span class='chip chip--purple'>"+esc(o.chip)+"</span>";
+  if(o.time) meta += "<span class='chip chip--time'>"+esc(o.time)+"</span>";
+  return "<div class='head'>"+(meta?"<div class='meta'>"+meta+"</div>":"")+
+    "<h2 class='h-title'>"+o.title+"</h2>"+(o.lead?"<p class='lead'>"+o.lead+"</p>":"")+"</div>";
+}
+function picker(){
+  return "<div class='need-agent card'><p><b>Elige tu agente</b> para ver sus instrucciones. Puedes cambiarlo cuando quieras arriba, en «Mi agente».</p>"+
+    "<div class='need-agent__btns'>"+KEYS.map(function(k){return "<button type='button' class='pickbtn a-"+k+"' data-f='"+k+"'>"+avatar(k)+"<span><b>"+AG[k].name+"</b><small>"+AG[k].role+"</small></span></button>";}).join("")+"</div></div>";
+}
+/* Bloque por herramienta. t = {claude:html, codex:html} o {both:html} */
+function tools(t){
+  if(t.both) return "<div class='tools tools--one'><div class='tool'><div class='tool__h'><span class='tbadge'>Claude Code</span><span class='tbadge'>Codex</span><span class='tool__same'>Igual en las dos</span></div>"+t.both+"</div></div>";
+  return "<div class='tools'>"+
+    "<div class='tool'><div class='tool__h'><span class='tbadge'>Claude Code</span></div>"+t.claude+"</div>"+
+    "<div class='tool'><div class='tool__h'><span class='tbadge'>Codex</span></div>"+t.codex+"</div></div>";
+}
+/* Paso con un panel por agente; solo se ve el del agente elegido */
+function step(fn){
+  return picker()+KEYS.map(function(k){var a = AG[k];
+    return "<article class='ag-pane a-"+k+"'><div class='ag-pane__h'>"+avatar(k)+"<div><div class='col__name'>"+a.name+"</div><div class='col__role'>"+a.role+"</div></div></div>"+fn(a,k)+"</article>";
+  }).join("");
+}
+
+/* ---------- Diapositivas ---------- */
+var S = [];
+function add(id, sec, label, html){ S.push({id:id, sec:sec, label:label, html:html}); }
+
+add("portada","Bienvenida","Portada",
+  "<div class='cover'><div>"+
+    "<svg class='cover__logo' viewBox='0 0 446 60' aria-hidden='true'><use href='#'/></svg>"+
+    "<span class='eyebrow'>Foxter LAB #2</span>"+
+    "<h1>Crea tu primer <span class='em'>agente</span> de IA</h1>"+
+    "<p class='lead'>Dos horas para pasar de pedirle cosas a la IA a tener un agente que trabaja solo.</p>"+
+    "<div class='cover__facts'><span>Jueves 26 de noviembre</span><span>18:30 – 21:00</span><span>Barcelona</span></div>"+
+    team()+
+  "</div></div>");
+
+add("agenda","Bienvenida","Agenda",
+  head({title:"Así van a ser las <span class='em'>dos horas</span>"})+
+  "<ol class='agenda'>"+[
+    ["18:30","Bienvenida","Del LAB #1 al LAB #2",""],
+    ["18:40","Level Up","¿Hasta dónde llega tu IA?",""],
+    ["18:55","Qué es un agente","Las cinco piezas",""],
+    ["19:00","Paso 1 · Prepara el entorno","Clona el repositorio y ábrelo en Claude Code o Codex","hands"],
+    ["19:10","Paso 2 · Tu agente","Mara, Max, Clara, Otto o Diana","hands"],
+    ["19:15","Paso 3 · Constrúyelo","Crea su skill, pruébalo y mejóralo","hands"],
+    ["19:50","Paso 4 · Dale autonomía","Que trabaje solo con una tarea programada","hands"],
+    ["20:10","Cinco agentes, una empresa","Lo que han descubierto juntos",""],
+    ["20:15","Demo de Foxter","Agentes conectados a herramientas reales",""],
+    ["20:30","Cierre","Preguntas abiertas",""],
+    ["20:35","Networking","Hasta las 21:00",""]
+  ].map(function(r){return "<li class='"+r[3]+"'><span class='t'>"+r[0]+"</span><span class='b'>"+r[1]+"</span><span class='d'>"+r[2]+"</span><span class='tag'>"+(r[3]?"Manos a la obra":"")+"</span></li>";}).join("")+"</ol>");
+
+add("lab1","Bienvenida","Del LAB #1 al LAB #2",
+  head({title:"Del Second Brain a tu primer <span class='em'>agente</span>", lead:"En el LAB #1 construimos un Second Brain: una carpeta de notas que la IA lee y consulta. Hoy damos el siguiente paso. No hace falta que vinieras: hoy te damos todo hecho."})+
+  "<div class='bridge'>"+
+    "<div class='card'><span class='lab-num'>LAB #1 · Octubre</span><p class='big-line'>La IA <span class='em'>sabe</span></p><p>Le das contexto en una carpeta y te responde con lo que hay en ella.</p></div>"+
+    "<div class='bridge__arrow'>"+ICO.arrow+"</div>"+
+    "<div class='card card--halo'><span class='lab-num'>LAB #2 · Hoy</span><p class='big-line'>La IA <span class='em'>trabaja</span></p><p>Le das un rol, un procedimiento y un horario, y hace la tarea sin que se lo pidas.</p></div>"+
+  "</div>");
+
+add("level-up","Bienvenida","Level Up",
+  "<div class='split split--mid'><div>"+head({chip:"Level Up", time:"10 min", title:"¿Hasta dónde llega <span class='em'>tu IA</span>?", lead:"Diez preguntas en forma de carrera. Al final verás en qué punto del circuito estás y qué te falta para llegar al castillo."})+
+  "<ol class='instr'>"+
+    "<li><span>Abre el enlace en tu ordenador.</span></li>"+
+    "<li><span>Responde a las 10 preguntas pensando en tu día a día real.</span></li>"+
+    "<li><span>Al final, pasa el ratón por cada checkpoint para ver qué añadir a tu stack.</span></li>"+
+  "</ol></div>"+
+  "<div class='lu'><video class='lu__vid' src='levelup-carrera.mp4' poster='levelup-carrera.jpg' autoplay muted loop playsinline aria-label='Vista de la carrera del Level Up'></video>"+
+  "<div class='lu__link'><span>"+esc(LEVELUP_URL.replace("https://",""))+"</span><button type='button' class='copy' data-copy-text='"+esc(LEVELUP_URL)+"'>"+ICO.copy+"<span>Copiar</span></button></div></div></div>");
+
+add("piezas","Qué es un agente","Las cinco piezas",
+  head({title:"Un agente tiene <span class='em'>cinco</span> piezas"})+
+  "<div class='grid g5'>"+[
+    ["role","Rol","Quién es y para qué sirve."],
+    ["know","Conocimiento","Lo que sabe de tu negocio: sus datos."],
+    ["proc","Procedimiento","Cómo trabaja, paso a paso: su skill."],
+    ["tools","Herramientas","Leer archivos, calcular, escribir resultados."],
+    ["trig","Disparador","Cuándo actúa sin que se lo pidas."]
+  ].map(function(p){return "<div class='card piece'><span class='piece__ico'>"+ICO[p[0]]+"</span><h3>"+p[1]+"</h3><p>"+p[2]+"</p></div>";}).join("")+"</div>"+
+  "<p class='note'><b>La diferencia con un chat:</b> en un chat tú preguntas y la IA responde. Un agente tiene un trabajo, sabe cómo hacerlo y lo hace cuando toca.</p>");
+
+add("brisa","Paso 1 · Prepara el entorno","Hoy trabajas en Brisa Clima",
+  "<div class='split'><div>"+head({title:"Hoy trabajas en <span class='em'>Brisa Clima</span>", lead:"Una empresa ficticia de climatización con dos años de datos: clientes, ventas, campañas, equipos, incidencias, encuestas y facturas. Miles de filas, todas inventadas, para que tu agente trabaje con algo parecido a la realidad."})+"</div>"+
+  "<div class='card card--halo'><h3>Brisa Clima</h3><dl class='kv' style='margin-top:14px'>"+
+    "<dt>Qué es</dt><dd>Instala y mantiene climatización para oficinas, hoteles, comercios y clínicas.</dd>"+
+    "<dt>Dónde</dt><dd>Barcelona y su área metropolitana.</dd>"+
+    "<dt>Tú</dt><dd>Formas parte de su equipo, en el área de tu agente.</dd>"+
+    "<dt>Datos</dt><dd>24 meses y más de 60.000 filas en 9 archivos.</dd>"+
+  "</dl></div></div>");
+
+add("paso-1","Paso 1 · Prepara el entorno","Prepara el entorno",
+  head({chip:"Paso 1", time:"10 min", title:"Prepara tu <span class='em'>entorno</span>"})+
+  "<div class='split'><div><ol class='instr'>"+
+    "<li><span>Abre <b>GitHub Desktop</b> y ve a <span class='kbd'>File › Clone repository</span>.</span></li>"+
+    "<li><span>En la pestaña <span class='kbd'>URL</span>, pega esta dirección y pulsa <span class='kbd'>Clone</span>:<br><span class='inline-copy' style='margin-top:8px'><span class='kbd'>"+esc(REPO_URL)+"</span><button type='button' class='copy' data-copy-text='"+esc(REPO_URL)+"'>"+ICO.copy+"<span>Copiar</span></button></span></span></li>"+
+    "<li><span>Abre la carpeta <span class='kbd'>foxter-lab-agentes</span> en tu herramienta (a la derecha) y pega el prompt.</span></li>"+
+  "</ol></div><div>"+
+  tools({claude:"<p class='tool__p'>App de Claude › pestaña <span class='kbd'>Code</span> › selecciona la carpeta.</p>", codex:"<p class='tool__p'>App de Codex › añade la carpeta como proyecto.</p>"})+
+  "<div style='margin-top:14px'>"+prompt("Lee el README de este repositorio y dime en tres líneas qué contiene y qué agentes puedo crear.", true)+"</div>"+
+  "<div style='margin-top:14px'>"+check("Te dice qué contiene el repositorio y qué cinco agentes puedes crear.")+"</div></div></div>");
+
+add("agentes","Paso 2 · Tu agente","Conoce a los cinco agentes",
+  head({title:"Conoce a tu <span class='em'>agente</span>", lead:"Los cinco trabajan para Brisa Clima, cada uno en un área. Selecciona el tuyo arriba, en «Mi agente», y la guía te mostrará solo sus instrucciones."})+
+  "<div class='agents'>"+KEYS.map(function(k){var a=AG[k];
+    return "<article class='agent a-"+k+"' data-f='"+k+"' role='button' tabindex='0'><div class='agent__top'>"+avatar(k)+"<div><div class='agent__name'>"+a.name+"</div><div class='agent__role'>"+a.role+"</div></div></div>"+
+    "<dl class='agent__body kv'><dt>Para</dt><dd>"+a.forwho+"</dd><dt>Hace</dt><dd>"+a.does+"</dd><dt>Usa</dt><dd>"+a.data+"</dd><dt>Entrega</dt><dd>"+a.gives+"</dd></dl></article>";}).join("")+"</div>");
+
+add("paso-2","Paso 2 · Tu agente","Presenta a tu agente",
+  head({chip:"Paso 2", time:"5 min", title:"Presenta a tu <span class='em'>agente</span>", lead:"Copia el prompt. Tu herramienta leerá la ficha del agente y te explicará qué va a hacer."})+
+  step(function(a){ return tools({both: prompt("Quiero crear a "+a.name+", el agente de "+a.role.toLowerCase()+". Lee su ficha en agentes/"+a.slug+"/FICHA.md y explícame en cinco líneas qué hará, qué datos usará y qué me entregará.")+check("Te explica qué datos usará "+a.name+" y qué te entregará.")}); }));
+
+add("paso-3a","Paso 3 · Constrúyelo","3a · Crea su skill",
+  head({chip:"Paso 3a", time:"10 min", title:"Escribe su <span class='em'>manual</span> de trabajo", lead:"La skill es el documento que el agente lee cada vez que trabaja: quién es, qué datos usa y cómo hace su tarea. Cada herramienta la guarda en su carpeta."})+
+  step(function(a){
+    var base = function(dir){ return "Crea la skill de "+a.name+" en "+dir+"/"+a.slug+"/SKILL.md a partir de su ficha (agentes/"+a.slug+"/FICHA.md). Incluye su rol, los datos que usa, los pasos que sigue, el formato de lo que entrega y las reglas. Enséñamela antes de guardarla."; };
+    return tools({claude: prompt(base(".claude/skills")), codex: prompt(base(".agents/skills"))})+check("Ves la skill completa. Si te encaja, responde «Guárdala».");
+  }));
+
+add("paso-3b","Paso 3 · Constrúyelo","3b · Pruébalo",
+  head({chip:"Paso 3b", time:"10 min", title:"Ponlo a <span class='em'>trabajar</span>", lead:"Primera tarea con miles de filas de datos. Tarda unos minutos: el agente calcula con tu ordenador y te deja un dashboard. Ábrelo con doble clic desde la carpeta salidas/."})+
+  step(function(a){ return tools({both: prompt("Usa la skill "+a.slug+". "+a.p.tarea[1])+check(a.c3b)}); }));
+
+add("paso-3c","Paso 3 · Constrúyelo","3c · Mejóralo",
+  head({chip:"Paso 3c", time:"10 min", title:"Pídele <span class='em'>más</span>", lead:"Un buen agente no se queda en la primera respuesta. Pídele que profundice: partirá del dashboard que ya tiene."})+
+  step(function(a){ return tools({both: prompt(a.p.mejora)+check(a.c3c)}); }));
+
+add("paso-3d","Paso 3 · Constrúyelo","3d · La prueba trampa",
+  head({chip:"Paso 3d", time:"5 min", title:"La prueba <span class='em'>trampa</span>", lead:"Pregúntale algo que no está en sus datos. Un buen agente dice que no lo sabe en lugar de inventárselo."})+
+  step(function(a){ return tools({both: prompt(a.p.trampa)+check(a.name+" te dice que ese dato no está en los archivos, sin inventárselo.")}); })+
+  "<p class='note'><b>¿Se lo ha inventado?</b> Pídele: «Añade a tu skill que, si un dato no está en tus fuentes, lo digas en lugar de suponerlo».</p>");
+
+add("atascado","Paso 3 · Constrúyelo","¿Te has atascado?",
+  head({title:"¿Te has <span class='em'>atascado</span>?", lead:"No pasa nada. En la carpeta soluciones/ hay una skill terminada de cada agente. Cópiala y sigue desde el paso 3b."})+
+  step(function(a){
+    var c = function(dir){ return "Copia soluciones/"+a.slug+"/SKILL.md a "+dir+"/"+a.slug+"/SKILL.md y dime cuando esté lista."; };
+    return tools({claude: prompt(c(".claude/skills")), codex: prompt(c(".agents/skills"))});
+  }));
+
+add("paso-4a","Paso 4 · Dale autonomía","4a · Prográmalo",
+  head({chip:"Paso 4a", time:"10 min", title:"Que trabaje <span class='em'>solo</span>", lead:"El disparador es la última pieza. Con una tarea programada, tu agente hace su trabajo a la hora que le digas, sin que abras el chat."})+
+  step(function(a){
+    var t = a.p.prog;
+    return tools({
+      claude: prompt("Crea una tarea programada local llamada «"+t[0]+"» que se ejecute "+t[1]+" con esta instrucción: "+t[2])+check("La tarea aparece en la lista de tareas programadas de la app."),
+      codex: "<ol class='instr instr--sm'><li><span>Abre <span class='kbd'>Automatizaciones</span> y crea una nueva.</span></li><li><span>Elige el proyecto <span class='kbd'>foxter-lab-agentes</span> y llámala «"+esc(t[0])+"».</span></li><li><span>Pega esta instrucción:</span></li></ol>"+prompt(t[2])+"<p class='tool__p'>Frecuencia: "+esc(t[1])+".</p>"+check("La automatización aparece en tu lista.")
+    });
+  }));
+
+add("paso-4b","Paso 4 · Dale autonomía","4b · Míralo funcionar",
+  head({chip:"Paso 4b", time:"10 min", title:"Míralo <span class='em'>funcionar</span>", lead:"No esperes al lunes. Lanza una ejecución de prueba ahora y comprueba que deja su resultado en salidas/."})+
+  tools({
+    claude: prompt("Programa también una ejecución única de esta tarea dentro de 3 minutos para que pueda probarla ahora.")+"<p class='tool__p'>Cuando empiece, verás una sesión nueva en la barra lateral. Si te pide permiso, acéptalo.</p>",
+    codex: "<p class='tool__p'>Abre tu automatización en <span class='kbd'>Automatizaciones</span> y lánzala una vez para probarla. Cuando termine, revisa el resultado.</p>"
+  })+
+  "<div style='margin-top:14px'>"+check("Tu agente ha trabajado solo y ha dejado un archivo nuevo en salidas/.")+"</div>");
+
+add("fuera","Paso 4 · Dale autonomía","4c · Cuando vuelvas a casa",
+  head({chip:"Paso 4c", time:"5 min", title:"Cuando vuelvas a <span class='em'>casa</span>", lead:"Las tareas programadas de Claude Code y las automatizaciones de Codex se ejecutan en tu ordenador. Para que tu agente siga trabajando:"})+
+  "<div class='grid g2'>"+
+    "<div class='card'><h3>La app, abierta</h3><p>La herramienta revisa sus tareas mientras la app de escritorio está abierta.</p></div>"+
+    "<div class='card'><h3>El ordenador, despierto</h3><p>Si duerme a la hora programada, esa ejecución se salta. Con la tapa cerrada, el portátil se duerme.</p></div>"+
+    "<div class='card'><h3>Lo gestionas hablando</h3><p>Pídeselo en el chat: «Pausa la tarea de Max», «Cambia la hora a las 10:00» o «Enséñame mis tareas».</p></div>"+
+    "<div class='card'><h3>Llévalo a tus datos</h3><p>Cambia los CSV de Brisa Clima por una exportación de tu CRM o tu ERP y adapta la skill. El agente es el mismo.</p></div>"+
+  "</div>");
+
+add("juntos","Cinco agentes, una empresa","Lo que han descubierto",
+  head({title:"Cinco agentes, <span class='em'>una</span> empresa", lead:"Cada agente ha visto una parte de Brisa Clima. Juntos cuentan una historia que ningún área ve sola. ¿Qué ha encontrado el tuyo?"})+
+  "<div class='agents'>"+KEYS.map(function(k){var a=AG[k];
+    return "<article class='agent agent--all a-"+k+"'><div class='agent__top'>"+avatar(k)+"<div><div class='agent__name'>"+a.name+"</div><div class='agent__role'>"+a.role+"</div></div></div><div class='agent__body'><p class='found' contenteditable='true' aria-label='Lo que ha encontrado "+a.name+"'>¿Qué ha encontrado?</p></div></article>";}).join("")+"</div>"+
+  "<p class='note'><b>Pista:</b> la facturación de Brisa Clima crece, pero su margen cae. ¿Qué pieza de esa historia ha encontrado tu agente?</p>");
+
+add("demo","Demo de Foxter","Demo de Foxter",
+  "<div class='tbd'>TBD</div>");
+
+add("preguntas","Cierre","Preguntas abiertas",
+  head({chip:"Q&A", title:"¿Qué <span class='em'>preguntas</span> tienes?", lead:"Sesión abierta para resolver dudas sobre tu agente o sobre cómo llevarlo a tu día a día."})+
+  team());
+
+add("gracias","Cierre","Gracias",
+  "<div class='cover'><div>"+
+    "<svg class='cover__logo' viewBox='0 0 446 60' aria-hidden='true'><use href='#'/></svg>"+
+    "<span class='eyebrow'>Foxter LAB #2</span>"+
+    "<h1>Gracias por <span class='em'>construir</span> con nosotros</h1>"+
+    "<p class='lead'>Te avisaremos por Luma del próximo LAB.</p>"+
+    team()+
+  "</div></div>");
+
+/* ---------- Render ---------- */
+var stage = document.getElementById("stage");
+var logoPaths = document.querySelector(".logo svg").innerHTML;
+stage.innerHTML = S.map(function(s,i){
+  return "<section class='slide' id='"+s.id+"' data-i='"+i+"' aria-label='"+esc(s.label)+"' hidden><div class='wrap gutter'>"+s.html+"</div></section>";
+}).join("");
+Array.prototype.forEach.call(document.querySelectorAll(".cover__logo"), function(svg){ svg.innerHTML = logoPaths; });
+Array.prototype.forEach.call(document.querySelectorAll("[data-av]"), function(el){ el.outerHTML = avatar(el.getAttribute("data-av")); });
+
+/* Índice */
+var list = document.getElementById("indexList"), html = "", lastSec = "";
+S.forEach(function(s,i){
+  if(s.sec !== lastSec){ html += "<h4>"+esc(s.sec)+"</h4>"; lastSec = s.sec; }
+  html += "<button type='button' class='it' data-go='"+i+"'><span class='n'>"+(i+1)+"</span><span>"+esc(s.label)+"</span></button>";
+});
+list.innerHTML = html;
+
+/* Navegación */
+var cur = 0, slides = stage.querySelectorAll(".slide");
+var prevB = document.getElementById("prev"), nextB = document.getElementById("next");
+function show(i, fromHash){
+  i = Math.max(0, Math.min(S.length-1, i));
+  slides[cur].hidden = true; cur = i; slides[cur].hidden = false;
+  stage.scrollTop = 0;
+  document.getElementById("count").textContent = (cur+1)+" / "+S.length;
+  document.getElementById("secName").textContent = S[cur].sec + " · " + S[cur].label;
+  document.getElementById("progBar").style.width = ((cur+1)/S.length*100)+"%";
+  prevB.disabled = cur === 0; nextB.disabled = cur === S.length-1;
+  Array.prototype.forEach.call(list.querySelectorAll(".it"), function(b){ b.setAttribute("aria-current", String(+b.getAttribute("data-go")===cur)); });
+  if(!fromHash && location.hash !== "#"+S[cur].id){ try{ history.replaceState(null,"","#"+S[cur].id); }catch(e){ location.hash = S[cur].id; } }
+}
+function fromHash(){
+  var id = (location.hash||"").slice(1), i = 0;
+  S.forEach(function(s,k){ if(s.id===id) i = k; });
+  show(i, true);
+}
+slides[0].hidden = false;
+fromHash();
+window.addEventListener("hashchange", fromHash);
+prevB.addEventListener("click", function(){ show(cur-1); });
+nextB.addEventListener("click", function(){ show(cur+1); });
+document.addEventListener("keydown", function(e){
+  if(!idx.hidden){ if(e.key==="Escape") closeIdx(); return; }
+  var t = e.target && e.target.tagName;
+  if(t==="INPUT"||t==="TEXTAREA"||(e.target.isContentEditable)) return;
+  if(e.key==="ArrowRight"||e.key==="PageDown"||(e.key===" "&&t!=="BUTTON")){ e.preventDefault(); show(cur+1); }
+  else if(e.key==="ArrowLeft"||e.key==="PageUp"){ e.preventDefault(); show(cur-1); }
+  else if(e.key==="Home"){ show(0); } else if(e.key==="End"){ show(S.length-1); }
+});
+
+var idx = document.getElementById("index");
+function openIdx(){ idx.hidden = false; var c = list.querySelector("[aria-current='true']"); (c||list.querySelector(".it")).focus(); }
+function closeIdx(){ idx.hidden = true; document.getElementById("openIndex").focus(); }
+document.getElementById("openIndex").addEventListener("click", openIdx);
+document.getElementById("closeIndex").addEventListener("click", closeIdx);
+idx.addEventListener("click", function(e){
+  var b = e.target.closest("[data-go]");
+  if(b){ show(+b.getAttribute("data-go")); idx.hidden = true; return; }
+  if(e.target === idx) closeIdx();
+});
+
+/* Filtro de agente */
+var app = document.getElementById("app");
+function setFilter(f){
+  if(KEYS.indexOf(f) < 0) return;
+  app.setAttribute("data-filter", f);
+  Array.prototype.forEach.call(document.querySelectorAll(".filter [data-f]"), function(b){ b.setAttribute("aria-pressed", String(b.getAttribute("data-f")===f)); });
+  try{ localStorage.setItem("lab2-agent", f); }catch(e){}
+}
+document.addEventListener("click", function(e){ var b = e.target.closest("[data-f]"); if(b) setFilter(b.getAttribute("data-f")); });
+document.addEventListener("keydown", function(e){ if((e.key==="Enter"||e.key===" ") && e.target.matches && e.target.matches("article[data-f]")){ e.preventDefault(); setFilter(e.target.getAttribute("data-f")); } });
+try{ var saved = localStorage.getItem("lab2-agent"); if(saved) setFilter(saved); }catch(e){}
+
+/* Copiar */
+document.addEventListener("click", function(e){
+  var b = e.target.closest("[data-copy],[data-copy-text]");
+  if(!b) return;
+  var pre = b.hasAttribute("data-copy-text") ? null : b.closest(".prompt").querySelector(".ptext");
+  var text = pre ? pre.textContent : b.getAttribute("data-copy-text");
+  function ok(){ var s = b.querySelector("span"); b.classList.add("done"); s.textContent = "Copiado"; setTimeout(function(){ b.classList.remove("done"); s.textContent = "Copiar"; }, 1600); }
+  function fallback(){
+    if(pre){ var r = document.createRange(); r.selectNodeContents(pre); var sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(r); }
+    try{ if(document.execCommand("copy")) { ok(); return; } }catch(err){}
+    var s = b.querySelector("span"); s.textContent = "Selecciona y copia";
+  }
+  try{
+    if(navigator.clipboard && navigator.clipboard.writeText){ navigator.clipboard.writeText(text).then(ok, fallback); }
+    else fallback();
+  }catch(err){ fallback(); }
+});
+})();
+</script>
